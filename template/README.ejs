@@ -1,0 +1,16 @@
+<div align="center">
+
+# Some Stars
+
+</div>
+
+## Table of Contents
+
+<% for(let [language, repositories] of stars) { %>
+## <%= language %>
+  <% for(let repo of repositories) { %>
+- [<%= repo.full_name %>](<%= repo.html_url %>) - <%= repo.description %>
+  <% } %>
+<% } %>
+
+- generated with [rcy1314/some-starts](https://github.com/rcy1314/some-starts)
