@@ -1,4 +1,4 @@
-name: Update awesome list
+name: Update some list
 
 on:
   push:
@@ -14,9 +14,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Awesome generator
-        uses: simonecorsi/mawesome@v2
+      - uses: actions/checkout@v3
+      - name: some generator
+        uses: rcy1314/some-starts
         with:
           api-token: ${{ secrets.PERSONAL_TOKEN }}
           github-email: ${{ secrets.USER_EMAIL }}
