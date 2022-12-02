@@ -9,10 +9,12 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [JavaScript](#javascript)
+*   [Go](#go)
+*   [Python](#python)
 *   [TypeScript](#typescript)
 *   [CSS](#css)
-*   [Vue](#vue)
 *   [Dockerfile](#dockerfile)
 *   [C#](#c)
 *   [miscellaneous](#miscellaneous)
@@ -20,9 +22,7 @@
 *   [Kotlin](#kotlin)
 *   [Rust](#rust)
 *   [HTML](#html)
-*   [Python](#python)
 *   [PHP](#php)
-*   [Go](#go)
 *   [AutoHotkey](#autohotkey)
 *   [SCSS](#scss)
 *   [Less](#less)
@@ -30,9 +30,30 @@
 *   [Java](#java)
 *   [Pascal](#pascal)
 *   [C++](#c-2)
-*   [Scala](#scala)
+
+## Vue
+
+*   [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
+
+*   [chrisj74/vue-rss-blog](https://github.com/chrisj74/vue-rss-blog) - An embeddable to pull an RSS feed into your website
+
+*   [Edward-Brock/Booop-Navigation-Next](https://github.com/Edward-Brock/Booop-Navigation-Next) - ✨ 网站导航练习项目
+
+*   [UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend) - GitScratch 社区前端
+
+*   [fayazara/feedful](https://github.com/fayazara/feedful) - A fast, jamstack, opinionated rss reader for tech news.
+
+*   [amtoaer/coolapk-pic-v2](https://github.com/amtoaer/coolapk-pic-v2) - 酷安酷图桌面客户端
+
+*   [Hacker233/navigation](https://github.com/Hacker233/navigation) - 网址导航项目，包含前台和后台管理。（Vue2.x版本）
+
+*   [justorez/bookmark-cleaner](https://github.com/justorez/bookmark-cleaner) - 自动检测失效书签链接，一键清理 🚀
+
+*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 
 ## JavaScript
+
+*   [zltl/sguala](https://github.com/zltl/sguala) - Linux system monitor without agent and server.
 
 *   [sunchaser-lilu/netease-music-box](https://github.com/sunchaser-lilu/netease-music-box) - 🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist。本仓库新增了写入 Markdown 文件功能，可写入 GitHub 个人主页仓库。原仓库地址为 https://github.com/Leecason/netease-music-box
 
@@ -66,7 +87,59 @@
 
 *   [lianliankanm/ChromeVideoOcrTool](https://github.com/lianliankanm/ChromeVideoOcrTool) - Chrome插件：提取网页正在播放的视频中的文字
 
-*   [varzy/no2tg](https://github.com/varzy/no2tg) - An automated tool to publish notion pages to telegram channel.
+## Go
+
+*   [LinuxSuRen/yaml-readme](https://github.com/LinuxSuRen/yaml-readme) - A helper to generate the READE file automatically from YAML-based metadata files.
+
+*   [os7blue/dobby](https://github.com/os7blue/dobby) - 钉钉，飞书，企业微信，email，以及公众号消息推送服务
+
+*   [aixinge/aixinge](https://github.com/aixinge/aixinge) - Ai（智能）Xin（信）Ge（鸽）—— 智能消息推送系统
+
+*   [Sunbalcony/note](https://github.com/Sunbalcony/note) - note是一款优美，轻便的文档共享工具，支持一键分享，多人协作在线编辑，好用到上天，网页打代码不是梦！
+
+*   [MiaoMint/g8ink](https://github.com/MiaoMint/g8ink) - 一个短链接生成程序
+
+*   [josh/smtp2webhook](https://github.com/josh/smtp2webhook) - SMTP to Webhook Relay
+
+*   [skrbox/imseek](https://github.com/skrbox/imseek) - 基于微信公众号开发的博客系统, 微信搜一搜【修齐方法论】
+
+## Python
+
+*   [kaminolee/RsshubList](https://github.com/kaminolee/RsshubList) -
+
+*   [auqhjjqdo/LiveRecorder](https://github.com/auqhjjqdo/LiveRecorder) - 基于Streamlink的直播全自动录播工具，已支持Bilibili、YouTube、Twitch、TwitCasting
+
+*   [btc-99/autotune\_remix](https://github.com/btc-99/autotune_remix) - 一键生成鬼畜音 mad 视频
+
+*   [rcy1314/notification-action](https://github.com/rcy1314/notification-action) -
+
+*   [rcy1314/wecom-notification-action](https://github.com/rcy1314/wecom-notification-action) - 企业微信机器人消息发送，支持内容自定义，配置模版
+
+*   [guangzhengli/wecom-notification-action](https://github.com/guangzhengli/wecom-notification-action) - 企业微信机器人消息发送，支持内容自定义，配置模版
+
+*   [guangzhengli/notification-action-template](https://github.com/guangzhengli/notification-action-template) - A github action template for notification action.
+
+*   [RWoxiN/AsoulNotificationPush](https://github.com/RWoxiN/AsoulNotificationPush) - A-SOUL 动态、直播状态获取，并推送到企业微信中。
+
+*   [tbsmcd/notion2hugo](https://github.com/tbsmcd/notion2hugo) - A document written in Notion that is converted to hugo. However, it is currently dedicated to the author's personal use.
+
+*   [gaoyunzhi/channel\_push](https://github.com/gaoyunzhi/channel_push) - Telegram channel/group recommendation bot
+
+*   [HorseSword/tagdox](https://github.com/HorseSword/tagdox) - Tagdox（标签文库）是 python + tkinter + pyinstaller 开发实现的文件标签化管理工具。
+
+*   [TerraceCN/TGRSS](https://github.com/TerraceCN/TGRSS) - Push RSS Feed through Telegram
+
+*   [cancundeyingzi/Compressed-packet-camouflage](https://github.com/cancundeyingzi/Compressed-packet-camouflage) - 将压缩包伪装成其他文件,绕过无法上传/分享的限制
+
+*   [seahorse-is-bored/PowerPoint\_Anki\_Macro-Addon](https://github.com/seahorse-is-bored/PowerPoint_Anki_Macro-Addon) - A macro and addon you can use for powerpoint to import straight into Anki.
+
+*   [icodebase/ivideo](https://github.com/icodebase/ivideo) - ivideo 是一款轻量、强大、好用的视频处理软件。可以满足普通人一般的视频处理需求：压缩视频、转码视频、倒放视频、合并片段、根据字幕裁切片段、自动配字幕、自动剪辑……
+
+*   [groundcat/power-automate-rss-triggers](https://github.com/groundcat/power-automate-rss-triggers) - RSS custom triggers for your Microsoft Power Automate flows
+
+*   [DanDDXuanX/TRPG-Replay-Generator](https://github.com/DanDDXuanX/TRPG-Replay-Generator) - 用文本编辑器做跑团replay视频的工具
+
+*   [khlam/rss-discord-webhook](https://github.com/khlam/rss-discord-webhook) - Uses github actions to watch an RSS feed and pushes new changes to webhook
 
 ## TypeScript
 
@@ -114,22 +187,6 @@
 
 *   [qumuchegi/notion-docsify](https://github.com/qumuchegi/notion-docsify) - a tool builds doc from notion pages, backup your notion data
 
-## Vue
-
-*   [Edward-Brock/Booop-Navigation-Next](https://github.com/Edward-Brock/Booop-Navigation-Next) - ✨ 网站导航练习项目
-
-*   [UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend) - GitScratch 社区前端
-
-*   [fayazara/feedful](https://github.com/fayazara/feedful) - A fast, jamstack, opinionated rss reader for tech news.
-
-*   [amtoaer/coolapk-pic-v2](https://github.com/amtoaer/coolapk-pic-v2) - 酷安酷图桌面客户端
-
-*   [Hacker233/navigation](https://github.com/Hacker233/navigation) - 网址导航项目，包含前台和后台管理。（Vue2.x版本）
-
-*   [justorez/bookmark-cleaner](https://github.com/justorez/bookmark-cleaner) - 自动检测失效书签链接，一键清理 🚀
-
-*   [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
-
 ## Dockerfile
 
 *   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
@@ -149,8 +206,6 @@
 *   [Wpenga/webdav-teambition](https://github.com/Wpenga/webdav-teambition) - teambition网盘的webdav协议开源实现
 
 *   [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
-
-*   [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
 
 ## C
 
@@ -182,65 +237,11 @@
 
 *   [Isites/isites.github.io](https://github.com/Isites/isites.github.io) - 公众号对应的博客。欢迎关注微信公众号：Gopher指北
 
-## Python
-
-*   [auqhjjqdo/LiveRecorder](https://github.com/auqhjjqdo/LiveRecorder) - 基于Streamlink的直播全自动录播工具，已支持Bilibili、YouTube、Twitch、TwitCasting
-
-*   [btc-99/autotune\_remix](https://github.com/btc-99/autotune_remix) - 一键生成鬼畜音 mad 视频
-
-*   [rcy1314/notification-action](https://github.com/rcy1314/notification-action) -
-
-*   [rcy1314/wecom-notification-action](https://github.com/rcy1314/wecom-notification-action) - 企业微信机器人消息发送，支持内容自定义，配置模版
-
-*   [guangzhengli/wecom-notification-action](https://github.com/guangzhengli/wecom-notification-action) - 企业微信机器人消息发送，支持内容自定义，配置模版
-
-*   [guangzhengli/notification-action-template](https://github.com/guangzhengli/notification-action-template) - A github action template for notification action.
-
-*   [RWoxiN/AsoulNotificationPush](https://github.com/RWoxiN/AsoulNotificationPush) - A-SOUL 动态、直播状态获取，并推送到企业微信中。
-
-*   [tbsmcd/notion2hugo](https://github.com/tbsmcd/notion2hugo) - A document written in Notion that is converted to hugo. However, it is currently dedicated to the author's personal use.
-
-*   [gaoyunzhi/channel\_push](https://github.com/gaoyunzhi/channel_push) - Telegram channel/group recommendation bot
-
-*   [HorseSword/tagdox](https://github.com/HorseSword/tagdox) - Tagdox（标签文库）是 python + tkinter + pyinstaller 开发实现的文件标签化管理工具。
-
-*   [TerraceCN/TGRSS](https://github.com/TerraceCN/TGRSS) - Push RSS Feed through Telegram
-
-*   [cancundeyingzi/Compressed-packet-camouflage](https://github.com/cancundeyingzi/Compressed-packet-camouflage) - 将压缩包伪装成其他文件,绕过无法上传/分享的限制
-
-*   [seahorse-is-bored/PowerPoint\_Anki\_Macro-Addon](https://github.com/seahorse-is-bored/PowerPoint_Anki_Macro-Addon) - A macro and addon you can use for powerpoint to import straight into Anki.
-
-*   [icodebase/ivideo](https://github.com/icodebase/ivideo) - ivideo 是一款轻量、强大、好用的视频处理软件。可以满足普通人一般的视频处理需求：压缩视频、转码视频、倒放视频、合并片段、根据字幕裁切片段、自动配字幕、自动剪辑……
-
-*   [groundcat/power-automate-rss-triggers](https://github.com/groundcat/power-automate-rss-triggers) - RSS custom triggers for your Microsoft Power Automate flows
-
-*   [DanDDXuanX/TRPG-Replay-Generator](https://github.com/DanDDXuanX/TRPG-Replay-Generator) - 用文本编辑器做跑团replay视频的工具
-
-*   [khlam/rss-discord-webhook](https://github.com/khlam/rss-discord-webhook) - Uses github actions to watch an RSS feed and pushes new changes to webhook
-
-*   [SuperSonicHub1/TikTok-RSS](https://github.com/SuperSonicHub1/TikTok-RSS) - A simple TikTok RSS feed generator.
-
-*   [liuli-io/liuli](https://github.com/liuli-io/liuli) - 一站式构建多源、干净、个性化的阅读环境(Build a multi-source, clean and personalized reading environment in one stop.)
-
 ## PHP
 
 *   [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 
 *   [pmhw/telegram-bot](https://github.com/pmhw/telegram-bot) - Tg机器人，自动回复自定义消息回复，私聊回复以及群聊回复，可以进行二次开发，希望你做出更优质的东西，记得@我
-
-## Go
-
-*   [os7blue/dobby](https://github.com/os7blue/dobby) - 钉钉，飞书，企业微信，email，以及公众号消息推送服务
-
-*   [aixinge/aixinge](https://github.com/aixinge/aixinge) - Ai（智能）Xin（信）Ge（鸽）—— 智能消息推送系统
-
-*   [Sunbalcony/note](https://github.com/Sunbalcony/note) - note是一款优美，轻便的文档共享工具，支持一键分享，多人协作在线编辑，好用到上天，网页打代码不是梦！
-
-*   [MiaoMint/g8ink](https://github.com/MiaoMint/g8ink) - 一个短链接生成程序
-
-*   [josh/smtp2webhook](https://github.com/josh/smtp2webhook) - SMTP to Webhook Relay
-
-*   [skrbox/imseek](https://github.com/skrbox/imseek) - 基于微信公众号开发的博客系统, 微信搜一搜【修齐方法论】
 
 ## AutoHotkey
 
@@ -271,9 +272,5 @@
 ## C++
 
 *   [skykeyjoker/A-SOUL-Notification](https://github.com/skykeyjoker/A-SOUL-Notification) - 一个A-SOUL成员动态/直播提醒插件，支持监控B站与抖音动态，可在Windows10 - Windows11系统上运行。
-
-## Scala
-
-*   [univalence/crier](https://github.com/univalence/crier) - Take pages from notion and post them on Linkedin daily
 
 *   generated with [rcy1314/some-starts](https://github.com/rcy1314/some-starts)
