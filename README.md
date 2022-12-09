@@ -9,19 +9,20 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [C#](#c)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Go](#go)
 *   [Python](#python)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Metal](#metal)
 *   [Shell](#shell)
 *   [CSS](#css)
 *   [Dockerfile](#dockerfile)
-*   [C#](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c-2)
 *   [Kotlin](#kotlin)
@@ -30,6 +31,16 @@
 *   [AutoHotkey](#autohotkey)
 *   [SCSS](#scss)
 *   [Less](#less)
+
+## Jupyter Notebook
+
+*   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
+
+## C\#
+
+*   [jim60105/YoutubeLiveChatToDiscord](https://github.com/jim60105/YoutubeLiveChatToDiscord) - 將Youtube聊天室串流至Discord Webhook (.NET 6 Worker Service in Docker)
+
+*   [iccfish/ShimoExporter](https://github.com/iccfish/ShimoExporter) - 一键将个人石墨文档里的所有文档全部导出到本地
 
 ## Java
 
@@ -139,8 +150,6 @@
 
 *   [gaoyunzhi/channel\_push](https://github.com/gaoyunzhi/channel_push) - Telegram channel/group recommendation bot
 
-*   [HorseSword/tagdox](https://github.com/HorseSword/tagdox) - Tagdox（标签文库）是 python + tkinter + pyinstaller 开发实现的文件标签化管理工具。
-
 ## C++
 
 *   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上  |   Yet another Bilibili client \[WIP]
@@ -180,8 +189,6 @@
 *   [JimSunJing/ReviewHelper](https://github.com/JimSunJing/ReviewHelper) - A Github Action regulary query Notion Database & send review reminder(email).
 
 *   [ycf1998/greeting-mail](https://github.com/ycf1998/greeting-mail) - 一个定时给你发问候邮件的网站。目前支持的问候服务有天气预报、舔狗日记、彩虹屁、网易云、朋友圈文案等
-
-*   [luizov/luizov-website](https://github.com/luizov/luizov-website) - My personal website, built using Next.js/React/Notion API/Tailwind CSS.
 
 ## HTML
 
@@ -224,10 +231,6 @@
 ## Dockerfile
 
 *   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-
-## C\#
-
-*   [iccfish/ShimoExporter](https://github.com/iccfish/ShimoExporter) - 一键将个人石墨文档里的所有文档全部导出到本地
 
 ## miscellaneous
 
