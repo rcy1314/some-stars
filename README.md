@@ -9,11 +9,11 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [C#](#c)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
-*   [CSS](#css)
 *   [HTML](#html)
 *   [Vue](#vue)
 *   [PHP](#php)
@@ -36,6 +36,26 @@
 *   [Scala](#scala)
 *   [Dart](#dart)
 *   [Swift](#swift)
+
+## CSS
+
+*   [xiangjianan/lks](https://github.com/xiangjianan/lks) -
+
+*   [ZxBing0066/pixel-converter](https://github.com/ZxBing0066/pixel-converter) - 图片转像素风，可生成 box-shadow 像素风图片
+
+*   [emperinter/auto-generate-navigation](https://github.com/emperinter/auto-generate-navigation) - A plugin which  can generate a navigation  catalogue on your WordPress post!
+
+*   [mizoreyo/hexo-theme-insnow](https://github.com/mizoreyo/hexo-theme-insnow) - insnow, a simple hexo theme.
+
+*   [zkeq/news](https://github.com/zkeq/news) - 前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。
+
+*   [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
+
+*   [Tokinx/Wing](https://github.com/Tokinx/Wing) - Simple, smooth, data-driven, responsive WordPress theme
+
+*   [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
+
+*   [qumuchegi/notion-docsify](https://github.com/qumuchegi/notion-docsify) - a tool builds doc from notion pages, backup your notion data
 
 ## C\#
 
@@ -225,24 +245,6 @@
 
 *   [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 
-## CSS
-
-*   [ZxBing0066/pixel-converter](https://github.com/ZxBing0066/pixel-converter) - 图片转像素风，可生成 box-shadow 像素风图片
-
-*   [emperinter/auto-generate-navigation](https://github.com/emperinter/auto-generate-navigation) - A plugin which  can generate a navigation  catalogue on your WordPress post!
-
-*   [mizoreyo/hexo-theme-insnow](https://github.com/mizoreyo/hexo-theme-insnow) - insnow, a simple hexo theme.
-
-*   [zkeq/news](https://github.com/zkeq/news) - 前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。
-
-*   [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
-
-*   [Tokinx/Wing](https://github.com/Tokinx/Wing) - Simple, smooth, data-driven, responsive WordPress theme
-
-*   [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
-
-*   [qumuchegi/notion-docsify](https://github.com/qumuchegi/notion-docsify) - a tool builds doc from notion pages, backup your notion data
-
 ## HTML
 
 *   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - 点击这里立即在线体验
@@ -374,8 +376,6 @@
 *   [im3x/Scriptables](https://github.com/im3x/Scriptables) - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
-
-*   [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive
 
 ## Rust
 
