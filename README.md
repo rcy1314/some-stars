@@ -24,18 +24,21 @@
 *   [Go](#go)
 *   [C++](#c-1)
 *   [Metal](#metal)
-*   [Makefile](#makefile)
+*   [Shell](#shell)
 *   [Dockerfile](#dockerfile)
 *   [C](#c-2)
 *   [Kotlin](#kotlin)
 *   [AutoHotkey](#autohotkey)
 *   [Less](#less)
-*   [Shell](#shell)
 *   [Pascal](#pascal)
 *   [Scala](#scala)
 *   [Dart](#dart)
 
 ## JavaScript
+
+*   [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
+
+*   [CallBoson/ChatGPT-node](https://github.com/CallBoson/ChatGPT-node) - 微信公众号接入chatGpt
 
 *   [dengxiwang/funtabs](https://github.com/dengxiwang/funtabs) - 一款简单实用、干净清爽的上网导航网站，同时可作为浏览器插件替换原有新标签，实现高度自定义，样式、大小、间距等内容！
 
@@ -94,8 +97,6 @@
 *   [varzy/no2tg](https://github.com/varzy/no2tg) - An automated tool to publish notion pages to telegram channel.
 
 *   [JasmineRain/StartPoint](https://github.com/JasmineRain/StartPoint) - 聚合QQ音乐以及网易云音乐音源的播放器，包含原生APP绝大部分实用功能，目前重构中，即将发布全平台版本
-
-*   [im3x/Scriptables](https://github.com/im3x/Scriptables) - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
 
 ## Python
 
@@ -246,8 +247,6 @@
 *   [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
 
 *   [pm936/httpcatcher](https://github.com/pm936/httpcatcher) - 网球规则
-
-*   [jobbole/awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn) - iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
 
 ## TypeScript
 
@@ -443,9 +442,11 @@
 
 *   [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Image and Video and Camera filter framework. Support macOS & iOS. 🎨 图像、视频、相机滤镜框架
 
-## Makefile
+## Shell
 
 *   [Jason6111/OpenWrt\_Personal](https://github.com/Jason6111/OpenWrt_Personal) - Jason6111's OpenWrt source 在线集成自动编译环境
+
+*   [xs-web-lhdd/vitepress-template](https://github.com/xs-web-lhdd/vitepress-template) - vitepress模板，直接开箱即用，不用再配置导航侧边栏等内容，直接写内容即可
 
 ## Dockerfile
 
@@ -468,10 +469,6 @@
 ## Less
 
 *   [MaLuns/hexo-theme-text](https://github.com/MaLuns/hexo-theme-text) - 一款简约、轻量的Hexo主题
-
-## Shell
-
-*   [xs-web-lhdd/vitepress-template](https://github.com/xs-web-lhdd/vitepress-template) - vitepress模板，直接开箱即用，不用再配置导航侧边栏等内容，直接写内容即可
 
 ## Pascal
 
