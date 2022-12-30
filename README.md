@@ -304,7 +304,7 @@
 
 *   [panghujiajia/todayhub-web](https://github.com/panghujiajia/todayhub-web) - react+tailwindcss实现的今日热榜
 
-*   [zltl/sguala](https://github.com/zltl/sguala) - Linux system monitor without agent and server.
+*   [zltl/sguala](https://github.com/zltl/sguala) - Linux system monitor without agent, and a ssh client.
 
 *   [llnancy/netease-music-box](https://github.com/llnancy/netease-music-box) - 🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist。本仓库新增了写入 Markdown 文件功能，可写入 GitHub 个人主页仓库。原仓库地址为 https://github.com/Leecason/netease-music-box
 
