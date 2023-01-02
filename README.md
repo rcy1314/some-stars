@@ -284,7 +284,7 @@
 
 *   [CallBoson/ChatGPT-node](https://github.com/CallBoson/ChatGPT-node) - 微信公众号接入chatGpt
 
-*   [dengxiwang/funtabs](https://github.com/dengxiwang/funtabs) - 一款简单实用、干净清爽的上网导航网站，同时可作为浏览器插件替换原有新标签，同时具备可定制化，卡片样式、大小、间距等内容均可做出自己的调整！
+*   [dengxiwang/funtabs](https://github.com/dengxiwang/funtabs) - Fun网址导航｜方格桌面，清新、简约、不简单！高度的可自定义操作，让您设置属于您专属的独特导航页面，是一款小众但又极其好用的导航网站！©️217fun爱一起玩
 
 *   [lucaschn/fcgame](https://github.com/lucaschn/fcgame) - FC游戏在线玩，FC在线模拟器，NES在线模拟器，魂斗罗，超级玛丽，忍者龙剑传。可在手机电脑上在线玩FC游戏的网站，近乎完美的还原任天堂FC/NES原版ROM游戏的视频和声音。
 
@@ -348,7 +348,7 @@
 
 ## Vue
 
-*   [one-among-us/tg-blog](https://github.com/one-among-us/tg-blog) - Display telegram channel like a blog
+*   [one-among-us/tg-blog](https://github.com/one-among-us/tg-blog) - Display offline telegram channel data like a blog
 
 *   [FTLIKON/EachStar](https://github.com/FTLIKON/EachStar) - 🌟在线互助Star社区🌟，基于 Github API 和 Element Plus 开发，致力于帮助开源项目积累初始影响力！
 
