@@ -9,13 +9,14 @@
 
 ## Table of Contents
 
+*   [C#](#c)
+*   [miscellaneous](#miscellaneous)
 *   [Svelte](#svelte)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [Vue](#vue)
 *   [PHP](#php)
-*   [miscellaneous](#miscellaneous)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -23,7 +24,6 @@
 *   [Java](#java)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [C#](#c)
 *   [Rust](#rust)
 *   [C++](#c-1)
 *   [Metal](#metal)
@@ -33,6 +33,46 @@
 *   [AutoHotkey](#autohotkey)
 *   [Less](#less)
 *   [Pascal](#pascal)
+
+## C\#
+
+*   [xpnas/inotify](https://github.com/xpnas/inotify) - 一个简易消息通知系统，支持企业微信、电报机器人、邮件推送、内置BARK推送、钉钉群机器人、飞书群机器人，类似Server酱，支持私有Docker部署
+
+*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
+
+*   [moonheart/Clasharp](https://github.com/moonheart/Clasharp) - A clash GUI written in C#
+
+*   [Cnicehs/SharpBot](https://github.com/Cnicehs/SharpBot) - 一个基于百度网盘开放接口的转存机器人
+
+*   [jim60105/YoutubeLiveChatToDiscord](https://github.com/jim60105/YoutubeLiveChatToDiscord) - 將Youtube聊天室串流至Discord Webhook (.NET 6 Worker Service in Docker)
+
+*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A GUI based tool that uses yt-dlp and FFmpeg to quickly download video and audio from virtually any website.
+
+*   [iccfish/ShimoExporter](https://github.com/iccfish/ShimoExporter) - 一键将个人石墨文档里的所有文档全部导出到本地
+
+## miscellaneous
+
+*   [simevidas/web-dev-feeds](https://github.com/simevidas/web-dev-feeds) - A collection of exactly 1000 RSS feeds for web developers, updated monthly
+
+*   [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) - 绝妙的个人生产力（Awesome Productivity - Chinese version）
+
+*   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
+
+*   [XTsat/rapid-upload-userscript-doc](https://github.com/XTsat/rapid-upload-userscript-doc) - 秒传链接提取脚本 - 文档&教程
+
+*   [pashangshangpo/AI-Create-Video](https://github.com/pashangshangpo/AI-Create-Video) - AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，智能配图、智能配音、视频字幕。
+
+*   [whatis-geb/operation](https://github.com/whatis-geb/operation) - 和运营相关的内容
+
+*   [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline and pdf annotate tool for obsidian,It support mobile and desktop
+
+*   [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
+
+*   [wekingchen/Rclone-Actions](https://github.com/wekingchen/Rclone-Actions) - 使用Actions每天自动调用Rclone同步云盘
+
+*   [Wpenga/webdav-teambition](https://github.com/Wpenga/webdav-teambition) - teambition网盘的webdav协议开源实现
+
+*   [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
 
 ## Svelte
 
@@ -188,28 +228,6 @@
 
 *   [pmhw/telegram-bot](https://github.com/pmhw/telegram-bot) - Tg机器人，自动回复自定义消息回复，私聊回复以及群聊回复，可以进行二次开发，希望你做出更优质的东西，记得@我
 
-## miscellaneous
-
-*   [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) - 绝妙的个人生产力（Awesome Productivity - Chinese version）
-
-*   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
-
-*   [XTsat/rapid-upload-userscript-doc](https://github.com/XTsat/rapid-upload-userscript-doc) - 秒传链接提取脚本 - 文档&教程
-
-*   [pashangshangpo/AI-Create-Video](https://github.com/pashangshangpo/AI-Create-Video) - AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，智能配图、智能配音、视频字幕。
-
-*   [whatis-geb/operation](https://github.com/whatis-geb/operation) - 和运营相关的内容
-
-*   [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline and pdf annotate tool for obsidian,It support mobile and desktop
-
-*   [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
-
-*   [wekingchen/Rclone-Actions](https://github.com/wekingchen/Rclone-Actions) - 使用Actions每天自动调用Rclone同步云盘
-
-*   [Wpenga/webdav-teambition](https://github.com/Wpenga/webdav-teambition) - teambition网盘的webdav协议开源实现
-
-*   [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
-
 ## HTML
 
 *   [sangyuxiaowu/HackerScreenSaver](https://github.com/sangyuxiaowu/HackerScreenSaver) - .NET develops a screen saver. .NET 开发一款屏幕保护程序，Hacker Screen Saver 是一款 .NET 设计的屏幕保护程序，可以显示 HTML 页面，你可以将黑客模拟器的网页，摸鱼时需要的windows更新，或者爱心代码网页设置为你的 Windows 电脑屏保。
@@ -224,7 +242,9 @@
 
 *   [wxxxcxx/ms-ra-forwarder](https://github.com/wxxxcxx/ms-ra-forwarder) - 免费的在线文本转语音API
 
-*   [JingShing/Pixel-Art-Filter-Web](https://github.com/JingShing/Pixel-Art-Filter-Web) - A web version pixel art filter can render image, gif and video.
+*   [JingShing/Pixel-Art-Filter-Web](https://github.com/JingShing/Pixel-Art-Filter-Web) - A web version pixel art filter can render image, gif and video. https://pixel.jingshing.com/
+
+*   [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、图文、音频
 
 *   [pplulee/appleid\_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
 
@@ -235,8 +255,6 @@
 *   [asksowhat/ownrss](https://github.com/asksowhat/ownrss) - 一个极简的RSS在线浏览工具
 
 *   [WangGuibin/weather-action](https://github.com/WangGuibin/weather-action) - Github action自动化每天早上自动推送新闻简报  配合快捷指令使用https://www.icloud.com/shortcuts/1a05b4fcde9743fab4ef8aa7a8908f80
-
-*   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 
 ## TypeScript
 
@@ -360,8 +378,6 @@
 
 *   [LuoXishuang0712/openpose\_motion\_rebuild](https://github.com/LuoXishuang0712/openpose_motion_rebuild) - build a 3d pose from two 2d motion photos
 
-*   [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、图文、音频
-
 *   [kaminolee/RsshubList](https://github.com/kaminolee/RsshubList) -
 
 *   [auqhjjqdo/LiveRecorder](https://github.com/auqhjjqdo/LiveRecorder) - 基于Streamlink的直播全自动录播工具，已支持Bilibili、YouTube、Twitch、TwitCasting
@@ -422,20 +438,6 @@
 
 *   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 
-## C\#
-
-*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
-
-*   [moonheart/Clasharp](https://github.com/moonheart/Clasharp) - A clash GUI written in C#
-
-*   [Cnicehs/SharpBot](https://github.com/Cnicehs/SharpBot) - 一个基于百度网盘开放接口的转存机器人
-
-*   [jim60105/YoutubeLiveChatToDiscord](https://github.com/jim60105/YoutubeLiveChatToDiscord) - 將Youtube聊天室串流至Discord Webhook (.NET 6 Worker Service in Docker)
-
-*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A GUI based tool that uses yt-dlp and FFmpeg to quickly download video and audio from virtually any website.
-
-*   [iccfish/ShimoExporter](https://github.com/iccfish/ShimoExporter) - 一键将个人石墨文档里的所有文档全部导出到本地
-
 ## Rust
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Simply make any web page a desktop application using Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
@@ -447,8 +449,6 @@
 ## C++
 
 *   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上  |   Yet another Bilibili client \[WIP]
-
-*   [skykeyjoker/A-SOUL-Notification](https://github.com/skykeyjoker/A-SOUL-Notification) - 一个A-SOUL成员动态/直播提醒插件，支持监控B站与抖音动态，可在Windows10 - Windows11系统上运行。
 
 ## Metal
 
