@@ -256,6 +256,8 @@
 
 *   [WangGuibin/weather-action](https://github.com/WangGuibin/weather-action) - Github action自动化每天早上自动推送新闻简报  配合快捷指令使用https://www.icloud.com/shortcuts/1a05b4fcde9743fab4ef8aa7a8908f80
 
+*   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
+
 ## TypeScript
 
 *   [xushengfeng/xlinkote](https://github.com/xushengfeng/xlinkote) - 无限画布白板 知识管理笔记
@@ -385,8 +387,6 @@
 *   [btc-99/autotune\_remix](https://github.com/btc-99/autotune_remix) - 一键生成鬼畜音 mad 视频
 
 *   [rcy1314/notification-action](https://github.com/rcy1314/notification-action) - 企业微信定期发送固定通知
-
-*   [rcy1314/wecom-notification-action](https://github.com/rcy1314/wecom-notification-action) - 企业微信机器人消息发送，支持内容自定义，配置模版
 
 *   [guangzhengli/wecom-notification-action](https://github.com/guangzhengli/wecom-notification-action) - 企业微信机器人消息发送，支持内容自定义，配置模版
 
