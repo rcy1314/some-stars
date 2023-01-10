@@ -9,18 +9,18 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [Svelte](#svelte)
 *   [Kotlin](#kotlin)
-*   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [Vue](#vue)
 *   [PHP](#php)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Go](#go)
-*   [Python](#python)
 *   [Java](#java)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -34,61 +34,9 @@
 *   [Less](#less)
 *   [Pascal](#pascal)
 
-## miscellaneous
-
-*   [Cyril0563/lanjing\_live](https://github.com/Cyril0563/lanjing_live) - 🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看
-
-*   [Bssn520/VideosShareByAliyun](https://github.com/Bssn520/VideosShareByAliyun) - 🤪动漫、电视剧、电影、纪录片分享by阿里云盘🫡
-
-*   [simevidas/web-dev-feeds](https://github.com/simevidas/web-dev-feeds) - A collection of exactly 1000 RSS feeds for web developers, updated monthly
-
-*   [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) - 绝妙的个人生产力（Awesome Productivity - Chinese version）
-
-*   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
-
-*   [XTsat/rapid-upload-userscript-doc](https://github.com/XTsat/rapid-upload-userscript-doc) - 秒传链接提取脚本 - 文档&教程
-
-*   [pashangshangpo/AI-Create-Video](https://github.com/pashangshangpo/AI-Create-Video) - AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，智能配图、智能配音、视频字幕。
-
-*   [whatis-geb/operation](https://github.com/whatis-geb/operation) - 和运营相关的内容
-
-*   [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline and pdf annotate tool for obsidian,It support mobile and desktop
-
-*   [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
-
-*   [wekingchen/Rclone-Actions](https://github.com/wekingchen/Rclone-Actions) - 使用Actions每天自动调用Rclone同步云盘
-
-*   [Wpenga/webdav-teambition](https://github.com/Wpenga/webdav-teambition) - teambition网盘的webdav协议开源实现
-
-*   [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
-
-## C\#
-
-*   [xpnas/inotify](https://github.com/xpnas/inotify) - 一个简易消息通知系统，支持企业微信、电报机器人、邮件推送、内置BARK推送、钉钉群机器人、飞书群机器人，类似Server酱，支持私有Docker部署
-
-*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
-
-*   [moonheart/Clasharp](https://github.com/moonheart/Clasharp) - A clash GUI written in C#
-
-*   [Cnicehs/SharpBot](https://github.com/Cnicehs/SharpBot) - 一个基于百度网盘开放接口的转存机器人
-
-*   [jim60105/YoutubeLiveChatToDiscord](https://github.com/jim60105/YoutubeLiveChatToDiscord) - 將Youtube聊天室串流至Discord Webhook (.NET 6 Worker Service in Docker)
-
-*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A GUI based tool that uses yt-dlp and FFmpeg to quickly download video and audio from virtually any website.
-
-*   [iccfish/ShimoExporter](https://github.com/iccfish/ShimoExporter) - 一键将个人石墨文档里的所有文档全部导出到本地
-
-## Svelte
-
-*   [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
-
-## Kotlin
-
-*   [avatsav/linkding-apps](https://github.com/avatsav/linkding-apps) - \[WIP] Native apps for Linkding self-hosted bookmark service
-
-*   [gyakkun/qq-mht2html](https://github.com/gyakkun/qq-mht2html) - 转换QQ导出的MHT文件到HTML和图片文件, 支持按日期、行数自动分页, 支持多线程, 支持150G+文件
-
 ## JavaScript
+
+*   [solo1d/MAC\_OS\_System](https://github.com/solo1d/MAC_OS_System) - MAC系统使用笔记
 
 *   [daodaolee/portal-widgets-extension](https://github.com/daodaolee/portal-widgets-extension) - 一个极简风格的谷歌扩展标签页
 
@@ -163,6 +111,138 @@
 *   [kebbet/kebbet-wordpress-db-tool](https://github.com/kebbet/kebbet-wordpress-db-tool) - Tool to generate sql-queries for updating WordPress database tables.
 
 *   [lianliankanm/ChromeVideoOcrTool](https://github.com/lianliankanm/ChromeVideoOcrTool) - Chrome插件：提取网页正在播放的视频中的文字
+
+## Python
+
+*   [biancangming/wtv](https://github.com/biancangming/wtv) - 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站
+
+*   [TheLovinator1/discord-twitter-webhooks](https://github.com/TheLovinator1/discord-twitter-webhooks) - 🤖Stream tweets to Discord
+
+*   [x7peeps/Rss2Dingtalk-LTS](https://github.com/x7peeps/Rss2Dingtalk-LTS) - A Service for feed Rss to Dingtalk Webhook
+
+*   [Elxss/Epic-Free-Games-Alert](https://github.com/Elxss/Epic-Free-Games-Alert) - Epic Games Free Games Script that send a Webhook when a new Free Games is Available
+
+*   [lyy289065406/steam-discount](https://github.com/lyy289065406/steam-discount) - steam 特惠游戏榜单（自动刷新）
+
+*   [9bie/rsspusher](https://github.com/9bie/rsspusher) - 推送rss到telegram和web
+
+*   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
+
+*   [jheddings/notes2notion](https://github.com/jheddings/notes2notion) - Import content from Apple Notes into Notion
+
+*   [jiabh/auto-unlock-music](https://github.com/jiabh/auto-unlock-music) - 自动解锁各音乐平台下载的加密音乐
+
+*   [EssayKillerBrain/EssayKiller\_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
+
+*   [AndersonBY/AIGuiChu](https://github.com/AndersonBY/AIGuiChu) - 用AI帮忙制作鬼畜类视频
+
+*   [studycell/Simple\_faceswap](https://github.com/studycell/Simple_faceswap) - 本项目用于对一段连续视频进行AI智能识别，并将指定人脸进行替换。
+
+*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 方舟像素字体 - 开源的泛中日韩像素字体 / Ark pixel font - Open source Pan-CJK pixel font
+
+*   [SokunHeng/DownEdit](https://github.com/SokunHeng/DownEdit) - Video editor and video downloader in one application. Bulk video downloader for Tiktok and Douyin no watermark, more to be updated.
+
+*   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
+
+*   [bupticybee/ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) - 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。
+
+*   [icue/DoubanImageWall](https://github.com/icue/DoubanImageWall) - 生成豆瓣电影海报墙/音乐专辑封面墙/图书封面墙。
+
+*   [frankwuzp/coursera-host](https://github.com/frankwuzp/coursera-host) - 🚀 Auto-Hosts for Coursera website & video. 自动获取 host 的 IP 源，加速访问 Coursera 网站，在墙内也能愉快学习！（每天更新）
+
+*   [jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code tool for creating a neural search solution in minutes
+
+*   [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
+
+*   [xenova/chat-downloader](https://github.com/xenova/chat-downloader) - A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed!
+
+*   [LuoXishuang0712/openpose\_motion\_rebuild](https://github.com/LuoXishuang0712/openpose_motion_rebuild) - build a 3d pose from two 2d motion photos
+
+*   [kaminolee/RsshubList](https://github.com/kaminolee/RsshubList) -
+
+*   [auqhjjqdo/LiveRecorder](https://github.com/auqhjjqdo/LiveRecorder) - 基于Streamlink的直播全自动录播工具，已支持Bilibili、YouTube、Twitch、TwitCasting
+
+*   [btc-99/autotune\_remix](https://github.com/btc-99/autotune_remix) - 一键生成鬼畜音 mad 视频
+
+*   [rcy1314/notification-action](https://github.com/rcy1314/notification-action) - 企业微信定期发送固定通知
+
+*   [guangzhengli/wecom-notification-action](https://github.com/guangzhengli/wecom-notification-action) - 企业微信机器人消息发送，支持内容自定义，配置模版
+
+*   [guangzhengli/notification-action-template](https://github.com/guangzhengli/notification-action-template) - A github action template for notification action.
+
+*   [RWoxiN/AsoulNotificationPush](https://github.com/RWoxiN/AsoulNotificationPush) - A-SOUL 动态、直播状态获取，并推送到企业微信中。
+
+*   [tbsmcd/notion2hugo](https://github.com/tbsmcd/notion2hugo) - A document written in Notion that is converted to hugo. However, it is currently dedicated to the author's personal use.
+
+*   [gaoyunzhi/channel\_push](https://github.com/gaoyunzhi/channel_push) - Telegram channel/group recommendation bot
+
+*   [HorseSword/tagdox](https://github.com/HorseSword/tagdox) - Tagdox（标签文库）是 python + tkinter + pyinstaller 开发实现的文件标签化管理工具。
+
+*   [TerraceCN/TGRSS](https://github.com/TerraceCN/TGRSS) - Push RSS Feed through Telegram
+
+*   [cancundeyingzi/Compressed-packet-camouflage](https://github.com/cancundeyingzi/Compressed-packet-camouflage) - 将压缩包伪装成其他文件,绕过无法上传/分享的限制
+
+*   [seahorse-is-bored/PowerPoint\_Anki\_Macro-Addon](https://github.com/seahorse-is-bored/PowerPoint_Anki_Macro-Addon) - A macro and addon you can use for powerpoint to import straight into Anki.
+
+*   [icodebase/ivideo](https://github.com/icodebase/ivideo) - ivideo 是一款轻量、强大、好用的视频处理软件。可以满足普通人一般的视频处理需求：压缩视频、转码视频、倒放视频、合并片段、根据字幕裁切片段、自动配字幕、自动剪辑……
+
+*   [groundcat/power-automate-rss-triggers](https://github.com/groundcat/power-automate-rss-triggers) - RSS custom triggers for your Microsoft Power Automate flows
+
+*   [DanDDXuanX/TRPG-Replay-Generator](https://github.com/DanDDXuanX/TRPG-Replay-Generator) - 用文本编辑器做跑团replay视频
+
+## miscellaneous
+
+*   [Cyril0563/lanjing\_live](https://github.com/Cyril0563/lanjing_live) - 🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看
+
+*   [Bssn520/VideosShareByAliyun](https://github.com/Bssn520/VideosShareByAliyun) - 🤪动漫、电视剧、电影、纪录片分享by阿里云盘🫡
+
+*   [simevidas/web-dev-feeds](https://github.com/simevidas/web-dev-feeds) - A collection of exactly 1000 RSS feeds for web developers, updated monthly
+
+*   [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) - 绝妙的个人生产力（Awesome Productivity - Chinese version）
+
+*   [akira-cn/moyu](https://github.com/akira-cn/moyu) - Github 摸鱼大全！
+
+*   [XTsat/rapid-upload-userscript-doc](https://github.com/XTsat/rapid-upload-userscript-doc) - 秒传链接提取脚本 - 文档&教程
+
+*   [pashangshangpo/AI-Create-Video](https://github.com/pashangshangpo/AI-Create-Video) - AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，智能配图、智能配音、视频字幕。
+
+*   [whatis-geb/operation](https://github.com/whatis-geb/operation) - 和运营相关的内容
+
+*   [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline and pdf annotate tool for obsidian,It support mobile and desktop
+
+*   [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
+
+*   [wekingchen/Rclone-Actions](https://github.com/wekingchen/Rclone-Actions) - 使用Actions每天自动调用Rclone同步云盘
+
+*   [Wpenga/webdav-teambition](https://github.com/Wpenga/webdav-teambition) - teambition网盘的webdav协议开源实现
+
+*   [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
+
+## C\#
+
+*   [xpnas/inotify](https://github.com/xpnas/inotify) - 一个简易消息通知系统，支持企业微信、电报机器人、邮件推送、内置BARK推送、钉钉群机器人、飞书群机器人，类似Server酱，支持私有Docker部署
+
+*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
+
+*   [moonheart/Clasharp](https://github.com/moonheart/Clasharp) - A clash GUI written in C#
+
+*   [Cnicehs/SharpBot](https://github.com/Cnicehs/SharpBot) - 一个基于百度网盘开放接口的转存机器人
+
+*   [jim60105/YoutubeLiveChatToDiscord](https://github.com/jim60105/YoutubeLiveChatToDiscord) - 將Youtube聊天室串流至Discord Webhook (.NET 6 Worker Service in Docker)
+
+*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A GUI based tool that uses yt-dlp and FFmpeg to quickly download video and audio from virtually any website.
+
+*   [iccfish/ShimoExporter](https://github.com/iccfish/ShimoExporter) - 一键将个人石墨文档里的所有文档全部导出到本地
+
+## Svelte
+
+*   [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
+
+## Kotlin
+
+*   [avatsav/linkding-apps](https://github.com/avatsav/linkding-apps) - \[WIP] Native apps for Linkding self-hosted bookmark service
+
+*   [gyakkun/qq-mht2html](https://github.com/gyakkun/qq-mht2html) - 转换QQ导出的MHT文件到HTML和图片文件, 支持按日期、行数自动分页, 支持多线程, 支持150G+文件
 
 ## CSS
 
@@ -320,7 +400,7 @@
 
 *   [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Golang Whatsapp Web MultiDevice Version, Support UI & Webhook
 
-*   [echosoar/news](https://github.com/echosoar/news) - 全网新闻热点每小时自动聚合排序
+*   [echosoar/news](https://github.com/echosoar/news) - 全网新闻热点每小时自动聚合排序，基于SimHash算法聚合相似内容
 
 *   [irth/tg2fedi](https://github.com/irth/tg2fedi) - A bot to repost messages from a Telegram channel to a Mastodon account.
 
@@ -333,86 +413,6 @@
 *   [Sunbalcony/note](https://github.com/Sunbalcony/note) - note是一款优美，轻便的文档共享工具，支持一键分享，多人协作在线编辑，好用到上天，网页打代码不是梦！
 
 *   [MiaoMint/g8ink](https://github.com/MiaoMint/g8ink) - 一个短链接生成程序
-
-*   [josh/smtp2webhook](https://github.com/josh/smtp2webhook) - SMTP to Webhook Relay
-
-## Python
-
-*   [TheLovinator1/discord-twitter-webhooks](https://github.com/TheLovinator1/discord-twitter-webhooks) - 🤖Stream tweets to Discord
-
-*   [x7peeps/Rss2Dingtalk-LTS](https://github.com/x7peeps/Rss2Dingtalk-LTS) - A Service for feed Rss to Dingtalk Webhook
-
-*   [Elxss/Epic-Free-Games-Alert](https://github.com/Elxss/Epic-Free-Games-Alert) - Epic Games Free Games Script that send a Webhook when a new Free Games is Available
-
-*   [lyy289065406/steam-discount](https://github.com/lyy289065406/steam-discount) - steam 特惠游戏榜单（自动刷新）
-
-*   [9bie/rsspusher](https://github.com/9bie/rsspusher) - 推送rss到telegram和web
-
-*   [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) -  GUI for a Vocal Remover that uses Deep Neural Networks.
-
-*   [jheddings/notes2notion](https://github.com/jheddings/notes2notion) - Import content from Apple Notes into Notion
-
-*   [jiabh/auto-unlock-music](https://github.com/jiabh/auto-unlock-music) - 自动解锁各音乐平台下载的加密音乐
-
-*   [EssayKillerBrain/EssayKiller\_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
-
-*   [AndersonBY/AIGuiChu](https://github.com/AndersonBY/AIGuiChu) - 用AI帮忙制作鬼畜类视频
-
-*   [studycell/Simple\_faceswap](https://github.com/studycell/Simple_faceswap) - 本项目用于对一段连续视频进行AI智能识别，并将指定人脸进行替换。
-
-*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 方舟像素字体 - 开源的泛中日韩像素字体 / Ark pixel font - Open source Pan-CJK pixel font
-
-*   [SokunHeng/DownEdit](https://github.com/SokunHeng/DownEdit) - Video editor and video downloader in one application. Bulk video downloader for Tiktok and Douyin no watermark, more to be updated.
-
-*   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
-
-*   [bupticybee/ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) - 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。
-
-*   [icue/DoubanImageWall](https://github.com/icue/DoubanImageWall) - 生成豆瓣电影海报墙/音乐专辑封面墙/图书封面墙。
-
-*   [frankwuzp/coursera-host](https://github.com/frankwuzp/coursera-host) - 🚀 Auto-Hosts for Coursera website & video. 自动获取 host 的 IP 源，加速访问 Coursera 网站，在墙内也能愉快学习！（每天更新）
-
-*   [jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code tool for creating a neural search solution in minutes
-
-*   [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
-
-*   [xenova/chat-downloader](https://github.com/xenova/chat-downloader) - A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed!
-
-*   [LuoXishuang0712/openpose\_motion\_rebuild](https://github.com/LuoXishuang0712/openpose_motion_rebuild) - build a 3d pose from two 2d motion photos
-
-*   [kaminolee/RsshubList](https://github.com/kaminolee/RsshubList) -
-
-*   [auqhjjqdo/LiveRecorder](https://github.com/auqhjjqdo/LiveRecorder) - 基于Streamlink的直播全自动录播工具，已支持Bilibili、YouTube、Twitch、TwitCasting
-
-*   [btc-99/autotune\_remix](https://github.com/btc-99/autotune_remix) - 一键生成鬼畜音 mad 视频
-
-*   [rcy1314/notification-action](https://github.com/rcy1314/notification-action) - 企业微信定期发送固定通知
-
-*   [guangzhengli/wecom-notification-action](https://github.com/guangzhengli/wecom-notification-action) - 企业微信机器人消息发送，支持内容自定义，配置模版
-
-*   [guangzhengli/notification-action-template](https://github.com/guangzhengli/notification-action-template) - A github action template for notification action.
-
-*   [RWoxiN/AsoulNotificationPush](https://github.com/RWoxiN/AsoulNotificationPush) - A-SOUL 动态、直播状态获取，并推送到企业微信中。
-
-*   [tbsmcd/notion2hugo](https://github.com/tbsmcd/notion2hugo) - A document written in Notion that is converted to hugo. However, it is currently dedicated to the author's personal use.
-
-*   [gaoyunzhi/channel\_push](https://github.com/gaoyunzhi/channel_push) - Telegram channel/group recommendation bot
-
-*   [HorseSword/tagdox](https://github.com/HorseSword/tagdox) - Tagdox（标签文库）是 python + tkinter + pyinstaller 开发实现的文件标签化管理工具。
-
-*   [TerraceCN/TGRSS](https://github.com/TerraceCN/TGRSS) - Push RSS Feed through Telegram
-
-*   [cancundeyingzi/Compressed-packet-camouflage](https://github.com/cancundeyingzi/Compressed-packet-camouflage) - 将压缩包伪装成其他文件,绕过无法上传/分享的限制
-
-*   [seahorse-is-bored/PowerPoint\_Anki\_Macro-Addon](https://github.com/seahorse-is-bored/PowerPoint_Anki_Macro-Addon) - A macro and addon you can use for powerpoint to import straight into Anki.
-
-*   [icodebase/ivideo](https://github.com/icodebase/ivideo) - ivideo 是一款轻量、强大、好用的视频处理软件。可以满足普通人一般的视频处理需求：压缩视频、转码视频、倒放视频、合并片段、根据字幕裁切片段、自动配字幕、自动剪辑……
-
-*   [groundcat/power-automate-rss-triggers](https://github.com/groundcat/power-automate-rss-triggers) - RSS custom triggers for your Microsoft Power Automate flows
-
-*   [DanDDXuanX/TRPG-Replay-Generator](https://github.com/DanDDXuanX/TRPG-Replay-Generator) - 用文本编辑器做跑团replay视频
-
-*   [khlam/rss-discord-webhook](https://github.com/khlam/rss-discord-webhook) - Uses github actions to watch an RSS feed and pushes new changes to webhook
 
 ## Java
 
