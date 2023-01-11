@@ -56,7 +56,7 @@
 
 *   [CallBoson/ChatGPT-node](https://github.com/CallBoson/ChatGPT-node) - 微信公众号接入chatGpt
 
-*   [dengxiwang/funtabs](https://github.com/dengxiwang/funtabs) - Fun网址导航｜方格桌面，清新、简约、不简单！高度的可自定义操作，让您设置属于您专属的独特导航页面，是一款小众但又极其好用的导航网站！©️217fun爱一起玩
+*   [dengxiwang/funtabs](https://github.com/dengxiwang/funtabs) - funtabs｜趣标签页，给你不一样的浏览器起始页，清新、简约、不简单！高度的可自定义操作，让您设置属于您专属的独特导航页面，是一款小众但又极其好用的导航网站！
 
 *   [lucaschn/fcgame](https://github.com/lucaschn/fcgame) - FC游戏在线玩，FC在线模拟器，NES在线模拟器，魂斗罗，超级玛丽，忍者龙剑传。可在手机电脑上在线玩FC游戏的网站，近乎完美的还原任天堂FC/NES原版ROM游戏的视频和声音。
 
