@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+*   [Dockerfile](#dockerfile)
 *   [miscellaneous](#miscellaneous)
 *   [AutoHotkey](#autohotkey)
 *   [Python](#python)
@@ -30,9 +31,14 @@
 *   [C++](#c-1)
 *   [Metal](#metal)
 *   [Shell](#shell)
-*   [Dockerfile](#dockerfile)
 *   [C](#c-2)
 *   [Less](#less)
+
+## Dockerfile
+
+*   [appotry/docker-hexo](https://github.com/appotry/docker-hexo) - hexo docker 一键部署环境。增加CJK中国环境适配和常用软件，hexo 插件等易用设置。开箱即用。
+
+*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
 ## miscellaneous
 
@@ -158,8 +164,6 @@
 
 *   [tbsmcd/notion2hugo](https://github.com/tbsmcd/notion2hugo) - A document written in Notion that is converted to hugo. However, it is currently dedicated to the author's personal use.
 
-*   [gaoyunzhi/channel\_push](https://github.com/gaoyunzhi/channel_push) - Telegram channel/group recommendation bot
-
 ## C\#
 
 *   [ichenpipi/unity-pipi-toolbox](https://github.com/ichenpipi/unity-pipi-toolbox) - 皮皮的 Unity 工具箱，提升日常工作效率，才能多摸鱼！
@@ -271,6 +275,8 @@
 *   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 
 *   [rcy1314/GeekBot](https://github.com/rcy1314/GeekBot) - 企业微信机器人主动推送获取信息脚本 | 每日自动推送天气、毒鸡汤、ONE图文、v2ex帖子 & more..
+
+*   [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
 
 *   [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【尚未完成】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 
@@ -420,8 +426,6 @@
 
 *   [zkeq/news](https://github.com/zkeq/news) - 前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。
 
-*   [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
-
 *   [Tokinx/Wing](https://github.com/Tokinx/Wing) - Simple, smooth, data-driven, responsive WordPress theme
 
 ## Java
@@ -469,10 +473,6 @@
 *   [Jason6111/OpenWrt\_Personal](https://github.com/Jason6111/OpenWrt_Personal) - Jason6111's OpenWrt source 在线集成自动编译环境
 
 *   [xs-web-lhdd/vitepress-template](https://github.com/xs-web-lhdd/vitepress-template) - vitepress模板，直接开箱即用，不用再配置导航侧边栏等内容，直接写内容即可
-
-## Dockerfile
-
-*   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 
 ## C
 
