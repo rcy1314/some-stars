@@ -424,7 +424,7 @@
 
 ## CSS
 
-*   [sunyctf/css-effects](https://github.com/sunyctf/css-effects) - ⭐ 收集平时工作和学习中的css特效，持续更新。喜欢的话就Star一下吧！
+*   [sunyctf/css-effects](https://github.com/sunyctf/css-effects) - ⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！
 
 *   [dragonjie233/Message](https://github.com/dragonjie233/Message) - 留言条 · 就留下一句你想说的话吧
 
