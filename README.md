@@ -56,7 +56,7 @@
 
 *   [spencerwooo/substats](https://github.com/spencerwooo/substats) - ( ｀д′) how many followers do i have? how many!
 
-*   [Cside/notion-search](https://github.com/Cside/notion-search) - Search Notion pages on the popup
+*   [Cside/chrome-notion-search](https://github.com/Cside/chrome-notion-search) - Search Notion pages on the popup
 
 *   [JonathanWbn/notion-tools](https://github.com/JonathanWbn/notion-tools) - A set of tools to automate things around Notion.
 
@@ -468,7 +468,7 @@
 
 *   [kenellorando/cadence](https://github.com/kenellorando/cadence) - All-in-one web radio software suite. Provides music search, request, artwork, UI, and real-time stream information.
 
-*   [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个可以好玩的微信机器人项目，插件式功能开发，查天气，ChatGPT聊天，设置定时任务...
+*   [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人项目，插件式功能，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
 
 *   [qydysky/bili\_danmu](https://github.com/qydysky/bili_danmu) - bili直播、弹幕录制回放工具 go1.19+
 
