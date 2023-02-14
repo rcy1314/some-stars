@@ -5,7 +5,7 @@
 ⭐ 我的star列表，每天自动更新 ⭐
 
 <div style="width:50px;margin: 0 auto;">
-  <a href="https://rsshub.app/github/starred_repos/rcy1314" target="_"><img src="https://cdn.staticaly.com/gh/rcy1314/my-photo@master/20230213/image.5xhtkdqr7l40.jpg"></a>
+  <a href="https://rsshub.app/github/starred_repos/rcy1314"  target="_blank" title="基于rsshub的订阅">RSS订阅</a>
 </div>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
