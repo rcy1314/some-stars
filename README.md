@@ -241,7 +241,7 @@
 
 *   [qydysky/bili\_danmu](https://github.com/qydysky/bili_danmu) - bili直播、弹幕录制回放工具 go1.19+
 
-*   [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Golang Whatsapp Web MultiDevice Version, Support UI & Webhook
+*   [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web MultiDevice Version, Support UI & Webhook
 
 *   [echosoar/news](https://github.com/echosoar/news) - 全网新闻热点每小时自动聚合排序，基于SimHash算法聚合相似内容
 
@@ -515,7 +515,7 @@
 
 *   [a7650/h5-editor](https://github.com/a7650/h5-editor) - 📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能
 
-*   [xp-bear/note\_wall](https://github.com/xp-bear/note_wall) - 留言墙的开发,vue3+express+mysql,加油!
+*   [xp-bear/note\_wall](https://github.com/xp-bear/note_wall) - 留言墙功能可以让用户在网站上发表留言，以便其他用户可以看到并回复。它可以帮助网站的用户更好地交流，提高网站的互动性，增加用户体验。使用技术栈: vue3+express+mysql,觉得还可以的话,可以给一个star~
 
 *   [one-among-us/tg-blog](https://github.com/one-among-us/tg-blog) - Display offline telegram channel data like a blog
 
@@ -563,7 +563,7 @@
 
 *   [jenius-apps/ambie](https://github.com/jenius-apps/ambie) - An app that uses white noise, nature sounds, and focus features to boost your productivity.
 
-*   [torum/BlogWrite](https://github.com/torum/BlogWrite) - FeedDesk (a feed reader) and BlogDesk (a blogging client).
+*   [torum/BlogWrite](https://github.com/torum/BlogWrite) - FeedDesk (feed reader) and BlogDesk (blogging client).
 
 *   [MeirinRuan/MyPSD2UI](https://github.com/MeirinRuan/MyPSD2UI) - 解析psd文件，生成ui配置
 
