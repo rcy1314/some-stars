@@ -467,6 +467,8 @@
 
 *   [FrzMtrsprt/QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic) - A desktop client for UnblockNeteaseMusic, made with Qt.
 
+*   [Tptr-lateworker/RealESR\_Tools](https://github.com/Tptr-lateworker/RealESR_Tools) - AI图片放大工具, 支持自动遍历文件夹, 支持批量处理.
+
 *   [MucheXD/CloudMusicDownloader](https://github.com/MucheXD/CloudMusicDownloader) - 网易云音乐在线下载器&缓存转换器 / 本程序允许你批量下载网易云音乐上几乎所有的歌曲，你可以在程序内搜索并下载几乎所有非付费歌曲。同时，你也可以转换网易云音乐客户端生成的缓存文件 (.uc/.uc!) ，将你播放列表中的文件保存到本地。
 
 *   [liangxiongsl/Netease-url-crawling](https://github.com/liangxiongsl/Netease-url-crawling) - 网易云音乐直链批量获取
@@ -533,8 +535,6 @@
 
 *   [neuralshare/neuralshare](https://github.com/neuralshare/neuralshare) - NeuralShare aims to make any AI model accessible for free from any device, regardless of its hardware resources
 
-*   [Tptr-lateworker/RealESR\_Tools](https://github.com/Tptr-lateworker/RealESR_Tools) - AI图片放大工具, 支持自动遍历文件夹, 支持批量处理.
-
 *   [dxtop/dxtop.github.io](https://github.com/dxtop/dxtop.github.io) - VIPTV - 对标聚合海量电视， 直播，影视，短片，音乐，小说，壁纸等资源
 
 *   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。
@@ -575,7 +575,7 @@
 
 *   [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://qdrant.to/cloud
 
-*   [MicroCBer/BetterCEF-Installer](https://github.com/MicroCBer/BetterCEF-Installer) - 一键安装 BetterCEF
+*   [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 BetterCEF
 
 *   [morphy2k/rss-forwarder](https://github.com/morphy2k/rss-forwarder) - Checks RSS feeds for new entries and forwards them
 
