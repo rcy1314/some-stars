@@ -235,7 +235,7 @@
 
 *   [wardvisual/engine-warvil](https://github.com/wardvisual/engine-warvil) - A comprehensive language tool that can answer questions, generate code, titles, and grammatically correct text, as well as paraphrase, summarize, translate, explain programming code, evaluate mathematical expressions, and create study notes.
 
-*   [forrestchang/readpilot](https://github.com/forrestchang/readpilot) - Read Pilot analyzes online articles and generate Q\&A cards for you. Powered by OpenAI & Next.js.
+*   [index-labs/readpilot](https://github.com/index-labs/readpilot) - Read Pilot analyzes online articles and generate Q\&A cards for you. Powered by OpenAI & Next.js.
 
 *   [gitbrent/dream-journal-app](https://github.com/gitbrent/dream-journal-app) - Dream Journal that uses Google Drive
 
@@ -417,7 +417,7 @@
 
 *   [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 
-*   [Kingtous/Fclash](https://github.com/Kingtous/Fclash) - Clash fronted client by Flutter (Linux\[arm64|x86\_64]/Windows/MacOS supported). 🐱 支持Linux\[arm64|x86\_64]/Windows/MacOS的更好的Clash客户端，支持自动设置代理，兼容RULE-SET特性。
+*   [Kingtous/Fclash](https://github.com/Kingtous/Fclash) - A better open-source clash client written by Flutter (Linux\[arm64|x86\_64]/Windows/MacOS supported). 🐱 支持Linux\[arm64|x86\_64]/Windows/MacOS的更好的Clash客户端，支持自动设置代理，兼容RULE-SET特性。
 
 ## Vue
 
