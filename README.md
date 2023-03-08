@@ -52,13 +52,11 @@
 
 *   [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool.
 
-*   [mailbyms/gptchat-wx](https://github.com/mailbyms/gptchat-wx) - java版本gptchat openai适配微信公众号自动回复消息
-
 *   [LoveLifeLoveCat/WechatBackupNoRoot](https://github.com/LoveLifeLoveCat/WechatBackupNoRoot) - 免ROOT微信聊天数据备份/导出工具
 
 *   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
 
-*   [Cruii/bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - 🚀 Bilibili每日任务托管平台
+*   [Cruii/oh-my-helper](https://github.com/Cruii/oh-my-helper) - 🚀原bilibili-helper-hub，更名为oh-my-helper，目的是开发多功能小工具平台，目前已部署B站每日任务及大会员中心任务
 
 *   [Clay-Ferguson/quantizr](https://github.com/Clay-Ferguson/quantizr) - Quanta is an open-source Social Media (Fediverse) platform for wikis, micro-blogging, collaboration, publishing, secure messaging, file sharing, and video/audio sharing. Browser-based, and written in Java and TypeScript.
 
@@ -512,6 +510,8 @@
 
 *   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 
+*   [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
+
 ## PHP
 
 *   [kaindev8/starMQ](https://github.com/kaindev8/starMQ) - 开源的个人收款免签约解决方案 （码支付），拒绝高风险的扫码登录方式，采用APP监听系统收款通知方案，更安全可靠，使用易支付接口，对接更便捷！
@@ -702,7 +702,7 @@
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
-*   [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://qdrant.to/cloud
+*   [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 
 *   [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 BetterCEF
 
