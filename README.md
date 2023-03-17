@@ -73,7 +73,7 @@
 
 *   [lxfater/BilibiliSummary](https://github.com/lxfater/BilibiliSummary) - A chrome extension helps you summary video on bilibili.
 
-*   [markboard-io/markboard](https://github.com/markboard-io/markboard) - Interact with GPT-4 using images, drawings in addition to text.
+*   [markboard-io/markboard](https://github.com/markboard-io/markboard) - Interact with GPT-4 using images, sketches, in addition to text.
 
 *   [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that's make your daily social tasks.
 
@@ -319,7 +319,7 @@
 
 *   [jamesmortensen/archiver-for-google-keep](https://github.com/jamesmortensen/archiver-for-google-keep) - Scrapes notes and checklists from Google Keep™ and writes them out as JSON and markdown archive/backup files. This tool is not affiliated or endorsed by Google™. Google Keep™ is a trademark of Google.
 
-*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 📝 大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望
+*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 📝 二丫讲梵博客全部源码
 
 *   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
 
@@ -523,7 +523,7 @@
 
 *   [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 
-*   [Fclash/Fclash](https://github.com/Fclash/Fclash) - A better open-source clash client written by Flutter (Linux\[arm64|x86\_64]/Windows/MacOS supported). 🐱 支持Linux\[arm64|x86\_64]/Windows/MacOS的更好的Clash客户端，支持自动设置代理，兼容RULE-SET特性。
+*   [Fclash/Fclash](https://github.com/Fclash/Fclash) - A better open-source clash client written by Flutter (Linux/Windows/MacOS/Android supported). 🐱 支持Linux\[arm64|x86\_64]/Windows/MacOS/Android的更好的Clash客户端，支持自动设置代理，兼容RULE-SET特性。
 
 ## Rust
 
