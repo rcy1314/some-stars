@@ -73,7 +73,7 @@
 
 *   [lxfater/BilibiliSummary](https://github.com/lxfater/BilibiliSummary) - A chrome extension helps you summary video on bilibili.
 
-*   [markboard-io/markboard](https://github.com/markboard-io/markboard) - Interact with GPT-4 using images, sketches, in addition to text.
+*   [markboard-io/markboard](https://github.com/markboard-io/markboard) - Wysiwyg markdown whiteboard for note-taking and building team knowledge base.
 
 *   [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that's make your daily social tasks.
 
@@ -439,7 +439,7 @@
 
 *   [jenius-apps/ambie](https://github.com/jenius-apps/ambie) - An app that uses white noise, nature sounds, and focus features to boost your productivity.
 
-*   [torum/BlogWrite](https://github.com/torum/BlogWrite) - FeedDesk (feed reader) and BlogDesk (blogging client).
+*   [torum/BlogWrite](https://github.com/torum/BlogWrite) - FeedDesk and BlogDesk (a feed reader and a blogging client).
 
 *   [MeirinRuan/MyPSD2UI](https://github.com/MeirinRuan/MyPSD2UI) - 解析psd文件，生成ui配置
 
