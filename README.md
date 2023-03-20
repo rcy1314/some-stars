@@ -189,7 +189,7 @@
 
 *   [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator) - A translator that uses OpanAI.
 
-*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A cross-platform desktop application for OpenAI API, also a prompt debugging and management tool.
+*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A cross-platform desktop application for ChatGPT API (OpenAI API), also a prompt debugging and management tool.
 
 *   [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 
@@ -451,7 +451,7 @@
 
 *   [jamesmortensen/archiver-for-google-keep](https://github.com/jamesmortensen/archiver-for-google-keep) - Scrapes notes and checklists from Google Keep™ and writes them out as JSON and markdown archive/backup files. This tool is not affiliated or endorsed by Google™. Google Keep™ is a trademark of Google.
 
-*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 📝 二丫讲梵👇博客全部源码
+*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客全部源码
 
 *   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
 
