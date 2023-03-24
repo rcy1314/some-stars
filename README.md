@@ -39,7 +39,6 @@
 *   [Clojure](#clojure)
 *   [SCSS](#scss)
 *   [AutoHotkey](#autohotkey)
-*   [Rascal](#rascal)
 *   [Svelte](#svelte)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Metal](#metal)
@@ -81,6 +80,8 @@
 *   [tabhub/rss-feeds](https://github.com/tabhub/rss-feeds) - RSS feeds created/collected by TabHub.
 
 *   [buildspace/buildspace-projects](https://github.com/buildspace/buildspace-projects) - The home of our open-source projects.
+
+*   [delta1037/notion-export-client](https://github.com/delta1037/notion-export-client) - Notion备份客户端工具，将指定Notion page单向转换为本地markdown文件 | Notion backup client, backup some page to markdown files self-struct
 
 *   [itorr/anime-grid](https://github.com/itorr/anime-grid) - 🤖「动画生涯个人喜好表生成器」
 
@@ -610,8 +611,6 @@
 
 *   [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 
-*   [delta1037/notion-export-client](https://github.com/delta1037/notion-export-client) - Notion备份客户端工具，将指定Notion page单向转换为本地markdown文件 | Notion backup client, backup some page to markdown files self-struct
-
 *   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
 
 *   [dario-github/notion\_auto\_backup](https://github.com/dario-github/notion_auto_backup) - Notion Regular Auto Backup to Google Drive
@@ -749,6 +748,8 @@
 *   [groundcat/power-automate-rss-triggers](https://github.com/groundcat/power-automate-rss-triggers) - RSS custom triggers for your Microsoft Power Automate flows
 
 *   [DanDDXuanX/TRPG-Replay-Generator](https://github.com/DanDDXuanX/TRPG-Replay-Generator) - 用文本编辑器做跑团replay视频
+
+*   [khlam/rss-discord-webhook](https://github.com/khlam/rss-discord-webhook) - Uses github actions to watch an RSS feed and pushes new changes to webhook
 
 ## C\#
 
@@ -1085,10 +1086,6 @@
 *   [shizengsong/taskSwitcher](https://github.com/shizengsong/taskSwitcher) - 改进windows任务窗口操作，鼠标移动到屏幕右下角，即可启动选择任务。详见文件
 
 *   [dbgba/PCtoiOSClipboardSync](https://github.com/dbgba/PCtoiOSClipboardSync) - 电脑与iOS互相剪贴板同步 Computer and iOS clipboard sync with each other
-
-## Rascal
-
-*   [y1yang0/hosts](https://github.com/y1yang0/hosts) - :statue\_of\_liberty:最新可用的google hosts文件。国内镜像：
 
 ## Svelte
 
