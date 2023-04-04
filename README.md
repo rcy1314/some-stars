@@ -117,7 +117,7 @@
 
 *   [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator) - A translator that uses OpanAI.
 
-*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux.  开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用
+*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - 开源的ChatGPT桌面应用，下载安装包直接运行，prompt 开发神器，Window、Mac、Linux全平台支持。 A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux.
 
 *   [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 
