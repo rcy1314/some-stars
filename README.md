@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -32,7 +33,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [C](#c-2)
-*   [PowerShell](#powershell)
 *   [AngelScript](#angelscript)
 *   [Kotlin](#kotlin)
 *   [Dockerfile](#dockerfile)
@@ -44,6 +44,14 @@
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Metal](#metal)
 *   [Less](#less)
+
+## PowerShell
+
+*   [Lin-jun-xiang/vscode-extensions-best](https://github.com/Lin-jun-xiang/vscode-extensions-best) -  Collection of Tops VSCode Extensions. (VSCode 插件大集合推薦)
+
+*   [daboynb/ChatGPT-Bypass-gui](https://github.com/daboynb/ChatGPT-Bypass-gui) - A  gui that allows you to bypass content filtering in ChatGPT through the OpenAI autocompletion API for DaVinci-003
+
+*   [SummonHIM/Bestdori-Music-Downloader](https://github.com/SummonHIM/Bestdori-Music-Downloader) - A script that automatically downloads music from Bestdori and fills in the music information(Song title, Artist, Album, Composer and Front cover)
 
 ## Python
 
@@ -62,6 +70,8 @@
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 *   [IT-HONGREAT/slack\_bot](https://github.com/IT-HONGREAT/slack_bot) - This is slackApp with 3rd party app. It can be example for anyone want to create slack bot by using python.
+
+*   [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 
 *   [chrislemke/ChatFred](https://github.com/chrislemke/ChatFred) - Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.
 
@@ -687,8 +697,6 @@
 
 *   [chrisj74/vue-rss-blog](https://github.com/chrisj74/vue-rss-blog) - An embeddable to pull an RSS feed into your website
 
-*   [UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend) - GitScratch 社区前端
-
 ## Shell
 
 *   [Mon-ius/Docker-Warp-Socks](https://github.com/Mon-ius/Docker-Warp-Socks) - Connet to CloudFlare WARP, exposing `socks5` proxy all together.
@@ -967,8 +975,6 @@
 
 *   [jarrellmark/chatgpt-j](https://github.com/jarrellmark/chatgpt-j) - Chat interface to gpt-j. Runs in Google Colab.
 
-*   [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
-
 *   [Conchylicultor/automations](https://github.com/Conchylicultor/automations) - Automated scripts for APIs
 
 *   [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI
@@ -1040,12 +1046,6 @@
 *   [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 
 *   [Fclash/Fclash](https://github.com/Fclash/Fclash) - A better open-source clash client written by Flutter (Linux/Windows/MacOS/Android supported). 🐱 支持Linux\[arm64|x86\_64]/Windows/MacOS/Android的更好的Clash客户端，支持自动设置代理，兼容RULE-SET、TUN特性(Clash.Meta)。
-
-## PowerShell
-
-*   [daboynb/ChatGPT-Bypass-gui](https://github.com/daboynb/ChatGPT-Bypass-gui) - A  gui that allows you to bypass content filtering in ChatGPT through the OpenAI autocompletion API for DaVinci-003
-
-*   [SummonHIM/Bestdori-Music-Downloader](https://github.com/SummonHIM/Bestdori-Music-Downloader) - A script that automatically downloads music from Bestdori and fills in the music information(Song title, Artist, Album, Composer and Front cover)
 
 ## AngelScript
 
