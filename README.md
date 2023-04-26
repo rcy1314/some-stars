@@ -43,6 +43,7 @@
 *   [Svelte](#svelte)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Metal](#metal)
+*   [Less](#less)
 
 ## Go
 
@@ -110,7 +111,7 @@
 
 ## JavaScript
 
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - All in one 的 OpenAI 接口，整合各种 API 访问方式，也可作为 OpenAI API 代理使用，开箱即用
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - All in one 的 OpenAI 接口，整合各种 API 访问方式，也可作为 OpenAI API 代理使用，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用
 
 *   [bartbzd/todo-list](https://github.com/bartbzd/todo-list) - To-Do List
 
@@ -483,8 +484,6 @@
 *   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 
 *   [Liner03/tiktok\_monitor](https://github.com/Liner03/tiktok_monitor) - 24h监控抖音主页情况变化并进行推送
-
-*   [Mayavi333/Tsunade-auto-filter](https://github.com/Mayavi333/Tsunade-auto-filter) - I am a auto filter bot with group manage functions.  star 🌟my repo🙏
 
 *   [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 
@@ -1103,5 +1102,9 @@
 ## Metal
 
 *   [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Image and Video and Camera filter framework. Support macOS & iOS. 🎨 图像、视频、相机滤镜框架
+
+## Less
+
+*   [MaLuns/hexo-theme-text](https://github.com/MaLuns/hexo-theme-text) - 一款简约、轻量的Hexo主题
 
 *   By [rcy1314/some-starts](https://github.com/rcy1314/some-stars)
