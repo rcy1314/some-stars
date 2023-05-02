@@ -199,7 +199,7 @@
 
 *   [jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code tool for creating a neural search solution in minutes
 
-*   [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
+*   [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans.
 
 *   [xenova/chat-downloader](https://github.com/xenova/chat-downloader) - A simple tool used to retrieve chat messages from livestreams, videos, clips and past broadcasts. No authentication needed!
 
@@ -579,7 +579,7 @@
 
 *   [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web MultiDevice Version, Support UI & Webhook
 
-*   [echosoar/news](https://github.com/echosoar/news) - 全网新闻热点每小时自动聚合排序，基于SimHash算法聚合相似内容
+*   [echosoar/news](https://github.com/echosoar/news) - 热点聚合排序，基于SimHash算法聚合相似内容
 
 *   [irth/tg2fedi](https://github.com/irth/tg2fedi) - A bot to repost messages from a Telegram channel to a Mastodon account.
 
