@@ -284,7 +284,7 @@
 
 *   [MicroCBer/BetterNCM](https://github.com/MicroCBer/BetterNCM) - NCM 软件插件管理器
 
-*   [FrzMtrsprt/QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic) - A desktop client for UnblockNeteaseMusic, made with Qt.
+*   [FrzMtrsprt/QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic) - 适用于 UnblockNeteaseMusic 的桌面应用，使用 Qt 制作。
 
 *   [Tptr-lateworker/RealESR\_Tools](https://github.com/Tptr-lateworker/RealESR_Tools) - AI图片放大工具, 支持自动遍历文件夹, 支持批量处理.
 
@@ -366,7 +366,7 @@
 
 *   [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - webrtc file transfer tool，p2p网页在线文件传输，跨终端，不限平台，内网不限速，支持私有部署，支持多文件拖拽发送，支持本地屏幕录制，远程屏幕共享，远程音视频通话，密码房间，中继服务设置，webrtc检测，文字传输，公共聊天，丰富的后台管理，实时执行日志展示，机器人告警通知等功能
 
-*   [c121914yu/FastGPT](https://github.com/c121914yu/FastGPT) - 一个快速使用chatGPT的平台。支持自定义 prompt 管理。支持构建专属知识库
+*   [c121914yu/FastGPT](https://github.com/c121914yu/FastGPT) - 一个快速使用 openai api 的平台。支持自定义 prompt 管理。支持构建专属知识库
 
 *   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。
 
@@ -454,7 +454,7 @@
 
 *   [lgh06/web-page-monitor](https://github.com/lgh06/web-page-monitor) - Web Site Page Changes Monitor. 网站网页页面更新变更监控提醒。
 
-*   [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，仅单可执行文件，开箱即用
+*   [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 
 *   [uduakabaci/Paisley](https://github.com/uduakabaci/Paisley) -
 
@@ -908,7 +908,7 @@
 
 *   [kenellorando/cadence](https://github.com/kenellorando/cadence) - All-in-one web radio suite. Provides music search, request, artwork, UI, and real-time stream information.
 
-*   [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ❗因HOOK被扫号，临时暂停维护 ☝🏻 一个好玩的个人微信机器人程序(千寻、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
+*   [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(千寻、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
 
 *   [qydysky/bili\_danmu](https://github.com/qydysky/bili_danmu) - bili直播、弹幕录制回放工具 go1.20+
 
