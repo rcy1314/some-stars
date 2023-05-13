@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Pascal](#pascal)
 *   [PHP](#php)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
@@ -45,8 +46,13 @@
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Metal](#metal)
 *   [Less](#less)
-*   [Pascal](#pascal)
 *   [Scala](#scala)
+
+## Pascal
+
+*   [HemulGM/ChatGPT](https://github.com/HemulGM/ChatGPT) - ChatGPT Native Desktop Application (Windows, Mac, Android, iOS, and Linux)
+
+*   [ericwang2006/bcut2srt](https://github.com/ericwang2006/bcut2srt) - 从必剪导出srt格式字幕 export srt subtitle from bcut project
 
 ## PHP
 
@@ -186,7 +192,7 @@
 
 *   [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - webrtc file transfer tool，p2p网页在线文件传输，跨终端，不限平台，内网不限速，支持私有部署，支持多文件拖拽发送，支持本地屏幕录制，远程屏幕共享，远程音视频通话，密码房间，中继服务设置，webrtc检测，文字传输，公共聊天，丰富的后台管理，实时执行日志展示，机器人告警通知等功能
 
-*   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页、展示大屏等等。
+*   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页、展示大屏、展示全屏等等。
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - All in one 的 OpenAI 接口，整合各种 API 访问方式，也可作为 OpenAI API 代理使用，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用
 
@@ -527,8 +533,6 @@
 *   [icue/DoubanImageWall](https://github.com/icue/DoubanImageWall) - 生成豆瓣电影海报墙/音乐专辑封面墙/图书封面墙。
 
 *   [frankwuzp/coursera-host](https://github.com/frankwuzp/coursera-host) - 🚀 Auto-Hosts for Coursera website & video. 自动获取 host 的 IP 源，加速访问 Coursera 网站，在墙内也能愉快学习！（每天更新）
-
-*   [jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code tool for creating a neural search solution in minutes
 
 *   [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans.
 
@@ -1307,10 +1311,6 @@
 ## Less
 
 *   [MaLuns/hexo-theme-text](https://github.com/MaLuns/hexo-theme-text) - 一款简约、轻量的Hexo主题
-
-## Pascal
-
-*   [ericwang2006/bcut2srt](https://github.com/ericwang2006/bcut2srt) - 从必剪导出srt格式字幕 export srt subtitle from bcut project
 
 ## Scala
 
