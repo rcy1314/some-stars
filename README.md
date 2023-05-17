@@ -540,7 +540,7 @@
 
 *   [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - webrtc file transfer tool，p2p网页在线文件传输，跨终端，不限平台，内网不限速，支持私有部署，支持多文件拖拽发送，支持本地屏幕录制，远程屏幕共享，远程音视频通话，密码房间，中继服务设置，webrtc检测，文字传输，公共聊天，丰富的后台管理，实时执行日志展示，机器人告警通知等功能
 
-*   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页、展示大屏、展示全屏等等。
+*   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
 
 *   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - All in one 的 OpenAI 接口，整合各种 API 访问方式，支持 Azure OpenAI API，也可作为 OpenAI API 代理使用，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用
 
@@ -726,7 +726,7 @@
 
 ## C++
 
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘙𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... Your new, ridonkuliciously smart clipboard manager:rocket:
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 𝘐𝘮𝘢𝘨𝘪𝘯𝘦 𝘩𝘢𝘷𝘪𝘯𝘨 𝘢 𝘴𝘦𝘤𝘰𝘯𝘥 𝘣𝘳𝘢𝘪𝘯... Your new, ridonkuliciously-smart clipboard manager:rocket:
 
 *   [le0zh/NewBingClient](https://github.com/le0zh/NewBingClient) - Desktop application of new Bing's AI-powered chat
 
