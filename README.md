@@ -97,7 +97,7 @@
 
 *   [kenellorando/cadence](https://github.com/kenellorando/cadence) - All-in-one web radio suite. Provides music search, request, artwork, UI, and real-time stream information.
 
-*   [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(千寻、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
+*   [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DeanDLL、千寻、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
 
 *   [qydysky/bili\_danmu](https://github.com/qydysky/bili_danmu) - bilibili直播、弹幕录制回放工具 go1.20+
 
@@ -721,7 +721,7 @@
 
 *   [phaze-the-dumb/status](https://github.com/phaze-the-dumb/status) - A status page built on github actions
 
-*   [orelmizrahii/Web-AI-Archive](https://github.com/orelmizrahii/Web-AI-Archive) - AI Archive is a GitHub project dedicated to collecting and preserving data about artificial intelligence (AI) systems. Our mission is to create a comprehensive archive of AI systems and the data they generate, providing a valuable resource for researchers and developers.
+*   [bazzsystems/Web-AI-Archive](https://github.com/bazzsystems/Web-AI-Archive) - AI Archive is a GitHub project dedicated to collecting and preserving data about artificial intelligence (AI) systems. Our mission is to create a comprehensive archive of AI systems and the data they generate, providing a valuable resource for researchers and developers.
 
 *   [qdlmcfresh/GuilloArchive](https://github.com/qdlmcfresh/GuilloArchive) - Archiving @GuillotineTea on Twitter
 
