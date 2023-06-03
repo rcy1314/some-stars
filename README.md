@@ -187,7 +187,7 @@
 
 *   [MaxChang3/Bilibili-Web-Show-IP-Address](https://github.com/MaxChang3/Bilibili-Web-Show-IP-Address) - Display IP Address Location on Bilibili web. 展示哔哩哔哩 Web 端的 IP 属地。目前支持的场景有：视频（普通视频、番剧（影视）、收藏列表）、动态评论区、个人主页动态。
 
-*   [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - 搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新
+*   [lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) -  ChatGPT 网站导航。搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新
 
 *   [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 
@@ -835,7 +835,7 @@
 
 *   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - A brand-new type of connection manager and remote file explorer
 
-*   [kingwrcy/mblog-backend](https://github.com/kingwrcy/mblog-backend) - mblog-backend
+*   [mblog-backend/backend](https://github.com/mblog-backend/backend) - mblog-backend
 
 *   [JokerIvanZK/cloud-serverless](https://github.com/JokerIvanZK/cloud-serverless) - 1.qq机器人、discord机器人、webapi集成服务
 
