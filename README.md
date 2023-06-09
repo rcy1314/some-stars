@@ -71,8 +71,6 @@
 
 *   [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
 
-*   [gurdiga/rss-email-subscription](https://github.com/gurdiga/rss-email-subscription) - An email subscription system for blogs
-
 *   [sprout2000/elephicon](https://github.com/sprout2000/elephicon) - A GUI wrapper for png2icons.
 
 *   [MaLuns/hexo-editor](https://github.com/MaLuns/hexo-editor) - An online web page for the hexo editor
@@ -248,6 +246,8 @@
 *   [fky2015/nexon](https://github.com/fky2015/nexon) - Nexon is a Notion-powered blog template built with the Next.js and Vercel. It's a modified version of https://github.com/transitive-bullshit/nextjs-notion-starter-kit with a special focus on the better blogging experience.
 
 *   [Mereithhh/van-nav](https://github.com/Mereithhh/van-nav) - 一个轻量导航站，汇总你的所有服务。全平台支持，单文件部署，有配套浏览器插件
+
+*   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 
 ## Go
 
