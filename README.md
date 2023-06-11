@@ -49,7 +49,7 @@
 
 ## TypeScript
 
-*   [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过网页访问本地素材/媒体。
+*   [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过局域网访问本地素材/媒体。（Visit local material and media by LAN on any device. ）
 
 *   [TravisRoad/anime-rss](https://github.com/TravisRoad/anime-rss) -
 
