@@ -71,8 +71,6 @@
 
 *   [MeirinRuan/MyPSD2UI](https://github.com/MeirinRuan/MyPSD2UI) - 解析psd文件，生成ui配置
 
-*   [05740682/cloud-disk-download-link-generator](https://github.com/05740682/cloud-disk-download-link-generator) - 云盘解析 - 解析QQ邮箱文件中转站 (直链) 解析蓝奏云 (外链-支持带密码解析直链或文件夹) 解析123云盘 (外链-支持带密码解析直链)
-
 *   [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) - 仅供学习交流使用 | 第三方网易云音乐播放器 | A Netease Cloud Music Player
 
 *   [LemonCodeTeam/Lemon-App](https://github.com/LemonCodeTeam/Lemon-App) - 一只在线QQ音乐播放器(PC端)
@@ -301,11 +299,13 @@
 
 *   [TerraceCN/TGRSS](https://github.com/TerraceCN/TGRSS) - Push RSS Feed through Telegram
 
+*   [cancundeyingzi/Compressed-packet-camouflage](https://github.com/cancundeyingzi/Compressed-packet-camouflage) - 将压缩包伪装成其他文件,绕过无法上传/分享的限制
+
 ## TypeScript
 
 *   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 
-*   [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过局域网访问本地素材/媒体。（Visit local material and media by LAN on any device. ）
+*   [rao-pics/core](https://github.com/rao-pics/core) - 任何设备可通过局域网访问媒体。Visit media by LAN on any device.
 
 *   [TravisRoad/anime-rss](https://github.com/TravisRoad/anime-rss) -
 
