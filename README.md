@@ -95,7 +95,7 @@
 
 *   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
 
-*   [TWK2022/ChineseAlpacaPlus](https://github.com/TWK2022/ChineseAlpacaPlus) - 快速在Linux上部署大型中文对话模型(chatGPT)。模型约14G，CPU上运行要有32G内存，GPU上运行要有20G内存
+*   [TWK2022/ChineseAlpacaPlus](https://github.com/TWK2022/ChineseAlpacaPlus) - 快速在Linux上部署大型中文对话模型(chatGPT)。基于Chinese-Alpaca-Plus官方项目改编
 
 *   [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 
@@ -745,7 +745,7 @@
 
 *   [wong2/chatgpt-plugins](https://github.com/wong2/chatgpt-plugins) - Collection of ChatGPT plugins
 
-*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 16.5） 、TikTok（V29.5.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V29.9.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 
 *   [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用
 
