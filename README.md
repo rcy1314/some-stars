@@ -59,7 +59,7 @@
 
 *   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
 
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI Key management & distribution system, English is supported.
 
 *   [bartbzd/todo-list](https://github.com/bartbzd/todo-list) - To-Do List
 
@@ -935,7 +935,7 @@
 
 *   [wong2/chatgpt-plugins](https://github.com/wong2/chatgpt-plugins) - Collection of ChatGPT plugins
 
-*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V29.9.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
+*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.0） 、TikTok（V30.0.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 
 *   [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用
 
