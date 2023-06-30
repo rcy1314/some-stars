@@ -473,7 +473,7 @@
 
 *   [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 
-*   [Beadd/MusicDownloader](https://github.com/Beadd/MusicDownloader) - 网易云无损，QQ音乐批量下载工具
+*   [Beadd/MusicDownloader](https://github.com/Beadd/MusicDownloader) - 🎵 Netease music and QQ music download tools 网易云无损，QQ音乐批量下载工具
 
 *   [tpai/summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, PDFs, and YouTube videos.
 
