@@ -14,10 +14,10 @@
 ## Table of Contents
 
 *   [PHP](#php)
+*   [Python](#python)
 *   [Vue](#vue)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
-*   [Python](#python)
 *   [Batchfile](#batchfile)
 *   [Swift](#swift)
 *   [TypeScript](#typescript)
@@ -49,6 +49,8 @@
 *   [Less](#less)
 
 ## PHP
+
+*   [jrotty/Zevideo](https://github.com/jrotty/Zevideo) - Typecho开源视频主题
 
 *   [master-start/baiduai](https://github.com/master-start/baiduai) - 百度AI 文心一言
 
@@ -110,129 +112,9 @@
 
 *   [pmhw/telegram-bot](https://github.com/pmhw/telegram-bot) - Tg机器人，自动回复自定义消息回复，私聊回复以及群聊回复，可以进行二次开发，希望你做出更优质的东西，记得@我
 
-## Vue
-
-*   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
-
-*   [Kaidesuyo/Hydrogen-Music](https://github.com/Kaidesuyo/Hydrogen-Music) - 仿明日方舟工业风音乐播放器，支持添加曲绘
-
-*   [lianginx/chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基于 Nuxt.js 框架的 ChatGPT 类项目，支持 OpenAI 和 Azure 两种 API 切换，支持黑暗模式、中英日多语言切换。
-
-*   [tinygeeker/ai-prompt-generator](https://github.com/tinygeeker/ai-prompt-generator) - 🌈 AI绘画标签生成器：将标签进行分类整理，支持中文显示、加权、降权、成人模式等功能
-
-*   [ZiuChen/ClipboardManager](https://github.com/ZiuChen/ClipboardManager) - 📋 A Powerful clipboard management tool
-
-*   [vastsa/openai-apikey-query](https://github.com/vastsa/openai-apikey-query) - 批量查询OpenAI账号已用余额，判断apikey的状态
-
-*   [Chen-Jieteng/GPT-TodoList](https://github.com/Chen-Jieteng/GPT-TodoList) - TodoList and daily scheduler based on ChatGPT-3.5/4.
-
-*   [RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui) - 【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。支持私有化部署场景。
-
-*   [Taosky/BiliMini](https://github.com/Taosky/BiliMini) - Bilibili Chrome/Firefox扩展，用于提示并快速查看更新。
-
-*   [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.
-
-*   [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - A fantastic toolkit for CTFers and everyone :toolbox:
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
-
-*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，GPT4接口官方只是在申请阶段，后期会一点一点的将OpenAI接口进行接入大家支持一下，微信群号在下方，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
-
-*   [gaozhun/ChatGPT-Web](https://github.com/gaozhun/ChatGPT-Web) -
-
-*   [weekend-project-space/moon-note](https://github.com/weekend-project-space/moon-note) - bullet journal, 子弹笔记
-
-*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
-
-*   [lxchinesszz/dev-springlearn2](https://github.com/lxchinesszz/dev-springlearn2) - 极客导航2.0
-
-*   [HanaYabuki/otto-hzys](https://github.com/HanaYabuki/otto-hzys) - 电棍otto语音活字印刷生成
-
-*   [ybw0014/guizhan-builds](https://github.com/ybw0014/guizhan-builds) - 由 Github Actions + Vue2 + Nuxt.js + Github Pages 驱动的构建页面, 支持 Maven, Gradle 项目构建
-
-*   [4350pChris/slack-vuesualizer](https://github.com/4350pChris/slack-vuesualizer) - Display your Slack export and search through messages!
-
-*   [citrtoj/dirty-meter](https://github.com/citrtoj/dirty-meter) - Vue app that calculates the dirtiness of (mostly) any song's lyrics
-
-*   [debug16/LuoYiMusic](https://github.com/debug16/LuoYiMusic) - 基于 vue3 + vite + pinia + vue-router4 实现的一个简约美观的音乐播放平台，使用 pake 打包桌面端，只有1M+，欢迎大家体验和star
-
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 【待重构】🎉 一个简约的在线音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲，展示评论区，音乐频谱，音乐云盘及歌单管理，移动端基础适配
-
-*   [a7650/h5-editor](https://github.com/a7650/h5-editor) - 📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能
-
-*   [xp-bear/note\_wall](https://github.com/xp-bear/note_wall) - 留言墙功能可以让用户在网站上发表留言，以便其他用户可以看到并回复。它可以帮助网站的用户更好地交流，提高网站的互动性，增加用户体验。使用技术栈: vue3+express+mysql,觉得还可以的话,可以给一个star~
-
-*   [one-among-us/tg-blog](https://github.com/one-among-us/tg-blog) - Display offline telegram channel data like a blog
-
-*   [FTLIKON/EachStar](https://github.com/FTLIKON/EachStar) - 🌟在线互助Star社区🌟，基于 Github API 和 Element Plus 开发，致力于帮助开源项目积累初始影响力！
-
-*   [canwdev/page-craft-vite](https://github.com/canwdev/page-craft-vite) - 拖拽式网页快速设计生成工具 | Web page rapid generation tool inspired by Minecraft
-
-*   [fyl080801/vjdesign](https://github.com/fyl080801/vjdesign) - Vue 界面可视化设计器，支持任何 html 标签以及项目中引用的组件，可实现仅通过配置文件就能增加支持的组件和组件属性
-
-*   [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
-
-*   [chrisj74/vue-rss-blog](https://github.com/chrisj74/vue-rss-blog) - An embeddable to pull an RSS feed into your website
-
-*   [UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend) - GitScratch 社区前端
-
-## Java
-
-*   [yamonc/hexoHelper](https://github.com/yamonc/hexoHelper) - hexo文章转换器，通过上传文件的方式，将原始的markdown文件格式化成为hexo可以识别的带有front-matter格式的文档。
-
-*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
-
-*   [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS.
-
-*   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - A shell connection hub and remote file manager
-
-*   [mblog-backend/backend](https://github.com/mblog-backend/backend) - 支持前后分离/不分离的个人/多人使用的微博平台
-
-*   [JokerIvanZK/cloud-serverless](https://github.com/JokerIvanZK/cloud-serverless) - 1.qq机器人、discord机器人、webapi集成服务
-
-*   [itning/yunshu-nas](https://github.com/itning/yunshu-nas) - 自建NAS系统，实现本地视频音频点播，文件存储等功能。自动视频转码，在线观看下载视频！
-
-*   [vividus-framework/vividus](https://github.com/vividus-framework/vividus) - VIVIDUS is all in one test automation tool
-
-*   [ZhaoXiangLu0e/WechatBackupNoRoot](https://github.com/ZhaoXiangLu0e/WechatBackupNoRoot) - 免ROOT微信聊天数据备份/导出工具
-
-*   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
-
-*   [Cruii/oh-my-helper](https://github.com/Cruii/oh-my-helper) - 🚀原bilibili-helper-hub，目前已部署B站每日任务及大会员中心任务
-
-*   [Clay-Ferguson/quantizr](https://github.com/Clay-Ferguson/quantizr) - Quanta is an open-source Social Media (Fediverse) platform for wikis, micro-blogging, collaboration, publishing, secure messaging, file sharing, and video/audio sharing. Browser-based, and written in Java and TypeScript.
-
-*   [april-projects/april-zh-hotspot-push](https://github.com/april-projects/april-zh-hotspot-push) - 知乎热点推送
-
-*   [tonydon140/star-syncplayer](https://github.com/tonydon140/star-syncplayer) - 星星同步播放器，一款可以同步播放视频的软件。具有一起看电影、同步播放、弹幕互动等功能。
-
-*   [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台:fire:推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。
-
-*   [jeequan/jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
-
-*   [Jarrettluo/document-sharing-site](https://github.com/Jarrettluo/document-sharing-site) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information.  “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。
-
-*   [muedsa/BilibiliLiveTV](https://github.com/muedsa/BilibiliLiveTV) - \[Deprecated]Bilibili Live APP for Android TV
-
-*   [FlyRenxing/RenxingPush](https://github.com/FlyRenxing/RenxingPush) - 任性推是一个消息推送机器人，用来通知自己消息的免费服务，目前支持QQ、Telegram两个平台。通过调用API接口，实现机器人给你发送消息的功能。通俗易懂点就是有什么重要通知需要及时知道，可以让任性推第一时间给你发消息。
-
-## Kotlin
-
-*   [msasikanth/reader](https://github.com/msasikanth/reader) - A Compose multiplatform (Android & iOS) RSS reader app
-
-*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
-
-*   [mumu12641/Lark](https://github.com/mumu12641/Lark) - Your NetEase Cloud music
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的看番软件，支持多番剧源
-
-*   [avatsav/linkding-apps](https://github.com/avatsav/linkding-apps) - \[WIP] Native apps for Linkding self-hosted bookmark service
-
-*   [gyakkun/qq-mht2html](https://github.com/gyakkun/qq-mht2html) - 转换QQ导出的MHT文件到HTML和图片文件, 支持按日期、行数自动分页, 支持多线程, 支持150G+文件
-
 ## Python
+
+*   [hankhjliao/RSS2Pocket](https://github.com/hankhjliao/RSS2Pocket) - An awesome tool to save articles from RSS feed to Pocket automatically.
 
 *   [EstrellaXD/Auto\_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 
@@ -435,6 +317,128 @@
 *   [guangzhengli/notification-action-template](https://github.com/guangzhengli/notification-action-template) - A github action template for notification action.
 
 *   [RWoxiN/AsoulNotificationPush](https://github.com/RWoxiN/AsoulNotificationPush) - A-SOUL 动态、直播状态获取，并推送到企业微信中。
+
+## Vue
+
+*   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
+
+*   [Kaidesuyo/Hydrogen-Music](https://github.com/Kaidesuyo/Hydrogen-Music) - 仿明日方舟工业风音乐播放器，支持添加曲绘
+
+*   [lianginx/chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基于 Nuxt.js 框架的 ChatGPT 类项目，支持 OpenAI 和 Azure 两种 API 切换，支持黑暗模式、中英日多语言切换。
+
+*   [tinygeeker/ai-prompt-generator](https://github.com/tinygeeker/ai-prompt-generator) - 🌈 AI绘画标签生成器：将标签进行分类整理，支持中文显示、加权、降权、成人模式等功能
+
+*   [ZiuChen/ClipboardManager](https://github.com/ZiuChen/ClipboardManager) - 📋 A Powerful clipboard management tool
+
+*   [vastsa/openai-apikey-query](https://github.com/vastsa/openai-apikey-query) - 批量查询OpenAI账号已用余额，判断apikey的状态
+
+*   [Chen-Jieteng/GPT-TodoList](https://github.com/Chen-Jieteng/GPT-TodoList) - TodoList and daily scheduler based on ChatGPT-3.5/4.
+
+*   [RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui) - 【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。支持私有化部署场景。
+
+*   [Taosky/BiliMini](https://github.com/Taosky/BiliMini) - Bilibili Chrome/Firefox扩展，用于提示并快速查看更新。
+
+*   [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.
+
+*   [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - A fantastic toolkit for CTFers and everyone :toolbox:
+
+*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+
+*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，GPT4接口官方只是在申请阶段，后期会一点一点的将OpenAI接口进行接入大家支持一下，微信群号在下方，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+
+*   [gaozhun/ChatGPT-Web](https://github.com/gaozhun/ChatGPT-Web) -
+
+*   [weekend-project-space/moon-note](https://github.com/weekend-project-space/moon-note) - bullet journal, 子弹笔记
+
+*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
+
+*   [lxchinesszz/dev-springlearn2](https://github.com/lxchinesszz/dev-springlearn2) - 极客导航2.0
+
+*   [HanaYabuki/otto-hzys](https://github.com/HanaYabuki/otto-hzys) - 电棍otto语音活字印刷生成
+
+*   [ybw0014/guizhan-builds](https://github.com/ybw0014/guizhan-builds) - 由 Github Actions + Vue2 + Nuxt.js + Github Pages 驱动的构建页面, 支持 Maven, Gradle 项目构建
+
+*   [4350pChris/slack-vuesualizer](https://github.com/4350pChris/slack-vuesualizer) - Display your Slack export and search through messages!
+
+*   [citrtoj/dirty-meter](https://github.com/citrtoj/dirty-meter) - Vue app that calculates the dirtiness of (mostly) any song's lyrics
+
+*   [debug16/LuoYiMusic](https://github.com/debug16/LuoYiMusic) - 基于 vue3 + vite + pinia + vue-router4 实现的一个简约美观的音乐播放平台，使用 pake 打包桌面端，只有1M+，欢迎大家体验和star
+
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 【待重构】🎉 一个简约的在线音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲，展示评论区，音乐频谱，音乐云盘及歌单管理，移动端基础适配
+
+*   [a7650/h5-editor](https://github.com/a7650/h5-editor) - 📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能
+
+*   [xp-bear/note\_wall](https://github.com/xp-bear/note_wall) - 留言墙功能可以让用户在网站上发表留言，以便其他用户可以看到并回复。它可以帮助网站的用户更好地交流，提高网站的互动性，增加用户体验。使用技术栈: vue3+express+mysql,觉得还可以的话,可以给一个star~
+
+*   [one-among-us/tg-blog](https://github.com/one-among-us/tg-blog) - Display offline telegram channel data like a blog
+
+*   [FTLIKON/EachStar](https://github.com/FTLIKON/EachStar) - 🌟在线互助Star社区🌟，基于 Github API 和 Element Plus 开发，致力于帮助开源项目积累初始影响力！
+
+*   [canwdev/page-craft-vite](https://github.com/canwdev/page-craft-vite) - 拖拽式网页快速设计生成工具 | Web page rapid generation tool inspired by Minecraft
+
+*   [fyl080801/vjdesign](https://github.com/fyl080801/vjdesign) - Vue 界面可视化设计器，支持任何 html 标签以及项目中引用的组件，可实现仅通过配置文件就能增加支持的组件和组件属性
+
+*   [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
+
+*   [chrisj74/vue-rss-blog](https://github.com/chrisj74/vue-rss-blog) - An embeddable to pull an RSS feed into your website
+
+*   [UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend) - GitScratch 社区前端
+
+## Java
+
+*   [yamonc/hexoHelper](https://github.com/yamonc/hexoHelper) - hexo文章转换器，通过上传文件的方式，将原始的markdown文件格式化成为hexo可以识别的带有front-matter格式的文档。
+
+*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
+
+*   [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS.
+
+*   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - A shell connection hub and remote file manager
+
+*   [mblog-backend/backend](https://github.com/mblog-backend/backend) - 支持前后分离/不分离的个人/多人使用的微博平台
+
+*   [JokerIvanZK/cloud-serverless](https://github.com/JokerIvanZK/cloud-serverless) - 1.qq机器人、discord机器人、webapi集成服务
+
+*   [itning/yunshu-nas](https://github.com/itning/yunshu-nas) - 自建NAS系统，实现本地视频音频点播，文件存储等功能。自动视频转码，在线观看下载视频！
+
+*   [vividus-framework/vividus](https://github.com/vividus-framework/vividus) - VIVIDUS is all in one test automation tool
+
+*   [ZhaoXiangLu0e/WechatBackupNoRoot](https://github.com/ZhaoXiangLu0e/WechatBackupNoRoot) - 免ROOT微信聊天数据备份/导出工具
+
+*   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
+
+*   [Cruii/oh-my-helper](https://github.com/Cruii/oh-my-helper) - 🚀原bilibili-helper-hub，目前已部署B站每日任务及大会员中心任务
+
+*   [Clay-Ferguson/quantizr](https://github.com/Clay-Ferguson/quantizr) - Quanta is an open-source Social Media (Fediverse) platform for wikis, micro-blogging, collaboration, publishing, secure messaging, file sharing, and video/audio sharing. Browser-based, and written in Java and TypeScript.
+
+*   [april-projects/april-zh-hotspot-push](https://github.com/april-projects/april-zh-hotspot-push) - 知乎热点推送
+
+*   [tonydon140/star-syncplayer](https://github.com/tonydon140/star-syncplayer) - 星星同步播放器，一款可以同步播放视频的软件。具有一起看电影、同步播放、弹幕互动等功能。
+
+*   [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台:fire:推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。
+
+*   [jeequan/jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
+
+*   [Jarrettluo/document-sharing-site](https://github.com/Jarrettluo/document-sharing-site) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information.  “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。
+
+*   [muedsa/BilibiliLiveTV](https://github.com/muedsa/BilibiliLiveTV) - \[Deprecated]Bilibili Live APP for Android TV
+
+*   [FlyRenxing/RenxingPush](https://github.com/FlyRenxing/RenxingPush) - 任性推是一个消息推送机器人，用来通知自己消息的免费服务，目前支持QQ、Telegram两个平台。通过调用API接口，实现机器人给你发送消息的功能。通俗易懂点就是有什么重要通知需要及时知道，可以让任性推第一时间给你发消息。
+
+## Kotlin
+
+*   [msasikanth/reader](https://github.com/msasikanth/reader) - A Compose multiplatform (Android & iOS) RSS reader app
+
+*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+
+*   [mumu12641/Lark](https://github.com/mumu12641/Lark) - Your NetEase Cloud music
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的看番软件，支持多番剧源
+
+*   [avatsav/linkding-apps](https://github.com/avatsav/linkding-apps) - \[WIP] Native apps for Linkding self-hosted bookmark service
+
+*   [gyakkun/qq-mht2html](https://github.com/gyakkun/qq-mht2html) - 转换QQ导出的MHT文件到HTML和图片文件, 支持按日期、行数自动分页, 支持多线程, 支持150G+文件
 
 ## Batchfile
 
@@ -646,8 +650,6 @@
 
 *   [MannyCooper/anzifan.com](https://github.com/MannyCooper/anzifan.com) - Personal blog powered by Notion official API + Next.JS + WindiCSS!
 
-*   [upleveled/notion-backup](https://github.com/upleveled/notion-backup) - Export Notion pages and subpages to a GitHub repo on a schedule (eg. to be used as a scheduled backup)
-
 ## JavaScript
 
 *   [liudding/notion-portal](https://github.com/liudding/notion-portal) - 基于 Notion 的导航网站，支持自建，自定义主题
@@ -835,8 +837,6 @@
 *   [imsyy/Snavigation](https://github.com/imsyy/Snavigation) - 【即将重构】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
 
 *   [JimSunJing/ReviewHelper](https://github.com/JimSunJing/ReviewHelper) - A Github Action regulary query Notion Database & send review reminder(email).
-
-*   [ycf1998/greeting-mail](https://github.com/ycf1998/greeting-mail) - 一个定时给你发问候邮件的网站。目前支持的问候服务有天气预报、舔狗日记、彩虹屁、网易云、朋友圈文案等
 
 ## Rust
 
