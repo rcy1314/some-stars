@@ -49,6 +49,8 @@
 
 ## Python
 
+*   [polyphilz/lil-hawk](https://github.com/polyphilz/lil-hawk) - A simple Chrome extension that lets you analyze legal documents (T\&Cs, rental agreements, etc) for "suspicious" clauses using the power of GPT models.
+
 *   [jiran214/GPT-vup](https://github.com/jiran214/GPT-vup) - GPT-vup BIliBili | 抖音 | AI | 虚拟主播
 
 *   [VoileLabs/cotrans](https://github.com/VoileLabs/cotrans) -
@@ -763,8 +765,6 @@
 
 *   [LiuYuYang01/BookMark](https://github.com/LiuYuYang01/BookMark) - BookMark 是一款轻量、简洁雅观的书签导航项目 你可以将它设置为你的浏览器主页 告别杂乱无章的浏览器书签栏。相信你会喜欢它的! 🎉
 
-*   [srcrs/ownrss](https://github.com/srcrs/ownrss) - 一个极简的RSS在线浏览工具
-
 ## miscellaneous
 
 *   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
@@ -959,7 +959,7 @@
 
 *   [guanguans/notify](https://github.com/guanguans/notify) - 推送通知 sdk(Bark、Chanify、钉钉群机器人、Discord、邮件、飞书群机器人、Gitter、Google Chat、iGot、Logger、Mattermost、Microsoft Teams、Now Push、Ntfy、PushBack、Push、PushDeer、Pushover、PushPlus、QQ 频道机器人、Rocket Chat、Server 酱、Showdoc Push、Slack、Telegram、Webhook、企业微信群机器人、息知、一封传话、Zulip)。
 
-*   [HurryBy/CloudDiskAnalysis](https://github.com/HurryBy/CloudDiskAnalysis) - 蓝奏云直链，蓝奏云解析，蓝奏云解析API，蓝奏云带密码解析，蓝奏云文件夹分享解析
+*   [HurryBy/CloudDiskAnalysis](https://github.com/HurryBy/CloudDiskAnalysis) - 蓝奏云/123云盘/中国移动云空间直链，蓝奏云/123云盘/中国移动云空间解析，蓝奏云/123云盘/中国移动云空间解析API，蓝奏云/123云盘/中国移动云空间带密码解析，蓝奏云/123云盘/中国移动云空间文件夹分享解析
 
 *   [wpbkj/moyu\_php](https://github.com/wpbkj/moyu_php) - 摸鱼办是一个具有娱乐调侃性质的虚拟机构。摸鱼办提醒则提醒各位摸鱼人各个假期何时到来，为摸鱼人种下希望（狗头）。项目整体由PHP构建。
 
