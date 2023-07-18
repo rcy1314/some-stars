@@ -601,8 +601,6 @@
 
 *   [solo1d/MAC\_OS\_System](https://github.com/solo1d/MAC_OS_System) - MAC系统使用笔记
 
-*   [daodaolee/portal-widgets-extension](https://github.com/daodaolee/portal-widgets-extension) - 一个极简风格的谷歌扩展标签页
-
 *   [Louiszhai/tool](https://github.com/Louiszhai/tool) - 开发效率提升：Mac生产力工具链推荐
 
 *   [EmptyDreams/hexo-swpp](https://github.com/EmptyDreams/hexo-swpp) - 为 Hexo 博客自动构建 ServiceWorker！
@@ -762,6 +760,8 @@
 *   [ZutJoe/Koala\_hacker\_news](https://github.com/ZutJoe/Koala_hacker_news) - Koala hacker news 周报内容 每周二0点左右自动更新
 
 *   [LiuYuYang01/BookMark](https://github.com/LiuYuYang01/BookMark) - BookMark 是一款轻量、简洁雅观的书签导航项目 你可以将它设置为你的浏览器主页 告别杂乱无章的浏览器书签栏。相信你会喜欢它的! 🎉
+
+*   [srcrs/ownrss](https://github.com/srcrs/ownrss) - 一个极简的RSS在线浏览工具
 
 ## miscellaneous
 
