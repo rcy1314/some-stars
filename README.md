@@ -117,7 +117,7 @@
 
 *   [long2ice/databack](https://github.com/long2ice/databack) - Backup your data from MySQL/PostgreSQL/SSH etc. to any other storages
 
-*   [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - The testing framework dedicated to ML models, from tabular to LLMs 🛡️🧑‍🔬
+*   [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 The testing framework for ML models, from tabular to LLMs
 
 *   [mattwheeler/gpt-webex-bot](https://github.com/mattwheeler/gpt-webex-bot) - Webex Wiz is a GPT AI-powered virtual assistant bot for Webex Teams rooms. It provides quick and relevant responses to user prompts, helping users to get information and insights directly in their Webex Teams rooms.
 
