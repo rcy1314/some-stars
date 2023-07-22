@@ -773,7 +773,7 @@
 
 *   [gaboolic/vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
 
-*   [VinsonLaro/stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui-chinese) - stable-diffusion-webui 的汉化版本
+*   [VinsonLaro/stable-diffusion-webui-chinese](https://github.com/VinsonLaro/stable-diffusion-webui-chinese) - stable-diffusion-webui 的汉化扩展
 
 *   [eagle-app/eagle-desktop-closed-beta](https://github.com/eagle-app/eagle-desktop-closed-beta) - 欢迎加入我们的内测群，一起帮助我们打造更好的 Eagle 应用。您可以在群里获取最新的开发资源和文档，并向我们提供反馈和建议。 https://discord.com/invite/P8UG9FFA
 
