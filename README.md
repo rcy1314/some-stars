@@ -60,7 +60,7 @@
 
 *   [felixbrock/lemonai](https://github.com/felixbrock/lemonai) - Gateway to empower LLM agents to interact with the world
 
-*   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+*   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 
 *   [BrokenSource/BrokenSource](https://github.com/BrokenSource/BrokenSource) - ▸ Broken Source Software's Framework and Monorepo. Home of all projects.
 
@@ -850,7 +850,7 @@
 
 *   [wangshenghao1/QNQ](https://github.com/wangshenghao1/QNQ) - 这是一个基本可用的文件同步工具，还在开发阶段。之前开源的QNQ迁移至此项目。This is a basically available file synchronization tool that is still in the development stage. The previously open source QNQ was migrated to this project.
 
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Claude、PaLM 2 以及文心一言，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, supports English UI.
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Claude、PaLM 2、智谱以及文心一言，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
 
 *   [szpnygo/VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
 
