@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Perl](#perl)
 *   [HTML](#html)
 *   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -46,6 +47,10 @@
 *   [Svelte](#svelte)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Metal](#metal)
+
+## Perl
+
+*   [WindyCloudCute/LANraragi\_Chinese](https://github.com/WindyCloudCute/LANraragi_Chinese) - 全新稳定更新的LANraragi中文汉化翻译项目           交流论坛👇
 
 ## HTML
 
@@ -120,8 +125,6 @@
 *   [rosuH/YSL](https://github.com/rosuH/YSL) - 🏞Yellowstone Sound Library 🎵 黄石国家公园自然声音库，每周五早上自动爬取更新。
 
 *   [WeblateOrg/translation-finder](https://github.com/WeblateOrg/translation-finder) - Translation files finder
-
-*   [felixbrock/lemonai](https://github.com/felixbrock/lemonai) - Gateway to empower LLM agents to interact with the world
 
 *   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 
@@ -331,8 +334,6 @@
 
 *   [guangzhengli/notification-action-template](https://github.com/guangzhengli/notification-action-template) - A github action template for notification action.
 
-*   [RWoxiN/AsoulNotificationPush](https://github.com/RWoxiN/AsoulNotificationPush) - A-SOUL 动态、直播状态获取，并推送到企业微信中。
-
 ## Jupyter Notebook
 
 *   [dlab-berkeley/Python-Fundamentals-Legacy](https://github.com/dlab-berkeley/Python-Fundamentals-Legacy) - D-Lab's 12 hour introduction to Python. Learn how to create variables and functions, use control flow structures, use libraries, import data, and more, using Python and Jupyter Notebooks.
@@ -357,9 +358,11 @@
 
 *   [VoileLabs/cotrans](https://github.com/VoileLabs/cotrans) -
 
+*   [felixbrock/lemon-agent](https://github.com/felixbrock/lemon-agent) - Gateway to empower LLM agents to interact with the world
+
 *   [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
 
-*   [sveltor/nextlint](https://github.com/sveltor/nextlint) - A notion like Editor,GPT integrate. Build with svelte
+*   [sveltor/nextlint](https://github.com/sveltor/nextlint) - A rich text editor,  notion like Editor, build with svelte + tiptap.
 
 *   [IndieKKY/ai-text-assistant-utools](https://github.com/IndieKKY/ai-text-assistant-utools) - AI通用文本生成辅助，做uTools里最好的NotionAI和RaycastAI平替，依赖OpenAI接口。
 
@@ -413,7 +416,7 @@
 
 *   [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator) - A translator that uses OpanAI.
 
-*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for GPT/LLM that supports Windows, Mac, Linux & Web Online
+*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models that available on Windows, Mac, Linux
 
 *   [pionxzh/chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and Share your ChatGPT conversation history
 
