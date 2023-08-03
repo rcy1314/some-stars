@@ -114,7 +114,7 @@
 
 ## Python
 
-*   [OpenGenenerativeAI/GenossGPT](https://github.com/OpenGenenerativeAI/GenossGPT) - Replace OpenAI GPT with any LLMs in your app with one line. Common Inference API for all LLMs either Private or Public (Anthropic, Llama, GPT, Vertex, ...)
+*   [OpenGenerativeAI/GenossGPT](https://github.com/OpenGenerativeAI/GenossGPT) - One API for all LLMs either Private or Public (Anthropic, Llama V2, GPT 3.5/4, Vertex, GPT4ALL ...) 🌈🐂  Replace OpenAI GPT with any LLMs in your app with one line.
 
 *   [smallnew666/ChatGPT-Virtual-Live](https://github.com/smallnew666/ChatGPT-Virtual-Live) - ChatGPT虚拟主播、支持B站、抖音、视频号
 
@@ -163,8 +163,6 @@
 *   [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 
 *   [ZYKsslm/BlackStone\_Music\_GUI](https://github.com/ZYKsslm/BlackStone_Music_GUI) - 一个简约的音乐下载工具
-
-*   [Beadd/MusicDownloader](https://github.com/Beadd/MusicDownloader) - 🎵 网易云无损，QQ音乐批量下载工具 Netease music and QQ music download tools
 
 *   [tpai/summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, PDFs, and YouTube videos.
 
@@ -358,7 +356,7 @@
 
 *   [VoileLabs/cotrans](https://github.com/VoileLabs/cotrans) -
 
-*   [felixbrock/lemon-agent](https://github.com/felixbrock/lemon-agent) - Gateway to empower LLM agents to interact with the world
+*   [felixbrock/lemon-agent](https://github.com/felixbrock/lemon-agent) - Plan and Solve Agent for accurate, reliable and reproducable workflow automation
 
 *   [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
 
@@ -742,7 +740,7 @@
 
 *   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
 
-*   [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS.
+*   [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.
 
 *   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - A brand-new shell connection hub and remote file manager
 
@@ -916,7 +914,7 @@
 
 *   [kenellorando/cadence](https://github.com/kenellorando/cadence) - All-in-one web radio suite. Provides music search, request, artwork, UI, and real-time stream information.
 
-*   [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DeanDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
+*   [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
 
 *   [qydysky/bili\_danmu](https://github.com/qydysky/bili_danmu) - bilibili直播、弹幕录制回放工具 go1.20+
 
@@ -1007,6 +1005,8 @@
 *   [tinygeeker/autocue](https://github.com/tinygeeker/autocue) - 🌈 AI绘画标签提词器：将标签进行分类整理，支持中文显示、加权、降权、成人模式等功能
 
 *   [ZiuChen/ClipboardManager](https://github.com/ZiuChen/ClipboardManager) - 📋 A Powerful clipboard management tool
+
+*   [Beadd/Creamplayer](https://github.com/Beadd/Creamplayer) - 🎵 网易云播放/下载器，QQ音乐批量下载工具 Netease music and QQ music downloader and player
 
 *   [vastsa/openai-apikey-query](https://github.com/vastsa/openai-apikey-query) - 批量查询OpenAI账号已用余额，判断apikey的状态
 
