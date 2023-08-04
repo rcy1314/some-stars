@@ -114,7 +114,7 @@
 
 ## Python
 
-*   [OpenGenerativeAI/GenossGPT](https://github.com/OpenGenerativeAI/GenossGPT) - One API for all LLMs either Private or Public (Anthropic, Llama V2, GPT 3.5/4, Vertex, GPT4ALL ...) 🌈🐂  Replace OpenAI GPT with any LLMs in your app with one line.
+*   [OpenGenerativeAI/GenossGPT](https://github.com/OpenGenerativeAI/GenossGPT) - One API for all LLMs either Private or Public (Anthropic, Llama V2, GPT 3.5/4, Vertex, GPT4ALL, HuggingFace ...) 🌈🐂  Replace OpenAI GPT with any LLMs in your app with one line.
 
 *   [smallnew666/ChatGPT-Virtual-Live](https://github.com/smallnew666/ChatGPT-Virtual-Live) - ChatGPT虚拟主播、支持B站、抖音、视频号
 
