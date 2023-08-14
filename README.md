@@ -1298,7 +1298,7 @@
 
 *   [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
 
-*   [MicroCBer/BetterUniverse-Installer](https://github.com/MicroCBer/BetterUniverse-Installer) - 一键安装 Better 系软件
+*   [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 Better 系软件
 
 *   [morphy2k/rss-forwarder](https://github.com/morphy2k/rss-forwarder) - Checks RSS feeds for new entries and forwards them
 
@@ -1486,7 +1486,7 @@
 
 ## Blade
 
-*   [zhuchunshu/SForum](https://github.com/zhuchunshu/SForum) - SForum是一个php开发的论坛程序,Multifunctional Forum Program，(原super-forum)
+*   [zhuchunshu/SForum](https://github.com/zhuchunshu/SForum) - SForum 是一个页面简洁且功能丰富的中文论坛程序
 
 ## SCSS
 
