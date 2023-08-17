@@ -366,8 +366,6 @@
 
 *   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 
-*   [hsinyuwang/X-Boy](https://github.com/hsinyuwang/X-Boy) - DIY game handheld console based on Allwinner V3s、T113-S3
-
 *   [aoaostar/legado](https://github.com/aoaostar/legado) - 阅读APP书源
 
 *   [LiangYang666/ChatGPT-Web](https://github.com/LiangYang666/ChatGPT-Web) - 使用GPT-3.5 API创建的ChatGPT聊天页面，支持云部署，多用户使用，多对话管理，公式显示，流式动态显示，windows和linux均可极简部署，网页版 html python flask
@@ -460,7 +458,7 @@
 
 *   [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的ChatGPT快捷指令，无需熟悉提示词，就能轻松搜索、优化和管理Prompts，适应多语言及各种生产效率场景。
 
-*   [rao-pics/rao-pics](https://github.com/rao-pics/rao-pics) - :electron: Visit photos on any devices.／在任何设备上访问你的素材。
+*   [meetqy/rao-pics](https://github.com/meetqy/rao-pics) - :electron: Visit photos on any devices.／在任何设备上访问你的素材。
 
 *   [TravisRoad/anime-rss](https://github.com/TravisRoad/anime-rss) -
 
@@ -939,6 +937,8 @@
 *   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 
 *   [Xzonn/NintendoOfficialChineseGames](https://github.com/Xzonn/NintendoOfficialChineseGames) - 任天堂官方中文化游戏文本
+
+*   [hsinyuwang/X-Boy](https://github.com/hsinyuwang/X-Boy) - DIY game handheld console based on Allwinner V3s、T113-S3
 
 *   [yzfly/wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
 
@@ -1510,7 +1510,7 @@
 
 ## Metal
 
-*   [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 GPU accelerated Image and Video and Camera filter framework with Metal. Support macOS & iOS. 图像、视频、相机滤镜框架
+*   [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架
 
 ## Less
 
