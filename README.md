@@ -538,7 +538,7 @@
 
 *   [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 
-*   [DukeLuo/wai](https://github.com/DukeLuo/wai) - 一款可以预防颈椎病的新标签页扩展。
+*   [dukeluo/wai](https://github.com/dukeluo/wai) - 一款可以预防颈椎病的新标签页扩展。
 
 *   [ycjcl868/readme-gpt](https://github.com/ycjcl868/readme-gpt) - Generate your Github Readme with OpenAI and Vercel Edge Functions.
 
@@ -1192,7 +1192,7 @@
 
 *   [ZiuChen/ClipboardManager](https://github.com/ZiuChen/ClipboardManager) - 📋 A Powerful clipboard management tool
 
-*   [Beadd/Creamplayer](https://github.com/Beadd/Creamplayer) - 🎵 多主题网易云播放、下载器，QQ音乐批量下载工具 Netease music and QQ music downloader and player
+*   [Beadd/Creamplayer](https://github.com/Beadd/Creamplayer) - 🎵 多主题网易云无损播放器下载器，QQ音乐批量下载工具 Netease music and QQ music downloader and player
 
 *   [vastsa/openai-apikey-query](https://github.com/vastsa/openai-apikey-query) - 批量查询OpenAI账号已用余额，判断apikey的状态
 
