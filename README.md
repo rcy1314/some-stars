@@ -534,7 +534,7 @@
 
 *   [PeterTYLiu/toaster](https://github.com/PeterTYLiu/toaster) - 3D editor for modelling in pure CSS+HTML; no canvas, no WebGL
 
-*   [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - Pezzo is an open-source AI development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more.
+*   [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source LLMOps plaform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 
 *   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - 开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs)和博客平台(Hexo/Vitepress/Confluence/WordPress等)
 
