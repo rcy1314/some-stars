@@ -876,7 +876,7 @@
 
 *   [merill/aka](https://github.com/merill/aka) - Search for Microsoft's aka.ms links
 
-*   [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text, etc.) with management and statistical monitoring capabilities.
+*   [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
 
 *   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化首页、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
 
@@ -1276,7 +1276,7 @@
 
 *   [ZiuChen/ClipboardManager](https://github.com/ZiuChen/ClipboardManager) - 📋 A Powerful clipboard management tool
 
-*   [Beadd/Creamplayer](https://github.com/Beadd/Creamplayer) - 🎵 无损音乐下载器，支持网易云/QQ
+*   [Beadd/Creamplayer](https://github.com/Beadd/Creamplayer) - 🎵 无损音乐下载器;支持网易云/QQ;歌单/专辑/歌手
 
 *   [vastsa/openai-apikey-query](https://github.com/vastsa/openai-apikey-query) - 批量查询OpenAI账号已用余额，判断apikey的状态
 
