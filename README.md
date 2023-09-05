@@ -1344,7 +1344,7 @@
 
 ## Kotlin
 
-*   [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A Compose multiplatform RSS reader app
+*   [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
 
 *   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 
@@ -1464,7 +1464,7 @@
 
 *   [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 
-*   [Fclash/Fclash](https://github.com/Fclash/Fclash) - A better open-source clash client written by Flutter (Linux/Windows/MacOS/Android supported). 🐱 支持Linux\[arm64|x86\_64]/Windows/MacOS/Android的更好的Clash客户端，支持自动设置代理，兼容RULE-SET、TUN特性(Clash.Meta)。
+*   [Fclash/Fclash](https://github.com/Fclash/Fclash) - A better open-source clash client written by Flutter (Linux/Windows/MacOS/Android supported). 🐱 支持Linux\[arm64|x86\_64]/Windows/MacOS/Android的更好的Clash客户端，支持自动设置代理，兼容RULE-SET、TUN特性(Clash.Meta)、不走本地loop。
 
 ## AngelScript
 
