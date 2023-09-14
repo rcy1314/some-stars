@@ -432,7 +432,7 @@
 
 ## miscellaneous
 
-*   [SamToki/IconDesign---Sam-Toki-Mouse-Cursors](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors) - Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 原创极简风格鼠标指针，适用于 Windows 系统。
+*   [SamToki/IconDesign---Sam-Toki-Mouse-Cursors](https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design.
 
 *   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 
@@ -480,7 +480,7 @@
 
 *   [zhufenghua1998/bp3](https://github.com/zhufenghua1998/bp3) - bp3是一款使用php开发的百度网盘接口程序，百度网盘目录搜索引擎，文件展示搜索目录树，在线目录搜索索引，百度网盘文件下载（含直链）等。
 
-*   [dxtop/dxtop.github.io](https://github.com/dxtop/dxtop.github.io) - VIPTV - 对标聚合海量电视， 直播，影视，短片，音乐，小说，壁纸等资源
+*   [vipjt/vipjt.github.io](https://github.com/vipjt/vipjt.github.io) - VIPTV - 对标聚合海量电视， 直播，影视，短片，音乐，小说，壁纸等资源
 
 *   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
