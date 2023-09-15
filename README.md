@@ -874,7 +874,7 @@
 
 *   [liudding/notion-portal](https://github.com/liudding/notion-portal) - 基于 Notion 的导航网站，支持自建，自定义主题
 
-*   [SenpaiHunters/SpotOn](https://github.com/SenpaiHunters/SpotOn) - SpotOn, a browser extension for Spotify. There is a lot, this includes various visual enhancements such as animation effects, rounded album covers and hover animations, as well as functional improvements such as a dynamic theme that responds to the album art and an auto-lyric search feature on Genius, rainbow controls, and more to discover.
+*   [SenpaiHunters/SpotOn](https://github.com/SenpaiHunters/SpotOn) - SpotOn, is browser extension for Spotify. Including full custom toggles and user settings! For more info check out the README.md and Wiki!
 
 *   [nicokruger/linkyrss](https://github.com/nicokruger/linkyrss) - LinkyRSS is an open-source project that solves bookmarking by combining RSS + AI.
 
