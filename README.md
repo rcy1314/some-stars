@@ -76,8 +76,6 @@
 
 *   [WeblateOrg/translation-finder](https://github.com/WeblateOrg/translation-finder) - Translation files finder
 
-*   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
-
 *   [BrokenSource/BrokenSource](https://github.com/BrokenSource/BrokenSource) - ❤️‍🩹 Broken Source Software's Framework and Monorepo. A fragmented world, software shards converging to form the vibrant and dynamic BrokenSource universe.
 
 *   [hankhjliao/RSS2Pocket](https://github.com/hankhjliao/RSS2Pocket) - An awesome tool to save articles from RSS feed to Pocket automatically.
@@ -804,6 +802,8 @@
 
 *   [rcy1314/VerseWebX](https://github.com/rcy1314/VerseWebX) - 基于Electron快速构建跨平台的桌面应用程序
 
+*   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+
 *   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 
 *   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
@@ -1412,7 +1412,7 @@
 
 ## PowerShell
 
-*   [Lin-jun-xiang/vscode-extensions-best](https://github.com/Lin-jun-xiang/vscode-extensions-best) - :gem:Tops of VSCode Extensions
+*   [Lin-jun-xiang/awesome-vscode-extensions](https://github.com/Lin-jun-xiang/awesome-vscode-extensions) - :gem:Tops of VSCode Extensions
 
 *   [daboynb/ChatGPT-Bypass-gui](https://github.com/daboynb/ChatGPT-Bypass-gui) - A  gui that allows you to bypass content filtering in ChatGPT through the OpenAI autocompletion API for DaVinci-003
 
