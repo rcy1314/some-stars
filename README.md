@@ -844,8 +844,6 @@
 
 *   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
-
 *   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
 
 *   [qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet) - 获取城通网盘一次性直连地址
@@ -1005,6 +1003,8 @@
 *   [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
 
 *   [dengxiwang/funtabs](https://github.com/dengxiwang/funtabs) - funtabs乐享新标签页（原：趣标签页、方格桌面），让您感受清新，畅享干净，乐在其中，与您同在！支持自定义您新标签页上的导航卡片、文章收藏、精美壁纸以及搜索引擎，创建、编辑及分享属于您自己的浏览器标签页,美化您的浏览器主页与newtab新标签页，清新、简约、高度的可自定义操作，让您设置属于您专属的小而美的独特导航页面!
+
+*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 
 *   [lucaschungzsj/fcgame](https://github.com/lucaschungzsj/fcgame) - FC/NES模拟器，在线畅玩八十款任天堂红白机游戏，小霸王游戏机其乐无穷。支持魂斗罗/超级玛丽/双截龙等等几十款任天堂红白机游戏。 非常适合在手机/电脑上在线游玩，近乎完美的还原任天堂FC/NES原版ROM游戏的视频和声音。
 
