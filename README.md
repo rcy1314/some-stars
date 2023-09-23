@@ -13,10 +13,10 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Rust](#rust)
 *   [C#](#c)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c-1)
@@ -49,6 +49,44 @@
 *   [Metal](#metal)
 *   [Less](#less)
 *   [Scala](#scala)
+
+## Rust
+
+*   [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive.
+
+*   [parksb/collie](https://github.com/parksb/collie) - A minimal RSS reader just for you
+
+*   [zhu327/workers-tunnel](https://github.com/zhu327/workers-tunnel) - Edge network tunnel implemented using Cloudflare Workers.
+
+*   [rogeryoungh/github-action-rss](https://github.com/rogeryoungh/github-action-rss) - RSS 邮件订阅，基于 GitHub Action。
+
+*   [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
+
+*   [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) - 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
+
+*   [xuncv/ChatSubtitle](https://github.com/xuncv/ChatSubtitle) - 基于Chatgpt的字幕脱水 字幕总结，去除网课、教程灌水，总结干货
+
+*   [DaZiYuan/livewallpaper](https://github.com/DaZiYuan/livewallpaper) - A tiny win10 (dynamic) wallpaper changer | 巨应壁纸 | 动态壁纸 | live wallpaper
+
+*   [cn-kali-team/notion-rss](https://github.com/cn-kali-team/notion-rss) - Build your own RSS Feeds in Notion.
+
+*   [everest-architecture/NewBing](https://github.com/everest-architecture/NewBing) - NewBin Desktop Application (Mac, Windows and Linux)
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
+
+*   [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 Better 系软件
+
+*   [morphy2k/rss-forwarder](https://github.com/morphy2k/rss-forwarder) - Checks RSS feeds for new entries and forwards them
+
+*   [mbround18/redirect](https://github.com/mbround18/redirect) - Simple redirection tool! Ready to use, docker capable, Kubernetes friendly, any Linux based env ready!
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。
+
+*   [YangchenYe323/Danmuji](https://github.com/YangchenYe323/Danmuji) - :hamster: 用Rust + React编写的Bilibili弹幕姬，感谢礼物，自动回复，定时任务弹幕助手
 
 ## Python
 
@@ -372,7 +410,7 @@
 
 *   [NiMediaOrg/NiPlayer](https://github.com/NiMediaOrg/NiPlayer) - 💡一款开箱即用的H5弹幕播放器，可自定义样式和组件；插件化，响应式设计；内置支持MP4文件的流播放，同时借助dash.js,  hls.js等流媒体协议库可接入任意类型的流媒体协议, 同时提供弹幕播放且提供两套事件和模板系统来适配PC端和移动端。
 
-*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based question answering system built on the LLM. It offers out-of-the-box data processing and model invocation capabilities. Moreover, it allows for workflow orchestration through Flow visualization, thereby enabling complex question and answer scenarios!
+*   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
 
 *   [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
 
@@ -574,8 +612,6 @@
 
 *   [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 打造最强静态导航网站(支持SEO)  | Discovery Navigation: A purely static, powerful navigation website that supports SEO and online editing
 
-*   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-
 ## Jupyter Notebook
 
 *   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -591,42 +627,6 @@
 *   [Sahilvohra58/ai-subtitle-video-editor](https://github.com/Sahilvohra58/ai-subtitle-video-editor) - A complete microservice that takes a video from the user, generates its subtitles, asks the user to edit them and reproduces the video with those subtitles as the part of the video.
 
 *   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
-
-## Rust
-
-*   [parksb/collie](https://github.com/parksb/collie) - A minimal RSS reader just for you
-
-*   [zhu327/workers-tunnel](https://github.com/zhu327/workers-tunnel) - Edge network tunnel implemented using Cloudflare Workers.
-
-*   [rogeryoungh/github-action-rss](https://github.com/rogeryoungh/github-action-rss) - RSS 邮件订阅，基于 GitHub Action。
-
-*   [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
-
-*   [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) - 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
-
-*   [xuncv/ChatSubtitle](https://github.com/xuncv/ChatSubtitle) - 基于Chatgpt的字幕脱水 字幕总结，去除网课、教程灌水，总结干货
-
-*   [DaZiYuan/livewallpaper](https://github.com/DaZiYuan/livewallpaper) - A tiny win10 (dynamic) wallpaper changer | 巨应壁纸 | 动态壁纸 | live wallpaper
-
-*   [cn-kali-team/notion-rss](https://github.com/cn-kali-team/notion-rss) - Build your own RSS Feeds in Notion.
-
-*   [everest-architecture/NewBing](https://github.com/everest-architecture/NewBing) - NewBin Desktop Application (Mac, Windows and Linux)
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
-
-*   [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 Better 系软件
-
-*   [morphy2k/rss-forwarder](https://github.com/morphy2k/rss-forwarder) - Checks RSS feeds for new entries and forwards them
-
-*   [mbround18/redirect](https://github.com/mbround18/redirect) - Simple redirection tool! Ready to use, docker capable, Kubernetes friendly, any Linux based env ready!
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
-*   [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。
-
-*   [YangchenYe323/Danmuji](https://github.com/YangchenYe323/Danmuji) - :hamster: 用Rust + React编写的Bilibili弹幕姬，感谢礼物，自动回复，定时任务弹幕助手
 
 ## C\#
 
