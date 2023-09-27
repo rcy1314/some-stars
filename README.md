@@ -248,7 +248,7 @@
 
 *   [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive.
 
-*   [parksb/collie](https://github.com/parksb/collie) - A minimal RSS reader just for you
+*   [parksb/collie](https://github.com/parksb/collie) - A minimal feed reader just for you
 
 *   [zhu327/workers-tunnel](https://github.com/zhu327/workers-tunnel) - Edge network tunnel implemented using Cloudflare Workers.
 
