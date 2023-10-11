@@ -336,7 +336,7 @@
 
 *   [walkthunder/action-wecom-webhook](https://github.com/walkthunder/action-wecom-webhook) - 🚀 GitHub Action that sends a WeCom Work notification.
 
-*   [danni-cool/docker-wechatbot-webhook](https://github.com/danni-cool/docker-wechatbot-webhook) - 给微信里加个 webhook 机器人，支持docker部署
+*   [danni-cool/docker-wechatbot-webhook](https://github.com/danni-cool/docker-wechatbot-webhook) - 给微信里加个 webhook 机器人
 
 *   [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
 
@@ -1166,7 +1166,7 @@
 
 *   [vividus-framework/vividus](https://github.com/vividus-framework/vividus) - VIVIDUS is all in one test automation tool
 
-*   [NotFoundPath/WechatBackupNoRoot](https://github.com/NotFoundPath/WechatBackupNoRoot) - 免ROOT微信聊天数据备份/导出工具
+*   [Eeeextend/WechatBackupNoRoot](https://github.com/Eeeextend/WechatBackupNoRoot) - 免ROOT微信聊天数据备份/导出工具
 
 *   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
 
