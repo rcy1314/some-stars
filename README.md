@@ -13,16 +13,17 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [C](#c)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Go](#go)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
-*   [Jupyter Notebook](#jupyter-notebook)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [miscellaneous](#miscellaneous)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [Perl](#perl)
 *   [Java](#java)
 *   [Swift](#swift)
@@ -36,7 +37,6 @@
 *   [PowerShell](#powershell)
 *   [EJS](#ejs)
 *   [CSS](#css)
-*   [C](#c-2)
 *   [AngelScript](#angelscript)
 *   [Dockerfile](#dockerfile)
 *   [Ruby](#ruby)
@@ -49,6 +49,38 @@
 *   [Metal](#metal)
 *   [Less](#less)
 *   [Scala](#scala)
+
+## Jupyter Notebook
+
+*   [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
+
+*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+
+*   [dlab-berkeley/Python-Fundamentals-Legacy](https://github.com/dlab-berkeley/Python-Fundamentals-Legacy) - D-Lab's 12 hour introduction to Python. Learn how to create variables and functions, use control flow structures, use libraries, import data, and more, using Python and Jupyter Notebooks.
+
+*   [jarrellmark/chatgpt-j](https://github.com/jarrellmark/chatgpt-j) - Chat interface to gpt-j. Runs in Google Colab.
+
+*   [Conchylicultor/automations](https://github.com/Conchylicultor/automations) - Automated scripts for APIs
+
+*   [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI
+
+*   [Sahilvohra58/ai-subtitle-video-editor](https://github.com/Sahilvohra58/ai-subtitle-video-editor) - A complete microservice that takes a video from the user, generates its subtitles, asks the user to edit them and reproduces the video with those subtitles as the part of the video.
+
+*   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
+
+## C
+
+*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+
+*   [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
+
+*   [frank2/packer-tutorial](https://github.com/frank2/packer-tutorial) - A tutorial on how to write a packer for Windows!
+
+*   [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.
+
+*   [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
+
+*   [Fclash/Fclash](https://github.com/Fclash/Fclash) - A better open-source clash client written by Flutter (Linux/Windows/MacOS/Android supported). 🐱 支持Linux\[arm64|x86\_64]/Windows/MacOS/Android的更好的Clash客户端，支持自动设置代理，兼容RULE-SET、TUN特性(Clash.Meta)、不走本地loop。
 
 ## Python
 
@@ -330,13 +362,11 @@
 
 *   [aiguoli/MultiDrive](https://github.com/aiguoli/MultiDrive) - 一站式管理包含但不局限于OneDrive，AliyunDrive等各种网盘
 
-*   [why2lyj/youxiang-Itchat](https://github.com/why2lyj/youxiang-Itchat) - 无视微信Web无法登录问题。获取淘宝优惠券、京东优惠券、拼多多（多多客）优惠券、苏宁易购优惠券、唯品会优惠券，通过接入淘宝联盟、京东联盟、拼多多（多多进宝）、苏宁联盟（苏宁推客）、唯品会及其对应的开放平台，获取优惠商品图片和对应商品信息，利用微信机器人推送到指定群聊。
-
 ## JavaScript
 
 *   [walkthunder/action-wecom-webhook](https://github.com/walkthunder/action-wecom-webhook) - 🚀 GitHub Action that sends a WeCom Work notification.
 
-*   [danni-cool/docker-wechatbot-webhook](https://github.com/danni-cool/docker-wechatbot-webhook) - 给微信里加个 webhook 机器人
+*   [danni-cool/docker-wechatbot-webhook](https://github.com/danni-cool/docker-wechatbot-webhook) - 4步召唤一个微信 webhook 机器人🤖
 
 *   [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
 
@@ -962,22 +992,6 @@
 
 *   [HydenLiu/itu-nav-code](https://github.com/HydenLiu/itu-nav-code) - 🍻  艾兔db - 程序员导航
 
-## Jupyter Notebook
-
-*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-
-*   [dlab-berkeley/Python-Fundamentals-Legacy](https://github.com/dlab-berkeley/Python-Fundamentals-Legacy) - D-Lab's 12 hour introduction to Python. Learn how to create variables and functions, use control flow structures, use libraries, import data, and more, using Python and Jupyter Notebooks.
-
-*   [jarrellmark/chatgpt-j](https://github.com/jarrellmark/chatgpt-j) - Chat interface to gpt-j. Runs in Google Colab.
-
-*   [Conchylicultor/automations](https://github.com/Conchylicultor/automations) - Automated scripts for APIs
-
-*   [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI
-
-*   [Sahilvohra58/ai-subtitle-video-editor](https://github.com/Sahilvohra58/ai-subtitle-video-editor) - A complete microservice that takes a video from the user, generates its subtitles, asks the user to edit them and reproduces the video with those subtitles as the part of the video.
-
-*   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
-
 ## C\#
 
 *   [WWNNL/MouseText](https://github.com/WWNNL/MouseText) - 一个跟随鼠标移动的透明窗口，其中显示可以设置字体，颜色，字体大小，停留时间的新定义桌面宠物
@@ -1262,8 +1276,6 @@
 
 *   [Lete114/Vercel-Typecho](https://github.com/Lete114/Vercel-Typecho) - Vercel 免费部署 Typecho 博客 | Vercel Free Deploy Typecho Blog
 
-*   [jiix/xiunobbs](https://github.com/jiix/xiunobbs) - Xiuno BBS 4.0 是一款轻论坛程序。 本版修复了php7.4、php8.0兼容问题；采用utf8mb4，支持emoji；，jQuery更新到 3.5.1；bootstrap更新到4.5.0。移除部分插件，更新默认主题。
-
 ## Vue
 
 *   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
@@ -1453,18 +1465,6 @@
 *   [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
 
 *   [qumuchegi/notion-docsify](https://github.com/qumuchegi/notion-docsify) - a tool builds doc from notion pages, backup your notion data
-
-## C
-
-*   [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
-
-*   [frank2/packer-tutorial](https://github.com/frank2/packer-tutorial) - A tutorial on how to write a packer for Windows!
-
-*   [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.
-
-*   [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
-
-*   [Fclash/Fclash](https://github.com/Fclash/Fclash) - A better open-source clash client written by Flutter (Linux/Windows/MacOS/Android supported). 🐱 支持Linux\[arm64|x86\_64]/Windows/MacOS/Android的更好的Clash客户端，支持自动设置代理，兼容RULE-SET、TUN特性(Clash.Meta)、不走本地loop。
 
 ## AngelScript
 
