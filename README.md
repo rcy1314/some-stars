@@ -86,7 +86,7 @@
 
 *   [springwings/AiRobot](https://github.com/springwings/AiRobot) - 基于LLMs中文智能交互数字人引擎框架
 
-*   [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - Text, video or image to video, image and audio in Blender Video Sequence Editor using Zeroscope (SD, XL, upscale to XL), Animov, Potat1, Stable Diffusion(1.5, 2.0, XL), Deep Floyd IF, AudioLDM2 and Bark.
+*   [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - Text, video or image to video, image and audio in Blender Video Sequence Editor using Zeroscope (SD, XL, upscale to XL), Animov, Potat1, Stable Diffusion(1.5, 2.0, XL), Würstchen, AudioLDM2 and Bark.
 
 *   [yinan-c/RSS-GPT](https://github.com/yinan-c/RSS-GPT) - Using ChatGPT to summarize your personalized RSS feeds
 
@@ -1184,7 +1184,7 @@
 
 *   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
 
-*   [Cruii/oh-my-helper](https://github.com/Cruii/oh-my-helper) - 🚀原bilibili-helper-hub，目前已部署B站每日任务及大会员中心任务
+*   [cruii/oh-my-helper](https://github.com/cruii/oh-my-helper) - 🚀原bilibili-helper-hub，目前已部署B站每日任务及大会员中心任务
 
 *   [Clay-Ferguson/quantizr](https://github.com/Clay-Ferguson/quantizr) - Quanta is an open-source CMS with ChatGPT and Social Media (Fediverse) features
 
