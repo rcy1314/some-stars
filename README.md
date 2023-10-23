@@ -100,7 +100,7 @@
 
 *   [zhufenghua1998/bp3](https://github.com/zhufenghua1998/bp3) - bp3是一款使用php开发的百度网盘接口程序，百度网盘目录搜索引擎，文件展示搜索目录树，在线目录搜索索引，百度网盘文件下载（含直链）等。
 
-*   [viptv-work/viptv-work.github.io](https://github.com/viptv-work/viptv-work.github.io) - VIPTV - 对标聚合海量电视， 直播，影视，短片，音乐，小说，壁纸等资源
+*   [vodtv/vodtv.github.io](https://github.com/vodtv/vodtv.github.io) - VIPTV - 对标聚合海量电视， 直播，影视，短片，音乐，小说，壁纸等资源
 
 *   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
@@ -448,6 +448,8 @@
 
 *   [yanglbme/v2ex-action](https://github.com/yanglbme/v2ex-action) - 🔝 V2EX GitHub Action | 自动发送 V2EX 热门内容到企业微信、钉钉等，可自定义发送周期
 
+*   [aiguoli/MultiDrive](https://github.com/aiguoli/MultiDrive) - 一站式管理包含但不局限于OneDrive，AliyunDrive等各种网盘
+
 ## JavaScript
 
 *   [walkthunder/action-wecom-webhook](https://github.com/walkthunder/action-wecom-webhook) - 🚀 GitHub Action that sends a WeCom Work notification.
@@ -612,7 +614,7 @@
 
 *   [llnancy/netease-music-box](https://github.com/llnancy/netease-music-box) - 🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist。本仓库新增了写入 Markdown 文件功能，可写入 GitHub 个人主页仓库。原仓库地址为 https://github.com/Leecason/netease-music-box
 
-*   [xoobom/wpspaster](https://github.com/xoobom/wpspaster) - 🚀 图文一键粘贴软件，支持从Word、WPS图文复制后一键粘贴到Tinymce、CKEditor、UEditor、KindEditor等富文本编辑器。支持Chrome、360、Edge、Firefox等现代浏览器。适用Window、Mac
+*   [xoobom/wpspaster](https://github.com/xoobom/wpspaster) - 🚀 Free rich text editor image and text pasting.Supports window and mac
 
 *   [fengshangsheng/nice-psdToHTML](https://github.com/fengshangsheng/nice-psdToHTML) - .psd设计稿自动转react、vue、html + .png图片
 
@@ -959,8 +961,6 @@
 *   [gitbrent/dream-journal-app](https://github.com/gitbrent/dream-journal-app) - Dream Journal that uses Google Drive
 
 *   [spencerwooo/substats](https://github.com/spencerwooo/substats) - ( ｀д′) how many followers do i have? how many!
-
-*   [Cside/chrome-notion-search](https://github.com/Cside/chrome-notion-search) - Search Notion pages on the popup
 
 *   [JonathanWbn/notion-tools](https://github.com/JonathanWbn/notion-tools) - A set of tools to automate things around Notion.
 
