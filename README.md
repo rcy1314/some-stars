@@ -204,7 +204,7 @@
 
 *   [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 
-*   [BrokenSource/BrokenSource](https://github.com/BrokenSource/BrokenSource) - ❤️‍🩹 Broken Source Software's Framework and Monorepo. A fragmented world, code shards converging to form the vibrant and dynamic BrokenSource universe.
+*   [BrokenSource/BrokenSource](https://github.com/BrokenSource/BrokenSource) - ❤️‍🩹 Broken Source Software's Framework and Monorepo. A fragmented world, code shards converging to form a vibrant and dynamic software universe
 
 *   [hankhjliao/RSS2Pocket](https://github.com/hankhjliao/RSS2Pocket) - An awesome tool to save articles from RSS feed to Pocket automatically.
 
