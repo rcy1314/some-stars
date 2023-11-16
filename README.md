@@ -1122,7 +1122,7 @@
 
 *   [jim60105/YoutubeLiveChatToDiscord](https://github.com/jim60105/YoutubeLiveChatToDiscord) - Stream Youtube Chat to Discord Webhook (.NET 6 Worker Service in Docker)
 
-*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A GUI wrapper for yt-dlp that allows you to quickly download media from a wide variety of websites.
+*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A lightweight GUI wrapper for yt-dlp that allows you to quickly download media from a wide variety of websites.
 
 *   [iccfish/ShimoExporter](https://github.com/iccfish/ShimoExporter) - 一键将个人石墨文档里的所有文档全部导出到本地
 
