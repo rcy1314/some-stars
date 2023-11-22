@@ -130,6 +130,8 @@
 
 *   [josh/smtp2webhook](https://github.com/josh/smtp2webhook) - SMTP to Webhook Relay
 
+*   [jamesroutley/news.routley.io](https://github.com/jamesroutley/news.routley.io) - 🗞 My personal RSS feed
+
 ## Python
 
 *   [LiuShiYa-github/VideoSave](https://github.com/LiuShiYa-github/VideoSave) - VideoSave是一款提供下载电影/电视剧的软件，支持注册、登录、搜索、下载、查看日志等功能，提供了Window、Mac系统安装包。 如果感觉还不错的话 请star ⭐️~
@@ -195,8 +197,6 @@
 *   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
 
 *   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
-
-*   [TWK2022/ChineseAlpacaPlus](https://github.com/TWK2022/ChineseAlpacaPlus) - 快速在Linux上部署大型中文对话模型(chatGPT)。基于Chinese-Alpaca-Plus官方项目改编
 
 *   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 
