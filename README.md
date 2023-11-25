@@ -13,12 +13,13 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [Java](#java)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Go](#go)
-*   [PHP](#php)
 *   [miscellaneous](#miscellaneous)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [C](#c)
 *   [Rust](#rust)
@@ -26,7 +27,6 @@
 *   [C#](#c-1)
 *   [C++](#c-2)
 *   [Perl](#perl)
-*   [Java](#java)
 *   [Vue](#vue)
 *   [Kotlin](#kotlin)
 *   [Batchfile](#batchfile)
@@ -49,6 +49,136 @@
 *   [Metal](#metal)
 *   [Less](#less)
 *   [Scala](#scala)
+
+## PHP
+
+*   [mengyilingjian/douyin-openapi-php-sdk](https://github.com/mengyilingjian/douyin-openapi-php-sdk) - 抖音开放平台的openapi
+
+*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
+
+*   [jrotty/Zevideo](https://github.com/jrotty/Zevideo) - Typecho开源视频主题
+
+*   [master-start/baiduai](https://github.com/master-start/baiduai) - 百度AI 文心一言
+
+*   [zcsd/SGReader](https://github.com/zcsd/SGReader) - RSS Aggregator
+
+*   [phpList/phplist3](https://github.com/phpList/phplist3) - Fully functional Open Source email marketing manager for creating, sending, integrating, and analysing email campaigns and newsletters.
+
+*   [sssteveCA/wordpress-newsletter](https://github.com/sssteveCA/wordpress-newsletter) - This is a plugin for Wordpress sites that allows you to send newsletters to subscribers
+
+*   [zxc7563598/BilibiliLive](https://github.com/zxc7563598/BilibiliLive) - 哔哩哔哩直播辅助，例如开播通知，录播姬视频自动上传等
+
+*   [mskian/n8n-workflow-manager](https://github.com/mskian/n8n-workflow-manager) - A simple web page to ON and OFF n8n Workflow using webhook Trigger.
+
+*   [MonGDCH/mon-cache](https://github.com/MonGDCH/mon-cache) - 一个基于PSR-16实现的缓存库，支持File、Redis多种驱动，支持自定义扩展缓存驱动
+
+*   [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
+
+*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
+
+*   [imiphp/imi](https://github.com/imiphp/imi) - imi 是一款支持长连接微服务分布式的 PHP 开发框架，它可以运行在 PHP-FPM、Swoole、Workerman、RoadRunner 等多种容器环境下。它支持 HttpApi、WebSocket、TCP、UDP、MQTT 服务的开发。特别适合互联网微服务、即时通讯聊天im、物联网等场景！QQ群：17916227
+
+*   [xoopscube/legacy](https://github.com/xoopscube/legacy) - 📦 XOOPSCube - Web Application Platform - Simple, Secure, Scalable
+
+*   [zhiyun66/hotlist](https://github.com/zhiyun66/hotlist) - 聚合热搜热榜单PHP源码
+
+*   [kaindev8/starMQ](https://github.com/kaindev8/starMQ) - 开源的个人收款免签约解决方案 （码支付），拒绝高风险的扫码登录方式，采用APP监听系统收款通知方案，更安全可靠，使用易支付接口，对接更便捷！
+
+*   [carefreezi/openai-nuxt3](https://github.com/carefreezi/openai-nuxt3) - 仅供学习增加了敏感词检测
+
+*   [j0k3r/banditore](https://github.com/j0k3r/banditore) - Banditore retrieves new releases from your starred GitHub repositories and generate an Atom feed with them.
+
+*   [GraphQLAPI/graphql-api-for-wp](https://github.com/GraphQLAPI/graphql-api-for-wp) - \[READ ONLY] GraphQL API for WordPress
+
+*   [wxilejun/Yiso](https://github.com/wxilejun/Yiso) - Yiso搜索引擎开源
+
+*   [Goomento/PageBuilder](https://github.com/Goomento/PageBuilder) - Goomento - The Free Magento Page Builder Extension, that allows you to create unique Magento websites using advanced animations, custom CSS, responsive designs, and more, by performing simple actions such as drag and drop.
+
+*   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
+
+*   [ethanzhao2001/Mailer-Typecho](https://github.com/ethanzhao2001/Mailer-Typecho) - Typecho上极简的邮件推送插件
+
+*   [guanguans/notify](https://github.com/guanguans/notify) - Push notification sdk(Bark、Chanify、DingTalk、Discord、Email、FeiShu、Gitter、Google Chat、iGot、Logger、Mattermost、Microsoft Teams、Now Push、Ntfy、PushBack、Push、PushDeer、Pushover、PushPlus、QQ Channel Bot、Rocket Chat、ServerChan、Showdoc Push、Slack、Telegram、Webhook、WeWork、XiZhi、YiFengChuanHua、Zulip).
+
+*   [HurryBy/CloudDiskAnalysis](https://github.com/HurryBy/CloudDiskAnalysis) - 蓝奏云/123云盘/中国移动云空间直链，蓝奏云/123云盘/中国移动云空间解析，蓝奏云/123云盘/中国移动云空间解析API，蓝奏云/123云盘/中国移动云空间带密码解析，蓝奏云/123云盘/中国移动云空间文件夹分享解析
+
+*   [wpbkj/moyu\_php](https://github.com/wpbkj/moyu_php) - 摸鱼办是一个具有娱乐调侃性质的虚拟机构。摸鱼办提醒则提醒各位摸鱼人各个假期何时到来，为摸鱼人种下希望（狗头）。项目整体由PHP构建。
+
+*   [yeuxuan/ccproxy\_kami](https://github.com/yeuxuan/ccproxy_kami) - ccproxy卡密管理系统 生成卡密 激活 用户在线管理 socket 通讯
+
+*   [teakong/liuyan-weixin](https://github.com/teakong/liuyan-weixin) - 将网站或者博客留言推送到微信
+
+*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
+
+*   [pplulee/appleid\_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
+
+*   [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
+
+*   [pmhw/telegram-bot](https://github.com/pmhw/telegram-bot) - Tg机器人，自动回复自定义消息回复，私聊回复以及群聊回复，可以进行二次开发，希望你做出更优质的东西，记得@我
+
+## Jupyter Notebook
+
+*   [Kihara-Ri/From-API-to-Bilibili](https://github.com/Kihara-Ri/From-API-to-Bilibili) - 通过API全自动化爬取b站视频信息，目前已实现了字幕的爬取和全自动记录
+
+*   [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) - An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for key-frame segmentation and Associating Objects with Transformers (AOT) for efficient tracking and propagation purposes.
+
+*   [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
+
+*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+
+*   [dlab-berkeley/Python-Fundamentals-Legacy](https://github.com/dlab-berkeley/Python-Fundamentals-Legacy) - D-Lab's 12 hour introduction to Python. Learn how to create variables and functions, use control flow structures, use libraries, import data, and more, using Python and Jupyter Notebooks.
+
+*   [jarrellmark/chatgpt-j](https://github.com/jarrellmark/chatgpt-j) - Chat interface to gpt-j. Runs in Google Colab.
+
+*   [Conchylicultor/automations](https://github.com/Conchylicultor/automations) - Automated scripts for APIs
+
+*   [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI
+
+*   [Sahilvohra58/ai-subtitle-video-editor](https://github.com/Sahilvohra58/ai-subtitle-video-editor) - A complete microservice that takes a video from the user, generates its subtitles, asks the user to edit them and reproduces the video with those subtitles as the part of the video.
+
+*   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
+
+## Java
+
+*   [Yanyutin753/fakeApiTool-One-API](https://github.com/Yanyutin753/fakeApiTool-One-API) - 针对于One-API使用Pandora的可视化网页，可以实现网页批量更改刷新token并每五天自动通过账号密码刷新Tokens,从而自动装填fakeAPI，同时自动更新FakeOpenAI地址，已打包好docker,开箱即用，后续扩展更多功能
+
+*   [mindolph/Mindolph](https://github.com/mindolph/Mindolph) - Mindolph is an open source personal knowledge management software for all desktop platforms.
+
+*   [yamonc/hexoHelper](https://github.com/yamonc/hexoHelper) - hexo文章转换器，通过上传文件的方式，将原始的markdown文件格式化成为hexo可以识别的带有front-matter格式的文档。
+
+*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
+
+*   [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.
+
+*   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
+
+*   [mblog-backend/backend](https://github.com/mblog-backend/backend) - 支持前后分离/不分离的个人/多人使用的微博平台
+
+*   [JokerIvanZK/cloud-serverless](https://github.com/JokerIvanZK/cloud-serverless) - 1.qq机器人、discord机器人、webapi集成服务
+
+*   [itning/yunshu-nas](https://github.com/itning/yunshu-nas) - 自建NAS系统，实现本地视频音频点播，文件存储等功能。自动视频转码，在线观看下载视频！
+
+*   [vividus-framework/vividus](https://github.com/vividus-framework/vividus) - VIVIDUS is all in one test automation tool
+
+*   [Eeeextend/WechatBackupNoRoot](https://github.com/Eeeextend/WechatBackupNoRoot) - 免ROOT微信聊天数据备份/导出工具
+
+*   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
+
+*   [cruii/oh-my-helper](https://github.com/cruii/oh-my-helper) - 🚀原bilibili-helper-hub，目前已部署B站每日任务及大会员中心任务
+
+*   [Clay-Ferguson/quantizr](https://github.com/Clay-Ferguson/quantizr) - Quanta is an open-source CMS with ChatGPT and Social Media (Fediverse) features
+
+*   [april-projects/april-zh-hotspot-push](https://github.com/april-projects/april-zh-hotspot-push) - 知乎热点推送
+
+*   [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台:fire:推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。
+
+*   [jeequan/jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
+
+*   [Jarrettluo/document-sharing-site](https://github.com/Jarrettluo/document-sharing-site) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information.  “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。
+
+*   [muedsa/BilibiliLiveTV](https://github.com/muedsa/BilibiliLiveTV) - \[Deprecated]Bilibili Live APP for Android TV
+
+*   [FlyRenxing/RenxingPush](https://github.com/FlyRenxing/RenxingPush) - 任性推是一个消息推送机器人，用来通知自己消息的免费服务，目前支持QQ、Telegram两个平台。通过调用API接口，实现机器人给你发送消息的功能。通俗易懂点就是有什么重要通知需要及时知道，可以让任性推第一时间给你发消息。
 
 ## Python
 
@@ -332,8 +462,6 @@
 
 *   [jbzdarkid/RssToEmail](https://github.com/jbzdarkid/RssToEmail) - Sends new RSS entries via email
 
-*   [LogicJake/WebMonitor](https://github.com/LogicJake/WebMonitor) - 实时监控网页变化，并发送通知（Monitor web page changes in real time and send notifications）
-
 ## JavaScript
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. feature enhancement tool | Typora 插件，功能增强工具
@@ -427,8 +555,6 @@
 *   [Samridhi-98/github-actions-visualizer](https://github.com/Samridhi-98/github-actions-visualizer) - A web application capable of monitoring and visualizing GitHub actions metrics across the organization by using GitHub API.
 
 *   [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
-
-*   [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) - 个人名片 Cards
 
 *   [Alamantus/FeatherWiki](https://github.com/Alamantus/FeatherWiki) - A lightweight quine for simple, self-contained wikis \[MIRROR]
 
@@ -610,72 +736,6 @@
 
 *   [josh/smtp2webhook](https://github.com/josh/smtp2webhook) - SMTP to Webhook Relay
 
-## PHP
-
-*   [icret/EasyImages2.0](https://github.com/icret/EasyImages2.0) - 简单图床 - 一款功能强大无数据库的图床 2.0版
-
-*   [jrotty/Zevideo](https://github.com/jrotty/Zevideo) - Typecho开源视频主题
-
-*   [master-start/baiduai](https://github.com/master-start/baiduai) - 百度AI 文心一言
-
-*   [zcsd/SGReader](https://github.com/zcsd/SGReader) - RSS Aggregator
-
-*   [phpList/phplist3](https://github.com/phpList/phplist3) - Fully functional Open Source email marketing manager for creating, sending, integrating, and analysing email campaigns and newsletters.
-
-*   [sssteveCA/wordpress-newsletter](https://github.com/sssteveCA/wordpress-newsletter) - This is a plugin for Wordpress sites that allows you to send newsletters to subscribers
-
-*   [zxc7563598/BilibiliLive](https://github.com/zxc7563598/BilibiliLive) - 哔哩哔哩直播辅助，例如开播通知，录播姬视频自动上传等
-
-*   [mskian/n8n-workflow-manager](https://github.com/mskian/n8n-workflow-manager) - A simple web page to ON and OFF n8n Workflow using webhook Trigger.
-
-*   [MonGDCH/mon-cache](https://github.com/MonGDCH/mon-cache) - 一个基于PSR-16实现的缓存库，支持File、Redis多种驱动，支持自定义扩展缓存驱动
-
-*   [it-novum/openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT) - openITCOCKPIT is an Open Source system monitoring tool built for different monitoring engines like Nagios, Naemon and Prometheus.
-
-*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
-
-*   [imiphp/imi](https://github.com/imiphp/imi) - imi 是一款支持长连接微服务分布式的 PHP 开发框架，它可以运行在 PHP-FPM、Swoole、Workerman、RoadRunner 等多种容器环境下。它支持 HttpApi、WebSocket、TCP、UDP、MQTT 服务的开发。特别适合互联网微服务、即时通讯聊天im、物联网等场景！QQ群：17916227
-
-*   [xoopscube/legacy](https://github.com/xoopscube/legacy) - 📦 XOOPSCube - Web Application Platform - Simple, Secure, Scalable
-
-*   [zhiyun66/hotlist](https://github.com/zhiyun66/hotlist) - 聚合热搜热榜单PHP源码
-
-*   [kaindev8/starMQ](https://github.com/kaindev8/starMQ) - 开源的个人收款免签约解决方案 （码支付），拒绝高风险的扫码登录方式，采用APP监听系统收款通知方案，更安全可靠，使用易支付接口，对接更便捷！
-
-*   [carefreezi/openai-nuxt3](https://github.com/carefreezi/openai-nuxt3) - 仅供学习增加了敏感词检测
-
-*   [j0k3r/banditore](https://github.com/j0k3r/banditore) - Banditore retrieves new releases from your starred GitHub repositories and generate an Atom feed with them.
-
-*   [GraphQLAPI/graphql-api-for-wp](https://github.com/GraphQLAPI/graphql-api-for-wp) - \[READ ONLY] GraphQL API for WordPress
-
-*   [wxilejun/Yiso](https://github.com/wxilejun/Yiso) - Yiso搜索引擎开源
-
-*   [Goomento/PageBuilder](https://github.com/Goomento/PageBuilder) - Goomento - The Free Magento Page Builder Extension, that allows you to create unique Magento websites using advanced animations, custom CSS, responsive designs, and more, by performing simple actions such as drag and drop.
-
-*   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
-
-*   [ethanzhao2001/Mailer-Typecho](https://github.com/ethanzhao2001/Mailer-Typecho) - Typecho上极简的邮件推送插件
-
-*   [guanguans/notify](https://github.com/guanguans/notify) - Push notification sdk(Bark、Chanify、DingTalk、Discord、Email、FeiShu、Gitter、Google Chat、iGot、Logger、Mattermost、Microsoft Teams、Now Push、Ntfy、PushBack、Push、PushDeer、Pushover、PushPlus、QQ Channel Bot、Rocket Chat、ServerChan、Showdoc Push、Slack、Telegram、Webhook、WeWork、XiZhi、YiFengChuanHua、Zulip).
-
-*   [HurryBy/CloudDiskAnalysis](https://github.com/HurryBy/CloudDiskAnalysis) - 蓝奏云/123云盘/中国移动云空间直链，蓝奏云/123云盘/中国移动云空间解析，蓝奏云/123云盘/中国移动云空间解析API，蓝奏云/123云盘/中国移动云空间带密码解析，蓝奏云/123云盘/中国移动云空间文件夹分享解析
-
-*   [wpbkj/moyu\_php](https://github.com/wpbkj/moyu_php) - 摸鱼办是一个具有娱乐调侃性质的虚拟机构。摸鱼办提醒则提醒各位摸鱼人各个假期何时到来，为摸鱼人种下希望（狗头）。项目整体由PHP构建。
-
-*   [yeuxuan/ccproxy\_kami](https://github.com/yeuxuan/ccproxy_kami) - ccproxy卡密管理系统 生成卡密 激活 用户在线管理 socket 通讯
-
-*   [teakong/liuyan-weixin](https://github.com/teakong/liuyan-weixin) - 将网站或者博客留言推送到微信
-
-*   [aoaostar/toolbox](https://github.com/aoaostar/toolbox) - 🚀傲星工具箱，一个在线工具箱
-
-*   [pplulee/appleid\_auto](https://github.com/pplulee/appleid_auto) - 基于密保问题，自动解锁Apple ID，自动关闭双重认证，提供前端账号展示，支持多账号
-
-*   [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
-
-*   [pmhw/telegram-bot](https://github.com/pmhw/telegram-bot) - Tg机器人，自动回复自定义消息回复，私聊回复以及群聊回复，可以进行二次开发，希望你做出更优质的东西，记得@我
-
-*   [Lete114/Vercel-Typecho](https://github.com/Lete114/Vercel-Typecho) - Vercel 免费部署 Typecho 博客 | Vercel Free Deploy Typecho Blog
-
 ## miscellaneous
 
 *   [nerdyrodent/AVeryComfyNerd](https://github.com/nerdyrodent/AVeryComfyNerd) - ComfyUI related stuff and things
@@ -768,26 +828,6 @@
 
 *   [pm936/httpcatcher](https://github.com/pm936/httpcatcher) - 网球规则
 
-## Jupyter Notebook
-
-*   [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) - An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for key-frame segmentation and Associating Objects with Transformers (AOT) for efficient tracking and propagation purposes.
-
-*   [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
-
-*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-
-*   [dlab-berkeley/Python-Fundamentals-Legacy](https://github.com/dlab-berkeley/Python-Fundamentals-Legacy) - D-Lab's 12 hour introduction to Python. Learn how to create variables and functions, use control flow structures, use libraries, import data, and more, using Python and Jupyter Notebooks.
-
-*   [jarrellmark/chatgpt-j](https://github.com/jarrellmark/chatgpt-j) - Chat interface to gpt-j. Runs in Google Colab.
-
-*   [Conchylicultor/automations](https://github.com/Conchylicultor/automations) - Automated scripts for APIs
-
-*   [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI
-
-*   [Sahilvohra58/ai-subtitle-video-editor](https://github.com/Sahilvohra58/ai-subtitle-video-editor) - A complete microservice that takes a video from the user, generates its subtitles, asks the user to edit them and reproduces the video with those subtitles as the part of the video.
-
-*   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
-
 ## HTML
 
 *   [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
@@ -822,6 +862,8 @@
 
 *   [qdlmcfresh/GuilloArchive](https://github.com/qdlmcfresh/GuilloArchive) - Archiving @GuillotineTea on Twitter
 
+*   [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) - 个人名片 Cards
+
 *   [gh0stkey/gh0stkey.github.io](https://github.com/gh0stkey/gh0stkey.github.io) - 个人博客 https://gh0st.cn 模版来自：https://github.com/heiswayi/the-plain 在原基础上增加了分页、网易云音乐播放器、图片放大查看等功能（做了一些排版细节上的调整）
 
 *   [dontpanic92/embedded-netease-music-player](https://github.com/dontpanic92/embedded-netease-music-player) - 网易云音乐外链播放器 - Embed a netease music player into your web page
@@ -851,8 +893,6 @@
 *   [WangGuibin/weather-action](https://github.com/WangGuibin/weather-action) - Github action自动化每天早上自动推送新闻简报  配合快捷指令使用https://www.icloud.com/shortcuts/1a05b4fcde9743fab4ef8aa7a8908f80
 
 *   [Isites/isites.github.io](https://github.com/Isites/isites.github.io) - 公众号对应的博客。欢迎关注微信公众号：Gopher指北
-
-*   [MycroftCooper/BlogUpdater](https://github.com/MycroftCooper/BlogUpdater) - 用于每日更新我的个人学习用博客与每日新闻和天气预报
 
 ## C
 
@@ -1228,46 +1268,6 @@
 
 *   [WindyCloudCute/LANraragi\_Chinese](https://github.com/WindyCloudCute/LANraragi_Chinese) - 全新稳定更新的LANraragi中文汉化翻译项目           交流论坛👇
 
-## Java
-
-*   [mindolph/Mindolph](https://github.com/mindolph/Mindolph) - Mindolph is an open source personal knowledge management software for all desktop platforms.
-
-*   [yamonc/hexoHelper](https://github.com/yamonc/hexoHelper) - hexo文章转换器，通过上传文件的方式，将原始的markdown文件格式化成为hexo可以识别的带有front-matter格式的文档。
-
-*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
-
-*   [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.
-
-*   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
-
-*   [mblog-backend/backend](https://github.com/mblog-backend/backend) - 支持前后分离/不分离的个人/多人使用的微博平台
-
-*   [JokerIvanZK/cloud-serverless](https://github.com/JokerIvanZK/cloud-serverless) - 1.qq机器人、discord机器人、webapi集成服务
-
-*   [itning/yunshu-nas](https://github.com/itning/yunshu-nas) - 自建NAS系统，实现本地视频音频点播，文件存储等功能。自动视频转码，在线观看下载视频！
-
-*   [vividus-framework/vividus](https://github.com/vividus-framework/vividus) - VIVIDUS is all in one test automation tool
-
-*   [Eeeextend/WechatBackupNoRoot](https://github.com/Eeeextend/WechatBackupNoRoot) - 免ROOT微信聊天数据备份/导出工具
-
-*   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
-
-*   [cruii/oh-my-helper](https://github.com/cruii/oh-my-helper) - 🚀原bilibili-helper-hub，目前已部署B站每日任务及大会员中心任务
-
-*   [Clay-Ferguson/quantizr](https://github.com/Clay-Ferguson/quantizr) - Quanta is an open-source CMS with ChatGPT and Social Media (Fediverse) features
-
-*   [april-projects/april-zh-hotspot-push](https://github.com/april-projects/april-zh-hotspot-push) - 知乎热点推送
-
-*   [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台:fire:推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。
-
-*   [jeequan/jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
-
-*   [Jarrettluo/document-sharing-site](https://github.com/Jarrettluo/document-sharing-site) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information.  “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。
-
-*   [muedsa/BilibiliLiveTV](https://github.com/muedsa/BilibiliLiveTV) - \[Deprecated]Bilibili Live APP for Android TV
-
-*   [FlyRenxing/RenxingPush](https://github.com/FlyRenxing/RenxingPush) - 任性推是一个消息推送机器人，用来通知自己消息的免费服务，目前支持QQ、Telegram两个平台。通过调用API接口，实现机器人给你发送消息的功能。通俗易懂点就是有什么重要通知需要及时知道，可以让任性推第一时间给你发消息。
-
 ## Vue
 
 *   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
@@ -1290,7 +1290,7 @@
 
 *   [Taosky/BiliMini](https://github.com/Taosky/BiliMini) - Bilibili Chrome/Firefox扩展，用于提示并快速查看更新。
 
-*   [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.
+*   [moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
 
 *   [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - A fantastic toolkit for CTFers and everyone :toolbox:
 
