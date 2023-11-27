@@ -296,7 +296,7 @@
 
 *   [Nriver/Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
 
-*   [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，持续更新中
+*   [cluic/wxauto](https://github.com/cluic/wxauto) - Windows版本微信客户端（非网页版）自动化，可实现简单的发送、接收微信消息，简单微信机器人
 
 *   [handrew/browserpilot](https://github.com/handrew/browserpilot) - Natural language browser automation
 
@@ -1064,7 +1064,7 @@
 
 *   [timkmecl/codegpt](https://github.com/timkmecl/codegpt) - VSCode extension that allows you to use GPT3 inside the IDE
 
-*   [wardvisual/engine-warvil](https://github.com/wardvisual/engine-warvil) - A comprehensive language tool that can answer questions, generate code, thesis titles, and grammatically correct text, as well as paraphrase, summarize, translate, explain programming code, evaluate mathematical expressions, and create study notes.
+*   [wardvisual/engine-warvil](https://github.com/wardvisual/engine-warvil) - A comprehensive language tool.
 
 *   [index-labs/readpilot](https://github.com/index-labs/readpilot) - Read Pilot analyzes online articles and generate Q\&A cards for you. Powered by OpenAI & Next.js.
 
@@ -1228,7 +1228,7 @@
 
 *   [jim60105/YoutubeLiveChatToDiscord](https://github.com/jim60105/YoutubeLiveChatToDiscord) - Stream Youtube Chat to Discord Webhook (.NET 6 Worker Service in Docker)
 
-*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A lightweight GUI wrapper for yt-dlp that allows you to quickly download media from a wide variety of websites.
+*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A lightweight GUI wrapper for yt-dlp that allows you to quickly download videos, music, playlists, and more from a wide variety of websites.
 
 *   [iccfish/ShimoExporter](https://github.com/iccfish/ShimoExporter) - 一键将个人石墨文档里的所有文档全部导出到本地
 
