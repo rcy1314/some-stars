@@ -349,7 +349,7 @@
 
 *   [uni-openai/UniAI](https://github.com/uni-openai/UniAI) - One United API, Multiple AI models
 
-*   [aoao-eth/wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - 微信群聊总结助手 JS 版
+*   [Yootou-dev/wechat-ai-summarize-bot](https://github.com/Yootou-dev/wechat-ai-summarize-bot) - 微信群聊总结助手 JS 版
 
 *   [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 
