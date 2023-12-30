@@ -831,7 +831,7 @@
 
 *   [Yuyz0112/vx.dev](https://github.com/Yuyz0112/vx.dev) - An open-source alternative to v0.dev. Cost-effective, highly customizable, and seamlessly integrated within GitHub.
 
-*   [wansenai/eairp](https://github.com/wansenai/eairp) - ✨ Next generation Sass ERP System
+*   [wansenai/eairp](https://github.com/wansenai/eairp) - ✨ Inventory Management System (通用进销存系统)
 
 *   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
 
