@@ -797,7 +797,7 @@
 
 *   [kilingzhang/NeteaseCloudMusicApi](https://github.com/kilingzhang/NeteaseCloudMusicApi) - 网易云音乐API  PHP
 
-*   [Tetrakern/fictioneer](https://github.com/Tetrakern/fictioneer) - WordPress theme to publish and read web fictions, novels, and fanfictions.
+*   [Tetrakern/fictioneer](https://github.com/Tetrakern/fictioneer) - The web fiction theme for WordPress.
 
 *   [imjeff/typecho-dear](https://github.com/imjeff/typecho-dear) - Typecho 极极简主题 Dear，无 JS、CSS 文件载入，无分页，无评论，代码极简优化。复刻 Bearblog 主题。
 
