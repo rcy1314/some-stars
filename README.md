@@ -1141,7 +1141,7 @@
 
 *   [ilovecplusplus97/MahiroBox](https://github.com/ilovecplusplus97/MahiroBox) - 一款绪山真寻的键盘监控小软件
 
-*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 、XBox 和 Nintendo Switch上
+*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
 
 ## C\#
 
