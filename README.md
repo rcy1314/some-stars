@@ -29,7 +29,6 @@
 *   [Vue](#vue)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
-*   [C](#c-2)
 *   [Rust](#rust)
 *   [Perl](#perl)
 *   [Kotlin](#kotlin)
@@ -38,6 +37,7 @@
 *   [PowerShell](#powershell)
 *   [EJS](#ejs)
 *   [CSS](#css)
+*   [C](#c-2)
 *   [AngelScript](#angelscript)
 *   [Dockerfile](#dockerfile)
 *   [Ruby](#ruby)
@@ -55,7 +55,7 @@
 
 *   [DoingDog/chatgpt-proxy-cloudflare-worker](https://github.com/DoingDog/chatgpt-proxy-cloudflare-worker) - Cloudflare Worker 反向代理 ChatGPT API，支持流式输出，支持联网搜索功能，支持设置访问密码
 
-*   [Yuyz0112/vx.dev](https://github.com/Yuyz0112/vx.dev) - An open-source alternative to v0.dev. Cost-effective, highly customizable, and seamlessly integrated within GitHub.
+*   [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
 
 *   [wmz1024/WRSS-OJS](https://github.com/wmz1024/WRSS-OJS) - WRSS - MD风格的RSS订阅器
 
@@ -1117,6 +1117,8 @@
 
 *   [NekoSilverFox/PolyChat](https://github.com/NekoSilverFox/PolyChat) - ✉️ 基于QT的跨平台局域网聊天室（包括 QTest 和 CI/CD 的使用） | QT-based development of LAN chat rooms |  Кроссплатформенный чат для локальной сети, основанный на разработке QT
 
+*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+
 *   [xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights) - xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers.
 
 *   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -1355,18 +1357,6 @@
 
 *   [LiuYuYang01/BookMark](https://github.com/LiuYuYang01/BookMark) - BookMark 是一款轻量、简洁雅观的书签导航项目 你可以将它设置为你的浏览器主页 告别杂乱无章的浏览器书签栏。相信你会喜欢它的! 🎉
 
-## C
-
-*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
-
-*   [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
-
-*   [frank2/packer-tutorial](https://github.com/frank2/packer-tutorial) - A tutorial on how to write a packer for Windows!
-
-*   [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
-
-*   [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
-
 ## Rust
 
 *   [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive.
@@ -1470,6 +1460,16 @@
 *   [zkeq/news](https://github.com/zkeq/news) - 前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。
 
 *   [Tokinx/Wing](https://github.com/Tokinx/Wing) - Simple, smooth, data-driven, responsive WordPress theme
+
+## C
+
+*   [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
+
+*   [frank2/packer-tutorial](https://github.com/frank2/packer-tutorial) - A tutorial on how to write a packer for Windows!
+
+*   [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
+
+*   [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 
 ## AngelScript
 
