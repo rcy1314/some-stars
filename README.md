@@ -319,7 +319,7 @@
 
 *   [springwings/AiRobot](https://github.com/springwings/AiRobot) - 基于LLMs中文智能交互数字人引擎框架
 
-*   [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - Generative AI for the Blender VSE: Text, video or image to video, image and audio in Blender Video Sequence Editor using Zeroscope (SD, XL, upscale to XL), Animov, Potat1, Stable Diffusion(1.5, 2.0, XL), Segmind, AudioLDM2 and Bark.
+*   [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - Generative AI for the Blender VSE: Text, video or image to video, image and audio in Blender Video Sequence Editor.
 
 *   [yinan-c/RSS-GPT](https://github.com/yinan-c/RSS-GPT) - Using ChatGPT to summarize your personalized RSS feeds
 
@@ -571,7 +571,7 @@
 
 *   [westinyang/F-OH](https://github.com/westinyang/F-OH) - ⭐ F-OH 是一个 OpenHarmony 平台上 FOSS（Free and Open Source Software，自由开源软件）的应用中心，并提供下载安装支持
 
-*   [uni-openai/UniAI](https://github.com/uni-openai/UniAI) - One United API, Multiple AI models
+*   [uni-openai/UniAI-App](https://github.com/uni-openai/UniAI-App) - One United API, Multiple AI models
 
 *   [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 
