@@ -69,7 +69,7 @@
 
 *   [walkthunder/action-wecom-webhook](https://github.com/walkthunder/action-wecom-webhook) - 🚀 GitHub Action that sends a WeCom Work notification.
 
-*   [danni-cool/wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook) - run a wechat bot as a http service, 部署一个支持消息收发的微信 Webhook 机器人🤖
+*   [danni-cool/wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook) - run a wechat bot as a http service
 
 *   [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
 
@@ -273,7 +273,7 @@
 
 *   [EricGuo5513/momask-codes](https://github.com/EricGuo5513/momask-codes) - Official implementation of "MoMask: Generative Masked Modeling of 3D Human Motions"
 
-*   [GotAudio/AudioBookSlides](https://github.com/GotAudio/AudioBookSlides) - Create an AI generated video slideshow from an audiobook.
+*   [GotAudio/AudioBookSlides](https://github.com/GotAudio/AudioBookSlides) - Create an AI generated video slideshow from an audiobook. Audio Book Slides
 
 *   [aioqzone/aioqzone-feed](https://github.com/aioqzone/aioqzone-feed) - aioqzone plugin providing higher level api for processing feed
 
@@ -571,7 +571,7 @@
 
 *   [westinyang/F-OH](https://github.com/westinyang/F-OH) - ⭐ F-OH 是一个 OpenHarmony 平台上 FOSS（Free and Open Source Software，自由开源软件）的应用中心，并提供下载安装支持
 
-*   [uni-openai/UniAI-App](https://github.com/uni-openai/UniAI-App) - One United API, Multiple AI models
+*   [uni-openai/uniai-maas](https://github.com/uni-openai/uniai-maas) - One United API, Multiple AI models
 
 *   [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 
