@@ -1025,7 +1025,7 @@
 
 ## miscellaneous
 
-*   [radishes-music/radishes](https://github.com/radishes-music/radishes) -
+*   [radishes-music/radishes](https://github.com/radishes-music/radishes) - Cross-platform copyright-free music platform（跨平台的无版权的音乐平台）. 支持 windows / macos / linux / web
 
 *   [justjavac/github-actions-youtube-dl](https://github.com/justjavac/github-actions-youtube-dl) - 使用 GitHub Actions 下载 YouTube 视频
 
