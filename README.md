@@ -1284,7 +1284,7 @@
 
 ## Jupyter Notebook
 
-*   [Kihara-Ri/From-API-to-Bilibili](https://github.com/Kihara-Ri/From-API-to-Bilibili) - 通过API全自动化爬取b站视频信息，目前已实现了字幕的爬取和全自动记录
+*   [Kihara-Ri/bili-video-info\_TO\_Notion](https://github.com/Kihara-Ri/bili-video-info_TO_Notion) - 通过API全自动化爬取b站视频信息，并通过Notion的自动化操作实现了字幕的爬取和全自动记录流程
 
 *   [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) - An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for key-frame segmentation and Associating Objects with Transformers (AOT) for efficient tracking and propagation purposes.
 
