@@ -536,6 +536,8 @@
 
 *   [hydrotho/BiliBili\_Livestream\_Reminder](https://github.com/hydrotho/BiliBili_Livestream_Reminder) - 一款监控哔哩哔哩直播间并通过 Telegram 机器人发送通知的工具。A tool for monitoring BiliBili livestreams and sending notifications via a Telegram bot.
 
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
 *   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
 *   [Batman0506/wx-wchaty-robot](https://github.com/Batman0506/wx-wchaty-robot) - 一个可以转发消息的微信机器人，可以自定义转发的群，也可以二开做关键字校验，node.js服务
@@ -650,7 +652,7 @@
 
 *   [long2ice/databack](https://github.com/long2ice/databack) - Backup your data from MySQL/PostgreSQL/SSH etc. to any other storages
 
-*   [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 The testing framework for ML models, from tabular to LLMs
+*   [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Evaluation, testing & monitoring framework for LLMs and ML models
 
 *   [mattwheeler/gpt-webex-bot](https://github.com/mattwheeler/gpt-webex-bot) - Webex Wiz is a GPT AI-powered virtual assistant bot for Webex Teams rooms. It provides quick and relevant responses to user prompts, helping users to get information and insights directly in their Webex Teams rooms.
 
@@ -817,8 +819,6 @@
 *   [radishes-music/radishes](https://github.com/radishes-music/radishes) - Cross-platform copyright-free music platform（跨平台的无版权的音乐平台）. 支持 windows / macos / linux / web
 
 *   [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
-
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 *   [abdtriedcoding/notionverse](https://github.com/abdtriedcoding/notionverse) - A static blog build on top of Notion and NextJS 14, deployed on Vercel.
 
@@ -1008,7 +1008,7 @@
 
 *   [shidenggui/bloghub](https://github.com/shidenggui/bloghub) - 一群自由而有趣的灵魂，终将在此相遇 | 独立个人博客推荐导航
 
-*   [CrazyDiablo/boluo-todo](https://github.com/CrazyDiablo/boluo-todo) - 像素风格的todo
+*   [boluo-O/boluo-todo](https://github.com/boluo-O/boluo-todo) - 像素风格的todo
 
 *   [harryzcy/nodop](https://github.com/harryzcy/nodop) - Notion Database Operator
 
