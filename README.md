@@ -120,7 +120,7 @@
 
 *   [jkoor/Alist-Media-Rename](https://github.com/jkoor/Alist-Media-Rename) - 获取 TMDb 电影/剧集信息，并对 Alist 媒体文件重命名
 
-*   [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com, using Httpx. With this, you will have free access to ChatGPT, Claude, Llama, Google-PaLM and more! 🚀
+*   [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com, using Httpx. With this, you will have free access to ChatGPT, Claude, Llama, Gemini, Google-PaLM and more! 🚀
 
 *   [pj8912/newsVideoMaker](https://github.com/pj8912/newsVideoMaker) - news automation
 
@@ -956,7 +956,7 @@
 
 ## Shell
 
-*   [Yanyutin753/unofficial-gpt4-api](https://github.com/Yanyutin753/unofficial-gpt4-api) - 一键部署专属于中转gpt-4，自定义 copilot回复流畅，支持高并发，小白也能快速使用！unofficial-gpt4-api Transfer gpt-4, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!
+*   [Yanyutin753/unofficial-gpt4-api](https://github.com/Yanyutin753/unofficial-gpt4-api) - 一键部署专属于中转gpt-4，回复流畅，支持高并发，小白也能快速使用！unofficial-gpt4-api Transfer gpt-4, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!
 
 *   [RayWangQvQ/sing-box-installer](https://github.com/RayWangQvQ/sing-box-installer) - 基于docker一键安装sing-box服务端，并自动生成vmess、naiveproxy、hysteria2节点
 
