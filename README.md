@@ -53,8 +53,6 @@
 
 ## Python
 
-*   [axiaoqi/TopicsTrack](https://github.com/axiaoqi/TopicsTrack) - 追踪热点新闻，抖音热搜
-
 *   [nfe-w/aio-dynamic-push](https://github.com/nfe-w/aio-dynamic-push) - 一款整合多平台动态/直播开播提醒检测与推送的小工具， 目前支持：B站、微博、小红书、抖音。
 
 *   [2DIPW/GPT-SoVITS-RefAudio-Tester](https://github.com/2DIPW/GPT-SoVITS-RefAudio-Tester) - GPT-SoVITS 参考音频推理效果批量试听
@@ -800,6 +798,8 @@
 *   [varzy/no2tg](https://github.com/varzy/no2tg) - An automated tool to publish notion pages to telegram channel.
 
 *   [im3x/Scriptables](https://github.com/im3x/Scriptables) - iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享
+
+*   [reruin/sharelist](https://github.com/reruin/sharelist) - 快速分享 GoogleDrive OneDrive
 
 ## TypeScript
 
