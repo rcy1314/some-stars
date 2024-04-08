@@ -53,6 +53,8 @@
 
 ## Python
 
+*   [winninghealth/WiNGPT2](https://github.com/winninghealth/WiNGPT2) - WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。
+
 *   [jb1812/actions-tweetbot](https://github.com/jb1812/actions-tweetbot) - To automate a twitter bot.
 
 *   [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
@@ -399,8 +401,6 @@
 
 *   [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
 
-*   [jbzdarkid/RssToEmail](https://github.com/jbzdarkid/RssToEmail) - Sends new RSS entries via email
-
 ## TypeScript
 
 *   [Bluemangoo/Aquarium](https://github.com/Bluemangoo/Aquarium) - 软件站，不提供下载链接但是提供源站下载链接解析。
@@ -663,7 +663,7 @@
 
 *   [JamesNZL/notion-assignment-import](https://github.com/JamesNZL/notion-assignment-import) - A free cross-browser extension to load Canvas assignments into Notion, with 8200+ unique users.
 
-*   [justorez/bookmark-cleaner](https://github.com/justorez/bookmark-cleaner) - 🚀 自动检测失效书签链接，一键清理
+*   [justorez/bookmark-cleaner](https://github.com/justorez/bookmark-cleaner) - 🚀 Check and clean invalid browser bookmarks
 
 *   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
 
@@ -694,6 +694,8 @@
 *   [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - Simple, zero-dependency, object pseudo-database for Cloudflare Workers using R2 bucket. 🧡💾
 
 *   [ccbikai/cloudflare-worker-image](https://github.com/ccbikai/cloudflare-worker-image) - 使用 Cloudflare Worker 处理图片, 依赖 Photon，支持缩放、剪裁、水印、滤镜等功能。
+
+*   [yajuhua/podcast2](https://github.com/yajuhua/podcast2) - 将视频网站转换成播客订阅
 
 *   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. feature enhancement tool | Typora 插件，功能增强工具
 
@@ -903,8 +905,6 @@
 
 *   [april-projects/april-wallpaper](https://github.com/april-projects/april-wallpaper) - 一个每日自动拉取壁纸写入readme文件的程序，新增壁纸 API
 
-*   [yajuhua/podcast2](https://github.com/yajuhua/podcast2) - 将视频网站转换成播客订阅
-
 *   [Yanyutin753/fakeApiTool-One-API](https://github.com/Yanyutin753/fakeApiTool-One-API) - （fakeOpen服务已停，请移步到PandoraNext-tokensTool项目，该项目全面支持one-api使用pandoraNext）针对于One-API使用Pandora的可视化网页，可以实现网页批量更改刷新token并每五天自动通过账号密码刷新Tokens,从而自动装填fakeAPI，同时自动更新FakeOpenAI地址，已打包好docker,开箱即用，后续扩展更多功能
 
 *   [mindolph/Mindolph](https://github.com/mindolph/Mindolph) - Mindolph is an open source personal knowledge management software for all desktop platforms.
@@ -945,7 +945,7 @@
 
 ## miscellaneous
 
-*   [stylellm/stylellm\_models](https://github.com/stylellm/stylellm_models) - StyleLLM文风大模型：基于大语言模型的文本风格迁移项目。Text style transfer base on Large Language Model
+*   [stylellm/stylellm\_models](https://github.com/stylellm/stylellm_models) - StyleLLM文风大模型：基于大语言模型的文本风格迁移项目。Text style transfer base on Large Language Model.  #文字修饰 # 润色 #风格模仿
 
 *   [zyz913614263/douyinDownload](https://github.com/zyz913614263/douyinDownload) - 抖音视频下载工具  💁 支持个人主页链接、作品分享链接、 抖音直播Web链接、合集链接、音乐(原声)集合链接  🔽 支持单个作品下载、主页作品下载、主页喜欢下载、 直播解析、单个合集下载、主页所有合集下载、 音乐(原声)集合下载
 
@@ -1247,7 +1247,7 @@
 
 *   [Alexell/PHub-Video-Downloader](https://github.com/Alexell/PHub-Video-Downloader) - PornHub & RedTube Video Downloader
 
-*   [NekoSilverFox/PolyChat](https://github.com/NekoSilverFox/PolyChat) - ✉️ 基于QT的跨平台局域网聊天室（包括 QTest 和 CI/CD 的使用） | QT-based development of LAN chat rooms |  Кроссплатформенный чат для локальной сети, основанный на разработке QT
+*   [NekoSilverFox/PolyChat](https://github.com/NekoSilverFox/PolyChat) - ✉️ 基于QT的多语言跨平台局域网聊天室（包括 QTest 和 CI/CD 的使用） | QT-based development of LAN chat rooms |  Кроссплатформенный чат для локальной сети, основанный на разработке QT
 
 *   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 
@@ -1343,7 +1343,7 @@
 
 *   [gaojinjin/ChatOpenAI](https://github.com/gaojinjin/ChatOpenAI) - Unity 与ChatGPT  Open AI 的结合
 
-*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 
 *   [jenius-apps/ambie](https://github.com/jenius-apps/ambie) - An app that uses white noise, nature sounds, and focus features to boost your productivity.
 
