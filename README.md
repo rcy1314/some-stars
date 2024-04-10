@@ -53,6 +53,8 @@
 
 ## TypeScript
 
+*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型白嫖服务，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
+
 *   [kahosan/acgn-collection](https://github.com/kahosan/acgn-collection) - 使用 Bangumi API 的第三方便捷收藏夹
 
 *   [Azzellz/pomelo](https://github.com/Azzellz/pomelo) - Based on Bunjs and Aria2 resource download tool , flexible configuration , support for custom resource parsing and some built-in resource parsing such as RSS
@@ -320,8 +322,6 @@
 *   [justorez/bookmark-cleaner](https://github.com/justorez/bookmark-cleaner) - 🚀 Check and clean invalid browser bookmarks
 
 *   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privatcy-in-mind, automated, auto-git-backup, freely-deployed Tiddlywiki knowledge management Desktop note app, with local REST API. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
-
-*   [HydenLiu/itu-nav-code](https://github.com/HydenLiu/itu-nav-code) - 🍻  艾兔db - 程序员导航
 
 ## Python
 
@@ -1379,7 +1379,7 @@
 
 *   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 
-*   [wansenai/eairp](https://github.com/wansenai/eairp) - ✨ Inventory Management System (通用进销存系统)
+*   [wansenai/eairp](https://github.com/wansenai/eairp) - ✨ Saas Enterprise Resource Planning (开源Sass ERP系统)
 
 *   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
 
