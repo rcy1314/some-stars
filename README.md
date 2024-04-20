@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
 *   [Python](#python)
@@ -30,7 +31,6 @@
 *   [Earthly](#earthly)
 *   [Dart](#dart)
 *   [Less](#less)
-*   [Swift](#swift)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Perl](#perl)
 *   [Batchfile](#batchfile)
@@ -49,6 +49,18 @@
 *   [Svelte](#svelte)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Metal](#metal)
+
+## Swift
+
+*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
+
+*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+
+*   [shaishaicookie/fcpx-auto-captions](https://github.com/shaishaicookie/fcpx-auto-captions) - 🎬 Auto Captions for Final Cut Pro Powered by OpenAI's Whisper Model
+
+*   [hellokuls/macGPT](https://github.com/hellokuls/macGPT) - 一款ChatGPT for Mac原生客户端，一键下载！Develop a ChatGPT Mac client, not a web page integration.
+
+*   [Mnpn/Taberu](https://github.com/Mnpn/Taberu) - A simple RSS feed parser for macOS which lives in the menu bar
 
 ## Vue
 
@@ -1450,8 +1462,6 @@
 
 *   [iccfish/ShimoExporter](https://github.com/iccfish/ShimoExporter) - 一键将个人石墨文档里的所有文档全部导出到本地
 
-*   [XianYu-Hil/Qotion](https://github.com/XianYu-Hil/Qotion) - A Bridge Connecting QQ and Notion
-
 ## Go
 
 *   [qianliwangyue/boom](https://github.com/qianliwangyue/boom) - 使用golang、fyne 开发的信息自动发送（轰炸）程序
@@ -1575,16 +1585,6 @@
 *   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - Easy To Use Practical Typora / Markdown Theme Package and Enhancement Plug-in
 
 *   [MaLuns/hexo-theme-text](https://github.com/MaLuns/hexo-theme-text) - 一款简约、轻量的Hexo主题
-
-## Swift
-
-*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
-
-*   [shaishaicookie/fcpx-auto-captions](https://github.com/shaishaicookie/fcpx-auto-captions) - 🎬 Auto Captions for Final Cut Pro Powered by OpenAI's Whisper Model
-
-*   [hellokuls/macGPT](https://github.com/hellokuls/macGPT) - 一款ChatGPT for Mac原生客户端，一键下载！Develop a ChatGPT Mac client, not a web page integration.
-
-*   [Mnpn/Taberu](https://github.com/Mnpn/Taberu) - A simple RSS feed parser for macOS which lives in the menu bar
 
 ## Jupyter Notebook
 
