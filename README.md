@@ -1434,8 +1434,6 @@
 
 *   [gaojinjin/ChatOpenAI](https://github.com/gaojinjin/ChatOpenAI) - Unity 与ChatGPT  Open AI 的结合
 
-*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
-
 *   [jenius-apps/ambie](https://github.com/jenius-apps/ambie) - An app that uses white noise, nature sounds, and focus features to boost your productivity.
 
 *   [torum/BlogWrite](https://github.com/torum/BlogWrite) - FeedDesk and BlogDesk (a feed reader and a blogging client).
@@ -1627,6 +1625,8 @@
 *   [Lin-jun-xiang/awesome-vscode-extensions](https://github.com/Lin-jun-xiang/awesome-vscode-extensions) - :gem:Tops of VSCode Extensions
 
 *   [daboynb/ChatGPT-Bypass-gui](https://github.com/daboynb/ChatGPT-Bypass-gui) - A  gui that allows you to bypass content filtering in ChatGPT through the OpenAI autocompletion API for DaVinci-003
+
+*   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 
 *   [SummonHIM/Bestdori-Music-Downloader](https://github.com/SummonHIM/Bestdori-Music-Downloader) - A script that automatically downloads music from Bestdori and fills in the music information(Song title, Artist, Album, Composer and Front cover)
 
