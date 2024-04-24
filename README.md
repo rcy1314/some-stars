@@ -1235,7 +1235,7 @@
 
 *   [tonydon140/star-syncplayer](https://github.com/tonydon140/star-syncplayer) - 星星同步播放器，一款可以同步播放视频的软件。具有一起看电影、同步播放、弹幕互动等功能。
 
-*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的看番软件，支持多番剧源
+*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的 Android 看番软件，支持多番剧源
 
 *   [avatsav/linkding-apps](https://github.com/avatsav/linkding-apps) - \[WIP] Native apps for Linkding self-hosted bookmark service
 
