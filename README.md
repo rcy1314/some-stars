@@ -553,7 +553,7 @@
 
 *   [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - Fantastic toolkit for CTFers and everyone.
 
-*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+*   [202252197/ChatGPT\_JCM](https://github.com/202252197/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star。
 
 *   [gaozhun/ChatGPT-Web](https://github.com/gaozhun/ChatGPT-Web) -
 
@@ -773,8 +773,6 @@
 
 *   [jamesmortensen/archiver-for-google-keep](https://github.com/jamesmortensen/archiver-for-google-keep) - Scrapes notes and checklists from Google Keep™ and writes them out as JSON and markdown archive/backup files. This tool is not affiliated or endorsed by Google™. Google Keep™ is a trademark of Google.
 
-*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客全部源码
-
 *   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
 
 *   [canwdev/page-craft-vite](https://github.com/canwdev/page-craft-vite) - PageCraft - 快速创建 DOM 结构和样式。通过文本转换器和多语言 JSON 编辑器提高生产力。您的网页构建助手！| PageCraft - Web page generation tool with Monaco Editor for quick DOM creation and styling. Boost productivity with text converter and multilingual JSON editor. Your web building assistant! (Inspired by Minecraft)
@@ -831,7 +829,7 @@
 
 *   [kilingzhang/NeteaseCloudMusicApi](https://github.com/kilingzhang/NeteaseCloudMusicApi) - 网易云音乐API  PHP
 
-*   [Tetrakern/fictioneer](https://github.com/Tetrakern/fictioneer) - The web fiction theme for WordPress.
+*   [Tetrakern/fictioneer](https://github.com/Tetrakern/fictioneer) - A web fiction theme for WordPress.
 
 *   [imjeff/typecho-dear](https://github.com/imjeff/typecho-dear) - Typecho 极极简主题 Dear，无 JS、CSS 文件载入，无分页，无评论，代码极简优化。复刻 Bearblog 主题。
 
@@ -1294,6 +1292,8 @@
 *   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
 
 *   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+
+*   [eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io) - 二丫讲梵👇博客--fork走内容却不更改，太烦了，此处将不再更新内容。
 
 *   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
 
