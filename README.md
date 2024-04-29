@@ -909,7 +909,7 @@
 
 *   [Bluemangoo/Aquarium](https://github.com/Bluemangoo/Aquarium) - 软件站，不提供下载链接但是提供源站下载链接解析。
 
-*   [liruifengv/daily-poetry-image](https://github.com/liruifengv/daily-poetry-image) - 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
+*   [liruifengv/we-drawing](https://github.com/liruifengv/we-drawing) - 每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
 
 *   [sunls24/nextai](https://github.com/sunls24/nextai) - 一个简单而优雅的 AI 聊天程序
 
