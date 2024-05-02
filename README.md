@@ -427,7 +427,7 @@
 
 *   [chiheye/model\_api](https://github.com/chiheye/model_api) - 同时支持chatglm3，m3e
 
-*   [ryo-ma/gpt-assistants-api-ui](https://github.com/ryo-ma/gpt-assistants-api-ui) - 💬 OpenAI Assistants API chat UI  🛠️ It works easily by setting the ASSISTANT ID  📁 Supports file upload and file download 🪟 Support to Azure OpenAI
+*   [ryo-ma/gpt-assistants-api-ui](https://github.com/ryo-ma/gpt-assistants-api-ui) - 💬 OpenAI Assistants API chat UI  🛠️ It works easily by setting the ASSISTANT ID  📁 Supports file upload and file download 🏃 Supports Streaming API 🪟 Support to Azure OpenAI
 
 *   [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 
