@@ -363,7 +363,7 @@
 
 *   [whatis-geb/operation](https://github.com/whatis-geb/operation) - 和运营相关的内容
 
-*   [sokunheng/DownEdit](https://github.com/sokunheng/DownEdit) - AI-Powered Tool for Download, Edit, and Generate Videos and Images in Bulk from Any Website! with more exciting features on the way!
+*   [sokunheng/DownEdit](https://github.com/sokunheng/DownEdit) - AI-Powered Tool for Download, Edit, and Generate Videos, Images and Sounds, in Bulk! with more exciting features on the way!
 
 *   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 
@@ -403,11 +403,13 @@
 
 *   [seahorse-is-bored/PowerPoint\_Anki\_Macro-Addon](https://github.com/seahorse-is-bored/PowerPoint_Anki_Macro-Addon) - A macro and addon you can use for powerpoint to import straight into Anki.
 
+*   [icodebase/ivideo](https://github.com/icodebase/ivideo) - ivideo 是一款轻量、强大、好用的视频处理软件。可以满足普通人一般的视频处理需求：压缩视频、转码视频、倒放视频、合并片段、根据字幕裁切片段、自动配字幕、自动剪辑……
+
 ## Java
 
 *   [AaronComo/Escape](https://github.com/AaronComo/Escape) - 一站式中华文化IP项目，以壁画修复、二次创作和在线壁画风图片库为核心，让中华优秀传统文化走进更多人的生活，在艺术世界中探索壁画魅力，开启梦幻之旅。
 
-*   [leo6g/Jeverything](https://github.com/leo6g/Jeverything) - Everything(Java版)--桌面快速文件搜索，全平台支持，功能丰富，运行丝滑。极速搜索文件，支持高级搜索，局域网分享、快传、文件在线预览、音视频播放、推流等功能。一键启动，全搞定。
+*   [leo6g/Jeverything](https://github.com/leo6g/Jeverything) - JEverything(Java版)--桌面快速文件搜索，全平台支持，功能丰富，运行丝滑。极速搜索文件，支持高级搜索，局域网分享、快传、文件在线预览、音视频播放、推流等功能。一键启动，全搞定。
 
 *   [TouShang6015/Hugai-chatgpt](https://github.com/TouShang6015/Hugai-chatgpt) - HugAi是由Springboot Vue2 elementUI集成各大AI大模型平台开发的智能问答助手，文本对话模型支持流式响应，现已接入OpenAi、chatGpt、讯飞星火、文心一言，以及主流AI绘图Midjourney、Stable Diffusion，完全开源搭建属于自己的AI聊天室
 
@@ -740,8 +742,6 @@
 *   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
 *   [zhufenghua1998/bp3](https://github.com/zhufenghua1998/bp3) - bp3是一款使用php开发的百度网盘接口程序，百度网盘目录搜索引擎，文件展示搜索目录树，在线目录搜索索引，百度网盘文件下载（含直链）等。
-
-*   [viptv-work/viptv-work.github.io](https://github.com/viptv-work/viptv-work.github.io) - VIPTV - 对标聚合海量电视， 直播，影视，短片，音乐，小说，壁纸等资源
 
 *   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
