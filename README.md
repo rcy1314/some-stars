@@ -1529,7 +1529,7 @@
 
 *   [lenye/pmsg](https://github.com/lenye/pmsg) - 发送消息的小工具：企业微信群机器人消息，钉钉自定义机器人消息，飞书自定义机器人消息，Slack bot，微信消息，微信客服消息，企业微信消息，企业微信客服消息
 
-*   [kenellorando/cadence](https://github.com/kenellorando/cadence) - All-in-one web radio suite. Provides music search, request, artwork, UI, and real-time stream information.
+*   [kenellorando/cadence](https://github.com/kenellorando/cadence) - All-in-one web radio suite with browser UI, music search, request, artwork, and real-time stream information.
 
 *   [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
 
