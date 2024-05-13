@@ -65,7 +65,7 @@
 
 *   [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
 
-*   [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) - Streamer-Sales 销冠 —— 卖货主播大模型，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型
+*   [PeterH0323/Streamer-Sales](https://github.com/PeterH0323/Streamer-Sales) - Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型，🚀⭐内含详细的数据生成流程❗🚀
 
 *   [877007021/clashTools](https://github.com/877007021/clashTools) - 利用 clash api 对 clash 进行增强。默认的 clash 是对节点延迟进行检查，但是低延迟并不一定有好的速度，多数时候不需要低延迟，而是要更好的速度。 该工具使用当前选择的节点进行测试，如果当前节点不可以用或不满足条件，则进行切换，使用本地网络寻找最适合当前网络的节点。
 
@@ -89,7 +89,7 @@
 
 *   [jb1812/actions-tweetbot](https://github.com/jb1812/actions-tweetbot) - To automate a twitter bot.
 
-*   [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper without API key | Free | Twitter Bot | Twitter API Scraper | Twitter Internal API | Twitter Streaming API | Twitter Internal API scraper | Twitter Streaming API scraper
+*   [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 
 *   [Anning01/ComicTweets](https://github.com/Anning01/ComicTweets) - 自动化构建漫画推文，使用stable diffusion来生成图片
 
@@ -522,8 +522,6 @@
 *   [jahnli/awesome-flutter-plugins](https://github.com/jahnli/awesome-flutter-plugins) - 🔥🔥 收集好用的Flutter插件以便更效率的开发
 
 *   [HXHGTS/DeactivationIDM](https://github.com/HXHGTS/DeactivationIDM) - IDM激活/反激活规则
-
-*   [yeuxuan/ccproxy\_kami](https://github.com/yeuxuan/ccproxy_kami) - ccproxy卡密管理系统 生成卡密 激活 用户在线管理 socket 通讯
 
 *   [wsdjeg/hello-vim](https://github.com/wsdjeg/hello-vim) - Vim 中文资源整理
 
@@ -988,6 +986,8 @@
 *   [HurryBy/CloudDiskAnalysis](https://github.com/HurryBy/CloudDiskAnalysis) - 蓝奏云/123云盘/中国移动云空间直链，蓝奏云/123云盘/中国移动云空间解析，蓝奏云/123云盘/中国移动云空间解析API，蓝奏云/123云盘/中国移动云空间带密码解析，蓝奏云/123云盘/中国移动云空间文件夹分享解析
 
 *   [wpbkj/moyu\_php](https://github.com/wpbkj/moyu_php) - 摸鱼办是一个具有娱乐调侃性质的虚拟机构。摸鱼办提醒则提醒各位摸鱼人各个假期何时到来，为摸鱼人种下希望（狗头）。项目整体由PHP构建。
+
+*   [yeuxuan/ccproxy\_kami](https://github.com/yeuxuan/ccproxy_kami) - ccproxy卡密管理系统 生成卡密 激活 用户在线管理 socket 通讯
 
 *   [teakong/liuyan-weixin](https://github.com/teakong/liuyan-weixin) - 将网站或者博客留言推送到微信
 
