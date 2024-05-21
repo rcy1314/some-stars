@@ -111,7 +111,7 @@
 
 *   [cecats/autosendmail](https://github.com/cecats/autosendmail) - 自动回复邮件程序
 
-*   [zhulinyv/Semi-Auto-NovelAI-to-Pixiv](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv) - 带有 WebUI 的 NovelAI 量产工具, 实现了批量文生图; 批量图生图; 视频转绘; 分块重绘; 批量 Vibe; 批量局部重绘; 批量超分降噪; 批量自动打码; 批量添加水印; 批量上传 Pixiv; 图片筛选; 批量抹除, 还原或导出生成信息; 法术解析; ChatGPT; 动态加载插件
+*   [zhulinyv/Semi-Auto-NovelAI-to-Pixiv](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv) - 带有 WebUI 的 NovelAI 量产工具, 实现了批量文生图; 批量图生图; 视频转绘; 分块重绘; 批量 Vibe; 批量局部重绘; 批量超分降噪; 批量自动打码; 批量添加水印; 批量上传 Pixiv; 图片筛选; 批量抹除, 还原或导出生成信息; 法术解析; 多模型反推提示词; ChatGPT; 动态加载插件
 
 *   [wang-zhibo/duckgo\_api](https://github.com/wang-zhibo/duckgo_api) - async duckduckgo api  免费的无限制的搜索接口, chat gpt-3.5
 
@@ -1357,7 +1357,7 @@
 
 *   [unit-mesh/chocolate-factory](https://github.com/unit-mesh/chocolate-factory) - Chocolate Factory is a cutting-edge LLM toolkit designed to empower you in creating your very own AI assistant.Chocolate Factory 是一款开源的 LLM 应用开发框架，旨在帮助您轻松打造强大的软件开发 SDLC + LLM 生成助手。无论您是需要生成前端页面、后端 API、SQL 图表，还是测试用例数据，Chocolate Factory 都能满足您的需求。
 
-*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for anime RSS, BitTorrent dl & play. MVI arch, Material You style. ⭐️ Star to support! 一站式 RSS 订阅动漫、BitTorrent 下载和播放 Android 应用。采用 MVI 架构和 Material You 风格。⭐️点个 Star 以支持工作
+*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play. MVI arch, Material You style. ⭐️ Star to support! 一站式 RSS 订阅、BitTorrent 下载和视频播放 Android 应用。采用 MVI 架构和 Material You 风格。⭐️点个 Star 以支持工作
 
 *   [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
 
