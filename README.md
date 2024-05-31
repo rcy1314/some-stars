@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Shell](#shell)
 *   [Vue](#vue)
 *   [Go](#go)
@@ -33,7 +34,6 @@
 *   [Earthly](#earthly)
 *   [Dart](#dart)
 *   [Less](#less)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Perl](#perl)
 *   [Batchfile](#batchfile)
 *   [Pascal](#pascal)
@@ -51,6 +51,30 @@
 *   [Svelte](#svelte)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Metal](#metal)
+
+## Jupyter Notebook
+
+*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
+
+*   [Kihara-Ri/bili-video-info\_TO\_Notion](https://github.com/Kihara-Ri/bili-video-info_TO_Notion) - 通过API全自动化爬取b站视频信息，并通过Notion的自动化操作实现了字幕的爬取和全自动记录流程
+
+*   [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) - An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for key-frame segmentation and Associating Objects with Transformers (AOT) for efficient tracking and propagation purposes.
+
+*   [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
+
+*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+
+*   [dlab-berkeley/Python-Fundamentals-Legacy](https://github.com/dlab-berkeley/Python-Fundamentals-Legacy) - D-Lab's 12 hour introduction to Python. Learn how to create variables and functions, use control flow structures, use libraries, import data, and more, using Python and Jupyter Notebooks.
+
+*   [jarrellmark/chatgpt-j](https://github.com/jarrellmark/chatgpt-j) - Chat interface to gpt-j. Runs in Google Colab.
+
+*   [Conchylicultor/automations](https://github.com/Conchylicultor/automations) - Automated scripts for APIs
+
+*   [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI
+
+*   [Sahilvohra58/ai-subtitle-video-editor](https://github.com/Sahilvohra58/ai-subtitle-video-editor) - A complete microservice that takes a video from the user, generates its subtitles, asks the user to edit them and reproduces the video with those subtitles as the part of the video.
+
+*   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 
 ## Shell
 
@@ -325,8 +349,6 @@
 *   [ZutJoe/KoalaHackerNews](https://github.com/ZutJoe/KoalaHackerNews) - Koala hacker news 周报内容 每周二0点左右更新
 
 *   [LiuYuYang01/BookMark](https://github.com/LiuYuYang01/BookMark) - BookMark 是一款轻量、简洁雅观的书签导航项目 你可以将它设置为你的浏览器主页 告别杂乱无章的浏览器书签栏。相信你会喜欢它的! 🎉
-
-*   [WangGuibin/weather-action](https://github.com/WangGuibin/weather-action) - Github action自动化每天早上自动推送新闻简报  配合快捷指令使用https://www.icloud.com/shortcuts/1a05b4fcde9743fab4ef8aa7a8908f80
 
 ## TypeScript
 
@@ -1597,28 +1619,6 @@
 *   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - Easy To Use Practical Typora / Markdown Theme Package and Enhancement Plug-in
 
 *   [MaLuns/hexo-theme-text](https://github.com/MaLuns/hexo-theme-text) - 一款简约、轻量的Hexo主题
-
-## Jupyter Notebook
-
-*   [Kihara-Ri/bili-video-info\_TO\_Notion](https://github.com/Kihara-Ri/bili-video-info_TO_Notion) - 通过API全自动化爬取b站视频信息，并通过Notion的自动化操作实现了字幕的爬取和全自动记录流程
-
-*   [z-x-yang/Segment-and-Track-Anything](https://github.com/z-x-yang/Segment-and-Track-Anything) - An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for key-frame segmentation and Associating Objects with Transformers (AOT) for efficient tracking and propagation purposes.
-
-*   [serp-ai/bark-with-voice-clone](https://github.com/serp-ai/bark-with-voice-clone) - 🔊 Text-prompted Generative Audio Model - With the ability to clone voices
-
-*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-
-*   [dlab-berkeley/Python-Fundamentals-Legacy](https://github.com/dlab-berkeley/Python-Fundamentals-Legacy) - D-Lab's 12 hour introduction to Python. Learn how to create variables and functions, use control flow structures, use libraries, import data, and more, using Python and Jupyter Notebooks.
-
-*   [jarrellmark/chatgpt-j](https://github.com/jarrellmark/chatgpt-j) - Chat interface to gpt-j. Runs in Google Colab.
-
-*   [Conchylicultor/automations](https://github.com/Conchylicultor/automations) - Automated scripts for APIs
-
-*   [dmarx/video-killed-the-radio-star](https://github.com/dmarx/video-killed-the-radio-star) - Notebook and tools for end-to-end automation of music video production with generative AI
-
-*   [Sahilvohra58/ai-subtitle-video-editor](https://github.com/Sahilvohra58/ai-subtitle-video-editor) - A complete microservice that takes a video from the user, generates its subtitles, asks the user to edit them and reproduces the video with those subtitles as the part of the video.
-
-*   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 
 ## Perl
 
