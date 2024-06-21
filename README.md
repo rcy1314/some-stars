@@ -56,7 +56,7 @@
 
 *   [yuzhouxingzou/audio\_trimmer\_baseon\_ass](https://github.com/yuzhouxingzou/audio_trimmer_baseon_ass) - 使用ass字幕文件为基础的音频切片程序
 
-*   [kimwang1978/collect-tv-txt](https://github.com/kimwang1978/collect-tv-txt) - 每日自动收集整理直播源(持续更新)
+*   [kimwang1978/collect-tv-txt](https://github.com/kimwang1978/collect-tv-txt) - 每日自动收集整理直播源 (持续更新)
 
 *   [FlorianEagox/RSSpeak](https://github.com/FlorianEagox/RSSpeak) - Generate audio content from an RSS feed with TTS and voice cloning for my blog!
 
@@ -68,7 +68,7 @@
 
 *   [cecats/autosendmail](https://github.com/cecats/autosendmail) - 自动回复邮件程序
 
-*   [zhulinyv/Semi-Auto-NovelAI-to-Pixiv](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv) - 带有 WebUI 的 NovelAI 量产工具, 实现了批量文生图; 批量图生图; 视频转绘; 分块重绘; 批量 Vibe; 批量局部重绘; 批量超分降噪; 批量自动打码; 批量添加水印; 批量上传 Pixiv; 图片筛选; 批量抹除, 还原或导出生成信息; 法术解析; 多模型反推提示词; ChatGPT; 动态加载插件; 自动 roll 画风串; 批量 Enhance
+*   [zhulinyv/Semi-Auto-NovelAI-to-Pixiv](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv) - 带有 WebUI 的 NovelAI 量产工具, 实现了批量文生图; 批量图生图; 视频转绘; 分块重绘; 批量 Vibe; 批量局部重绘; 批量超分降噪; 批量自动打码; 批量添加水印; 批量上传 Pixiv; 图片筛选; 批量抹除, 还原或导出生成信息; 法术解析; 多模型反推提示词; ChatGPT; 动态加载插件; 自动 roll 画风串; 批量 Enhance; tag选择器
 
 *   [wang-zhibo/duckgo\_api](https://github.com/wang-zhibo/duckgo_api) - async duckduckgo api  免费的无限制的搜索接口, chat gpt-3.5
 
@@ -100,7 +100,7 @@
 
 *   [tigrisdata-community/tigris-text-to-image](https://github.com/tigrisdata-community/tigris-text-to-image) - Text-To-Image Generator with Hugging Face model, Fly GPUs and Tigris as storage
 
-*   [gongouveia/Whisper-Synthetic-ASR-Dataset-Generator](https://github.com/gongouveia/Whisper-Synthetic-ASR-Dataset-Generator) - (Still not complete!!) This UI serves as a Synthetic ASR Dataset Generator powered by/for OpenAI Whisper, enabling users to capture audio, transcribing it, on the fly and manage the generated dataset. It provides a user-friendly interface for configuring audio parameters, transcription options, and dataset management.
+*   [gongouveia/Whisper-Synthetic-ASR-Dataset-Generator](https://github.com/gongouveia/Whisper-Synthetic-ASR-Dataset-Generator) - This UI serves as a Synthetic ASR Dataset Generator powered by/for OpenAI Whisper, enabling users to capture audio, transcribing it, on the fly and manage the generated dataset. It provides a user-friendly interface for configuring audio parameters, transcription options, and dataset management.
 
 *   [winninghealth/WiNGPT2](https://github.com/winninghealth/WiNGPT2) - WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。
 
