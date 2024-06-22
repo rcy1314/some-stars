@@ -56,7 +56,7 @@
 
 *   [yuzhouxingzou/audio\_trimmer\_baseon\_ass](https://github.com/yuzhouxingzou/audio_trimmer_baseon_ass) - 使用ass字幕文件为基础的音频切片程序
 
-*   [kimwang1978/collect-tv-txt](https://github.com/kimwang1978/collect-tv-txt) - 每日自动收集整理直播源 (持续更新)
+*   [kimwang1978/collect-tv-txt](https://github.com/kimwang1978/collect-tv-txt) - 直播源 (每日自动收集・持续更新)
 
 *   [FlorianEagox/RSSpeak](https://github.com/FlorianEagox/RSSpeak) - Generate audio content from an RSS feed with TTS and voice cloning for my blog!
 
