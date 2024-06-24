@@ -1256,7 +1256,7 @@
 
 *   [jerryshell/my-flomo-server](https://github.com/jerryshell/my-flomo-server) - 可以自托管的想法记录及回顾服务，开源、免费、简单、专注于核心功能
 
-*   [chengkenlee/wenews](https://github.com/chengkenlee/wenews) - 微语简报推送到微信群
+*   [chengkenli/wenews](https://github.com/chengkenli/wenews) - 微语简报推送到微信群
 
 *   [lenye/pmsg](https://github.com/lenye/pmsg) - 发送消息的小工具：企业微信群机器人消息，钉钉自定义机器人消息，飞书自定义机器人消息，Slack bot，微信消息，微信客服消息，企业微信消息，企业微信客服消息
 
