@@ -784,6 +784,8 @@
 
 *   [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 
+*   [MannyCooper/anzifan.com](https://github.com/MannyCooper/anzifan.com) - Personal blog powered by Notion official API + Next.JS + WindiCSS!
+
 ## C++
 
 *   [ZJamss/PVZ\_Cheating](https://github.com/ZJamss/PVZ_Cheating) - 植物大战僵尸(杂交版可用)修改器，外挂 A cheater for Plants vs. Zoombies (including hybrid edition)
@@ -1256,8 +1258,6 @@
 
 *   [jerryshell/my-flomo-server](https://github.com/jerryshell/my-flomo-server) - 可以自托管的想法记录及回顾服务，开源、免费、简单、专注于核心功能
 
-*   [chengkenli/wenews](https://github.com/chengkenli/wenews) - 微语简报推送到微信群
-
 *   [lenye/pmsg](https://github.com/lenye/pmsg) - 发送消息的小工具：企业微信群机器人消息，钉钉自定义机器人消息，飞书自定义机器人消息，Slack bot，微信消息，微信客服消息，企业微信消息，企业微信客服消息
 
 *   [kenellorando/cadence](https://github.com/kenellorando/cadence) - All-in-one web radio suite with browser UI, music search, request, artwork, and real-time stream information.
@@ -1398,7 +1398,7 @@
 
 *   [mozhu811/oh-my-helper](https://github.com/mozhu811/oh-my-helper) - 🚀原bilibili-helper-hub，目前已部署B站每日任务及大会员中心任务
 
-*   [Clay-Ferguson/quantizr](https://github.com/Clay-Ferguson/quantizr) - Quanta is an open-source CMS with ChatGPT and Social Media (Fediverse) features
+*   [Clay-Ferguson/quantizr](https://github.com/Clay-Ferguson/quantizr) - An open-source CMS with AI Chatbot capabilities supporting all the major AI Cloud Providers
 
 *   [april-projects/april-zh-hotspot-push](https://github.com/april-projects/april-zh-hotspot-push) - 知乎热点推送
 
