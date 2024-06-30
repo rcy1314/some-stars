@@ -70,7 +70,7 @@
 
 *   [zhulinyv/Semi-Auto-NovelAI-to-Pixiv](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv) - 带有 WebUI 的 NovelAI 量产工具, 实现了批量文生图; 批量图生图; 视频转绘; 分块重绘; 批量 Vibe; 批量局部重绘; 批量超分降噪; 批量自动打码; 批量添加水印; 批量上传 Pixiv; 图片筛选; 批量抹除, 还原或导出生成信息; 法术解析; 多模型反推提示词; ChatGPT; 动态加载插件; 自动 roll 画风串; 批量 Enhance; tag选择器
 
-*   [wang-zhibo/duckgo\_api](https://github.com/wang-zhibo/duckgo_api) - async duckduckgo api  免费的无限制的搜索接口, chat gpt-3.5
+*   [wang-zhibo/duckgo\_api](https://github.com/wang-zhibo/duckgo_api) - async duckduckgo api  免费的无限制的搜索接口, 和免费的 ai chat gpt-3.5,claude-3-haiku,llama-3-70b,mixtral-8x7b
 
 *   [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 
@@ -1034,6 +1034,8 @@
 
 *   [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) - \[按键映射工具] QKeyMapper，Qt开发Win10\&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止，新增虚拟游戏手柄功能，可鼠标控制虚拟手柄摇杆。
 
+*   [fleek-network/lightning](https://github.com/fleek-network/lightning) - Fleek Network, a decentralized edge platform.
+
 *   [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
 
 *   [frank2/packer-tutorial](https://github.com/frank2/packer-tutorial) - A tutorial on how to write a packer for Windows!
@@ -1045,8 +1047,6 @@
 ## Rust
 
 *   [singcl/XmVideoPlayer](https://github.com/singcl/XmVideoPlayer) - 一款高颜值的支持播放和下载mp4, m3u8,flv,mpeg-dash等多种流媒体格式的桌面客户端 🔥。
-
-*   [fleek-network/lightning](https://github.com/fleek-network/lightning) - Fleek Network, a decentralized edge platform.
 
 *   [juerson/wireguard2clash](https://github.com/juerson/wireguard2clash) - WireGuard转Clash，以cf warp的WireGuard配置文件为例，批量生成WireGuard协议的Clash的配置文件。
 
