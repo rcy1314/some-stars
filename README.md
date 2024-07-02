@@ -54,6 +54,10 @@
 
 ## Python
 
+*   [neavo/KeywordGacha](https://github.com/neavo/KeywordGacha) - 一个使用 OpenAI 兼容接口来抓取小说、游戏脚本等任意文本中的名词表的工具
+
+*   [Howard00001/VideoPyDownloader](https://github.com/Howard00001/VideoPyDownloader) - 影片下載工具
+
 *   [yuzhouxingzou/audio\_trimmer\_baseon\_ass](https://github.com/yuzhouxingzou/audio_trimmer_baseon_ass) - 使用ass字幕文件为基础的音频切片程序
 
 *   [kimwang1978/collect-tv-txt](https://github.com/kimwang1978/collect-tv-txt) - 直播源 (每日自动收集・持续更新)
@@ -784,8 +788,6 @@
 
 *   [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 
-*   [MannyCooper/anzifan.com](https://github.com/MannyCooper/anzifan.com) - Personal blog powered by Notion official API + Next.JS + WindiCSS!
-
 ## C++
 
 *   [ZJamss/PVZ\_Cheating](https://github.com/ZJamss/PVZ_Cheating) - 植物大战僵尸(杂交版可用)修改器，外挂 A cheater for Plants vs. Zoombies (including hybrid edition)
@@ -1008,7 +1010,7 @@
 
 *   [MRHRTZ/Tiktok-Scraper-Without-Watermark](https://github.com/MRHRTZ/Tiktok-Scraper-Without-Watermark) - Download Video From Tiktok Without Watermark, With Watermark and Audio Only.
 
-*   [4ian/GDevelop](https://github.com/4ian/GDevelop) - :video\_game: Open-source, cross-platform game engine designed to be used by everyone.
+*   [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 
 *   [baumannzone/baumannzone](https://github.com/baumannzone/baumannzone) - 🤩 My custom README repo. It gets automatically updated with videos from Youtube and photos from Instagram.
 
@@ -1034,8 +1036,6 @@
 
 *   [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) - \[按键映射工具] QKeyMapper，Qt开发Win10\&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止，新增虚拟游戏手柄功能，可鼠标控制虚拟手柄摇杆。
 
-*   [fleek-network/lightning](https://github.com/fleek-network/lightning) - Fleek Network, a decentralized edge platform.
-
 *   [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
 
 *   [frank2/packer-tutorial](https://github.com/frank2/packer-tutorial) - A tutorial on how to write a packer for Windows!
@@ -1048,7 +1048,9 @@
 
 *   [singcl/XmVideoPlayer](https://github.com/singcl/XmVideoPlayer) - 一款高颜值的支持播放和下载mp4, m3u8,flv,mpeg-dash等多种流媒体格式的桌面客户端 🔥。
 
-*   [juerson/wireguard2clash](https://github.com/juerson/wireguard2clash) - WireGuard转Clash，以cf warp的WireGuard配置文件为例，批量生成WireGuard协议的Clash的配置文件。
+*   [fleek-network/lightning](https://github.com/fleek-network/lightning) - Fleek Network, a decentralized edge platform.
+
+*   [juerson/wireguard2clash](https://github.com/juerson/wireguard2clash) - WireGuard转Clash，以cf warp的WireGuard配置文件为例，批量生成WireGuard协议的Clash的配置文件。支持warp优选IP的result.csv文件为数据输入；支持IPv4、IPv6。
 
 *   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
 
@@ -1174,7 +1176,7 @@
 
 *   [debug16/LuoYiMusic](https://github.com/debug16/LuoYiMusic) - 基于 vue3 + vite + pinia + vue-router4 实现的一个简约美观的音乐播放平台，使用 pake 打包桌面端，只有1M+，欢迎大家体验和star
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 
 *   [a7650/h5-editor](https://github.com/a7650/h5-editor) - 📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能
 
@@ -1189,8 +1191,6 @@
 *   [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
 
 *   [chrisj74/vue-rss-blog](https://github.com/chrisj74/vue-rss-blog) - An embeddable to pull an RSS feed into your website
-
-*   [UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend) - GitScratch 社区前端
 
 ## Go
 
