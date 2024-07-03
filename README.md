@@ -432,7 +432,7 @@
 
 *   [sbwml/TrollStore\_zh\_Hans](https://github.com/sbwml/TrollStore_zh_Hans) - :trollface: TrollStore 简体/繁体中文 :trollface:
 
-*   [VisionCraft-org/VisionCraft](https://github.com/VisionCraft-org/VisionCraft) - This is a documentation for Free AI API with Stable Diffusion, Stable Diffusion XL, GPT, llama-3 and many others.
+*   [Metimol1/VisionCraft](https://github.com/Metimol1/VisionCraft) - This is a documentation for Free AI API with Stable Diffusion, Stable Diffusion XL, GPT, llama-3 and many others.
 
 *   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 
