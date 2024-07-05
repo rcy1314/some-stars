@@ -54,7 +54,7 @@
 
 ## Python
 
-*   [neavo/KeywordGacha](https://github.com/neavo/KeywordGacha) - 一个使用 OpenAI 兼容接口来抓取小说、游戏脚本等任意文本中的名词表的工具
+*   [neavo/KeywordGacha](https://github.com/neavo/KeywordGacha) - 使用 OpenAI 兼容接口来抓取小说、漫画、字幕、游戏脚本等任意文本中的名词表的翻译辅助工具
 
 *   [Howard00001/VideoPyDownloader](https://github.com/Howard00001/VideoPyDownloader) - 影片下載工具
 
