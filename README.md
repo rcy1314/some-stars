@@ -488,7 +488,7 @@
 
 *   [jheddings/notes2notion](https://github.com/jheddings/notes2notion) - Import content from Apple Notes into Notion.
 
-*   [zhaosuizhi/auto-unlock-music](https://github.com/zhaosuizhi/auto-unlock-music) - 自动解锁各音乐平台下载的加密音乐
+*   [old6ix/auto-unlock-music](https://github.com/old6ix/auto-unlock-music) - 自动解锁各音乐平台下载的加密音乐
 
 *   [Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 
