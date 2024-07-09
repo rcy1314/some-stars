@@ -56,7 +56,7 @@
 
 *   [yugongcoding/yugong\_wiki](https://github.com/yugongcoding/yugong_wiki) - 愚公wiki是一款轻量的在线博客、知识库、个人笔记或企业文档协作平台，可下载桌面版作为个人笔记本，也可以在线编辑文档，当然也可以自行进行服务化部署，因为这是一款完全开源的写作平台
 
-*   [pen9un/douyin-chatgpt-bot](https://github.com/pen9un/douyin-chatgpt-bot) - 抖音ChatGPT自动对话机器人，抖音评论自动回复，抖音自媒体系统，抖音引流工具 🔮🤖🚀
+*   [pen9un/douyin-chatgpt-bot](https://github.com/pen9un/douyin-chatgpt-bot) - 抖音AI自动回复引流系统，抖音评论自动回复，抖音引流工具，抖音自媒体系统，抖音ChatGPT自动对话机器人 🔮🤖🚀
 
 *   [sbwml/TrollStore\_zh\_Hans](https://github.com/sbwml/TrollStore_zh_Hans) - :trollface: TrollStore 简体/繁体中文 :trollface:
 
@@ -206,7 +206,7 @@
 
 *   [tigrisdata-community/tigris-text-to-image](https://github.com/tigrisdata-community/tigris-text-to-image) - Text-To-Image Generator with Hugging Face model, Fly GPUs and Tigris as storage
 
-*   [gongouveia/Whisper-Synthetic-ASR-Dataset-Generator](https://github.com/gongouveia/Whisper-Synthetic-ASR-Dataset-Generator) - This UI serves as a Synthetic ASR Dataset Generator powered by/for OpenAI Whisper, enabling users to capture audio, transcribing it, on the fly and manage the generated dataset. It provides a user-friendly interface for configuring audio parameters, transcription options, and dataset management.
+*   [gongouveia/Whisper-Synthetic-ASR-Dataset-Generator](https://github.com/gongouveia/Whisper-Synthetic-ASR-Dataset-Generator) - This UI serves as a Synthetic ASR Dataset Generator powered by/for OpenAI Whisper, enabling users to capture audio, transcribing it, on the fly and manage the generated dataset 🤗. Fine tune Whisper  or enhanced and custom datasets
 
 *   [winninghealth/WiNGPT2](https://github.com/winninghealth/WiNGPT2) - WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。
 
@@ -1546,7 +1546,7 @@
 
 *   [YohoYang/VSGUI](https://github.com/YohoYang/VSGUI) - 一款全新VapourSynth视频压制软件。A video encode GUI like MeGUI for VapourSynth.
 
-*   [SlimeNull/OpenGptChat](https://github.com/SlimeNull/OpenGptChat) - An OpenAI Chat completion Client. Support for the six major universal languages in the world and some other languages. Support for dark mode.
+*   [SlimeNull/OpenGptChat](https://github.com/SlimeNull/OpenGptChat) - An OpenAI Chat completion Client. 一个 OpenAI 聊天 Completion 客户端.
 
 *   [xksoft/OcrHelper](https://github.com/xksoft/OcrHelper) - 桌面图像实时转文字工具
 
