@@ -946,6 +946,8 @@
 
 *   [linfaxin/MBBS](https://github.com/linfaxin/MBBS) - 🔥轻量级全功能论坛、移动/PC双端适配、无依赖一键启动、技术栈 express + sqlite + react（MBBS论坛托管服务开源版）
 
+*   [Clay-Ferguson/quantizr](https://github.com/Clay-Ferguson/quantizr) - An open-source CMS with AI Chatbot capabilities supporting all the major AI Cloud Providers
+
 *   [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 
 *   [Avinier/E-minor](https://github.com/Avinier/E-minor) - An NFT Marketplace for Music Lovers
@@ -1401,8 +1403,6 @@
 *   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
 
 *   [mozhu811/oh-my-helper](https://github.com/mozhu811/oh-my-helper) - 🚀原bilibili-helper-hub，目前已部署B站每日任务及大会员中心任务
-
-*   [Clay-Ferguson/quantizr](https://github.com/Clay-Ferguson/quantizr) - An open-source CMS with AI Chatbot capabilities supporting all the major AI Cloud Providers
 
 *   [april-projects/april-zh-hotspot-push](https://github.com/april-projects/april-zh-hotspot-push) - 知乎热点推送
 
