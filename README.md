@@ -678,7 +678,7 @@
 
 *   [neavo/KeywordGacha](https://github.com/neavo/KeywordGacha) - 使用 OpenAI 兼容接口自动生成小说、漫画、字幕、游戏脚本等任意文本中的词汇表的翻译辅助工具
 
-*   [Howard00001/VideoPyDownloader](https://github.com/Howard00001/VideoPyDownloader) - 影片下載工具
+*   [IS-Howard/VideoPyDownloader](https://github.com/IS-Howard/VideoPyDownloader) - 影片下載工具
 
 *   [yuzhouxingzou/audio\_trimmer\_baseon\_ass](https://github.com/yuzhouxingzou/audio_trimmer_baseon_ass) - 使用ass字幕文件为基础的音频切片程序
 
@@ -692,7 +692,7 @@
 
 *   [leodeveloper/mcqwithwebsite](https://github.com/leodeveloper/mcqwithwebsite) - Website-to-MCQs is an application built in Python that utilizes generative AI, Langchain, embedding techniques, and ChatGPT to automatically generate multiple-choice questions (MCQs) from website content.
 
-*   [zhulinyv/Semi-Auto-NovelAI-to-Pixiv](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv) - 带有 WebUI 的 NovelAI 量产工具, 实现了批量文生图; 批量图生图; 视频转绘; 分块重绘; 批量 Vibe; 批量局部重绘; 批量超分降噪; 批量自动打码; 批量添加水印; 批量上传 Pixiv; 图片筛选; 批量抹除, 还原或导出生成信息; 法术解析; 多模型反推提示词; ChatGPT; 动态加载插件; 自动 roll 画风串; 批量 Enhance; tag选择器; 涂鸦重绘; 图片压缩整理
+*   [zhulinyv/Semi-Auto-NovelAI-to-Pixiv](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv) - 带有 WebUI 的 NovelAI 量产工具, 实现了批量文生图; 批量图生图; 视频转绘; 分块重绘; 批量 Vibe; 批量局部重绘; 批量超分降噪; 批量自动打码; 批量添加水印; 批量上传 Pixiv; 图片筛选; 批量抹除, 还原或导出生成信息; 法术解析; 多模型反推提示词; ChatGPT; 动态加载插件; 自动 roll 画风串; 批量 Enhance; tag选择器; 涂鸦重绘; 图片压缩整理; 批量AI工具
 
 *   [wang-zhibo/duckgo\_api](https://github.com/wang-zhibo/duckgo_api) - async duckduckgo api  免费的无限制的搜索接口, 和免费的 ai chat gpt-3.5,claude-3-haiku,llama-3-70b,mixtral-8x7b
 
@@ -1056,7 +1056,7 @@
 
 *   [yugongcoding/yugong\_wiki](https://github.com/yugongcoding/yugong_wiki) - 愚公wiki是一款轻量的在线博客、知识库、个人笔记或企业文档协作平台，可下载桌面版作为个人笔记本，也可以在线编辑文档，当然也可以自行进行服务化部署，因为这是一款完全开源的写作平台
 
-*   [pen9un/douyin-chatgpt-bot](https://github.com/pen9un/douyin-chatgpt-bot) - 抖音AI自动回复引流系统，抖音评论自动回复，抖音私信自动回复，抖音机器人，抖音客服，抖音引流工具，抖音自媒体系统，抖音ChatGPT自动对话机器人 🔮🤖🚀
+*   [pen9un/douyin-chatgpt-bot](https://github.com/pen9un/douyin-chatgpt-bot) - 抖音AI自动回复引流系统，抖音智能客服，抖音评论自动回复，抖音私信自动回复，抖音机器人，抖音客服，抖音引流工具，抖音自媒体系统，抖音ChatGPT自动对话机器人 🔮🤖🚀
 
 *   [sbwml/TrollStore\_zh\_Hans](https://github.com/sbwml/TrollStore_zh_Hans) - :trollface: TrollStore 简体/繁体中文 :trollface:
 
@@ -1296,7 +1296,7 @@
 
 *   [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
 
-*   [NullpointerW/AniCat](https://github.com/NullpointerW/AniCat) -  one-click tool for automatically bangumi subscribing
+*   [NullpointerW/AniCat](https://github.com/NullpointerW/AniCat) - One-click tool for automatically bangumi subscribing
 
 *   [csznet/tgState](https://github.com/csznet/tgState) - 使用Telegram作为存储的文件外链系统，不限制文件大小和格式。
 
@@ -1498,6 +1498,8 @@
 
 *   [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 
+*   [pmhw/telegram-bot](https://github.com/pmhw/telegram-bot) - Tg机器人，自动回复自定义消息回复，私聊回复以及群聊回复，可以进行二次开发，希望你做出更优质的东西，记得@我
+
 ## Swift
 
 *   [even-cheng/ECSigner](https://github.com/even-cheng/ECSigner) - iOS签名Mac客户端，iPhone客户端，网页签名，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持最新iOS15，并向下兼容。
@@ -1543,8 +1545,6 @@
 *   [wushuaihua520/BarrageGrab](https://github.com/wushuaihua520/BarrageGrab) - 抖音快手bilibili直播弹幕wss直连，非系统代理方式，无需多开浏览器窗口
 
 *   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-
-*   [WWNNL/MouseText](https://github.com/WWNNL/MouseText) - 一个跟随鼠标移动的透明窗口，其中显示可以设置字体，颜色，字体大小，停留时间的新定义桌面宠物
 
 *   [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 
