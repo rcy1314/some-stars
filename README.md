@@ -292,7 +292,7 @@
 
 *   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 
-*   [NiMediaOrg/NiPlayer](https://github.com/NiMediaOrg/NiPlayer) - 💡一款开箱即用的H5弹幕播放器，可自定义样式和组件；插件化，响应式设计；内置支持MP4文件的流播放，同时借助dash.js,  hls.js等流媒体协议库可接入任意类型的流媒体协议, 同时提供弹幕播放且提供两套事件和模板系统来适配PC端和移动端。
+*   [NiMediaOrg/NiPlayer](https://github.com/NiMediaOrg/NiPlayer) - 💡一款开箱即用的H5弹幕播放器；日前正在使用 TypeScript + Pnpm + Monorepo + Solidjs + Rspack 进行重构中
 
 *   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 
@@ -1496,7 +1496,7 @@
 
 *   [jeequan/jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
 
-*   [Jarrettluo/all-docs](https://github.com/Jarrettluo/all-docs) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information.  “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。
+*   [Jarrettluo/all-docs](https://github.com/Jarrettluo/all-docs) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information.  “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。demo账号密码：admin123
 
 *   [muedsa/BilibiliLiveTV](https://github.com/muedsa/BilibiliLiveTV) - \[Deprecated]Bilibili Live APP for Android TV
 
