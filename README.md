@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
 *   [Python](#python)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -48,10 +49,15 @@
 *   [Blade](#blade)
 *   [SCSS](#scss)
 *   [AutoHotkey](#autohotkey)
-*   [Svelte](#svelte)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Metal](#metal)
 *   [Scala](#scala)
+
+## Svelte
+
+*   [jxqu3/aiui](https://github.com/jxqu3/aiui) - A simple no-install web UI for Ollama and OAI-Compatible APIs!
+
+*   [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 
 ## Python
 
@@ -1385,8 +1391,6 @@
 
 *   [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强轻量级导航网站
 
-*   [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-
 ## HTML
 
 *   [geeklinux-io/warpkey](https://github.com/geeklinux-io/warpkey) - CloudFlare Key Collection Tool CloudFlare WARP KEY收集工具，WARP KEY收集工具，每小时自动更新
@@ -1914,10 +1918,6 @@
 *   [shizengsong/taskSwitcher](https://github.com/shizengsong/taskSwitcher) - 改进windows任务窗口操作，鼠标移动到屏幕右下角，即可启动选择任务。详见文件
 
 *   [dbgba/PCtoiOSClipboardSync](https://github.com/dbgba/PCtoiOSClipboardSync) - 电脑与iOS互相剪贴板同步 Computer and iOS clipboard sync with each other
-
-## Svelte
-
-*   [beromir/Servas](https://github.com/beromir/Servas) - A self-hosted bookmark management tool.
 
 ## DIGITAL Command Language
 
