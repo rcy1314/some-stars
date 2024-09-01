@@ -645,7 +645,7 @@
 
 *   [aceway/weixin-dyh-ai](https://github.com/aceway/weixin-dyh-ai) - 一个支持将微信订阅号接入AI的后台管理系统。
 
-*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 插件订阅聚合器 - 每天更新
+*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 插件订阅聚合器 - 订阅全网
 
 *   [lingjianrui/auto\_clip](https://github.com/lingjianrui/auto_clip) - 基于moviepy 的自动剪辑引擎
 
