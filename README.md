@@ -59,7 +59,7 @@
 
 *   [juntaosun/LangSegment](https://github.com/juntaosun/LangSegment) - It is a multi-lingual (97 languages) text content automatic recognition and segmentation tool.  强大的TTS多语言（97种语言）混合文本内容自动分词工具。
 
-*   [baihengaead/wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi密码暴力破解工具-图形界面，支持多开并发、自动破解、自定义密码本、自动生成密码字典
+*   [baihengaead/wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi密码暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
 
 *   [infrost/DeeplxFile](https://github.com/infrost/DeeplxFile) - 基于Deeplx和Playwright提供的简单易用，快速，免费，不限制文件大小，支持超长文本翻译，跨平台的文件翻译工具 / Easy-to-use, fast, free, unlimited file size and cross platform file translation tool based on Deeplx & Playwright that supports long text translations.
 
