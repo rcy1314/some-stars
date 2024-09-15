@@ -55,7 +55,7 @@
 
 ## JavaScript
 
-*   [rcy1314/nav-manage](https://github.com/rcy1314/nav-manage) - Nav-manage为静态导航带来强大的管理扩展  Bring powerful management extensions to static navigation.
+*   [rcy1314/nav-manage](https://github.com/rcy1314/nav-manage) - Nav-manage 为静态导航带来强大的管理扩展  Bring powerful management extensions to static navigation.
 
 *   [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts) - tampermonkey userscript 人民的勤务员脚本
 
