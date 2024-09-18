@@ -395,7 +395,7 @@
 
 *   [JWalshe86/Nags-With-Notions2.0](https://github.com/JWalshe86/Nags-With-Notions2.0) - Nags with Notions Website with both backend and frontend functionality. Live site:
 
-*   [agalea91/notion-obsidian-sync-zazencodes](https://github.com/agalea91/notion-obsidian-sync-zazencodes) - Copy markdown files to Notion databases using the API
+*   [zazencodes/notion-obsidian-sync-zazencodes](https://github.com/zazencodes/notion-obsidian-sync-zazencodes) - Copy markdown files to Notion databases using the API
 
 *   [embernet/sidekick](https://github.com/embernet/sidekick) - Sidekick is an AI powered tool that uses the OpenAI API and GPT-4 model for thinking, exploring ideas, problem-solving, knowledge-building, and getting things done.
 
@@ -615,7 +615,7 @@
 
 *   [vtuber-plan/olah](https://github.com/vtuber-plan/olah) - Self-hosted huggingface mirror service.
 
-*   [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat) - 一个让微信定时循环发送消息（cron表达式精确到分钟），批量群发消息，定时检查聊天记录的小工具🚀，并且提供了一个简易直观的界面，可部署到任意平台，并支持邮箱报警等功能
+*   [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat) - 一个让微信定时循环发送消息（cron表达式精确到分钟），批量群发消息，定时检查聊天记录的小工具🚀，提供了简易直观的界面，并支持邮箱报警等功能，可部署到任意平台
 
 *   [ypwhs/CreativeChatGLM](https://github.com/ypwhs/CreativeChatGLM) - 👋 欢迎来到 ChatGLM 创意世界！你可以使用修订和续写的功能来生成创意内容！
 
