@@ -1171,7 +1171,7 @@
 
 *   [suconghou/u2flutter](https://github.com/suconghou/u2flutter) - flutter app of youtube video proxy
 
-*   [iakmds/buhocms](https://github.com/iakmds/buhocms) - A free and open source local CMS for static site generators
+*   [iakdis/buhocms](https://github.com/iakdis/buhocms) - A free and open source local CMS for static site generators
 
 ## C++
 
