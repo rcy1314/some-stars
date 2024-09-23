@@ -409,6 +409,8 @@
 
 *   [FengMengZhao/AiTransformEnhancer](https://github.com/FengMengZhao/AiTransformEnhancer) - AI驱动，自然语言为输入，chat的方式，激发文本转换、图片生成、智能阅读、音视频生成等生产效率。Utools插件链接：https://u.tools/plugins/detail/AI%20Transform%20Box/?c=lsabf3sl7c
 
+*   [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat) - 一个让微信（非WEB版）定时循环发送消息（cron表达式精确到分钟），批量群发消息，定时检查聊天记录的小工具🚀，提供了简易直观的界面，并支持邮箱报警等功能，可部署到任意平台
+
 *   [Zsfan1224/SUB-Cloudflare](https://github.com/Zsfan1224/SUB-Cloudflare) - 这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接
 
 *   [Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive) - Blue Archive主题博客，基于VitePress，绝赞画饼中
@@ -488,6 +490,8 @@
 *   [statichunt/statichunt](https://github.com/statichunt/statichunt) - Statichunt is a free open-source Jamstack directory that lists hundreds of themes, starters, and resources for static sites.
 
 *   [SivanLaai/blog](https://github.com/SivanLaai/blog) - 本地写hugo博客，快捷键Crtl + U快速发布并自动部署网页。
+
+*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone \&iPad 、TikTok\&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
 
 *   [BeautyyuYanli/full-mark-composition-generator](https://github.com/BeautyyuYanli/full-mark-composition-generator) - 将专业术语和名人名言以随机报菜名的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
 
@@ -651,8 +655,6 @@
 
 *   [vtuber-plan/olah](https://github.com/vtuber-plan/olah) - Self-hosted huggingface mirror service.
 
-*   [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat) - 一个让微信定时循环发送消息（cron表达式精确到分钟），批量群发消息，定时检查聊天记录的小工具🚀，提供了简易直观的界面，并支持邮箱报警等功能，可部署到任意平台
-
 *   [ypwhs/CreativeChatGLM](https://github.com/ypwhs/CreativeChatGLM) - 👋 欢迎来到 ChatGLM 创意世界！你可以使用修订和续写的功能来生成创意内容！
 
 *   [neavo/KeywordGacha](https://github.com/neavo/KeywordGacha) - 使用 OpenAI 兼容接口自动生成小说、漫画、字幕、游戏脚本等内容文本中实体词语表的翻译辅助工具
@@ -691,7 +693,7 @@
 
 *   [aceway/weixin-dyh-ai](https://github.com/aceway/weixin-dyh-ai) - 一个支持将微信订阅号接入AI的后台管理系统。
 
-*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 插件订阅聚合器 - 订阅全网
+*   [xxnuo/MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
 
 *   [lingjianrui/auto\_clip](https://github.com/lingjianrui/auto_clip) - 基于moviepy 的自动剪辑引擎
 
@@ -1073,9 +1075,9 @@
 
 *   [Tetrakern/fictioneer](https://github.com/Tetrakern/fictioneer) - A web fiction theme for WordPress.
 
-*   [imjeff/typecho-dear](https://github.com/imjeff/typecho-dear) - Typecho 极极简主题 Dear，无 JS、CSS 文件载入，无分页，无评论，代码极简优化。复刻 Bearblog 主题。
+*   [imjeff/typecho-dear](https://github.com/imjeff/typecho-dear) - Dear 是一款 WordPress & Typecho 纯文本极极简主题，样式复刻于 Bear Blog 示例主题。主题支持自定义背景、自定义菜单、自定义首页内容，支持黑暗模式和自适应；内置文章归档和搜索模板；已作中文字体优化，内置3种字体方案可选。主题无 JS、图片文件引用。
 
-*   [imjeff/wordpress-dear](https://github.com/imjeff/wordpress-dear) - WordPress 极极简主题 Dear，无 JS、CSS 文件载入，无分页，无评论，对程序极简优化。复刻 Bearblog 主题。
+*   [imjeff/wordpress-dear](https://github.com/imjeff/wordpress-dear) - Dear 是一款 WordPress & Typecho 纯文本极极简主题，样式复刻于 Bear Blog 示例主题。主题支持自定义背景、自定义菜单、自定义首页内容，支持黑暗模式和自适应；内置文章归档和搜索模板；已作中文字体优化，内置3种字体方案可选。力求极简，对程序自带功能进行禁用及优化，主题无 JS、图片文件引用。
 
 *   [guanguans/music-dl](https://github.com/guanguans/music-dl) - Music Searcher and Downloader. - 音乐搜索下载器。
 
@@ -1340,8 +1342,6 @@
 *   [cedrickchee/chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
 
 *   [wong2/chatgpt-plugins](https://github.com/wong2/chatgpt-plugins) - Collection of ChatGPT plugins
-
-*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone \&iPad 、TikTok\&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
 
 *   [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用
 
