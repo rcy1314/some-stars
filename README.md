@@ -529,7 +529,7 @@
 
 *   [linfaxin/MBBS](https://github.com/linfaxin/MBBS) - 🔥轻量级全功能论坛、移动/PC双端适配、无依赖一键启动、技术栈 express + sqlite + react（MBBS论坛托管服务开源版）
 
-*   [Clay-Ferguson/quantizr](https://github.com/Clay-Ferguson/quantizr) - An open-source CMS with AI Chatbot capabilities supporting all the major AI Cloud Providers
+*   [Clay-Ferguson/quantizr](https://github.com/Clay-Ferguson/quantizr) - Open-source CMS, Document Collaboration, Microblogging, and Publishing with AI Chatbot and AI Coding Agent supporting most Cloud AI providers
 
 *   [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 
