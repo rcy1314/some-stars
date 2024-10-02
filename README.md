@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -20,9 +21,8 @@
 *   [Go](#go)
 *   [CSS](#css)
 *   [PHP](#php)
-*   [C](#c)
+*   [C](#c-1)
 *   [Dart](#dart)
-*   [C++](#c-1)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Svelte](#svelte)
@@ -51,6 +51,48 @@
 *   [AutoHotkey](#autohotkey)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Metal](#metal)
+
+## C++
+
+*   [LSimon95/muji-moe](https://github.com/LSimon95/muji-moe) - A lightweight muji-moe chatbot created by Reecho.ai.
+
+*   [SeaYJ/MouseClick](https://github.com/SeaYJ/MouseClick) - 🖱️ MouseClick 🖱️ 是一款功能强大的鼠标控制和管理软件，采用 QT Widget 开发 ，具备跨平台兼容性 。软件界面美观 ，操作直观，支持鼠标行为模拟 💻、鼠标动作记录 📝 和宏命令创建 ⚡，让用户在工作和游戏中实现高效自动化 🚀。提升你的数字生活体验，一切尽在掌控之中 🌟！
+
+*   [ZJamss/PVZ\_Cheating](https://github.com/ZJamss/PVZ_Cheating) - 植物大战僵尸(杂交版可用)修改器，外挂 A cheater for Plants vs. Zoombies (including hybrid edition)
+
+*   [XiaoMi/StableDiffusionOnDevice](https://github.com/XiaoMi/StableDiffusionOnDevice) - 本项目是一个通过文字生成图片的项目，基于开源模型Stable Diffusion V1.5生成可以在手机的CPU和NPU上运行的模型，包括其配套的模型运行框架。
+
+*   [Alexell/PHub-Video-Downloader](https://github.com/Alexell/PHub-Video-Downloader) - PornHub & RedTube Video Downloader
+
+*   [NekoSilverFox/PolyChat](https://github.com/NekoSilverFox/PolyChat) - ✉️ 基于Qt的多语言跨平台局域网聊天软件（可创建多个聊天群组、可发文件、并包括 QTest 和 CI/CD 的使用） | QT-based development of LAN chat rooms |  Кроссплатформенный чат для локальной сети, основанный на разработке QT
+
+*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+
+*   [xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights) - xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers.
+
+*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
+
+*   [le0zh/NewBingClient](https://github.com/le0zh/NewBingClient) - Desktop application of new Bing's AI-powered chat
+
+*   [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
+
+*   [std-microblock/BetterNCM](https://github.com/std-microblock/BetterNCM) - NCM 软件插件管理器
+
+*   [FrzMtrsprt/QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic) - A desktop client for UnblockNeteaseMusic, made with Qt.
+
+*   [lateworker/lassxToolkit](https://github.com/lateworker/lassxToolkit) - AI图片放大工具, 整合了多种模型, 支持自动遍历文件夹, 支持批量处理.
+
+*   [MucheXD/CloudMusicDownloader](https://github.com/MucheXD/CloudMusicDownloader) - 网易云音乐在线下载器&缓存转换器 / 本程序允许你批量下载网易云音乐上几乎所有的歌曲，你可以在程序内搜索并下载几乎所有非付费歌曲。同时，你也可以转换网易云音乐客户端生成的缓存文件 (.uc/.uc!) ，将你播放列表中的文件保存到本地。
+
+*   [liangxiongsl/Netease-url-crawling](https://github.com/liangxiongsl/Netease-url-crawling) - 网易云音乐直链批量获取
+
+*   [itisyang/playerdemo](https://github.com/itisyang/playerdemo) - 一个视频播放器，开源版 potplayer ，用于总结播放器开发技术。
+
+*   [ilovecplusplus97/MahiroBox](https://github.com/ilovecplusplus97/MahiroBox) - 一款绪山真寻的键盘监控小软件
+
+*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
+
+*   [skykeyjoker/A-SOUL-Notification](https://github.com/skykeyjoker/A-SOUL-Notification) - 一个A-SOUL成员动态/直播提醒插件，支持监控B站与抖音动态，可在Windows10 - Windows11系统上运行。
 
 ## Python
 
@@ -1304,46 +1346,6 @@
 
 *   [iakdis/buhocms](https://github.com/iakdis/buhocms) - A free and open source local CMS for static site generators
 
-## C++
-
-*   [SeaYJ/MouseClick](https://github.com/SeaYJ/MouseClick) - 🖱️ MouseClick 🖱️ 是一款功能强大的鼠标控制和管理软件，采用 QT Widget 开发 ，具备跨平台兼容性 。软件界面美观 ，操作直观，支持鼠标行为模拟 💻、鼠标动作记录 📝 和宏命令创建 ⚡，让用户在工作和游戏中实现高效自动化 🚀。提升你的数字生活体验，一切尽在掌控之中 🌟！
-
-*   [ZJamss/PVZ\_Cheating](https://github.com/ZJamss/PVZ_Cheating) - 植物大战僵尸(杂交版可用)修改器，外挂 A cheater for Plants vs. Zoombies (including hybrid edition)
-
-*   [XiaoMi/StableDiffusionOnDevice](https://github.com/XiaoMi/StableDiffusionOnDevice) - 本项目是一个通过文字生成图片的项目，基于开源模型Stable Diffusion V1.5生成可以在手机的CPU和NPU上运行的模型，包括其配套的模型运行框架。
-
-*   [Alexell/PHub-Video-Downloader](https://github.com/Alexell/PHub-Video-Downloader) - PornHub & RedTube Video Downloader
-
-*   [NekoSilverFox/PolyChat](https://github.com/NekoSilverFox/PolyChat) - ✉️ 基于Qt的多语言跨平台局域网聊天软件（可创建多个聊天群组、可发文件、并包括 QTest 和 CI/CD 的使用） | QT-based development of LAN chat rooms |  Кроссплатформенный чат для локальной сети, основанный на разработке QT
-
-*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
-
-*   [xLightsSequencer/xLights](https://github.com/xLightsSequencer/xLights) - xLights is a sequencer for Lights. xLights has usb and E1.31 drivers. You can create sequences in this object oriented program. You can create playlists, schedule them, test your hardware, convert between different sequencers.
-
-*   [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-
-*   [le0zh/NewBingClient](https://github.com/le0zh/NewBingClient) - Desktop application of new Bing's AI-powered chat
-
-*   [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
-
-*   [std-microblock/BetterNCM](https://github.com/std-microblock/BetterNCM) - NCM 软件插件管理器
-
-*   [FrzMtrsprt/QtUnblockNeteaseMusic](https://github.com/FrzMtrsprt/QtUnblockNeteaseMusic) - A desktop client for UnblockNeteaseMusic, made with Qt.
-
-*   [lateworker/lassxToolkit](https://github.com/lateworker/lassxToolkit) - AI图片放大工具, 整合了多种模型, 支持自动遍历文件夹, 支持批量处理.
-
-*   [MucheXD/CloudMusicDownloader](https://github.com/MucheXD/CloudMusicDownloader) - 网易云音乐在线下载器&缓存转换器 / 本程序允许你批量下载网易云音乐上几乎所有的歌曲，你可以在程序内搜索并下载几乎所有非付费歌曲。同时，你也可以转换网易云音乐客户端生成的缓存文件 (.uc/.uc!) ，将你播放列表中的文件保存到本地。
-
-*   [liangxiongsl/Netease-url-crawling](https://github.com/liangxiongsl/Netease-url-crawling) - 网易云音乐直链批量获取
-
-*   [itisyang/playerdemo](https://github.com/itisyang/playerdemo) - 一个视频播放器，开源版 potplayer ，用于总结播放器开发技术。
-
-*   [ilovecplusplus97/MahiroBox](https://github.com/ilovecplusplus97/MahiroBox) - 一款绪山真寻的键盘监控小软件
-
-*   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-
-*   [skykeyjoker/A-SOUL-Notification](https://github.com/skykeyjoker/A-SOUL-Notification) - 一个A-SOUL成员动态/直播提醒插件，支持监控B站与抖音动态，可在Windows10 - Windows11系统上运行。
-
 ## HTML
 
 *   [rcy1314/jsd.cdn](https://github.com/rcy1314/jsd.cdn) - 一键部署个人jsdelivr镜像站，附带云服务器配置文件
@@ -1757,8 +1759,6 @@
 *   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A lightweight GUI wrapper for yt-dlp and FFmpeg that allows you to quickly download videos, music, playlists, and more, from a wide variety of websites.
 
 *   [iccfish/ShimoExporter](https://github.com/iccfish/ShimoExporter) - 一键将个人石墨文档里的所有文档全部导出到本地
-
-*   [XianYu-Hil/Qotion](https://github.com/XianYu-Hil/Qotion) - A Bridge Connecting QQ and Notion
 
 ## Rust
 
