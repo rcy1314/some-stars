@@ -66,7 +66,7 @@
 
 *   [rcy1314/nav-manage](https://github.com/rcy1314/nav-manage) - Nav-manage 为静态导航带来强大的管理扩展
 
-*   [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts) - tampermonkey userscript 人民的勤务员脚本
+*   [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts) - 👏 人民的勤务员脚本 包罗万象，应有尽有 👏
 
 *   [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) - Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
 
@@ -472,7 +472,7 @@
 
 *   [springwings/AiRobot](https://github.com/springwings/AiRobot) - 基于LLMs中文智能交互数字人引擎框架
 
-*   [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - PALLAIDIUM - a generative AI movie studio integrated in the Blender video editor.
+*   [tin2tin/Pallaidium](https://github.com/tin2tin/Pallaidium) - PALLAIDIUM - a generative AI movie studio integrated in the Blender Video Editor.
 
 *   [yinan-c/RSS-GPT](https://github.com/yinan-c/RSS-GPT) - Using ChatGPT to summarize your personalized RSS feeds
 
@@ -744,7 +744,7 @@
 
 *   [niuniuland/video-storyboard](https://github.com/niuniuland/video-storyboard) - 生成自动滚动的视频分镜头拆解表格
 
-*   [leaferjs/ui](https://github.com/leaferjs/ui) - 一款好用的 Canvas 渲染引擎，革新的体验。高效绘图 、UI 交互（小游戏、互动应用、组态）、图形编辑，前端开发必备~
+*   [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 一款好用的 Canvas 渲染引擎，革新的体验。高效绘图 、UI 交互（小游戏、互动应用、组态）、图形编辑，前端开发必备~
 
 *   [appdev/siyuan-unlock](https://github.com/appdev/siyuan-unlock) - 思源笔记免登录版本；可以不登录使用同步功能
 
@@ -1060,7 +1060,7 @@
 
 *   [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional software installation. The engine uses standard HTML document elements such as div and img. This allows the use of any media format supported by browsers including vector graphics svg, gif animations and css styles.
 
-*   [mydearcc/tools](https://github.com/mydearcc/tools) - fly63在线工具箱，一款在线、免费、高效、好用的工具箱集合网站。包含：开发文档、格式转换、加密/解密、站长工具、代码生成、Css样式、JSON格式化、二维码、图片处理、生活娱乐、文字处理等工具，适合于程序员，站长，设计师，自媒体等IT行业人员。
+*   [mydearcc/tools](https://github.com/mydearcc/tools) - fly63在线工具箱，一款极简、免费、高效、好用的在线工具集合网站。包含：开发文档、格式转换、加密/解密、站长工具、代码生成、Css样式、JSON格式化、二维码、图片处理、生活娱乐、文字处理等工具，适合于程序员、站长、设计师、网络营销、自媒体等IT行业人员。
 
 *   [LeBronWilly/IG\_Photo\_Downloader\_Python](https://github.com/LeBronWilly/IG_Photo_Downloader_Python) - IG Photo Downloader
 
@@ -1830,7 +1830,7 @@
 
 *   [unit-mesh/choco-builder](https://github.com/unit-mesh/choco-builder) - ChocoBuilder (Chocolate Factory) is a cutting-edge LLM toolkit designed to empower you in creating your very own AI assistant.Chocolate Factory 是一款开源的 LLM 应用开发框架，旨在帮助您轻松打造强大的软件开发 SDLC + LLM 生成助手。无论您是需要生成前端页面、后端 API、SQL 图表，还是测试用例数据，Chocolate Factory 都能满足您的需求。
 
-*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play. MVI arch, Material You style. ⭐️ Star to support!
+*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play (Podcast). MVI arch, Material You style. ⭐️ Star to support!
 
 *   [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
 
