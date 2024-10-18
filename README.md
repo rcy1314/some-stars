@@ -66,7 +66,7 @@
 
 *   [rcy1314/nav-manage](https://github.com/rcy1314/nav-manage) - Nav-manage 为静态导航带来强大的管理扩展
 
-*   [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts) - 👏 人民的勤务员脚本 包罗万象，应有尽有 👏
+*   [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts) - 一些修改自网络的油猴脚本🐒
 
 *   [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) - Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
 
