@@ -54,6 +54,8 @@
 
 ## JavaScript
 
+*   [urin/vscode-web-visual-editor](https://github.com/urin/vscode-web-visual-editor) - Edit HTML files visually.
+
 *   [RavelloH/rss-aggregator](https://github.com/RavelloH/rss-aggregator) - RSS聚合器，将多个rss源(本地或url)聚合在同一个rss中
 
 *   [xieyumc/jyySlideWeb](https://github.com/xieyumc/jyySlideWeb) - 网页实时Markdown转换为Slide幻灯片，主题灵感来源于南京大学蒋炎岩jyy老师
@@ -478,7 +480,7 @@
 
 *   [kk17/alfred-ask-ai-anywhere-workflow](https://github.com/kk17/alfred-ask-ai-anywhere-workflow) - An Alfred workflow for using Notion's AskAI feature from anywhere.
 
-*   [jkoor/Alist-Media-Rename](https://github.com/jkoor/Alist-Media-Rename) - 获取 TMDb 电影/剧集信息，并对 Alist 媒体文件重命名
+*   [jkoor/Alist-Media-Rename](https://github.com/jkoor/Alist-Media-Rename) - 获取 TMDb 电影/剧集信息，并对 Alist 媒体文件刮削
 
 *   [snowby666/poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com. With this, you will have free access to GPT-4, Claude, Llama, Gemini, Mistral and more! 🚀
 
@@ -1026,13 +1028,11 @@
 
 *   [JamesNZL/notion-assignment-import](https://github.com/JamesNZL/notion-assignment-import) - A free cross-browser extension to load Canvas assignments into Notion, with 8200+ unique users.
 
-*   [justorez/bookmark-cleaner](https://github.com/justorez/bookmark-cleaner) - 🚀 Check and clean invalid browser bookmarks.
-
 ## HTML
 
 *   [xyz349925756/Typora-Mid](https://github.com/xyz349925756/Typora-Mid) - Typora-Mid 是一个基于 DrakeTyporaTheme 主题和 typora\_plugin 插件修改整合的项目。它旨在美化 Typora 界面和标题样式，为用户提供更好的视觉体验和自定义选项。
 
-*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源iptv4/iptv6。直播电视系统，这里有折腾好了的，直接下载用吧。直播电视app电视手机全部兼容。
+*   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源iptv4/iptv6。直播电视系统，这里有折腾好了的，直接下载用吧。直播电视app电视手机全部兼容。（包含港澳台）
 
 *   [geeklinux-io/warpkey](https://github.com/geeklinux-io/warpkey) - CloudFlare Key Collection Tool CloudFlare WARP KEY收集工具，WARP KEY收集工具，每小时自动更新https://www.wanghaoyu.com.cn/archives/cloudflare-warp-key.html
 
