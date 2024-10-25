@@ -1254,7 +1254,7 @@
 
 ## Go
 
-*   [AmbitiousJun/go-emby2alist](https://github.com/AmbitiousJun/go-emby2alist) - 使用 Go 语言编写的网盘直链反向代理服务，为 Emby + Alist 组合提供更好的使用体验，配置简单，DockerCompose 一键部署
+*   [AmbitiousJun/go-emby2alist](https://github.com/AmbitiousJun/go-emby2alist) - Go 语言编写的网盘直链反向代理服务，深度适配阿里云盘，为 Emby + Alist 组合提供更好的使用体验，配置简单，DockerCompose 一键部署
 
 *   [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
 
