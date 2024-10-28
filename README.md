@@ -360,6 +360,8 @@
 
 *   [JamesNZL/notion-assignment-import](https://github.com/JamesNZL/notion-assignment-import) - A free cross-browser extension to load Canvas assignments into Notion, with 8200+ unique users.
 
+*   [justorez/bookmark-cleaner](https://github.com/justorez/bookmark-cleaner) - 🚀 Check and clean invalid browser bookmarks.
+
 ## JavaScript
 
 *   [urin/vscode-web-visual-editor](https://github.com/urin/vscode-web-visual-editor) - Edit HTML files visually.
@@ -544,8 +546,6 @@
 
 *   [LastStranger/unblock\_music](https://github.com/LastStranger/unblock_music) - 网易云音乐unblock Mac版本,零配置, 开箱即用,随关随停
 
-*   [mmdjiji/hexo-books](https://github.com/mmdjiji/hexo-books) - 为 Hexo 添加阅读页面，数据来自豆瓣读书
-
 *   [ZLENGANG/fuckCSDN](https://github.com/ZLENGANG/fuckCSDN) - CSDN自动显示博客全文，去掉广告，重置布局，添加背景图片
 
 *   [DeltaFlyerW/DF\_DanmakuExtension](https://github.com/DeltaFlyerW/DF_DanmakuExtension) - 在B站网页端视频及番剧中添加来自动画疯,NicoNico,Twitch,Youtube的弹幕及评论
@@ -658,7 +658,7 @@
 
 *   [leodeveloper/mcqwithwebsite](https://github.com/leodeveloper/mcqwithwebsite) - Website-to-MCQs is an application built in Python that utilizes generative AI, Langchain, embedding techniques, and ChatGPT to automatically generate multiple-choice questions (MCQs) from website content.
 
-*   [zhulinyv/Semi-Auto-NovelAI-to-Pixiv](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv) - 带有 WebUI 的 NovelAI 量产工具, 实现了批量文生图; 批量图生图; 视频转绘; 分块重绘; 批量 Vibe; 批量局部重绘; 批量超分降噪; 批量自动打码; 批量添加水印; 批量上传 Pixiv; 图片筛选; 批量抹除, 还原或导出生成信息; 法术解析; 多模型反推提示词; ChatGPT; 动态加载插件; 自动 roll 画风串; 批量 Enhance; tag选择器; 涂鸦重绘; 图片压缩整理; 批量AI工具
+*   [zhulinyv/Semi-Auto-NovelAI-to-Pixiv](https://github.com/zhulinyv/Semi-Auto-NovelAI-to-Pixiv) - 带有 WebUI 的 NovelAI 量产工具, 实现了批量文生图; 批量图生图; 视频转绘; 分块重绘; 批量 Vibe; 批量局部重绘; 批量超分降噪; 批量自动打码; 批量添加水印; 批量上传 Pixiv; 图片筛选; 批量抹除, 还原或导出生成信息; 法术解析; 多模型反推提示词; ChatGPT; 动态加载插件; 自动 roll 画风串; 批量 Enhance; tag选择器; 涂鸦重绘; 图片压缩整理; 批量AI工具; wildcard
 
 *   [wang-zhibo/duckgo\_api](https://github.com/wang-zhibo/duckgo_api) - async duckduckgo api  免费的无限制的搜索接口, 和免费的 ai chat gpt-4o-mini,claude-3-haiku,llama-3.1-70b,mixtral-8x7b
 
