@@ -862,7 +862,7 @@
 
 *   [long2ice/databack](https://github.com/long2ice/databack) - Backup your data from MySQL/PostgreSQL/SSH etc. to any other storages
 
-*   [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Open-Source Evaluation & Testing for ML models & LLMs
+*   [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Open-Source Evaluation & Testing for ML & LLM systems
 
 *   [mattwheeler/gpt-webex-bot](https://github.com/mattwheeler/gpt-webex-bot) - Webex Wiz is a GPT AI-powered virtual assistant bot for Webex Teams rooms. It provides quick and relevant responses to user prompts, helping users to get information and insights directly in their Webex Teams rooms.
 
@@ -1754,7 +1754,7 @@
 
 *   [Cnicehs/SharpBot](https://github.com/Cnicehs/SharpBot) - 一个基于百度网盘开放接口的转存机器人
 
-*   [jim60105/YoutubeLiveChatToDiscord](https://github.com/jim60105/YoutubeLiveChatToDiscord) - Stream Youtube Chat to Discord Webhook (.NET 8 Worker Service in Docker)
+*   [jim60105/YoutubeLiveChatToDiscord](https://github.com/jim60105/YoutubeLiveChatToDiscord) - Stream Youtube Chat to Discord Webhook (.NET 8 Worker Service)
 
 *   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A lightweight GUI wrapper for yt-dlp and FFmpeg that allows you to quickly download videos, music, playlists, and more, from a wide variety of websites.
 
