@@ -590,7 +590,7 @@
 
 ## miscellaneous
 
-*   [sometiny/acmex](https://github.com/sometiny/acmex) - 带webui的免费SSL证书管理工具，私有部署，内置let's encypt/google/zerossl,内置 阿里云/腾讯云/Cloudflare/DNS.COM/DNS.LA/百度云 DNS解析接口，支持自定义DNS解析接口,支持FTP/SSH/宝塔/IIS一键部署。
+*   [sometiny/acmex](https://github.com/sometiny/acmex) - 带webui的免费SSL证书管理工具，私有部署，内置let's encypt/google/zerossl/BuyPass/SSL.COM,内置 阿里云/腾讯云/Cloudflare/DNS.COM/DNS.LA/百度云 DNS解析接口，支持自定义DNS解析接口,支持FTP/SSH/宝塔/IIS一键部署。
 
 *   [xyz349925756/Typora-Mid](https://github.com/xyz349925756/Typora-Mid) - Typora-Mid 是一个基于 DrakeTyporaTheme 主题和 typora\_plugin 插件修改整合的项目。它旨在美化 Typora 界面和标题样式，为用户提供更好的视觉体验和自定义选项。
 
@@ -1196,7 +1196,7 @@
 
 *   [noobnooc/ohmygpt](https://github.com/noobnooc/ohmygpt) - Deploy your ChatGPT-based web app in minutes.
 
-*   [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator) - A translator that uses OpanAI.
+*   [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator) - A translator built using OpanAI.
 
 *   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 
@@ -1908,7 +1908,7 @@
 
 *   [Alexell/PHub-Video-Downloader](https://github.com/Alexell/PHub-Video-Downloader) - PornHub & RedTube Video Downloader
 
-*   [NekoSilverFox/PolyChat](https://github.com/NekoSilverFox/PolyChat) - ✉️ 基于Qt的多语言跨平台局域网聊天软件（可创建多个聊天群组、可发文件、并包括 QTest 和 CI/CD 的使用） | QT-based development of LAN chat rooms |  Кроссплатформенный чат для локальной сети, основанный на разработке QT
+*   [nekosilverfox/PolyChat](https://github.com/nekosilverfox/PolyChat) - ✉️ 基于Qt的多语言跨平台局域网聊天软件（可创建多个聊天群组、可发文件、并包括 QTest 和 CI/CD 的使用） | QT-based development of LAN chat rooms |  Кроссплатформенный чат для локальной сети, основанный на разработке QT
 
 *   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 
