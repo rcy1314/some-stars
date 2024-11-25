@@ -1380,7 +1380,7 @@
 
 *   [XFSeven7/SkinSwitcher](https://github.com/XFSeven7/SkinSwitcher) - SkinSwitcher 是一个 macOS 桌面应用，用于快速对应和切换不同文件夹中的图片（如皮肤或外观）。该应用允许用户拖拽图片，快速查看和复制不同文件夹中的对应图片。
 
-*   [zetaloop/keyviz](https://github.com/zetaloop/keyviz) - Keyviz 是一个免费开源的按键可视化工具，汉化版。Keyviz Chinese l10n fork.
+*   [zetaloop/keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具 Keyviz 的汉化版。Keyviz Chinese l10n fork.
 
 *   [lxpio/omnigram](https://github.com/lxpio/omnigram) - Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading experiences
 
