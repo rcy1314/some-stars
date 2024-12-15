@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Stylus](#stylus)
 *   [PHP](#php)
 *   [HTML](#html)
 *   [Python](#python)
@@ -54,6 +55,10 @@
 *   [SCSS](#scss)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Metal](#metal)
+
+## Stylus
+
+*   [r1i1na/hexo-theme-eureka](https://github.com/r1i1na/hexo-theme-eureka) - 自用 Hexo 主题，基于 Solitude v2.1.7 魔改。
 
 ## PHP
 
@@ -662,8 +667,6 @@
 *   [icodebase/ivideo](https://github.com/icodebase/ivideo) - ivideo 是一款轻量、强大、好用的视频处理软件。可以满足普通人一般的视频处理需求：压缩视频、转码视频、倒放视频、合并片段、根据字幕裁切片段、自动配字幕、自动剪辑……
 
 *   [groundcat/power-automate-rss-triggers](https://github.com/groundcat/power-automate-rss-triggers) - RSS custom triggers for your Microsoft Power Automate flows
-
-*   [DanDDXuanX/TRPG-Replay-Generator](https://github.com/DanDDXuanX/TRPG-Replay-Generator) - 回声工坊：像编写文档一样简单地创作跑团replay视频
 
 ## Vue
 
