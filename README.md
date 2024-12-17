@@ -1470,7 +1470,7 @@
 
 ## MDX
 
-*   [openorch/openorch](https://github.com/openorch/openorch) - Orchestrate AI models, microservices, containers, and more. Turn your servers into a powerful development environment.
+*   [openorch/openorch](https://github.com/openorch/openorch) - Orchestrate AI models, containers, microservices, and more. Turn your servers into a powerful development environment.
 
 *   [geekskai/blog](https://github.com/geekskai/blog) - Just write markdown on it , easy and simple to build their own personal blog , no framework , direct fork warehouse , change into their own content can be used , simple and easy one-click deployment , support for custom domain names and comment features !只要写markdown就行，轻松简单搭建属于自己的个人博客，无需框架，直接fork仓库，改成自己的内容就能用，简单轻松一键部署，支持自定义域名和评论功能！
 
