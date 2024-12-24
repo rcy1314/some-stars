@@ -906,7 +906,7 @@
 
 *   [ZiuChen/ClipboardManager](https://github.com/ZiuChen/ClipboardManager) - 📋 A Powerful clipboard management tool
 
-*   [Beadd/Creamplayer](https://github.com/Beadd/Creamplayer) - 🎵 QQ Netease Music Downloader
+*   [Beadd/Creamplayer](https://github.com/Beadd/Creamplayer) - A music downloader with metadata
 
 *   [vastsa/openai-apikey-query](https://github.com/vastsa/openai-apikey-query) - 批量查询OpenAI账号已用余额，判断apikey的状态
 
