@@ -338,7 +338,7 @@
 
 ## Python
 
-*   [TheD0ubleC/NeoAI](https://github.com/TheD0ubleC/NeoAI) - NeoAI:无需一行代码！让AI控制你的电脑！NeoAI是真正意义上的 AI 助手，全面控制你的电脑！ NeoAI 是一款创新的 AI 工具，不只是聊天助手，而是一个能够通过自然语言深度操控电脑的开源项目。 它的核心目标是：让 AI 不仅能听懂你的指令，还能帮你完成任务，比如打开文件、管理系统、定时任务，甚至跨平台控制设备。 NeoAI = 真正的人工智能 + 系统交互
+*   [TheD0ubleC/NeoAI](https://github.com/TheD0ubleC/NeoAI) - NeoAI: 无需编写代码，只需会打字！让 AI 用简单的自然语言指令接管你的电脑！ NeoAI 是一款开源工具，重新定义了 AI 的交互方式——支持文件管理、任务自动化、定时操作和跨平台设备控制，并内置安全保护。 NeoAI: No Coding Required, Just Typing! Manage files, automate tasks, schedule operations, and control devices with built-in security. NeoAI = 真正的人工智能 + 系统交互！ NeoAI, The Real AI.
 
 *   [bushkarl/videoprocessor](https://github.com/bushkarl/videoprocessor) - 智能视频处理系统
 
