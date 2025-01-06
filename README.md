@@ -1686,7 +1686,7 @@
 
 ## Go
 
-*   [openorch/openorch](https://github.com/openorch/openorch) - Orchestrate AI models, containers, microservices, and more. Turn your servers into a powerful development environment.
+*   [openorch/openorch](https://github.com/openorch/openorch) - Language agnostic backend platform. Orchestrate AI models, containers, microservices, and more. Turn your servers into a powerful development environment.
 
 *   [Akimio521/MediaWarp](https://github.com/Akimio521/MediaWarp) - EmbyServer API优化：优化播放Strm文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，配合Alist实现Emby播放网盘资源，推荐配合AutoFilm使用
 
