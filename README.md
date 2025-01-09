@@ -756,7 +756,7 @@
 
 *   [Moango/ai-resume-generator](https://github.com/Moango/ai-resume-generator) - AI驱动的简历生成器 - 根据用户的技术栈和目标公司的招聘要求,自动生成定制简历。
 
-*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 「大模型」3小时完全从0训练26M的小参数GPT，个人显卡即可推理训练！
+*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」3小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 3 hours!
 
 *   [LIghtJUNction/ChatMemOllama](https://github.com/LIghtJUNction/ChatMemOllama) - 一个个人微信公众号聊天机器人，使用本地ai模型（ollma提供），以及mem0管理记忆
 
@@ -1686,7 +1686,7 @@
 
 ## Go
 
-*   [openorch/openorch](https://github.com/openorch/openorch) - Build smarter. Orchestrate faster. A unified platform for AI, microservices, and beyond.
+*   [openorch/openorch](https://github.com/openorch/openorch) - Build smarter. A unified platform for AI, microservices, and beyond.
 
 *   [Akimio521/MediaWarp](https://github.com/Akimio521/MediaWarp) - EmbyServer API优化：优化播放Strm文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，配合Alist实现Emby播放网盘资源，推荐配合AutoFilm使用
 
