@@ -710,8 +710,6 @@
 
 *   [tutumomo/srt-subtitle-translator](https://github.com/tutumomo/srt-subtitle-translator) - SRT 字幕翻譯器 - 使用 Ollama AI 模型的本地字幕翻譯工具
 
-*   [xiesx123/CreatorBox](https://github.com/xiesx123/CreatorBox) - 🚀🎬轻量、灵活、易上手的创作者工具箱，构建全自动化视频剪辑/混剪流水线
-
 *   [knoop7/zhipuai](https://github.com/knoop7/zhipuai) - This project aims to seamlessly connect the Zhipu Qingyan language model with the Home Assistant (HASS) platform to provide more intelligent home automation management.
 
 *   [yandaozi/PPress](https://github.com/yandaozi/PPress) - 一个基于Python的博客CMS系统，采用Flask极致构建。
@@ -1153,6 +1151,8 @@
 *   [WangRongsheng/awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses) - 🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
 
 *   [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources
+
+*   [xiesx123/CreatorBox](https://github.com/xiesx123/CreatorBox) - 🚀🎬轻量、灵活、易上手的创作者工具箱，构建全自动化视频剪辑/混剪流水线
 
 *   [sometiny/acmex](https://github.com/sometiny/acmex) - 基于ACMEv2的免费SSL证书管理系统，私有部署，WebUI管理，内置let's encypt/google/zerossl/BuyPass/SSL.COM,内置 阿里云/腾讯云/Cloudflare/DNS.COM/DNS.LA/百度云 DNS解析接口，支持自定义DNS解析接口,支持FTP/SSH/宝塔/IIS一键部署。支持自动续期。
 
