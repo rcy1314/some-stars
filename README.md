@@ -1972,7 +1972,7 @@
 
 ## Dart
 
-*   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - 「心绪日记」 是一个由 Flutter 构建的开源跨平台日记应用。
+*   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - An open source cross-platform diary app build with flutter. 「心绪日记」 是一个由 Flutter 构建的开源跨平台日记应用。
 
 *   [XFSeven7/SkinSwitcher](https://github.com/XFSeven7/SkinSwitcher) - SkinSwitcher 是一个 macOS 桌面应用，用于快速对应和切换不同文件夹中的图片（如皮肤或外观）。该应用允许用户拖拽图片，快速查看和复制不同文件夹中的对应图片。
 
