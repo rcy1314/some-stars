@@ -402,6 +402,8 @@
 
 *   [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor
 
+*   [yiktllw/XCMusic](https://github.com/yiktllw/XCMusic) - 第三方网易云音乐客户端 / GUI of Netease Cloud Music
+
 *   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
 *   [greycodee/koe](https://github.com/greycodee/koe) - 微信语音转MP3工具\[Koe is a software that converts WeChat voice to mp3]
@@ -1281,8 +1283,6 @@
 *   [dawnstaryrx/go-nav](https://github.com/dawnstaryrx/go-nav) - 多用户的导航站，让每个人拥有自己的导航页，功能强大，样式极简。
 
 *   [XiCheng148/SmartPreview](https://github.com/XiCheng148/SmartPreview) - Smart Preview 是一个强大的浏览器扩展，旨在提升您的网页浏览体验。它允许用户快速预览链接内容，而无需打开新的标签页，同时提供智能的窗口管理和自定义设置选项。
-
-*   [yiktllw/XCMusic](https://github.com/yiktllw/XCMusic) - 第三方网易云音乐客户端 / GUI of Netease Cloud Music
 
 *   [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 基于大模型 RAG 知识库与知识图谱的问答平台。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。
 
