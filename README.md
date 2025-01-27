@@ -81,7 +81,7 @@
 
 *   [zjrwtx/SFT-data-builder](https://github.com/zjrwtx/SFT-data-builder) - 利用免费的大模型api来结合你的私域数据来生成sft训练数据（妥妥白嫖）支持llamafactory等工具的训练数据格式synthetic data
 
-*   [4444TENSEI/AlistUploaderJS](https://github.com/4444TENSEI/AlistUploaderJS) - 纯前端实现多种云储存便捷文件上传JS库。支持CDN引入，简单配置即可使用。原理是调用个人部署的Alist接口，从而无需自己实现后端，可手动在服务端控制角色权限。附带详细的上传进度、速率、上传完毕预计时间等数据反馈。
+*   [4444TENSEI/AlistUploaderJS](https://github.com/4444TENSEI/AlistUploaderJS) - 纯前端实现多种云储存便捷文件上传JS库。支持CDN引入，简单配置即可使用。原理是调用个人部署的Alist接口，从而无需额外实现后端文件上传接口，可手动在服务端控制角色权限。附带详细的上传进度、速率、上传完毕预计时间等数据反馈。
 
 *   [SaKongA/Upper](https://github.com/SaKongA/Upper) - 一个简洁的小红书蒲公英账号运营批量概览程序
 
@@ -1117,7 +1117,7 @@
 
 *   [whatis-geb/operation](https://github.com/whatis-geb/operation) - 和运营相关的内容
 
-*   [sokunheng/DownEdit](https://github.com/sokunheng/DownEdit) - Download, Edit, and Generate Videos, Images and Sounds, in bulk using Chat & AI
+*   [xHeng8/DownEdit](https://github.com/xHeng8/DownEdit) - Download, Edit, and Generate Videos, Images and Sounds, in bulk using Chat & AI
 
 *   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 
