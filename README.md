@@ -1287,7 +1287,7 @@
 
 *   [Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft) - craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
 
-*   [KiWi233333/jiwu-mall-chat-tauri](https://github.com/KiWi233333/jiwu-mall-chat-tauri) - JiwuChat is a multi-platform chat app built with Tauri2 and Nuxt3, featuring real-time messaging, WebRTC calls, screen sharing, and AI shopping. It offers seamless cross-device communication with text, image, file, and voice messaging, group chats, and customizable settings. Supports light/dark modes for efficient social networking. ✨
+*   [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 是一款多端跨平台即时通讯工具，基于 Tauri2（Rust）与 Nuxt3 打造，涵盖实时消息、WebRTC 音视频通话、屏幕共享、内容扩展以及AI智能购物等功能，且内置深浅主题模式，致力于打造轻量(~10MB)、高效且高颜值的社交软件。🥝
 
 *   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方网易云音乐播放器、本地服务、桌面歌词、主题切换
 
