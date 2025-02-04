@@ -587,6 +587,8 @@
 
 *   [shahednasser/cross-post-notion](https://github.com/shahednasser/cross-post-notion) - Integration to cross post articles from Notion across platforms
 
+*   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
+
 *   [mymusise/vscode-writer-assistant](https://github.com/mymusise/vscode-writer-assistant) - 基于生成模型的vscode中文AI写作助手插件
 
 *   [timkmecl/codegpt](https://github.com/timkmecl/codegpt) - VSCode extension that allows you to use GPT3 inside the IDE
@@ -1031,8 +1033,6 @@
 
 *   [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 
-*   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
-
 *   [dario-github/notion\_auto\_backup](https://github.com/dario-github/notion_auto_backup) - Notion Regular Auto Backup to Google Drive
 
 *   [mggger/chatgpt-bot-dingding](https://github.com/mggger/chatgpt-bot-dingding) - Dingding bot with chatgpt
@@ -1365,7 +1365,7 @@
 
 *   [weibaohui/k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，集成多集群管理、智能分析、实时异常检测和自然语言查询功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 
-*   [openorch/openorch](https://github.com/openorch/openorch) - A language-agnostic, distributed backend platform for AI, microservices, and beyond. Comes with an AI studio frontend.
+*   [openorch/openorch](https://github.com/openorch/openorch) - A language-agnostic, distributed backend platform for AI, microservices, and beyond.
 
 *   [Akimio521/MediaWarp](https://github.com/Akimio521/MediaWarp) - EmbyServer API优化：优化播放Strm文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，配合Alist实现Emby播放网盘资源，推荐配合AutoFilm使用
 
