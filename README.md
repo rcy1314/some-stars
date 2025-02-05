@@ -333,6 +333,8 @@
 
 *   [JimSunJing/ReviewHelper](https://github.com/JimSunJing/ReviewHelper) - A Github Action regulary query Notion Database & send review reminder(email).
 
+*   [ycf1998/greeting-mail](https://github.com/ycf1998/greeting-mail) - 一个定时给你发问候邮件的网站。目前支持的问候服务有天气预报、舔狗日记、彩虹屁、网易云、朋友圈文案等
+
 ## TypeScript
 
 *   [guizimo/cover-craft](https://github.com/guizimo/cover-craft) - 简单易用的封面图片生成工具，为你的文章、视频、社交媒体创作提供专业的封面设计。
@@ -513,8 +515,6 @@
 
 *   [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 
-*   [NiMediaOrg/NiPlayer](https://github.com/NiMediaOrg/NiPlayer) - 💡日前正在使用 TypeScript + Pnpm + Monorepo + Solidjs + Rspack + WebGL + Canvas2d 进行重构中；欢迎各位NiMediaOrg开源爱好者为该播放器贡献你们的微薄之力
-
 *   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 
 *   [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
@@ -533,7 +533,7 @@
 
 *   [vincanger/coverlettergpt](https://github.com/vincanger/coverlettergpt) - Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.
 
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 *   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
 
@@ -1115,7 +1115,7 @@
 
 *   [whatis-geb/operation](https://github.com/whatis-geb/operation) - 和运营相关的内容
 
-*   [xHeng8/DownEdit](https://github.com/xHeng8/DownEdit) - Download, Edit, and Generate Videos, Images and Sounds, in bulk using Chat & AI
+*   [xNoQ/DownEdit](https://github.com/xNoQ/DownEdit) - Download, Edit, and Generate Videos, Images and Sounds, in bulk using Chat & AI
 
 *   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 
@@ -1287,7 +1287,7 @@
 
 *   [Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft) - craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
 
-*   [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 是一款多端跨平台即时通讯工具，基于 Tauri2（Rust）与 Nuxt3 打造，涵盖实时消息、WebRTC 音视频通话、屏幕共享、内容扩展以及AI智能购物等功能，且内置深浅主题模式，致力于打造轻量(~10MB)、高效且高颜值的社交软件。🥝
+*   [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 是一款基于 Tauri2 和 Nuxt3 构建的轻量(~10MB)多平台即时通讯聊天应用，具备多种实时消息、AI群聊机器人🤖（讯飞星火、KimiAI已接入）、WebRTC 音视频通话、屏幕共享以及 AI 购物功能。它支持无缝跨设备通信，涵盖文本、图片、文件和语音等多种消息，还支持群聊和可定制化设置。提供浅色/深色模式，助力高效社交网络。✨
 
 *   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方网易云音乐播放器、本地服务、桌面歌词、主题切换
 
@@ -1365,7 +1365,7 @@
 
 *   [weibaohui/k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，集成多集群管理、智能分析、实时异常检测和自然语言查询功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 
-*   [openorch/openorch](https://github.com/openorch/openorch) - A language-agnostic, distributed backend platform for AI, microservices, and beyond.
+*   [openorch/openorch](https://github.com/openorch/openorch) - A language-agnostic, distributed platform for building microservices-based AI apps.
 
 *   [Akimio521/MediaWarp](https://github.com/Akimio521/MediaWarp) - EmbyServer API优化：优化播放Strm文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，配合Alist实现Emby播放网盘资源，推荐配合AutoFilm使用
 
