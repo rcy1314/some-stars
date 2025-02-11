@@ -543,7 +543,7 @@
 
 ## HTML
 
-*   [haruki1953/Tweblog](https://github.com/haruki1953/Tweblog) - 一个社交媒体博客化工具，针对推特等平台的内容进行导入与转发
+*   [haruki1953/Tweblog](https://github.com/haruki1953/Tweblog) - 一个社交媒体博客化工具，针对推特等平台的内容进行导入与转发。拥有支持 Windows 的桌面版，和使用 Docker 部署的Web版。
 
 *   [BannyLon/DifyAIA](https://github.com/BannyLon/DifyAIA) - 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。
 
@@ -1023,7 +1023,7 @@
 
 *   [OnesoftQwQ/XTCEasyRootPlus](https://github.com/OnesoftQwQ/XTCEasyRootPlus) - 一个使用Python制作的小天才电话手表一键Root程序
 
-*   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手，无需GPU一键高质量字幕视频合成！视频字幕生成、断句、校正、字幕翻译全流程。让字幕制作简单高效！
+*   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
 
 *   [Hoper-J/AI-Guide-and-Demos-zh\_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) - 这是一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，代码文件会提供Kaggle或Colab在线版本，即便没有显卡也可以进行学习。项目中还开设了一个小型的代码游乐场🎡，你可以尝试在里面实验一些有意思的AI脚本。同时，包含李宏毅 (HUNG-YI LEE）2024生成式人工智能导论课程的完整中文镜像作业。
 
@@ -1905,7 +1905,7 @@
 
 ## Java
 
-*   [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NestJS + Spring Boot 的产物
+*   [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
 
 *   [mymagicpower/AIAS](https://github.com/mymagicpower/AIAS) - 免费，可商用，Java AI 人工智能一站式解决方案，为工作减负，为产品研发加速。项目类别包括：Java版 Pytorch 训练引擎，AI SDK，web应用等在内，合计超过100个项目组成的项目集。| Artificial Intelligence Accelerator Kit. It provides: a project collection consisting of over 100 projects, including AI SDK, web applications, desktop applications, image generation,
 
