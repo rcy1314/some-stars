@@ -507,6 +507,8 @@
 
 *   [verkyer/xg-icons](https://github.com/verkyer/xg-icons) - 图标托管项目，基于PHP，可以实现自动抓取分组内的图标，并且快速复制。
 
+*   [machaojin1917939763/Dify-WebUI](https://github.com/machaojin1917939763/Dify-WebUI) - 一个基于 Dify API 的现代化桌面智能对话应用，提供企业级AI对话能力，支持主题定制、知识库管理和多场景应用。
+
 *   [maxminmarconi/light\_card](https://github.com/maxminmarconi/light_card) - 一个简洁优雅的卡片生成工具，让你轻松创建精美的内容卡片。支持自定义内容、多种主题样式和二维码，让创作变得更加简单有趣。
 
 *   [eKing-one/pansou](https://github.com/eKing-one/pansou) - 这是一个基于Thinkphp 6.1 + MySQL开发的网盘搜索引擎，可以批量导入各大网盘链接，例如百度网盘、阿里云盘、夸克网盘等。
@@ -1168,8 +1170,6 @@
 ## JavaScript
 
 *   [howoii/SmartBookmark](https://github.com/howoii/SmartBookmark) - 一款基于 AI 的智能书签管理插件
-
-*   [machaojin1917939763/Dify-WebUI](https://github.com/machaojin1917939763/Dify-WebUI) - 一个基于 Dify API 的现代化桌面智能对话应用，提供企业级AI对话能力，支持主题定制、知识库管理和多场景应用。
 
 *   [leaferjs/LeaferJS](https://github.com/leaferjs/LeaferJS) - 绚丽多彩的 HTML5 Canvas 2D 图形渲染引擎， 可结合 AI 绘图、生成界面。能让你拥有瞬间创建 100 万个图形的超强能力，免费开源、易学易用、场景丰富。
 
