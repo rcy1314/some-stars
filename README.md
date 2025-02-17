@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Haskell](#haskell)
 *   [TypeScript](#typescript)
 *   [PHP](#php)
 *   [CSS](#css)
@@ -54,6 +55,10 @@
 *   [SCSS](#scss)
 *   [DIGITAL Command Language](#digital-command-language)
 *   [Metal](#metal)
+
+## Haskell
+
+*   [kbmackenzie/mewlix](https://github.com/kbmackenzie/mewlix) - 🐱 A cat-themed programming language.
 
 ## TypeScript
 
@@ -1659,7 +1664,7 @@
 
 *   [weibaohui/k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，集成多集群管理、智能分析、实时异常检测和自然语言查询功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 
-*   [openorch/openorch](https://github.com/openorch/openorch) - A server-based microservices framework for AI apps. Language-agnostic.
+*   [openorch/openorch](https://github.com/openorch/openorch) - A language-agnostic microservices framework for AI applications.
 
 *   [Akimio521/MediaWarp](https://github.com/Akimio521/MediaWarp) - EmbyServer API优化：优化播放Strm文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，配合Alist实现Emby播放网盘资源，推荐配合AutoFilm使用
 
@@ -1858,8 +1863,6 @@
 *   [EXP-Tools/mstream-docker](https://github.com/EXP-Tools/mstream-docker) - docker 一键部署 mstream 私人云音乐
 
 *   [Jason6111/OpenWrt\_Personal](https://github.com/Jason6111/OpenWrt_Personal) - Jason6111's OpenWrt source 在线集成自动编译环境
-
-*   [xs-web-lhdd/vitepress-template](https://github.com/xs-web-lhdd/vitepress-template) - vitepress模板，直接开箱即用，不用再配置导航侧边栏等内容，直接写内容即可
 
 ## Jupyter Notebook
 
