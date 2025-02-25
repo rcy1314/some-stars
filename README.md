@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Python](#python)
 *   [Java](#java)
 *   [HTML](#html)
@@ -28,7 +29,6 @@
 *   [C](#c)
 *   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
-*   [Go](#go)
 *   [C#](#c-2)
 *   [Stylus](#stylus)
 *   [Shell](#shell)
@@ -59,6 +59,128 @@
 *   [PLpgSQL](#plpgsql)
 *   [Scala](#scala)
 
+## Go
+
+*   [OpenAISpace/ai-search4ai-go](https://github.com/OpenAISpace/ai-search4ai-go) - Search4AI-Go 是一个用 Go 语言实现的 AI 搜索代理服务，它允许大型语言模型通过 API 调用来获取实时互联网信息
+
+*   [weibaohui/k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，集成多集群管理、智能分析、实时异常检测和自然语言查询功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
+
+*   [openorch/openorch](https://github.com/openorch/openorch) - Build AI products faster. A language-agnostic microservices platform for building AI applications.
+
+*   [Akimio521/MediaWarp](https://github.com/Akimio521/MediaWarp) - EmbyServer API优化：优化播放Strm文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，配合Alist实现Emby播放网盘资源，推荐配合AutoFilm使用
+
+*   [AmbitiousJun/go-emby2alist](https://github.com/AmbitiousJun/go-emby2alist) - Go 语言编写的网盘直链反向代理服务，深度适配阿里云盘，为 Emby + Alist 组合提供更好的使用体验，配置简单，DockerCompose 一键部署
+
+*   [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
+
+*   [lixiaofei123/daily](https://github.com/lixiaofei123/daily) - 一个仿微信朋友圈项目，后端使用golang，前端使用html/css和jquery进行开发
+
+*   [dong9205/wechat\_hook](https://github.com/dong9205/wechat_hook) - 通过HTTP接口微信发送消息
+
+*   [lw396/ChatCopilot](https://github.com/lw396/ChatCopilot) - ChatCopilot 是一款用 golang 实现的获取微信聊天记录并支持实时存储到数据库的工具，支持在 MacOS 上运行
+
+*   [ultrazg/xyz](https://github.com/ultrazg/xyz) - 小宇宙FM API
+
+*   [qianliwangyue/boom](https://github.com/qianliwangyue/boom) - 使用golang、fyne 开发的信息自动发送（轰炸）程序
+
+*   [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
+
+*   [Yohann0617/tgNetDisc](https://github.com/Yohann0617/tgNetDisc) - 🤖基于Telegram API，无限容量，不限制文件格式，不限制文件内容😏，文件都存储在Telegram☁云端，轻巧方便。上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
+
+*   [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+
+*   [carrot-hu23/dst-admin-go](https://github.com/carrot-hu23/dst-admin-go) - Don't Starve Together server panel. Manage room with ease, featuring visual world and mod management, player log collection。饥荒联机服务器面板。轻松管理房间，支持可视化的世界和模组管理，玩家日志采集
+
+*   [logonod/bookmark](https://github.com/logonod/bookmark) - bookmark - 我的书签 基于go实现的在线书签管理工具 支持爬虫、标签、全文检索
+
+*   [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
+
+*   [NullpointerW/AniCat](https://github.com/NullpointerW/AniCat) - One-click tool for automatically bangumi subscribing
+
+*   [csznet/tgState](https://github.com/csznet/tgState) - 使用Telegram作为存储的文件外链系统，不限制文件大小和格式。
+
+*   [jeessy2/backup-x](https://github.com/jeessy2/backup-x) - 带Web界面的数据库/文件备份增强工具. A database/file backup tool with web interfaces
+
+*   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
+
+*   [Privilege-privacy/BiliBackup](https://github.com/Privilege-privacy/BiliBackup) - 自动将 BiliBili (B站) 收藏夹内的视频备份到 OneDrive 或其他云存储
+
+*   [SH-Wang123/QNQ](https://github.com/SH-Wang123/QNQ) - 这是一个基本可用的文件同步工具，还在开发阶段。之前开源的QNQ迁移至此项目。This is a basically available file synchronization tool that is still in the development stage. The previously open source QNQ was migrated to this project.
+
+*   [szpnygo/VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
+
+*   [csznet/goFile](https://github.com/csznet/goFile) - easy file manager
+
+*   [user1121114685/115push](https://github.com/user1121114685/115push) - 云传(115push)是一个将sha1导入到115网盘的工具，无需将文件下载到本地
+
+*   [nangcr/chatgpt-aws-proxy](https://github.com/nangcr/chatgpt-aws-proxy) - 本项目是一个 AWS Lambda 函数，用于将 HTTP 请求转发到 OpenAI 的 ChatGPT API。亦可部署到任意 VPS 上。
+
+*   [ivershuo/chatbash](https://github.com/ivershuo/chatbash) - An OpenAI-based tool to control your 💻
+
+*   [Jeadie/notion-rss](https://github.com/Jeadie/notion-rss) - Get RSS feeds in notion.so
+
+*   [daichirata/gcsproxy](https://github.com/daichirata/gcsproxy) - Reverse proxy for Google Cloud Storage
+
+*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+
+*   [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
+
+*   [paescuj/universe](https://github.com/paescuj/universe) - My god, it's full of stars
+
+*   [houko/wechatgpt](https://github.com/houko/wechatgpt) - wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持wechat，telegram
+
+*   [grokify/ringcentral-permahooks](https://github.com/grokify/ringcentral-permahooks) - Webhook proxy to turn RingCentral webhooks into permanent webhooks for use with services like Zapier Instant Triggers.
+
+*   [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more
+
+*   [xlzy520/typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床，也可以自定义修改成任意其他图床接口。使用教程：https://b23.tv/urxCc3
+
+*   [CatchZeng/feishu](https://github.com/CatchZeng/feishu) - feishu 是飞书机器人的 go 实现。支持 Docker、Jenkinsfile、命令行模式，module 模式；支持加签安全设置、链式语法创建消息；支持文本（text）、富文本（post）、图片（image）、群名片（share\_chat）、消息卡片（interactive）消息类型。
+
+*   [jerryshell/my-flomo-server](https://github.com/jerryshell/my-flomo-server) - Self-hosted 自托管的想法记录及回顾服务，开源、免费、简单、专注于核心功能
+
+*   [lenye/pmsg](https://github.com/lenye/pmsg) - 发送消息的小工具：企业微信群机器人消息，钉钉自定义机器人消息，飞书自定义机器人消息，Slack bot，微信消息，微信客服消息，企业微信消息，企业微信客服消息
+
+*   [kenellorando/cadence](https://github.com/kenellorando/cadence) - All-in-one web radio suite with browser UI, music search, request, artwork, and real-time stream information.
+
+*   [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
+
+*   [qydysky/bili\_danmu](https://github.com/qydysky/bili_danmu) - Bilibili 直播、弹幕录制回放工具 go1.24+
+
+*   [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI & Webhook
+
+*   [echosoar/news](https://github.com/echosoar/news) - 基于SimHash算法聚合相似全网内容，根据来源数量进行排序，并对一些内容进行过滤
+
+*   [irth/tg2fedi](https://github.com/irth/tg2fedi) - A bot to repost messages from a Telegram channel to a Mastodon account.
+
+*   [LinuxSuRen/yaml-readme](https://github.com/LinuxSuRen/yaml-readme) - A helper to generate the READE file automatically from YAML-based metadata files.
+
+*   [os7blue/dobby](https://github.com/os7blue/dobby) - 简配版server酱，支持：websocket、钉钉webhook机器人、飞书webhook机器人、企业微信webhook机器人、email，以及公众号消息推送服务。
+
+*   [devote-team/aixinge](https://github.com/devote-team/aixinge) - The backend code of AiXinGe
+
+*   [Sunbalcony/note](https://github.com/Sunbalcony/note) - note是一款优美，轻便的文档共享工具，支持一键分享，多人协作在线编辑，好用到上天，网页打代码不是梦！
+
+*   [srcrs/rss-reader](https://github.com/srcrs/rss-reader) - 一个极简的RSS在线浏览工具
+
+*   [MiaoMint/g8ink](https://github.com/MiaoMint/g8ink) - 一个短链接生成程序
+
+*   [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
+
+*   [josh/smtp2webhook](https://github.com/josh/smtp2webhook) - SMTP to Webhook Relay
+
+*   [jamesroutley/news.routley.io](https://github.com/jamesroutley/news.routley.io) - 🗞 My personal RSS feed
+
+*   [easychen/wecomchan](https://github.com/easychen/wecomchan) - 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。
+
+*   [yann0917/dedao-dl](https://github.com/yann0917/dedao-dl) - 得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。
+
+*   [PeterYangs/article-spider](https://github.com/PeterYangs/article-spider) - 文章采集工具 Article collection tool
+
+*   [zu1k/tg-keyword-reply-bot](https://github.com/zu1k/tg-keyword-reply-bot) - Telegram关键词自动回复机器人: 根据群组管理员设定的关键词或者正则规则，自动回复文字、图片、文件或者进行永久禁言、临时禁言、踢出等群管操作
+
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+
 ## Python
 
 *   [wangyaominde/iMessage\_llm](https://github.com/wangyaominde/iMessage_llm) - 用闲置Mac接入llm，使用iMessage进行对话
@@ -77,7 +199,7 @@
 
 *   [knoop7/zhipuai](https://github.com/knoop7/zhipuai) - This project aims to seamlessly connect the Zhipu Qingyan language model with the Home Assistant (HASS) platform to provide more intelligent home automation management.
 
-*   [kunkeji/chatGPT\_auto\_msg\_multiPlat](https://github.com/kunkeji/chatGPT_auto_msg_multiPlat) - 电商、社交多平台自动AI智能客服机器人，支持多种平台（微信、拼多多、千牛、抖店、京东、企业微信、微博、小红书、知乎等平台接入）可接入任何模型（gpt、glm、千问、gemma、llama、qwen、phi、yi等）
+*   [kunkeji/chatGPT\_auto\_msg\_multiPlat](https://github.com/kunkeji/chatGPT_auto_msg_multiPlat) - 核心代码开源，电商、社交多平台自动AI智能客服机器人，支持多种平台（微信、拼多多、千牛、抖店、京东、企业微信、微博、小红书、知乎等平台接入）可接入任何模型（gpt、glm、千问、gemma、llama、qwen、phi、yi等）
 
 *   [yandaozi/PPress](https://github.com/yandaozi/PPress) - 一个基于Python的博客CMS系统，采用Flask极致构建。
 
@@ -92,6 +214,8 @@
 *   [m2kar/video2slides](https://github.com/m2kar/video2slides) - video to slides tool. 视频转幻灯片工具
 
 *   [xueyouluo/nearly-free-wechat-bot](https://github.com/xueyouluo/nearly-free-wechat-bot) - 能自己部署的微信机器人，使用免费的大模型API
+
+*   [TakWolf/hzk-pixel-font](https://github.com/TakWolf/hzk-pixel-font) - UCDOS 系统的点阵字体
 
 *   [TakWolf/retro-pixel-font](https://github.com/TakWolf/retro-pixel-font) - A set of open source old game style pixel fonts / 一组开源的有怀旧游戏感觉的像素字体
 
@@ -473,7 +597,7 @@
 
 *   [old6ix/auto-unlock-music](https://github.com/old6ix/auto-unlock-music) - 自动解锁各音乐平台下载的加密音乐
 
-*   [Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
+*   [Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT) - 由图灵的猫开发，基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 
 *   [AndersonBY/AIGuiChu](https://github.com/AndersonBY/AIGuiChu) - 用AI帮忙制作鬼畜类视频
 
@@ -639,8 +763,6 @@
 
 *   [MCDFsteve/Kurisu](https://github.com/MCDFsteve/Kurisu) - 一个靠口头描述来转换文件格式的程序 A program that converts file formats based on verbal descriptions 口頭での説明に基づいてファイル形式を変換するプログラム
 
-*   [TakWolf/hzk-pixel-font](https://github.com/TakWolf/hzk-pixel-font) - 来源于旧操作系统的点阵字体
-
 *   [1zimu-com/1zimu](https://github.com/1zimu-com/1zimu) - 一字幕(1zimu)是一款支持，在线外文视频资源、电影、美剧、音频、内嵌字幕视频、可外挂字幕的字幕列表播放浏览器扩展。轻松习得外语的辅助工具。1zimu is a browser extension that supports the playback of subtitle lists for online foreign language video resources, movies, American TV shows, audios, and embedded subtitle videos, and external subtitles. It is an auxiliary tool for effortlessly acquiring foreign languages.
 
 *   [BDTA-zky/GeoWelcome](https://github.com/BDTA-zky/GeoWelcome) - 动态个性化欢迎页面，基于访客的地理位置和时间自动生成个性化的问候语。简单部署，一键发布，欢迎您的到来！
@@ -713,7 +835,7 @@
 
 ## JavaScript
 
-*   [idevsig/navside](https://github.com/idevsig/navside) - 一个简洁、优雅且高效的 Hugo 网址导航主题
+*   [idevsig/navside](https://github.com/idevsig/navside) - 一个简洁、优雅且高效的 Hugo 网址导航主题 https://navside.skiy.net/
 
 *   [wristwaking/doraemon-desktop-pet](https://github.com/wristwaking/doraemon-desktop-pet) - 这是一款Doraemon机器猫主题桌面电子宠物，基于前端electron框架实现快速搭建，可调整素材图片进行个性化UI重构，内置百度智能云千帆大模型文字互动功能。
 
@@ -1073,7 +1195,7 @@
 
 *   [kev1nweng/reel-sync](https://github.com/kev1nweng/reel-sync) - ReelSync · 随时随地和另一个人同时观看一个视频 | Watch videos with someone in sync, anytime, anywhere.
 
-*   [stark81/VutronMusic](https://github.com/stark81/VutronMusic) - 高颜值的第三方网易云播放器，支持本地音乐播放、离线歌单、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示。支持 Windows / macOS / Linux :electron:
+*   [stark81/VutronMusic](https://github.com/stark81/VutronMusic) - 高颜值的第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示。支持 Windows / macOS / Linux :electron:
 
 *   [dcbestwords/Local-cloudPan](https://github.com/dcbestwords/Local-cloudPan) - 本地 磁盘/文件夹 托管，供局域网内用户通过网页进行在线管理
 
@@ -1085,7 +1207,7 @@
 
 *   [XiCheng148/SmartPreview](https://github.com/XiCheng148/SmartPreview) - Smart Preview 是一个强大的浏览器扩展，旨在提升您的网页浏览体验。它允许用户快速预览链接内容，而无需打开新的标签页，同时提供智能的窗口管理和自定义设置选项。
 
-*   [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 基于大模型 RAG 知识库与知识图谱的问答平台。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1。
+*   [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 基于大模型 RAG 知识库与知识图谱的问答平台。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
 
 *   [Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft) - craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
 
@@ -1185,7 +1307,7 @@
 
 *   [pingcap/autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai
 
-*   [Onelevenvy/flock](https://github.com/Onelevenvy/flock) - Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用。）
+*   [Onelevenvy/flock](https://github.com/Onelevenvy/flock) - Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams, powered by LangGraph, FastAPI, and NextJS.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用，采用 LangGraph、FastAPI 和 NextJS 构建。）
 
 *   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 
@@ -1940,128 +2062,6 @@
 *   [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
 
 *   [pm936/httpcatcher](https://github.com/pm936/httpcatcher) - 网球规则
-
-*   [jobbole/awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn) - iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等
-
-## Go
-
-*   [weibaohui/k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，集成多集群管理、智能分析、实时异常检测和自然语言查询功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
-
-*   [openorch/openorch](https://github.com/openorch/openorch) - Build AI products faster. A language-agnostic microservices platform for building AI applications.
-
-*   [Akimio521/MediaWarp](https://github.com/Akimio521/MediaWarp) - EmbyServer API优化：优化播放Strm文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，配合Alist实现Emby播放网盘资源，推荐配合AutoFilm使用
-
-*   [AmbitiousJun/go-emby2alist](https://github.com/AmbitiousJun/go-emby2alist) - Go 语言编写的网盘直链反向代理服务，深度适配阿里云盘，为 Emby + Alist 组合提供更好的使用体验，配置简单，DockerCompose 一键部署
-
-*   [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
-
-*   [lixiaofei123/daily](https://github.com/lixiaofei123/daily) - 一个仿微信朋友圈项目，后端使用golang，前端使用html/css和jquery进行开发
-
-*   [dong9205/wechat\_hook](https://github.com/dong9205/wechat_hook) - 通过HTTP接口微信发送消息
-
-*   [lw396/ChatCopilot](https://github.com/lw396/ChatCopilot) - ChatCopilot 是一款用 golang 实现的获取微信聊天记录并支持实时存储到数据库的工具，支持在 MacOS 上运行
-
-*   [ultrazg/xyz](https://github.com/ultrazg/xyz) - 小宇宙FM API
-
-*   [qianliwangyue/boom](https://github.com/qianliwangyue/boom) - 使用golang、fyne 开发的信息自动发送（轰炸）程序
-
-*   [pwh-pwh/aiwechat-vercel](https://github.com/pwh-pwh/aiwechat-vercel) - 使用vercel的functions，将ai功能加入微信公众号
-
-*   [Yohann0617/tgNetDisc](https://github.com/Yohann0617/tgNetDisc) - 🤖基于Telegram API，无限容量，不限制文件格式，不限制文件内容😏，文件都存储在Telegram☁云端，轻巧方便。上传成功会生成HTML、Markdown、BBCode三种形式的外链🔗，可以用来当做图床、文件下载url。
-
-*   [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-
-*   [carrot-hu23/dst-admin-go](https://github.com/carrot-hu23/dst-admin-go) - Don't Starve Together server panel. Manage room with ease, featuring visual world and mod management, player log collection。饥荒联机服务器面板。轻松管理房间，支持可视化的世界和模组管理，玩家日志采集
-
-*   [logonod/bookmark](https://github.com/logonod/bookmark) - bookmark - 我的书签 基于go实现的在线书签管理工具 支持爬虫、标签、全文检索
-
-*   [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
-
-*   [NullpointerW/AniCat](https://github.com/NullpointerW/AniCat) - One-click tool for automatically bangumi subscribing
-
-*   [csznet/tgState](https://github.com/csznet/tgState) - 使用Telegram作为存储的文件外链系统，不限制文件大小和格式。
-
-*   [jeessy2/backup-x](https://github.com/jeessy2/backup-x) - 带Web界面的数据库/文件备份增强工具. A database/file backup tool with web interfaces
-
-*   [speauty/anto](https://github.com/speauty/anto) - 字幕文件(srt)翻译工具，Windows专用
-
-*   [Privilege-privacy/BiliBackup](https://github.com/Privilege-privacy/BiliBackup) - 自动将 BiliBili (B站) 收藏夹内的视频备份到 OneDrive 或其他云存储
-
-*   [SH-Wang123/QNQ](https://github.com/SH-Wang123/QNQ) - 这是一个基本可用的文件同步工具，还在开发阶段。之前开源的QNQ迁移至此项目。This is a basically available file synchronization tool that is still in the development stage. The previously open source QNQ was migrated to this project.
-
-*   [szpnygo/VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
-
-*   [csznet/goFile](https://github.com/csznet/goFile) - easy file manager
-
-*   [user1121114685/115push](https://github.com/user1121114685/115push) - 云传(115push)是一个将sha1导入到115网盘的工具，无需将文件下载到本地
-
-*   [nangcr/chatgpt-aws-proxy](https://github.com/nangcr/chatgpt-aws-proxy) - 本项目是一个 AWS Lambda 函数，用于将 HTTP 请求转发到 OpenAI 的 ChatGPT API。亦可部署到任意 VPS 上。
-
-*   [ivershuo/chatbash](https://github.com/ivershuo/chatbash) - An OpenAI-based tool to control your 💻
-
-*   [Jeadie/notion-rss](https://github.com/Jeadie/notion-rss) - Get RSS feeds in notion.so
-
-*   [daichirata/gcsproxy](https://github.com/daichirata/gcsproxy) - Reverse proxy for Google Cloud Storage
-
-*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-
-*   [autobrr/autobrr](https://github.com/autobrr/autobrr) - Modern, easy to use download automation for torrents and usenet.
-
-*   [paescuj/universe](https://github.com/paescuj/universe) - My god, it's full of stars
-
-*   [houko/wechatgpt](https://github.com/houko/wechatgpt) - wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持wechat，telegram
-
-*   [grokify/ringcentral-permahooks](https://github.com/grokify/ringcentral-permahooks) - Webhook proxy to turn RingCentral webhooks into permanent webhooks for use with services like Zapier Instant Triggers.
-
-*   [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more
-
-*   [xlzy520/typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床，也可以自定义修改成任意其他图床接口。使用教程：https://b23.tv/urxCc3
-
-*   [CatchZeng/feishu](https://github.com/CatchZeng/feishu) - feishu 是飞书机器人的 go 实现。支持 Docker、Jenkinsfile、命令行模式，module 模式；支持加签安全设置、链式语法创建消息；支持文本（text）、富文本（post）、图片（image）、群名片（share\_chat）、消息卡片（interactive）消息类型。
-
-*   [jerryshell/my-flomo-server](https://github.com/jerryshell/my-flomo-server) - Self-hosted 自托管的想法记录及回顾服务，开源、免费、简单、专注于核心功能
-
-*   [lenye/pmsg](https://github.com/lenye/pmsg) - 发送消息的小工具：企业微信群机器人消息，钉钉自定义机器人消息，飞书自定义机器人消息，Slack bot，微信消息，微信客服消息，企业微信消息，企业微信客服消息
-
-*   [kenellorando/cadence](https://github.com/kenellorando/cadence) - All-in-one web radio suite with browser UI, music search, request, artwork, and real-time stream information.
-
-*   [yqchilde/wxbot](https://github.com/yqchilde/wxbot) - ☝🏻 一个好玩的个人微信机器人程序(DaenDLL、VLW)，插件开发，查天气，ChatGPT聊天，设置定时任务，公众号监控转发...
-
-*   [qydysky/bili\_danmu](https://github.com/qydysky/bili_danmu) - Bilibili 直播、弹幕录制回放工具 go1.24+
-
-*   [aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI & Webhook
-
-*   [echosoar/news](https://github.com/echosoar/news) - 基于SimHash算法聚合相似全网内容，根据来源数量进行排序，并对一些内容进行过滤
-
-*   [irth/tg2fedi](https://github.com/irth/tg2fedi) - A bot to repost messages from a Telegram channel to a Mastodon account.
-
-*   [LinuxSuRen/yaml-readme](https://github.com/LinuxSuRen/yaml-readme) - A helper to generate the READE file automatically from YAML-based metadata files.
-
-*   [os7blue/dobby](https://github.com/os7blue/dobby) - 简配版server酱，支持：websocket、钉钉webhook机器人、飞书webhook机器人、企业微信webhook机器人、email，以及公众号消息推送服务。
-
-*   [devote-team/aixinge](https://github.com/devote-team/aixinge) - The backend code of AiXinGe
-
-*   [Sunbalcony/note](https://github.com/Sunbalcony/note) - note是一款优美，轻便的文档共享工具，支持一键分享，多人协作在线编辑，好用到上天，网页打代码不是梦！
-
-*   [srcrs/rss-reader](https://github.com/srcrs/rss-reader) - 一个极简的RSS在线浏览工具
-
-*   [MiaoMint/g8ink](https://github.com/MiaoMint/g8ink) - 一个短链接生成程序
-
-*   [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
-
-*   [josh/smtp2webhook](https://github.com/josh/smtp2webhook) - SMTP to Webhook Relay
-
-*   [jamesroutley/news.routley.io](https://github.com/jamesroutley/news.routley.io) - 🗞 My personal RSS feed
-
-*   [easychen/wecomchan](https://github.com/easychen/wecomchan) - 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。
-
-*   [yann0917/dedao-dl](https://github.com/yann0917/dedao-dl) - 得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。
-
-*   [PeterYangs/article-spider](https://github.com/PeterYangs/article-spider) - 文章采集工具 Article collection tool
-
-*   [zu1k/tg-keyword-reply-bot](https://github.com/zu1k/tg-keyword-reply-bot) - Telegram关键词自动回复机器人: 根据群组管理员设定的关键词或者正则规则，自动回复文字、图片、文件或者进行永久禁言、临时禁言、踢出等群管操作
-
-*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 ## C\#
 
