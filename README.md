@@ -61,6 +61,12 @@
 
 ## Python
 
+*   [DuckDuckStudio/Sundry](https://github.com/DuckDuckStudio/Sundry) - sundry 是一个 WinGet 本地清单管理工具，让您更方便的移除清单、修改清单，还可以辅助更新清单
+
+*   [wfql1024/MultiWeChatManager](https://github.com/wfql1024/MultiWeChatManager) - 懒得点？懒得扫码？那就交给它！🛠️  这是一款专为 微信多开（未来也可以支持其他平台！！） 而设计的 自动化管理工具，支持 多号一键登录、全局多开、自启动登录、防撤回 等功能，是让你省心的好工具！🚀
+
+*   [zibuyu2015831/note\_card\_for\_obsidian](https://github.com/zibuyu2015831/note_card_for_obsidian) - 一个腾讯云函数部署脚本，利用笔记卡片（一个微信号）作为接口，转存微信推文到自己的obsidian笔记仓库~
+
 *   [luluyayawawa123/yt-dlp-gui](https://github.com/luluyayawawa123/yt-dlp-gui) - 基于 yt-dlp 内核的 YouTube 视频下载工具
 
 *   [chadyi/Search-for-LLMAPI](https://github.com/chadyi/Search-for-LLMAPI) - 一个轻量级的 API 增强服务，为各大模型 API 添加实时联网搜索能力，让 AI 回答更加准确、及时。
@@ -559,10 +565,6 @@
 
 *   [wdssmq/proxy\_rsshub](https://github.com/wdssmq/proxy_rsshub) - 使用 GitHub Actions 反代 RSSHub + 多实例轮询
 
-*   [yanglbme/v2ex-action](https://github.com/yanglbme/v2ex-action) - 🔝 V2EX GitHub Action | 自动发送 V2EX 热门内容到企业微信、钉钉等，可自定义发送周期
-
-*   [aiguoli/MultiDrive](https://github.com/aiguoli/MultiDrive) - 一站式管理包含但不局限于OneDrive，AliyunDrive等各种网盘
-
 ## Go
 
 *   [Done-0/Jank](https://github.com/Done-0/Jank) - Jank，一个轻量级的博客系统，基于 Go 语言和 Echo 框架开发，强调极简、低耦合和高扩展。
@@ -676,8 +678,6 @@
 *   [josh/smtp2webhook](https://github.com/josh/smtp2webhook) - SMTP to Webhook Relay
 
 *   [jamesroutley/news.routley.io](https://github.com/jamesroutley/news.routley.io) - 🗞 My personal RSS feed
-
-*   [easychen/wecomchan](https://github.com/easychen/wecomchan) - 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。
 
 ## Rust
 
@@ -983,6 +983,8 @@
 
 *   [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 基于大模型 RAG 知识库与知识图谱的问答平台。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
 
+*   [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) - Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
+
 *   [Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft) - craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
 
 *   [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 是一款基于 Tauri2 和 Nuxt3 构建的轻量(~8MB)多平台即时通讯聊天应用，具备多种实时消息、AI群聊机器人🤖（DeepSeek、讯飞星火、KimiAI已接入）、WebRTC 音视频通话、屏幕共享以及 AI 购物功能。它支持无缝跨设备通信，涵盖文本、图片、文件和语音等多种消息，还支持群聊和可定制化设置，提供浅/深色模式，助力高效社交网络。✨
@@ -1246,8 +1248,6 @@
 *   [rcy1314/nav-manage](https://github.com/rcy1314/nav-manage) - Nav-manage 为静态导航带来强大的管理扩展
 
 *   [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts) - 🐒一些修改自网络的油猴脚本 Some Tampermonkey scripts modified from the internet
-
-*   [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) - Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
 
 *   [shengplus-2024/wechat-video-collect](https://github.com/shengplus-2024/wechat-video-collect) - 微信视频号采集
 
