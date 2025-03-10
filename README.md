@@ -13,8 +13,8 @@
 
 ## Table of Contents
 
-*   [PowerShell](#powershell)
 *   [TypeScript](#typescript)
+*   [PowerShell](#powershell)
 *   [Python](#python)
 *   [Go](#go)
 *   [Rust](#rust)
@@ -59,19 +59,9 @@
 *   [PLpgSQL](#plpgsql)
 *   [Scala](#scala)
 
-## PowerShell
-
-*   [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - PowerShell GUI application designed to optimize and customize your Windows experience.
-
-*   [licyk/sd-webui-all-in-one](https://github.com/licyk/sd-webui-all-in-one) - 一个支持部署多种 WebUI 的 Jupyter Notebook / 支持一键部署 SD-Trainer，InvokeAI，ComfyUI，SD WebUI，SD-Trainer-Script，Fooocus 的 PowerShell 脚本
-
-*   [Lin-jun-xiang/awesome-vscode-extensions](https://github.com/Lin-jun-xiang/awesome-vscode-extensions) - :gem:Tops of VSCode Extensions
-
-*   [daboynb/ChatGPT-Bypass-gui](https://github.com/daboynb/ChatGPT-Bypass-gui) - A  gui that allows you to bypass content filtering in ChatGPT through the OpenAI autocompletion API for DaVinci-003
-
-*   [SummonHIM/Bestdori-Music-Downloader](https://github.com/SummonHIM/Bestdori-Music-Downloader) - A script that automatically downloads music from Bestdori and fills in the music information(Song title, Artist, Album, Composer and Front cover)
-
 ## TypeScript
+
+*   [consistent-k/VodHub](https://github.com/consistent-k/VodHub) - VodHub 是一个电影、电视剧、动漫等视频接口聚合服务
 
 *   [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
 
@@ -210,6 +200,8 @@
 *   [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
 
 *   [birkheadc/gameguy\_theme\_homepage](https://github.com/birkheadc/gameguy_theme_homepage) - My personal homepage, with a retro gaming theme.
+
+*   [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
 
 *   [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 
@@ -465,6 +457,18 @@
 
 *   [HydenLiu/itu-nav-code](https://github.com/HydenLiu/itu-nav-code) - 🍻  艾兔db - 程序员导航
 
+## PowerShell
+
+*   [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - PowerShell GUI application designed to optimize and customize your Windows experience.
+
+*   [licyk/sd-webui-all-in-one](https://github.com/licyk/sd-webui-all-in-one) - 一个支持部署多种 WebUI 的 Jupyter Notebook / 支持一键部署 SD-Trainer，InvokeAI，ComfyUI，SD WebUI，SD-Trainer-Script，Fooocus 的 PowerShell 脚本
+
+*   [Lin-jun-xiang/awesome-vscode-extensions](https://github.com/Lin-jun-xiang/awesome-vscode-extensions) - :gem:Tops of VSCode Extensions
+
+*   [daboynb/ChatGPT-Bypass-gui](https://github.com/daboynb/ChatGPT-Bypass-gui) - A  gui that allows you to bypass content filtering in ChatGPT through the OpenAI autocompletion API for DaVinci-003
+
+*   [SummonHIM/Bestdori-Music-Downloader](https://github.com/SummonHIM/Bestdori-Music-Downloader) - A script that automatically downloads music from Bestdori and fills in the music information(Song title, Artist, Album, Composer and Front cover)
+
 ## Python
 
 *   [DuckDuckStudio/Sundry](https://github.com/DuckDuckStudio/Sundry) - Sundry 是一个 WinGet 本地清单管理工具，让您更方便的移除清单、修改清单，还可以辅助更新清单
@@ -485,7 +489,7 @@
 
 *   [wangyaominde/iMessage\_llm](https://github.com/wangyaominde/iMessage_llm) - 用闲置Mac接入llm，使用iMessage进行对话
 
-*   [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder) - 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、黑白名单，AI处理等功能。
+*   [Heavrnl/TelegramForwarder](https://github.com/Heavrnl/TelegramForwarder) - 一个功能强大的 Telegram 消息转发器，支持多源转发、关键词过滤、正则替换、RSS订阅，AI处理等功能。
 
 *   [jer-nc/blender\_deepseek\_ai](https://github.com/jer-nc/blender_deepseek_ai) - An experimental add-on, AI-powered code assistant for Blender's Text Editor, integrating with DeepSeek's API.
 
@@ -968,8 +972,6 @@
 *   [jbzdarkid/RssToEmail](https://github.com/jbzdarkid/RssToEmail) - Sends new RSS entries via email
 
 *   [LogicJake/WebMonitor](https://github.com/LogicJake/WebMonitor) - 实时监控网页变化，并发送通知（Monitor web page changes in real time and send notifications）
-
-*   [caibingcheng/rssblog](https://github.com/caibingcheng/rssblog) - 独立博客聚合, 提供最新的博客内容服务
 
 ## Go
 
@@ -1617,8 +1619,6 @@
 
 *   [DoingDog/chatgpt-proxy-cloudflare-worker](https://github.com/DoingDog/chatgpt-proxy-cloudflare-worker) - Cloudflare Worker 反向代理 ChatGPT API，支持流式输出，支持联网搜索功能，支持设置访问密码
 
-*   [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
-
 *   [wmz1024/WRSS-OJS](https://github.com/wmz1024/WRSS-OJS) - WRSS - MD风格的RSS订阅器
 
 *   [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, lightning fast, object pseudo-database for S3-compatible storages using Msgpack
@@ -2243,7 +2243,7 @@
 
 ## MDX
 
-*   [geekskai/blog](https://github.com/geekskai/blog) - 🚀 2025 Most Popular FREE Blog Template! Next.js 14, Zero Code - Just Write & Deploy | 2025最火免费博客模板！支持Markdown，一键部署，极致性能！⚡️ ✨ Write in Markdown, get your professional blog in minutes. Custom domain & comments ready! | 写Markdown即可，快速部署，支持自定义域名和评论，无需代码！
+*   [geekskai/blog](https://github.com/geekskai/blog) - 🚀 2025 Most Popular FREE Blog Template! Next.js 14, Zero Code - Just Write & Deploy | 2025最火免费博客模板！支持Markdown，一键部署，极致性能！⚡️ ✨ Write in Markdown, get your professional blog in minutes. Custom domain & comments ready! | 写Markdown即可，快速部署，支持自定义域名和评论，无需代码！geekskai.com/
 
 ## Svelte
 
