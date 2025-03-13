@@ -553,7 +553,7 @@
 
 *   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
-*   [LIghtJUNction/WechatPublicAPI](https://github.com/LIghtJUNction/WechatPublicAPI) - 构思中...
+*   [LIghtJUNction/Luna-Executor](https://github.com/LIghtJUNction/Luna-Executor) - Lunar Executor is a tool for executing custom scripts within Roblox, providing users with the ability to exploit and modify game features.
 
 *   [AQinTrue/typora-alist-image-uploader](https://github.com/AQinTrue/typora-alist-image-uploader) - 这是一个简单的工具，用于方便地将Typora编辑器中的图片上传至Alist云存储服务
 
@@ -1087,7 +1087,7 @@
 
 ## Rust
 
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage into a desktop app and mobile app with Rust. 利用 Rust 轻松构建轻量级(仅5M)多端桌面应用和多端手机应用
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage into a desktop app and mobile app with Rust. 轻松将任何网站构建为轻量级(仅5M)多端桌面应用和多端手机应用.
 
 *   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 
