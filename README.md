@@ -1129,7 +1129,7 @@
 
 ## Rust
 
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage into a desktop app and mobile app with Rust. 轻松将任何网站构建为轻量级(仅5M)多端桌面应用和多端手机应用.
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage into a desktop app and mobile app with Rust. 轻松将任意网站构建为轻量级(仅5M)多端桌面应用和多端手机应用.
 
 *   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 
