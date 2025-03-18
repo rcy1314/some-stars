@@ -2287,7 +2287,7 @@
 
 ## Less
 
-*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和增强插件。  VLOOK™ is an elegant and practical theme package × enhancement plugin for Typora/Markdown.
+*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × ENHANCEMENT PLUGIN for Typora/Markdown.
 
 *   [MaLuns/hexo-theme-text](https://github.com/MaLuns/hexo-theme-text) - 一款简约、轻量的Hexo主题
 
