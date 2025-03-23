@@ -587,7 +587,7 @@
 
 *   [dawnstaryrx/go-nav](https://github.com/dawnstaryrx/go-nav) - 多用户的导航站，让每个人拥有自己的导航页，功能强大，样式极简。
 
-*   [QQBoom/SmartLinkPreview](https://github.com/QQBoom/SmartLinkPreview) - Smart Preview 是一个强大的浏览器扩展，旨在提升您的网页浏览体验。它允许用户快速预览链接内容，而无需打开新的标签页，同时提供智能的窗口管理和自定义设置选项。
+*   [QQBoom/SmartPreview](https://github.com/QQBoom/SmartPreview) - Smart Preview 是一个强大的浏览器扩展，旨在提升您的网页浏览体验。它允许用户快速预览链接内容，而无需打开新的标签页，同时提供智能的窗口管理和自定义设置选项。
 
 *   [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
 
@@ -1183,7 +1183,7 @@
 
 *   [OpenAISpace/ai-search4ai-go](https://github.com/OpenAISpace/ai-search4ai-go) - Search4AI-Go 是一个用 Go 语言实现的 AI 搜索代理服务，它允许大型语言模型通过 API 调用来获取实时互联网信息
 
-*   [weibaohui/k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，集成多集群管理、智能分析、实时异常检测和自然语言查询功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
+*   [weibaohui/k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 
 *   [openorch/openorch](https://github.com/openorch/openorch) - THIS PROJECT HAS MOVED TO https://github.com/1backend/1backend. Build AI products faster. A language-agnostic microservices platform for building AI applications.
 
@@ -1314,8 +1314,6 @@
 *   [naigoucn/ngdown](https://github.com/naigoucn/ngdown) - 奶狗附件下载插件适用于大多数WordPress主题
 
 *   [Racsocc/FontStory](https://github.com/Racsocc/FontStory) - 一个字体展示和管理平台，支持字体在线预览、分包上传、后台管理等功能。
-
-*   [Azimiao/TypeflowThemeForAzimiao](https://github.com/Azimiao/TypeflowThemeForAzimiao) - WordPress (Child) Theme For azimiao.com
 
 *   [hoytzhang/typecho-theme-final](https://github.com/hoytzhang/typecho-theme-final) - 或许是你的最终选择，接下来请专心写作吧。Your final choice. Please focus on writing next.
 
@@ -2011,6 +2009,8 @@
 
 *   [yibie/hugo-theme-deck](https://github.com/yibie/hugo-theme-deck) -
 
+*   [Azimiao/TypeflowThemeForAzimiao](https://github.com/Azimiao/TypeflowThemeForAzimiao) - WordPress (Child) Theme For azimiao.com
+
 *   [verkyer/xg-icons](https://github.com/verkyer/xg-icons) - 图标托管项目，基于PHP，可以实现自动抓取分组内的图标，并且快速复制。
 
 *   [maxminmarconi/light\_card](https://github.com/maxminmarconi/light_card) - 一个简洁优雅的卡片生成工具，让你轻松创建精美的内容卡片。支持自定义内容、多种主题样式和二维码，让创作变得更加简单有趣。
@@ -2217,7 +2217,7 @@
 
 *   [iccfish/ShimoExporter](https://github.com/iccfish/ShimoExporter) - 一键将个人石墨文档里的所有文档全部导出到本地
 
-*   [Hyrilx/Qotion](https://github.com/Hyrilx/Qotion) - A Bridge Connecting QQ and Notion
+*   [hyrilx/Qotion](https://github.com/hyrilx/Qotion) - A Bridge Connecting QQ and Notion
 
 ## Stylus
 
