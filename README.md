@@ -79,7 +79,7 @@
 
 *   [yhbcode000/Talk2Scene](https://github.com/yhbcode000/Talk2Scene) - Talk2Scene 是一个 音频驱动的智能动画生成工具，它能够自动解析 语音杂谈文件，识别文本内容与时间节点，并基于 AI 推荐适合的 角色姿态（STA）、表情（EXP）、动作（ACT）、背景（BG），在适当位置留白插入 CG 插画。最终，项目会生成 可点击的 CSV 数据文件，记录所有匹配信息，同时自动 合成预览视频，展现 AI 角色在不同场景中的动态表现。该工具可广泛用于 访谈视频、AI 互动演示、教育讲解、虚拟主播 等场景，帮助创作者轻松实现 从音频到可视化动画 的智能转换。
 
-*   [SISUBEN/FairySearch](https://github.com/SISUBEN/FairySearch) - Open, Free and Intelligent Search Engine FairySearch，一个开源、免费和智能的搜索程序
+*   [SISUBEN/FairySearch](https://github.com/SISUBEN/FairySearch) - FairySearch, An Open, Free and Intelligent Search Engine
 
 *   [wangyaominde/iMessage\_llm](https://github.com/wangyaominde/iMessage_llm) - 用闲置Mac接入llm，使用iMessage进行对话
 
