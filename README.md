@@ -1185,7 +1185,7 @@
 
 *   [openorch/openorch](https://github.com/openorch/openorch) - THIS PROJECT HAS MOVED TO https://github.com/1backend/1backend. Build AI products faster. A language-agnostic microservices platform for building AI applications.
 
-*   [Akimio521/MediaWarp](https://github.com/Akimio521/MediaWarp) - EmbyServer/Jellyfin API优化：优化播放Strm文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，配合Alist实现Emby播放网盘资源，推荐配合AutoFilm使用
+*   [Akimio521/MediaWarp](https://github.com/Akimio521/MediaWarp) - EmbyServer/Jellyfin 中间件：优化播放 Strm 文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，推荐配合AutoFilm使用
 
 *   [AmbitiousJun/go-emby2alist](https://github.com/AmbitiousJun/go-emby2alist) - Go 语言编写的网盘直链反向代理服务，深度适配阿里云盘，为 Emby + Alist 组合提供更好的使用体验，配置简单，DockerCompose 一键部署
 
@@ -1921,7 +1921,7 @@
 
 *   [emperinter/auto-generate-navigation](https://github.com/emperinter/auto-generate-navigation) - A plugin which  can generate a navigation  catalogue on your WordPress post!
 
-*   [mizoreyo/hexo-theme-insnow](https://github.com/mizoreyo/hexo-theme-insnow) - insnow, a simple hexo theme.
+*   [xmizore/hexo-theme-insnow](https://github.com/xmizore/hexo-theme-insnow) - insnow, a simple hexo theme.
 
 *   [zkeq/news](https://github.com/zkeq/news) - 前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。
 
