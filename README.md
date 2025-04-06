@@ -60,6 +60,8 @@
 
 ## TypeScript
 
+*   [wind-liang/link-to-image](https://github.com/wind-liang/link-to-image) - 链接转二维码，适合微信公众号文章等
+
 *   [ItusiAI/Open-VoiceCanvas](https://github.com/ItusiAI/Open-VoiceCanvas) - VoiceCanvas，支持Stripe支付的文本转语音系统，支持声音克隆，支持50+语言，支持选择音色，代码100%开源
 
 *   [liuyuhe666/wx-gzh-cover](https://github.com/liuyuhe666/wx-gzh-cover) - 🤗 微信公众号封面
@@ -91,8 +93,6 @@
 *   [pingcap/autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai
 
 *   [Onelevenvy/flock](https://github.com/Onelevenvy/flock) - Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams, powered by LangGraph, Langchain, FastAPI, and NextJS.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用，采用 LangGraph、Langchain、FastAPI 和 NextJS 构建。）
-
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 
 *   [idootop/feiyu-player](https://github.com/idootop/feiyu-player) - 🐟 一个漂亮得不像实力派的跨平台视频播放器
 
@@ -569,6 +569,8 @@
 *   [apconw/sanic-web](https://github.com/apconw/sanic-web) - 一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基于 Dify 、Ollama\&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以支持广泛的通用知识问答。
 
 *   [workbunny/bunny-ui](https://github.com/workbunny/bunny-ui) - 🐇一套 HTMX 开发模式的 Web UI 组件库，易上手，可以更简单快速地构建网页界面。
+
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 
 *   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 
@@ -1413,8 +1415,6 @@
 *   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 
 *   [SuperSonicHub1/TikTok-RSS](https://github.com/SuperSonicHub1/TikTok-RSS) - A simple TikTok RSS feed generator.
-
-*   [howie6879/liuli](https://github.com/howie6879/liuli) - 一站式构建多源、干净、个性化的阅读环境(Build a multi-source, clean and personalized reading environment in one stop.)
 
 ## Vue
 
