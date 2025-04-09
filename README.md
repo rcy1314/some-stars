@@ -311,7 +311,7 @@
 
 *   [markboard-io/markboard](https://github.com/markboard-io/markboard) - Wysiwyg markdown whiteboard for note-taking and building team knowledge base.
 
-*   [AntoineKM/charo](https://github.com/AntoineKM/charo) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that's make your daily social tasks.
+*   [AntoineKM/charo-open](https://github.com/AntoineKM/charo-open) - Instagram, TikTok, Twitter, Linkedin daily CRON tasks that's make your daily social tasks.
 
 *   [estepona/wx-read-desktop](https://github.com/estepona/wx-read-desktop) - 一个极简版微信读书桌面客户端
 
