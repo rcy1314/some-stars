@@ -185,6 +185,8 @@
 
 *   [Akimio521/MediaWarp](https://github.com/Akimio521/MediaWarp) - EmbyServer/Jellyfin 中间件：优化播放 Strm 文件、自定义前端样式、自定义允许访问客户端、嵌入脚本，推荐配合AutoFilm使用
 
+*   [AQinTrue/typora-alist-image-uploader](https://github.com/AQinTrue/typora-alist-image-uploader) - 这是一个简单的工具，用于方便地将Typora编辑器中的图片上传至Alist云存储服务
+
 *   [AmbitiousJun/go-emby2alist](https://github.com/AmbitiousJun/go-emby2alist) - Go 语言编写的网盘直链反向代理服务，深度适配阿里云盘，为 Emby + Alist 组合提供更好的使用体验，配置简单，DockerCompose 一键部署
 
 *   [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
@@ -1235,8 +1237,6 @@
 
 *   [LIghtJUNction/WechatPublicAPI](https://github.com/LIghtJUNction/WechatPublicAPI) - fuckUhacker
 
-*   [AQinTrue/typora-alist-image-uploader](https://github.com/AQinTrue/typora-alist-image-uploader) - 这是一个简单的工具，用于方便地将Typora编辑器中的图片上传至Alist云存储服务
-
 *   [TakWolf/aseprite-universal-pixel-theme](https://github.com/TakWolf/aseprite-universal-pixel-theme) - 支持多语言的具有默认主题外观的像素主题
 
 *   [heavyimage/Album-Art-Bottle-LEDs](https://github.com/heavyimage/Album-Art-Bottle-LEDs) - Create a custom LED palette based on your favorite albums!
@@ -1943,7 +1943,7 @@
 
 ## Dart
 
-*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - A versatile video player designed for both 📱Android Phone/Pad and 📺Android TV which creates a personalized media library.
+*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个同时适配📱Android Phone和📺Android TV的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。界面简洁，功能丰富，开箱即用。
 
 *   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
 
