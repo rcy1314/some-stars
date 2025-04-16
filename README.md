@@ -117,7 +117,7 @@
 
 *   [tutumomo/srt-subtitle-translator](https://github.com/tutumomo/srt-subtitle-translator) - SRT 字幕翻譯器 - 使用 Ollama AI 模型的本地字幕翻譯工具
 
-*   [xiesx123/CreatorBox](https://github.com/xiesx123/CreatorBox) - 🚀🎬灵活、高效、可扩展，专属视频剪辑配音工具箱，释放创作潜力
+*   [xiesx123/CreatorBox](https://github.com/xiesx123/CreatorBox) - 🚀🎬 Flexible, efficient, and scalable toolbox for editing and dubbing, unleashing creative potential
 
 *   [knoop7/zhipuai](https://github.com/knoop7/zhipuai) - This project aims to seamlessly connect the Zhipu Qingyan language model with the Home Assistant (HASS) platform to provide more intelligent home automation management.
 
@@ -601,7 +601,7 @@
 
 *   [Jimmylxue/h5pack-core](https://github.com/Jimmylxue/h5pack-core) - h5pack 是一个跨平台(支持mac/windows)的app打包工具，只需简单的配置和一个指令，即可将 H5 直接打包成 Android APK
 
-*   [Guizimo/cover-craft](https://github.com/Guizimo/cover-craft) - 简单易用的封面图片生成工具，为你的文章、视频、社交媒体创作提供专业的封面设计。
+*   [Guizimo/cova](https://github.com/Guizimo/cova) - 简单易用的封面图片生成工具，为你的文章、视频、社交媒体创作提供专业的封面设计。
 
 *   [CaoMeiYouRen/rss-to-memos-sync](https://github.com/CaoMeiYouRen/rss-to-memos-sync) - 从 RSS 源同步内容到 Memos
 
