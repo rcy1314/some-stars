@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [Python](#python)
 *   [Vue](#vue)
 *   [C#](#c)
@@ -31,7 +32,6 @@
 *   [GDScript](#gdscript)
 *   [CSS](#css)
 *   [Haskell](#haskell)
-*   [Dart](#dart)
 *   [C++](#c-2)
 *   [miscellaneous](#miscellaneous)
 *   [Stylus](#stylus)
@@ -56,6 +56,36 @@
 *   [SCSS](#scss)
 *   [Metal](#metal)
 *   [PLpgSQL](#plpgsql)
+
+## Dart
+
+*   [shichen437/FingerLike](https://github.com/shichen437/FingerLike) - 一个简单的基于 Flutter 构建的鼠标连点器。A simple mouse auto-clicker built with Flutter.
+
+*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个同时适配📱Android Phone和📺Android TV的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。界面简洁，功能丰富，开箱即用。
+
+*   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
+
+*   [XFSeven7/SkinSwitcher](https://github.com/XFSeven7/SkinSwitcher) - SkinSwitcher 是一个 macOS 桌面应用，用于快速对应和切换不同文件夹中的图片（如皮肤或外观）。该应用允许用户拖拽图片，快速查看和复制不同文件夹中的对应图片。
+
+*   [zetaloop/keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具 Keyviz 的汉化版。Keyviz Chinese l10n fork.
+
+*   [lxpio/omnigram](https://github.com/lxpio/omnigram) - Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading experiences
+
+*   [fregie/pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
+
+*   [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
+
+*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
+
+*   [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
+
+*   [hahastudio/FlutterChat](https://github.com/hahastudio/FlutterChat) - A Flutter project which communicates with OpenAI API
+
+*   [bapaws/answer](https://github.com/bapaws/answer) - 小答是一款基于 ChatGPT API 的开源客户端。Chat Answer is an open source app based on ChatGPT.
+
+*   [suconghou/u2flutter](https://github.com/suconghou/u2flutter) - flutter app of youtube video proxy
+
+*   [iakdis/buhocms](https://github.com/iakdis/buhocms) - A free and open source local CMS for static site generators
 
 ## Python
 
@@ -550,8 +580,6 @@
 *   [seahorse-is-bored/PowerPoint\_Anki\_Macro-Addon](https://github.com/seahorse-is-bored/PowerPoint_Anki_Macro-Addon) - A macro and addon you can use for powerpoint to import straight into Anki.
 
 *   [icodebase/ivideo](https://github.com/icodebase/ivideo) - ivideo 是一款轻量、强大、好用的视频处理软件。可以满足普通人一般的视频处理需求：压缩视频、转码视频、倒放视频、合并片段、根据字幕裁切片段、自动配字幕、自动剪辑……
-
-*   [groundcat/power-automate-rss-triggers](https://github.com/groundcat/power-automate-rss-triggers) - RSS custom triggers for your Microsoft Power Automate flows
 
 ## Vue
 
@@ -2024,34 +2052,6 @@
 ## Haskell
 
 *   [kbmackenzie/mewlix](https://github.com/kbmackenzie/mewlix) - 🐱 A cat-themed programming language.
-
-## Dart
-
-*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个同时适配📱Android Phone和📺Android TV的视频播放器。整合影视资源，自动刮削媒体信息，支持IPTV播放，优雅打造私人影视库。界面简洁，功能丰富，开箱即用。
-
-*   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
-
-*   [XFSeven7/SkinSwitcher](https://github.com/XFSeven7/SkinSwitcher) - SkinSwitcher 是一个 macOS 桌面应用，用于快速对应和切换不同文件夹中的图片（如皮肤或外观）。该应用允许用户拖拽图片，快速查看和复制不同文件夹中的对应图片。
-
-*   [zetaloop/keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具 Keyviz 的汉化版。Keyviz Chinese l10n fork.
-
-*   [lxpio/omnigram](https://github.com/lxpio/omnigram) - Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading experiences
-
-*   [fregie/pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
-
-*   [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
-
-*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
-
-*   [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
-
-*   [hahastudio/FlutterChat](https://github.com/hahastudio/FlutterChat) - A Flutter project which communicates with OpenAI API
-
-*   [bapaws/answer](https://github.com/bapaws/answer) - 小答是一款基于 ChatGPT API 的开源客户端。Chat Answer is an open source app based on ChatGPT.
-
-*   [suconghou/u2flutter](https://github.com/suconghou/u2flutter) - flutter app of youtube video proxy
-
-*   [iakdis/buhocms](https://github.com/iakdis/buhocms) - A free and open source local CMS for static site generators
 
 ## C++
 
