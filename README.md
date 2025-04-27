@@ -59,6 +59,8 @@
 
 ## Vue
 
+*   [INFO-studio/info-c.cn](https://github.com/INFO-studio/info-c.cn) - 个人主页「浮音华章」
+
 *   [rehiy/website-nav](https://github.com/rehiy/website-nav) - 现代化网址导航源码，数据源支持JSON和GraphQL
 
 *   [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。
@@ -1070,8 +1072,6 @@
 *   [Mereithhh/van-nav](https://github.com/Mereithhh/van-nav) - 一个轻量导航站，汇总你的所有服务。全平台支持，单文件部署，有配套浏览器插件
 
 *   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-
-*   [webbery/civet](https://github.com/webbery/civet) - 一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.
 
 ## JavaScript
 
