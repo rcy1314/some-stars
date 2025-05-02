@@ -1591,7 +1591,7 @@
 
 *   [xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于Java开发的微信数据分析工具。
 
-*   [AaronComo/Escape](https://github.com/AaronComo/Escape) - 一站式中华文化IP项目，以壁画修复、二次创作和在线壁画风图片库为核心，让中华优秀传统文化走进更多人的生活，在艺术世界中探索壁画魅力，开启梦幻之旅。
+*   [AaronComo/Inscape-of-Dreams](https://github.com/AaronComo/Inscape-of-Dreams) - 一站式中华文化IP项目，以壁画修复、二次创作和在线壁画风图片库为核心，让中华优秀传统文化走进更多人的生活，在艺术世界中探索壁画魅力，开启梦幻之旅。
 
 *   [leo6g/Jeverything](https://github.com/leo6g/Jeverything) - JEverything (Java Edition) - Desktop Quick File Search, Cross-Platform Support, Rich Features, Smooth Operation. Ultra-Fast File Search, Supports Advanced Search, LAN Sharing, Fast Transfer, Online File Preview, Audio and Video Playback, Streaming, and More. One-Click Start, Everything Handled.
 
