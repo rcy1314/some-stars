@@ -847,8 +847,6 @@
 
 *   [tbsmcd/notion2hugo](https://github.com/tbsmcd/notion2hugo) - A document written in Notion that is converted to hugo. However, it is currently dedicated to the author's personal use.
 
-*   [HorseSword/tagdox](https://github.com/HorseSword/tagdox) - Tagdox（标签文库）是 python + tkinter + pyinstaller 开发实现的文件标签化管理工具。
-
 ## Vue
 
 *   [supebase/ericdit.com-refactor](https://github.com/supebase/ericdit.com-refactor) - 由 Nuxt 4 和 Directus 构建的个人博客、内容发布平台，支持评论、点赞、收藏、用户在线或离线状态、更新提示、实时订阅等功能。
@@ -1652,6 +1650,8 @@
 ## Rust
 
 *   [iKineticate/LinkEcho](https://github.com/iKineticate/LinkEcho) - 随心批量更换/恢复快捷方式图标，个性化自定义图标设计 ( Batch replace/restore shortcuts icons as you wish,  personalized custom icon design)
+
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into a desktop and mobile app with Rust. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用. https://ppofficial.netlify.app/
 
 *   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 
