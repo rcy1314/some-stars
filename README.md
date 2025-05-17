@@ -2117,7 +2117,7 @@
 
 *   [sbwml/TrollStore\_zh\_Hans](https://github.com/sbwml/TrollStore_zh_Hans) - :trollface: TrollStore 简体/繁体中文 :trollface:
 
-*   [metimol/BlackWave](https://github.com/metimol/BlackWave) - This is a documentation for AI API with Stable Diffusion XL, Playground-v2, Flux, PixArt, Upscale and many other models.
+*   [metimol/BlackWave](https://github.com/metimol/BlackWave) - Free AI service and API with Stable Diffusion XL, Playground-v2, Flux, PixArt, Upscale and many other models.
 
 *   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 
