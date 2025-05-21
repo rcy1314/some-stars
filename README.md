@@ -1799,7 +1799,7 @@
 
 *   [AQinTrue/typora-alist-image-uploader](https://github.com/AQinTrue/typora-alist-image-uploader) - 这是一个简单的工具，用于方便地将Typora编辑器中的图片上传至Alist云存储服务
 
-*   [AmbitiousJun/go-emby2alist](https://github.com/AmbitiousJun/go-emby2alist) - Go 语言编写的网盘直链反向代理服务，深度适配阿里云盘，为 Emby + Alist 组合提供更好的使用体验，配置简单，DockerCompose 一键部署
+*   [AmbitiousJun/go-emby2alist](https://github.com/AmbitiousJun/go-emby2alist) - Go 语言编写的 Emby + Alist 网盘直链反向代理服务，深度适配阿里云盘转码播放，配置简单，DockerCompose 一键部署
 
 *   [Vespa314/cflow](https://github.com/Vespa314/cflow) - cflow：魔改版本memos
 
