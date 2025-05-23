@@ -59,6 +59,8 @@
 
 ## TypeScript
 
+*   [xun082/DocFlow](https://github.com/xun082/DocFlow) - 一个基于 Tiptap 和 Next.js 构建的现代化协同文档编辑器，集成了丰富的编辑能力与多人实时协作功能，支持插件扩展、主题切换与持久化存储。适合团队写作、教育笔记、在线文档平台等场景。
+
 *   [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 驱动的开源知识库搭建系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力，让你快速拥有智能化的 产品文档、FAQ、博客系统。
 
 *   [xuemian168/waterfall](https://github.com/xuemian168/waterfall) - 个人/工作室摄影作品展示平台，融合艺术性与技术性，提供沉浸式的视觉体验和实用的摄影工具。A platform for displaying personal/studio photography works, integrating artistry and technology, providing an immersive visual experience and practical photography tools.
@@ -455,13 +457,11 @@
 
 *   [MannyCooper/anzifan.com](https://github.com/MannyCooper/anzifan.com) - Personal blog powered by Notion official API + Next.JS + WindiCSS!
 
-*   [upleveled/notion-backup](https://github.com/upleveled/notion-backup) - Export Notion pages and subpages to a GitHub repo on a schedule (eg. to be used as a scheduled backup)
-
 ## Python
 
-*   [RandallAnjie/douyin-hot-hub-music](https://github.com/RandallAnjie/douyin-hot-hub-music) - 一个自动抓取抖音热门音乐榜单的工具，支持高潮片段提取和可视化展示，参考SnailDev/douyin-hot-hub
+*   [cr3hf/webVideo](https://github.com/cr3hf/webVideo) - 网页直播录制工具是一款高效的自动化录制应用，专为定期录制网页直播内容而设计。支持多平台直播，具备智能调度、高清录制和自动化浏览器控制等功能，帮助教育工作者、内容创作者和直播分析师轻松捕获直播内容，提升工作效率。
 
-*   [huihuaAI/TeleGeniusPro](https://github.com/huihuaAI/TeleGeniusPro) - TeleGenius Pro 是一款专为 Telegram 设计的智能用户管理工具，支持自动抓取用户信息、基于知识库的智能沟通、用户分类及差异化处理。通过分析用户资料（昵称、电话、国家等），结合预设的产品知识库，主动发起精准对话，并根据聊天内容动态分类用户：优质用户自动转接人工客服，其他用户按规则智能处理，助力高效客户管理与营销转化。
+*   [RandallAnjie/douyin-hot-hub-music](https://github.com/RandallAnjie/douyin-hot-hub-music) - 一个自动抓取抖音热门音乐榜单的工具，支持高潮片段提取和可视化展示，参考SnailDev/douyin-hot-hub
 
 *   [vtestplus/HourlyChimeClock](https://github.com/vtestplus/HourlyChimeClock) - 一个Windows下的极简整点报时软件，使用内置语音，非TTS，以提升报时音色和稳定性
 
