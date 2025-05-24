@@ -1285,7 +1285,7 @@
 
 *   [leleo886/leleo-home-page](https://github.com/leleo886/leleo-home-page) - 一个用Vue.js和Vuetify构建的个人主页，可轻松部署在Vercel上。
 
-*   [kev1nweng/reel-sync](https://github.com/kev1nweng/reel-sync) - ReelSync · 随时随地和另一个人同时观看一个视频 | Watch videos with someone in sync, anytime, anywhere.
+*   [kev1nweng/reel-sync](https://github.com/kev1nweng/reel-sync) - 随时随地和另一个人同时观看一个视频 | Watch videos with someone in sync, anytime, anywhere.
 
 *   [stark81/VutronMusic](https://github.com/stark81/VutronMusic) - 高颜值的第三方网易云播放器；支持流媒体音乐，如navidrome、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome桌面状态栏歌词显示。支持 Windows / macOS / Linux :electron:
 
