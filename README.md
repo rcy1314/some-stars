@@ -59,13 +59,13 @@
 
 ## Python
 
+*   [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - 基于官方接口，高效订阅微信公众号，微信公众号爬取，更新最新文章，并生成RSS书签，支持Web
+
 *   [aki66938/xhs-toolkit](https://github.com/aki66938/xhs-toolkit) - 🌺 小红书MCP工具包 - 支持与AI客户端集成的智能内容创作和发布工具
 
 *   [ZhuoZhuoCrayon/throttled-py](https://github.com/ZhuoZhuoCrayon/throttled-py) - 🔧 High-performance Python rate limiting library with multiple algorithms (Fixed Window, Sliding Window, Token Bucket, Leaky Bucket & GCRA) and storage backends (Redis, In-Memory).
 
 *   [cr3hf/webVideo](https://github.com/cr3hf/webVideo) - 网页直播录制工具是一款高效的自动化录制应用，专为定期录制网页直播内容而设计。支持多平台直播，具备智能调度、高清录制和自动化浏览器控制等功能，帮助教育工作者、内容创作者和直播分析师轻松捕获直播内容，提升工作效率。
-
-*   [RandallAnjie/douyin-hot-hub-music](https://github.com/RandallAnjie/douyin-hot-hub-music) - 一个自动抓取抖音热门音乐榜单的工具，支持高潮片段提取和可视化展示，参考SnailDev/douyin-hot-hub
 
 *   [vtestplus/HourlyChimeClock](https://github.com/vtestplus/HourlyChimeClock) - 一个Windows下的极简整点报时软件，使用内置语音，非TTS，以提升报时音色和稳定性
 
@@ -294,6 +294,8 @@
 *   [hydrotho/BiliBili\_Livestream\_Reminder](https://github.com/hydrotho/BiliBili_Livestream_Reminder) - 一款监控哔哩哔哩直播间并通过 Telegram 机器人发送通知的工具。A tool for monitoring BiliBili livestreams and sending notifications via a Telegram bot.
 
 *   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
+*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
 *   [Batman0506/wx-wchaty-robot](https://github.com/Batman0506/wx-wchaty-robot) - 一个可以转发消息的微信机器人，可以自定义转发的群，也可以二开做关键字校验，node.js服务
 
@@ -552,6 +554,8 @@
 *   [RWoxiN/AsoulNotificationPush](https://github.com/RWoxiN/AsoulNotificationPush) - A-SOUL 动态、直播状态获取，并推送到企业微信中。
 
 ## JavaScript
+
+*   [YangShengzhou03/Jobs\_helper](https://github.com/YangShengzhou03/Jobs_helper) - 海投助手（原名：Boss海投助手）是一款专为求职者打造的浏览器插件，旨在提升在招聘平台上的求职效率。初期聚焦于 Boss直聘 平台，通过自动化简历投递、AI智能回复HR消息等功能，帮助用户节省大量重复性操作时间，显著提高沟通响应率与岗位匹配效率。 插件支持关键词筛选、多岗位批量操作、定时任务等实用功能，满足现代求职者对高效应聘的多样化需求。
 
 *   [hu-qi/starReport](https://github.com/hu-qi/starReport) - starReport 是一个用于自动生成和管理指定 GitHub 仓库 star、commit、issue 等活跃度报告的 Node.js 工具，支持 MCP 协议服务，集成大模型智能分析，并可自动推送到飞书群。
 
@@ -1317,8 +1321,6 @@
 
 *   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 
-*   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-
 *   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
 
 *   [lianginx/chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基于 Nuxt.js 框架的 ChatGPT 类项目，支持 OpenAI 和 Azure 两种 API 切换，支持黑暗模式、中英日多语言切换。
@@ -1628,8 +1630,6 @@
 *   [xmizore/hexo-theme-insnow](https://github.com/xmizore/hexo-theme-insnow) - insnow, a simple hexo theme.
 
 *   [zkeq/news](https://github.com/zkeq/news) - 前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。
-
-*   [Tokinx/Wing](https://github.com/Tokinx/Wing) - Simple, smooth, data-driven, responsive WordPress theme
 
 ## Java
 
