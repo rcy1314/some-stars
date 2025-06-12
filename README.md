@@ -391,8 +391,6 @@
 
 *   [GetMural/Mural](https://github.com/GetMural/Mural) - Mural is a tool for visual storytelling. It’s a program that helps you sequence your visual story, and then generates everything needed for that story to be displayed on most modern web browsers and served from any web server.
 
-*   [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful books, wikis, websites and PKMs from markdown.
-
 *   [maheshj01/pastelog](https://github.com/maheshj01/pastelog) - PasteLog is a simple, fast, and powerful pastebin. It allows you to publish Rich Text logs/Notes, and access them with a unique link.
 
 *   [BeiyanYunyi/HexoSharp](https://github.com/BeiyanYunyi/HexoSharp) - 可独立部署也可托管在 Cloudflare 上的现代化静态博客管理器，功能：文章管理、图片管理、反代图床、访客统计、匿名评论、博主说说
@@ -658,8 +656,6 @@
 *   [bjdbjd/publish-helper](https://github.com/bjdbjd/publish-helper) - 发布辅助器-电影/剧集/短剧
 
 *   [Benson114/Translational-Style-ChatLLM](https://github.com/Benson114/Translational-Style-ChatLLM) - 完全依靠ChatGPT生成数据微调的西式翻译腔聊天风格中文大模型
-
-*   [find-xposed-magisk/shell-gpt](https://github.com/find-xposed-magisk/shell-gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.由 GPT-4 等 AI 大型语言模型提供支持的命令行生产力工具将帮助您更快、更高效地完成任务
 
 *   [wpydcr/LLM-Kit](https://github.com/wpydcr/LLM-Kit) - 🚀WebUI integrated platform for latest LLMs | 各大语言模型的全流程工具 WebUI 整合包。支持主流大模型API接口和开源模型。支持知识库，数据库，角色扮演，mj文生图，LoRA和全参数微调，数据集制作，live2d等全流程应用工具
 
@@ -1383,6 +1379,8 @@
 
 *   [UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend) - GitScratch 社区前端
 
+*   [imsyy/SNav](https://github.com/imsyy/SNav) - 【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
+
 ## C\#
 
 *   [SaboZhang/EasyTidy](https://github.com/SaboZhang/EasyTidy) - EasyTidy A simple file auto-classification tool  makes it easy to create automatic workflows with files. / EasyTidy 一个简单的文件自动分类整理工具  轻松创建文件的自动工作流程
@@ -1632,6 +1630,8 @@
 *   [xmizore/hexo-theme-insnow](https://github.com/xmizore/hexo-theme-insnow) - insnow, a simple hexo theme.
 
 *   [zkeq/news](https://github.com/zkeq/news) - 前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。
+
+*   [Tokinx/Wing](https://github.com/Tokinx/Wing) - Simple, smooth, data-driven, responsive WordPress theme
 
 ## Java
 
@@ -1929,7 +1929,7 @@
 
 *   [hoytzhang/typecho-theme-final](https://github.com/hoytzhang/typecho-theme-final) - 或许是你的最终选择，接下来请专心写作吧。Your final choice. Please focus on writing next.
 
-*   [ShuShuicu/TTDF](https://github.com/ShuShuicu/TTDF) - 🚀Typecho主题模板开发框架；提供了一些常用的功能以及调用方法，支持REST API。
+*   [ShuShuicu/TTDF](https://github.com/ShuShuicu/TTDF) - The Intuitive Typecho Framework.
 
 *   [guomengtao/message-board](https://github.com/guomengtao/message-board) - 一个支持多主题的PHP留言板
 
@@ -1946,8 +1946,6 @@
 *   [SiGool/Gzh2typecho](https://github.com/SiGool/Gzh2typecho) - 微信公众号对话发布typecho文章
 
 *   [liaocp666/Jasmine](https://github.com/liaocp666/Jasmine) - Jasmine，一款精致的Typecho博客主题
-
-*   [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next) - 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
 
 *   [kilingzhang/NeteaseCloudMusicApi](https://github.com/kilingzhang/NeteaseCloudMusicApi) - 网易云音乐API  PHP
 
@@ -2174,6 +2172,8 @@
 *   [shanghaobo/NeteaseCloudMusicDayActions](https://github.com/shanghaobo/NeteaseCloudMusicDayActions) - 网易云音乐日推自动创建新歌单，使用github的actions，定时自动同步，无需服务器。
 
 *   [athivvat/awesome-devtools](https://github.com/athivvat/awesome-devtools) - 😎 Awesome lists about developer tools.
+
+*   [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful books, wikis, websites and PKMs from markdown.
 
 *   [neuralshare/neuralshare](https://github.com/neuralshare/neuralshare) - NeuralShare aims to make any AI model accessible for free from any device, regardless of its hardware resources
 
