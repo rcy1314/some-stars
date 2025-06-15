@@ -2109,7 +2109,7 @@
 
 *   [mcsrainbow/chinese-internet-jargon](https://github.com/mcsrainbow/chinese-internet-jargon) - Chinese Internet Jargon 互联网黑话词汇及解释翻译
 
-*   [datawhalechina/awesome-compression](https://github.com/datawhalechina/awesome-compression) - 模型压缩的小白入门教程
+*   [datawhalechina/awesome-compression](https://github.com/datawhalechina/awesome-compression) - 模型压缩的小白入门教程，PDF下载地址 https://github.com/datawhalechina/awesome-compression/releases
 
 *   [pen9un/aiast-sys](https://github.com/pen9un/aiast-sys) - AIAST智能客服系统，AI知识库系统，问答知识库，企业GPT知识库私有化，企业话术管理，API接口调用🔮🤖🚀
 
