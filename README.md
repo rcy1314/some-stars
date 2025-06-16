@@ -1453,7 +1453,7 @@
 
 *   [rcy1314/noisedh-nav](https://github.com/rcy1314/noisedh-nav) - 带有组件的hugo导航，通过简单配置即可收藏展示收藏的网站
 
-*   [hanshou101/KiSS\_wx\_chat\_auto\_summary](https://github.com/hanshou101/KiSS_wx_chat_auto_summary) - 🚀 Python聊天群日志魔法师：让繁杂群聊变成精华笔记！自动提取、智能总结，多种输出格式随心选，告别信息焦虑，轻松捕捉每一个闪光时刻！💫
+*   [VirtualityUniverse/KiSS\_wx\_chat\_auto\_summary](https://github.com/VirtualityUniverse/KiSS_wx_chat_auto_summary) - 🚀 Python聊天群日志魔法师：让繁杂群聊变成精华笔记！自动提取、智能总结，多种输出格式随心选，告别信息焦虑，轻松捕捉每一个闪光时刻！💫
 
 *   [Azad-sl/FreeAI](https://github.com/Azad-sl/FreeAI) - FreeAI - 基于 Pollinations.AI 的AI应用平台，实现免费且无限制的AI聊天助手、图像生成和语音合成服务。
 
