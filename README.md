@@ -657,6 +657,8 @@
 
 *   [Benson114/Translational-Style-ChatLLM](https://github.com/Benson114/Translational-Style-ChatLLM) - 完全依靠ChatGPT生成数据微调的西式翻译腔聊天风格中文大模型
 
+*   [find-xposed-magisk/shell-gpt](https://github.com/find-xposed-magisk/shell-gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.由 GPT-4 等 AI 大型语言模型提供支持的命令行生产力工具将帮助您更快、更高效地完成任务
+
 *   [wpydcr/LLM-Kit](https://github.com/wpydcr/LLM-Kit) - 🚀WebUI integrated platform for latest LLMs | 各大语言模型的全流程工具 WebUI 整合包。支持主流大模型API接口和开源模型。支持知识库，数据库，角色扮演，mj文生图，LoRA和全参数微调，数据集制作，live2d等全流程应用工具
 
 *   [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式
@@ -1379,8 +1381,6 @@
 
 *   [UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend) - GitScratch 社区前端
 
-*   [imsyy/SNav](https://github.com/imsyy/SNav) - 【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
-
 ## C\#
 
 *   [SaboZhang/EasyTidy](https://github.com/SaboZhang/EasyTidy) - EasyTidy A simple file auto-classification tool  makes it easy to create automatic workflows with files. / EasyTidy 一个简单的文件自动分类整理工具  轻松创建文件的自动工作流程
@@ -1391,7 +1391,7 @@
 
 *   [BytexGrid/NeatShift](https://github.com/BytexGrid/NeatShift) - A modern Windows file organization tool with symbolic link support
 
-*   [Widdit/now-playing-service](https://github.com/Widdit/now-playing-service) - 直播歌曲歌名显示组件。检测国内音乐软件正在播放的歌曲信息以及进度条信息，提供查询 API 接口。适用于 OBS、直播姬等各类直播软件。
+*   [Widdit/now-playing-service](https://github.com/Widdit/now-playing-service) - 直播歌曲歌名显示组件。检测各类音乐软件正在播放的歌曲信息以及进度条信息，提供查询 API 接口。适用于 OBS、直播姬等各类直播软件。
 
 *   [MrDoe/ClippyAI](https://github.com/MrDoe/ClippyAI) - ClippyAI is a multi-platform GUI application, which serves as an interface for Ollama.
 
@@ -1444,8 +1444,6 @@
 *   [Cnicehs/SharpBot](https://github.com/Cnicehs/SharpBot) - 一个基于百度网盘开放接口的转存机器人
 
 *   [jim60105/YoutubeLiveChatToDiscord](https://github.com/jim60105/YoutubeLiveChatToDiscord) - Stream Youtube Chat to Discord Webhook (.NET 8 Worker Service)
-
-*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A lightweight GUI wrapper for yt-dlp and FFmpeg that allows you to quickly download videos, music, playlists, and more, from a wide variety of websites.
 
 *   [iccfish/ShimoExporter](https://github.com/iccfish/ShimoExporter) - 一键将个人石墨文档里的所有文档全部导出到本地
 
@@ -1573,7 +1571,7 @@
 
 *   [zero-rp/ops](https://github.com/zero-rp/ops) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
-*   [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) - \[按键映射工具] QKeyMapper，Qt开发Win10\&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止，新增虚拟游戏手柄功能，可鼠标控制虚拟手柄摇杆。
+*   [Zalafina/QKeyMapper](https://github.com/Zalafina/QKeyMapper) - \[按键映射工具] QKeyMapper，Qt开发Win10\&Win11可用，不修改注册表、不需重新启动系统，可立即生效和停止。支持游戏手柄映射到键鼠，手柄摇杆控制鼠标移动，键鼠映射到虚拟游戏手柄，鼠标控制虚拟手柄移动摇杆等功能。
 
 *   [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
 
@@ -1630,8 +1628,6 @@
 *   [xmizore/hexo-theme-insnow](https://github.com/xmizore/hexo-theme-insnow) - insnow, a simple hexo theme.
 
 *   [zkeq/news](https://github.com/zkeq/news) - 前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。
-
-*   [Tokinx/Wing](https://github.com/Tokinx/Wing) - Simple, smooth, data-driven, responsive WordPress theme
 
 ## Java
 
@@ -1746,6 +1742,8 @@
 *   [mbround18/redirect](https://github.com/mbround18/redirect) - Simple redirection tool! Ready to use, docker capable, Kubernetes friendly, any Linux based env ready!
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+
+*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A super lightweight and cross-platform GUI wrapper for yt-dlp.
 
 *   [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。
 
@@ -1946,6 +1944,8 @@
 *   [SiGool/Gzh2typecho](https://github.com/SiGool/Gzh2typecho) - 微信公众号对话发布typecho文章
 
 *   [liaocp666/Jasmine](https://github.com/liaocp666/Jasmine) - Jasmine，一款精致的Typecho博客主题
+
+*   [find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next) - 潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!
 
 *   [kilingzhang/NeteaseCloudMusicApi](https://github.com/kilingzhang/NeteaseCloudMusicApi) - 网易云音乐API  PHP
 
