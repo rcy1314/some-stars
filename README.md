@@ -461,7 +461,7 @@
 
 ## Python
 
-*   [riceshowerX/SnapForge](https://github.com/riceshowerX/SnapForge) - SnapForge 是一款面向高效批量处理的图像工具，专注于简化图片管理流程。它支持多格式批量转换、智能重命名和图片压缩，帮助你轻松处理大量图片文件，无论是格式转换、文件命名还是体积优化，都能一站式完成。SnapForge 让图片整理更简单、更快捷，是摄影师、设计师及日常办公的理想助手。
+*   [riceshowerX/SnapForge](https://github.com/riceshowerX/SnapForge) - 一个强大、美观的开源图片处理平台，专为高效批量处理而生。支持格式转换、智能重命名、AI去背景、交互式去重等。基于 Python & Streamlit 构建。
 
 *   [YinChingZ/VideoTranslator](https://github.com/YinChingZ/VideoTranslator) - 智能视频翻译系统 - 基于 PyQt5 和 OpenAI Whisper 的桌面应用程序
 
@@ -1539,7 +1539,7 @@
 
 *   [weekend-project-space/moon-note](https://github.com/weekend-project-space/moon-note) - bullet journal, 子弹笔记
 
-*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 在线即食的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
+*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
 
 *   [lxchinesszz/dev-springlearn2](https://github.com/lxchinesszz/dev-springlearn2) - 极客导航2.0
 
