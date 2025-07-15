@@ -1355,7 +1355,7 @@
 
 *   [hoytzhang/typecho-theme-final](https://github.com/hoytzhang/typecho-theme-final) - 或许是你的最终选择，接下来请专心写作吧。Your final choice. Please focus on writing next.
 
-*   [ShuShuicu/TTDF](https://github.com/ShuShuicu/TTDF) - 最直观的Typecho主题开发框架; The Intuitive Typecho Theme Develop Framework.
+*   [YuiNijika/TTDF](https://github.com/YuiNijika/TTDF) - 最直观的Typecho主题开发框架; The Intuitive Typecho Theme Develop Framework.
 
 *   [guomengtao/message-board](https://github.com/guomengtao/message-board) - 一个支持多主题的PHP留言板
 
