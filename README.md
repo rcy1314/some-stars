@@ -1687,7 +1687,7 @@
 
 ## Java
 
-*   [wangxinpostar/datalinkx-pro](https://github.com/wangxinpostar/datalinkx-pro) - 在原DatalinkX项目基础上进行了扩展，Flink+大模型（DeepSeek）智能数据中台;
+*   [wangxinpo777/DataLinkX-P](https://github.com/wangxinpo777/DataLinkX-P) - 在原DatalinkX项目基础上进行了扩展，Flink+大模型（DeepSeek）智能数据中台;
 
 *   [alex-oos/ai-wechat-bot](https://github.com/alex-oos/ai-wechat-bot) - 将所有AI 产品接入你的微信，打造你个人AI 助理，帮助你解决更多生活日常。
 
