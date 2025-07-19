@@ -59,6 +59,10 @@
 
 ## TypeScript
 
+*   [Zwanan-github/blog](https://github.com/Zwanan-github/blog) - 一个基于 Next.js 的个人博客项目，不需要数据库，可以部署Vercel或者个人服务器
+
+*   [ultrazg/horizon](https://github.com/ultrazg/horizon) - 使用 wails + react 构建的第三方小宇宙桌面客户端，支持 Windows 和 MacOS
+
 *   [Qingyon-AI/Revornix](https://github.com/Qingyon-AI/Revornix) - Built-in MCP client–powered document/news management tool with daily auto summaries, document interaction, user-defined notifications (email, phone, etc.), and customizable model support.内置 MCP 客户端的文档/资讯管理工具，支持每日自动总结、文档交互、自定义通知（邮箱、电话等）以及模型自定义。
 
 *   [blurmood/SyncToNotion](https://github.com/blurmood/SyncToNotion) - 企微同步Notion - 支持抖音/小红书链接解析和Live图处理的Cloudflare Workers项目
@@ -1141,8 +1145,6 @@
 
 *   [s-a/sonic-sound-picture](https://github.com/s-a/sonic-sound-picture) - Sonic Sound Picture (SSP) is a free, offline, and customizable music/audio visualizer software. With a range of templates to choose from, users can easily create stunning audio-visual experiences in just a few simple steps. SSP also allows users to create their own templates, giving them endless possibilities to bring their music to life.
 
-*   [mydearcc/tools](https://github.com/mydearcc/tools) - fly63在线工具箱，一款极简、免费、高效、好用的在线工具集合网站。包含：开发文档、格式转换、加密/解密、站长工具、代码生成、Css样式、JSON格式化、二维码、图片处理、生活娱乐、文字处理等工具，适合于程序员、站长、设计师、网络营销、自媒体等IT行业人员。
-
 *   [myan0020/webrtc-group-chat-demo](https://github.com/myan0020/webrtc-group-chat-demo) - A web application to realize P2P features including video calling, screen sharing, text messaging and file transceiving with low lantency
 
 *   [amitmerchant1990/linksnatch](https://github.com/amitmerchant1990/linksnatch) - Dead simple bookmarks
@@ -1306,6 +1308,8 @@
 *   [aoaostar/legado](https://github.com/aoaostar/legado) - 阅读APP书源
 
 *   [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional software installation. The engine uses standard HTML document elements such as div and img. This allows the use of any media format supported by browsers including vector graphics svg, gif animations and css styles.
+
+*   [mydearcc/tools](https://github.com/mydearcc/tools) - fly63在线工具箱，一款极简、免费、高效、好用的在线工具集合网站。包含：开发文档、格式转换、加密/解密、站长工具、代码生成、Css样式、JSON格式化、二维码、图片处理、生活娱乐、文字处理等工具，适合于程序员、站长、设计师、网络营销、自媒体等IT行业人员。
 
 *   [LeBronWilly/IG\_Photo\_Downloader\_Python](https://github.com/LeBronWilly/IG_Photo_Downloader_Python) - IG Photo Downloader
 
@@ -2043,8 +2047,6 @@
 
 *   [emperinter/auto-generate-navigation](https://github.com/emperinter/auto-generate-navigation) - A plugin which  can generate a navigation  catalogue on your WordPress post!
 
-*   [xmizore/hexo-theme-insnow](https://github.com/xmizore/hexo-theme-insnow) - insnow, a simple hexo theme.
-
 ## Haskell
 
 *   [kbmackenzie/mewlix](https://github.com/kbmackenzie/mewlix) - 🐱 A cat-themed programming language.
@@ -2292,8 +2294,6 @@
 ## Less
 
 *   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × ENHANCEMENT PLUGIN for Typora/Markdown.
-
-*   [MaLuns/hexo-theme-text](https://github.com/MaLuns/hexo-theme-text) - 一款简约、轻量的Hexo主题
 
 ## Perl
 
