@@ -277,7 +277,7 @@
 
 *   [TravisRoad/anime-rss](https://github.com/TravisRoad/anime-rss) -
 
-*   [maxchang3/Bilibili-Web-Show-IP-Location](https://github.com/maxchang3/Bilibili-Web-Show-IP-Location) - Show IP location on Bilibili web. 在哔哩哔哩网页版显示 IP 属地。
+*   [maxchang3/BiliReveal](https://github.com/maxchang3/BiliReveal) - Reveal IP location on Bilibili web. 在哔哩哔哩网页版显示 IP 属地。
 
 *   [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 
@@ -1361,7 +1361,7 @@
 
 *   [hoytzhang/typecho-theme-final](https://github.com/hoytzhang/typecho-theme-final) - 或许是你的最终选择，接下来请专心写作吧。Your final choice. Please focus on writing next.
 
-*   [YuiNijika/TTDF](https://github.com/YuiNijika/TTDF) - 最直观的Typecho主题开发框架; The Intuitive Typecho Theme Develop Framework.
+*   [YuiNijika/TTDF](https://github.com/YuiNijika/TTDF) - The Intuitive Theme Develop Framework for Typecho.
 
 *   [guomengtao/message-board](https://github.com/guomengtao/message-board) - 一个支持多主题的PHP留言板
 
@@ -1561,7 +1561,7 @@
 
 *   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 
-*   [NangInShell/VSET](https://github.com/NangInShell/VSET) - 基于Vapoursynth的图形化视频批量压制处理工具，超分辨率，vs滤镜一应俱全。
+*   [TensoRaws/VSET](https://github.com/TensoRaws/VSET) - 基于Vapoursynth的图形化视频批量压制处理工具，超分辨率，vs滤镜一应俱全。
 
 *   [a7650/h5-editor](https://github.com/a7650/h5-editor) - 📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能
 
