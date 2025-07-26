@@ -1617,8 +1617,6 @@
 
 *   [jenius-apps/ambie](https://github.com/jenius-apps/ambie) - An app that uses white noise, nature sounds, and focus features to boost your productivity.
 
-*   [torum/XMLClients](https://github.com/torum/XMLClients) - Source code only repository for FeedDesk (feed reader) and BlogDesk (blogging client).
-
 *   [MeirinRuan/MyPSD2UI](https://github.com/MeirinRuan/MyPSD2UI) - 解析psd文件，生成ui配置
 
 *   [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) - 仅供学习交流使用 | 第三方网易云音乐播放器 | A Netease Cloud Music Player
@@ -1950,6 +1948,8 @@
 *   [os7blue/dobby](https://github.com/os7blue/dobby) - 简配版server酱，支持：websocket、钉钉webhook机器人、飞书webhook机器人、企业微信webhook机器人、email，以及公众号消息推送服务。
 
 *   [devote-team/aixinge](https://github.com/devote-team/aixinge) - The backend code of AiXinGe
+
+*   [Sunbalcony/note](https://github.com/Sunbalcony/note) - note是一款优美，轻便的文档共享工具，支持一键分享，多人协作在线编辑，好用到上天，网页打代码不是梦！
 
 ## Swift
 
