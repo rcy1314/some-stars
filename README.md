@@ -58,6 +58,8 @@
 
 ## Python
 
+*   [rcy1314/Memory](https://github.com/rcy1314/Memory) - Memory-不负时光摄影相册，一个全屏瀑布流摄影图库程序
+
 *   [HughesCuit/heventure-search-mcp](https://github.com/HughesCuit/heventure-search-mcp) - 一个无需API key的网页搜索MCP（Model Context Protocol）服务器，使用DuckDuckGo搜索引擎提供网页搜索功能
 
 *   [Agions/dramacraft](https://github.com/Agions/dramacraft) - DramaCraft 是一个专业的短剧视频编辑 MCP (Model Context Protocol) 服务，集成国产中文大模型 API，实现剪映的智能自动化编辑功能。项目已完成从视频分析到草稿生成的完整解决方案
@@ -2235,8 +2237,6 @@
 *   [xianyukang/MyKeymap](https://github.com/xianyukang/MyKeymap) - 一款基于 AutoHotkey 的键盘映射工具
 
 *   [no5ix/sux](https://github.com/no5ix/sux) - An alternative to Alfred+Wox+Listary+OneQuick+CapslockPlus.一个只有2M大小的强大效率工具
-
-*   [shizengsong/taskSwitcher](https://github.com/shizengsong/taskSwitcher) - 改进windows任务窗口操作，鼠标移动到屏幕右下角，即可启动选择任务。详见文件
 
 ## MDX
 
