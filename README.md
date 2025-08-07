@@ -194,8 +194,6 @@
 
 *   [HughesCuit/heventure-search-mcp](https://github.com/HughesCuit/heventure-search-mcp) - 一个无需API key的网页搜索MCP（Model Context Protocol）服务器，使用DuckDuckGo搜索引擎提供网页搜索功能
 
-*   [Agions/dramacraft](https://github.com/Agions/dramacraft) - DramaCraft 是一个专业的短剧视频编辑 MCP (Model Context Protocol) 服务，集成国产中文大模型 API，实现剪映的智能自动化编辑功能。项目已完成从视频分析到草稿生成的完整解决方案
-
 *   [riceshowerX/SnapForge](https://github.com/riceshowerX/SnapForge) - 一个强大、美观的开源图片处理平台，专为高效批量处理而生。支持格式转换、智能重命名、AI去背景、交互式去重等。基于 Python & Streamlit 构建。
 
 *   [YinChingZ/VideoTranslator](https://github.com/YinChingZ/VideoTranslator) - 智能视频翻译系统 - 基于 PyQt5 和 OpenAI Whisper 的桌面应用程序
@@ -272,7 +270,7 @@
 
 *   [RipperTs/shortDramaWeChatGroupRobot](https://github.com/RipperTs/shortDramaWeChatGroupRobot) - 一个基于微信群的短剧机器人, 用于搜索指定抖音话题的热度数据, 并通知到微信群中。
 
-*   [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source container orchestrator that simplifies workload orchestration and drives GPU utilization for ML teams. It works with any GPU cloud, on-prem cluster, or accelerated hardware.
+*   [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source control plane for running development, training, and inference jobs on GPUs—across hyperscalers, neoclouds, or on-prem. Designed to avoid vendor lock-in and reduce GPU costs.
 
 *   [sheldon123z/Zotero-Notion-Paper-Flow](https://github.com/sheldon123z/Zotero-Notion-Paper-Flow) - 通过扫描huggingface和arxiv直接添加最新文献到Notion、Wolai、以及论文阅读神器Zotero！同时，可以通过大模型api直接越过Notion AI，使用大模型总结文献主要内容传递到Notion页面的关键字中，建议使用deepseek，按需使用，妈妈再也不用担心涨价的Notion AI了！
 
@@ -2237,6 +2235,8 @@
 *   [xianyukang/MyKeymap](https://github.com/xianyukang/MyKeymap) - 一款基于 AutoHotkey 的键盘映射工具
 
 *   [no5ix/sux](https://github.com/no5ix/sux) - An alternative to Alfred+Wox+Listary+OneQuick+CapslockPlus.一个只有2M大小的强大效率工具
+
+*   [shizengsong/taskSwitcher](https://github.com/shizengsong/taskSwitcher) - 改进windows任务窗口操作，鼠标移动到屏幕右下角，即可启动选择任务。详见文件
 
 ## MDX
 
