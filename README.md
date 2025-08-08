@@ -1404,7 +1404,7 @@
 
 *   [VirtualityUniverse/KiSS\_wx\_chat\_auto\_summary](https://github.com/VirtualityUniverse/KiSS_wx_chat_auto_summary) - 🚀 Python聊天群日志魔法师：让繁杂群聊变成精华笔记！自动提取、智能总结，多种输出格式随心选，告别信息焦虑，轻松捕捉每一个闪光时刻！💫
 
-*   [Azad-sl/FreeAI](https://github.com/Azad-sl/FreeAI) - FreeAI - 基于 Pollinations.AI 的AI应用平台，实现免费且无限制的AI聊天助手、图像生成和语音合成服务。
+*   [Azad-sl/FreeAI](https://github.com/Azad-sl/FreeAI) - FreeAI - 基于 Pollinations.AI 的AI应用平台，实现免费且无限制的AI聊天助手、图像生成和语音合成服务。A powerful AI platform powered by Pollinations.AI, offering free, no-registration, unlimited AI chat, image generation, and TTS services.
 
 *   [DingHui-Li/mychat](https://github.com/DingHui-Li/mychat) - 使用Electron(vue3+ts)和python开发的具有现代化UI和友好交互的微信聊天数据智能管理分析工具
 
