@@ -658,8 +658,6 @@
 
 *   [whatis-geb/operation](https://github.com/whatis-geb/operation) - 和运营相关的内容
 
-*   [nxNull/DownEdit](https://github.com/nxNull/DownEdit) - Download, Edit, and Generate Videos, Images and Sounds, in bulk using Chat & AI
-
 *   [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 
 *   [bupticybee/ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) - 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。
@@ -1395,6 +1393,8 @@
 *   [neil-pan-s/text-video](https://github.com/neil-pan-s/text-video) - 文字视频 - 抖音热门文字旋转效果 自动分割文本 随机文字大小、颜色、旋转方向
 
 *   [lylelove/blread](https://github.com/lylelove/blread) - 🍵以哔哩哔哩专栏为后端进行Github Action自动部署的Hexo博客
+
+*   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 
 ## HTML
 
