@@ -1896,8 +1896,6 @@
 
 *   [Privilege-privacy/BiliBackup](https://github.com/Privilege-privacy/BiliBackup) - 自动将 BiliBili (B站) 收藏夹内的视频备份到 OneDrive 或其他云存储
 
-*   [SH-Wang123/QNQ](https://github.com/SH-Wang123/QNQ) - 重做中...
-
 *   [szpnygo/VecTextSearch](https://github.com/szpnygo/VecTextSearch) - 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
 
 *   [csznet/goFile](https://github.com/csznet/goFile) - easy file manager
@@ -1949,6 +1947,8 @@
 *   [os7blue/dobby](https://github.com/os7blue/dobby) - 简配版server酱，支持：websocket、钉钉webhook机器人、飞书webhook机器人、企业微信webhook机器人、email，以及公众号消息推送服务。
 
 *   [devote-team/aixinge](https://github.com/devote-team/aixinge) - The backend code of AiXinGe
+
+*   [Sunbalcony/note](https://github.com/Sunbalcony/note) - note是一款优美，轻便的文档共享工具，支持一键分享，多人协作在线编辑，好用到上天，网页打代码不是梦！
 
 ## Swift
 
