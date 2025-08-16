@@ -796,6 +796,8 @@
 
 *   [zkd8907/secretary](https://github.com/zkd8907/secretary) - Secretary is an AI-powered tool that analyzes social media content from specified accounts and delivers results via WeChat. It supports customized analysis for topics like finance, politics, and technology.
 
+*   [wyeeeee/hajimi](https://github.com/wyeeeee/hajimi) - 这是一个基于 FastAPI 构建的 Gemini API 代理
+
 *   [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！
 
 *   [zc-maker/EdgePersona](https://github.com/zc-maker/EdgePersona) - EdgePersona是全本地化智能数字人，算力要求低，轻量高效，完全离线，笔记本也可以跑
@@ -1285,8 +1287,6 @@
 *   [INFO-studio/info-c.cn](https://github.com/INFO-studio/info-c.cn) - 个人主页「浮音华章」
 
 *   [rehiy/website-nav](https://github.com/rehiy/website-nav) - 现代化网址导航源码，数据源支持JSON和GraphQL
-
-*   [wyeeeee/hajimi](https://github.com/wyeeeee/hajimi) - 这是一个基于 FastAPI 构建的 Gemini API 代理
 
 *   [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
 
