@@ -426,6 +426,8 @@
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
+*   [TensoRaws/VSET](https://github.com/TensoRaws/VSET) - VSET
+
 *   [xushengfeng/xlinkote](https://github.com/xushengfeng/xlinkote) - 无限画布 白板笔记 知识管理
 
 *   [screendriver/ifttt-action](https://github.com/screendriver/ifttt-action) - ⚡️ GitHub action that triggers an IFTTT webhooks event
@@ -1124,7 +1126,7 @@
 
 *   [long2ice/databack](https://github.com/long2ice/databack) - Backup your data from MySQL/PostgreSQL/SSH etc. to any other storages
 
-*   [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Open-Source Evaluation & Testing for AI & LLM systems
+*   [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Open-Source Evaluation & Testing library for LLM Agents
 
 *   [mattwheeler/gpt-webex-bot](https://github.com/mattwheeler/gpt-webex-bot) - Webex Wiz is a GPT AI-powered virtual assistant bot for Webex Teams rooms. It provides quick and relevant responses to user prompts, helping users to get information and insights directly in their Webex Teams rooms.
 
@@ -2183,8 +2185,6 @@
 *   [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
 *   [zhufenghua1998/bp3](https://github.com/zhufenghua1998/bp3) - bp3是一款使用php开发的百度网盘接口程序，百度网盘目录搜索引擎，文件展示搜索目录树，在线目录搜索索引，百度网盘文件下载（含直链）等。
-
-*   [TensoRaws/VSET](https://github.com/TensoRaws/VSET) - VSET
 
 *   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
 
