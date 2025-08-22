@@ -772,6 +772,8 @@
 
 *   [lylelove/blread](https://github.com/lylelove/blread) - 🍵以哔哩哔哩专栏为后端进行Github Action自动部署的Hexo博客
 
+*   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
+
 ## Python
 
 *   [rcy1314/Memory](https://github.com/rcy1314/Memory) - Memory-不负时光摄影相册，一个全屏瀑布流摄影图库程序
@@ -782,7 +784,7 @@
 
 *   [YinChingZ/VideoTranslator](https://github.com/YinChingZ/VideoTranslator) - 智能视频翻译系统 - 基于 PyQt5 和 OpenAI Whisper 的桌面应用程序
 
-*   [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - 订阅微信公众号  定时更新订阅公众号文章，并生成微信公众号RSS订阅源，支持Webhook/API/AI Agent接入微信公众号
+*   [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨微信公众号、订阅微信公众号、微信公众号助手 、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持Webhook/API/AI Agent接入微信公众号
 
 *   [aki66938/xhs-toolkit](https://github.com/aki66938/xhs-toolkit) - 📕 小红书创作者MCP工具包 - 支持与AI客户端集成的内容创作和发布工具
 
@@ -891,8 +893,6 @@
 *   [heshengtao/comfyui\_LLM\_party](https://github.com/heshengtao/comfyui_LLM_party) - LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi,doubao. Adapted to local llms, vlm, gguf such as llama-3.3 Janus-Pro, Linkage graphRAG
 
 *   [sekai-soft/galerie](https://github.com/sekai-soft/galerie) -
-
-*   [Moango/ai-resume-generator](https://github.com/Moango/ai-resume-generator) - AI驱动的简历生成器 - 根据用户的技术栈和目标公司的招聘要求,自动生成定制简历。
 
 *   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
