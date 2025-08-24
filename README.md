@@ -786,7 +786,7 @@
 
 *   [YinChingZ/VideoTranslator](https://github.com/YinChingZ/VideoTranslator) - 智能视频翻译系统 - 基于 PyQt5 和 OpenAI Whisper 的桌面应用程序
 
-*   [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读惯的微信公众号助手、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
+*   [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
 
 *   [aki66938/xhs-toolkit](https://github.com/aki66938/xhs-toolkit) - 📕 小红书创作者MCP工具包 - 支持与AI客户端集成的内容创作和发布工具
 
@@ -1128,7 +1128,7 @@
 
 *   [long2ice/databack](https://github.com/long2ice/databack) - Backup your data from MySQL/PostgreSQL/SSH etc. to any other storages
 
-*   [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) - 🐢 Open-Source Evaluation & Testing library for LLM Agents
+*   [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss) - 🐢 Open-Source Evaluation & Testing library for LLM Agents
 
 *   [mattwheeler/gpt-webex-bot](https://github.com/mattwheeler/gpt-webex-bot) - Webex Wiz is a GPT AI-powered virtual assistant bot for Webex Teams rooms. It provides quick and relevant responses to user prompts, helping users to get information and insights directly in their Webex Teams rooms.
 
