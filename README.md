@@ -98,8 +98,6 @@
 
 *   [123xiao/sex-agreement-app](https://github.com/123xiao/sex-agreement-app) - X行为同意协议系统
 
-*   [Done-0/Jank-website](https://github.com/Done-0/Jank-website) - Jank，一个轻量级的博客系统，基于 Go 语言和 Echo 框架开发，强调极简、低耦合和高扩展。
-
 *   [StructuredLabs/supawald](https://github.com/StructuredLabs/supawald) - Supawald is a headless CMS for Supabase Storage. An out-of-the-box interface for managing files, images, and content in your Supabase Storage buckets with real-time updates and static site generation support. Manage files, set permissions, and connect directly to your Supabase project.
 
 *   [wind-liang/link-to-image](https://github.com/wind-liang/link-to-image) - 链接转二维码，适合微信公众号文章等
@@ -1999,6 +1997,8 @@
 *   [os7blue/dobby](https://github.com/os7blue/dobby) - 简配版server酱，支持：websocket、钉钉webhook机器人、飞书webhook机器人、企业微信webhook机器人、email，以及公众号消息推送服务。
 
 *   [devote-team/aixinge](https://github.com/devote-team/aixinge) - The backend code of AiXinGe
+
+*   [Sunbalcony/note](https://github.com/Sunbalcony/note) - note是一款优美，轻便的文档共享工具，支持一键分享，多人协作在线编辑，好用到上天，网页打代码不是梦！
 
 ## GDScript
 
