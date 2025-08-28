@@ -216,7 +216,7 @@
 
 *   [niuniuland/video-storyboard](https://github.com/niuniuland/video-storyboard) - 生成自动滚动的视频分镜头拆解表格
 
-*   [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，轻松实现专业图形编辑。Easy-to-Use Canvas Engine. Effortless Professional Graphic Editing.
+*   [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎。Easy-to-Use Canvas Engine.
 
 *   [appdev/siyuan-unlock](https://github.com/appdev/siyuan-unlock) - 思源笔记免登录版本；可以不登录使用同步功能
 
