@@ -926,7 +926,7 @@
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
-*   [TensoRaws/VSET](https://github.com/TensoRaws/VSET) - VSET
+*   [EutropicAI/VSET](https://github.com/EutropicAI/VSET) - VSET
 
 *   [xushengfeng/xlinkote](https://github.com/xushengfeng/xlinkote) - 无限画布 白板笔记 知识管理
 
