@@ -1240,8 +1240,6 @@
 
 *   [lucaschungzsj/fcgame](https://github.com/lucaschungzsj/fcgame) - FC/NES模拟器，在线畅玩八十款任天堂红白机游戏，小霸王游戏机其乐无穷。支持魂斗罗/超级玛丽/双截龙等等几十款任天堂红白机游戏。 非常适合在手机/电脑上在线游玩，近乎完美的还原任天堂FC/NES原版ROM游戏的视频和声音。
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
 *   [jamesmortensen/archiver-for-google-keep](https://github.com/jamesmortensen/archiver-for-google-keep) - Scrapes notes and checklists from Google Keep™ and writes them out as JSON and markdown archive/backup files. This tool is not affiliated or endorsed by Google™. Google Keep™ is a trademark of Google.
 
 *   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
@@ -1811,6 +1809,8 @@
 *   [morphy2k/rss-forwarder](https://github.com/morphy2k/rss-forwarder) - Checks RSS feeds for new entries and forwards them
 
 *   [mbround18/redirect](https://github.com/mbround18/redirect) - Simple redirection tool! Ready to use, docker capable, Kubernetes friendly, any Linux based env ready!
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
 
 *   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A lightweight 🍃 cross-platform GUI wrapper for yt-dlp.
 
