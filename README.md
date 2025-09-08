@@ -37,7 +37,6 @@
 *   [CMake](#cmake)
 *   [Astro](#astro)
 *   [AutoHotkey](#autohotkey)
-*   [MDX](#mdx)
 *   [PowerShell](#powershell)
 *   [Svelte](#svelte)
 *   [Pug](#pug)
@@ -57,6 +56,8 @@
 *   [Metal](#metal)
 
 ## Python
+
+*   [Acclerate/video-transcriber](https://github.com/Acclerate/video-transcriber) - 一个强大的短视频转文本工具，支持抖音、B站等主流平台的视频链接转录。  Python License Whisper  ✨ 特性 🎯 多平台支持: 支持抖音、B站等主流短视频平台 🤖 高精度转录: 基于OpenAI Whisper，准确率95%+ 🔒 隐私保护: 本地处理，数据不外泄 🌐 多种接口: 命令行、Web API、WebSocket ⚡ 批量处理: 支持多个视频同时转录 🎵 智能音频: 自动提取和优化音频质量 📝 多种格式: 支持JSON、TXT、SRT、VTT输出
 
 *   [msjsc001/QuickKV](https://github.com/msjsc001/QuickKV) - QuickKV是一款只专注于中文自动补全文本拓展的开源、轻量级、高效、零门槛、易迁移、轻度剪贴板记忆、高可定制化、纯净无任何商业目的快捷输入增强工具。
 
@@ -687,6 +688,8 @@
 *   [byodian/oneimg](https://github.com/byodian/oneimg) - 文字转图片应用。适合微信公众号长图推文以及小红书、Instagram 等图片社交媒体贴文制作
 
 *   [liwenka1/next-web-nav](https://github.com/liwenka1/next-web-nav) - 一个简单好用的导航网站
+
+*   [geekskai/blog](https://github.com/geekskai/blog) - 🚀 2025 Most Popular FREE Blog Template! Next.js 14, Zero Code - Just Write & Deploy | 2025最火免费博客模板！支持Markdown，一键部署，极致性能！⚡️ ✨ Write in Markdown, get your professional blog in minutes. Custom domain & comments ready! | 写Markdown即可，快速部署，支持自定义域名和评论，无需代码！geekskai.com/
 
 *   [aifuxi/fuxiaochen](https://github.com/aifuxi/fuxiaochen) - 🌈 一个简单的个人站，使用 Next.js 构建
 
@@ -2002,8 +2005,6 @@
 
 *   [devote-team/aixinge](https://github.com/devote-team/aixinge) - The backend code of AiXinGe
 
-*   [Sunbalcony/note](https://github.com/Sunbalcony/note) - note是一款优美，轻便的文档共享工具，支持一键分享，多人协作在线编辑，好用到上天，网页打代码不是梦！
-
 ## GDScript
 
 *   [jihe520/Desktop-Pet-Godot](https://github.com/jihe520/Desktop-Pet-Godot) - 🤖👾🐶一款由大语言模型驱动、Godot 制作的 AI 桌宠，旨在提供一个全能的、丰富的桌面AI宠物。An AI desktop pet created with Godot and powered by LLM, designed to offer a versatile and enriched desktop AI companion.
@@ -2237,10 +2238,6 @@
 *   [no5ix/sux](https://github.com/no5ix/sux) - An alternative to Alfred+Wox+Listary+OneQuick+CapslockPlus.一个只有2M大小的强大效率工具
 
 *   [shizengsong/taskSwitcher](https://github.com/shizengsong/taskSwitcher) - 改进windows任务窗口操作，鼠标移动到屏幕右下角，即可启动选择任务。详见文件
-
-## MDX
-
-*   [geekskai/blog](https://github.com/geekskai/blog) - 🚀 2025 Most Popular FREE Blog Template! Next.js 14, Zero Code - Just Write & Deploy | 2025最火免费博客模板！支持Markdown，一键部署，极致性能！⚡️ ✨ Write in Markdown, get your professional blog in minutes. Custom domain & comments ready! | 写Markdown即可，快速部署，支持自定义域名和评论，无需代码！geekskai.com/
 
 ## PowerShell
 
