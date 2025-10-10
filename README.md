@@ -1590,7 +1590,7 @@
 
 ## Rust
 
-*   [chen-zeong/dtv](https://github.com/chen-zeong/dtv) - 抖音和斗鱼全平台轻量化桌面客户端
+*   [chen-zeong/dtv](https://github.com/chen-zeong/dtv) - 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
 
 *   [iKineticate/LinkEcho](https://github.com/iKineticate/LinkEcho) - 随心批量更换/恢复快捷方式图标，个性化自定义图标设计 ( Batch replace/restore shortcuts icons as you wish,  personalized custom icon design)
 
