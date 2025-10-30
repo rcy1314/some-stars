@@ -119,7 +119,7 @@
 
 *   [cxfjh/PandaEditor](https://github.com/cxfjh/PandaEditor) - 熊猫编辑器（PandaEditor）是一个简单易用的中文文本编辑工具，提供了丰富的功能和友好的界面，让用户可以轻松地使用中文编写代码。
 
-*   [xinliu9451/smart\_voice\_assistant](https://github.com/xinliu9451/smart_voice_assistant) - 一个基于本地模型的中文语音智能助手，支持关键词唤醒、语音识别、大模型对话和语音合成。
+*   [xinliu9451/smart\_voice\_assistant](https://github.com/xinliu9451/smart_voice_assistant) - 一个基于本地模型的中文语音智能助手，支持关键词唤醒、语音识别、大模型对话、本地知识库问答和语音合成。
 
 *   [TonnyWong1052/temp-email](https://github.com/TonnyWong1052/temp-email) - 这是一个基于 Cloudflare 的临时邮箱服务，能够自动生成一次性邮箱地址、接收邮件并智能提取验证码。
 
@@ -1479,7 +1479,7 @@
 
 *   [liuyuhe666/wx-gzh-cover](https://github.com/liuyuhe666/wx-gzh-cover) - 🤗 微信公众号封面
 
-*   [oiov/vmail](https://github.com/oiov/vmail) - 📫 An open source temporary email tool. 只需一个域名部署临时邮箱，支持多域名后缀，密码找回。
+*   [oiov/vmail](https://github.com/oiov/vmail) - 📫 An open source temporary email tool. 只需一个域名部署临时邮箱到 Cloudflare worker ，支持多域名后缀，密码找回。
 
 *   [consistent-k/VodHub](https://github.com/consistent-k/VodHub) - VodHub 是一个电影、电视剧、动漫等视频接口聚合服务
 
