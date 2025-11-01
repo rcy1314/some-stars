@@ -707,7 +707,7 @@
 
 *   [Misaki-Akeno/synthesizer-flow](https://github.com/Misaki-Akeno/synthesizer-flow) - 🎧 前端：Next.js＋乐高式画布，拖模块就能编曲，AI 🤖 听懂人话秒加效果。 ⚡ 音频：TypeScript 全链路低延迟，Web Audio / Tonejs多端同步，随拖随响。 ☁️ 后端：OAuth 一键登录，工程、音色、偏好全入库 🐘，分享链接即刻开工。
 
-*   [zhanyuilong/miaoyu](https://github.com/zhanyuilong/miaoyu) - 妙语 - 智能桌面语音输入工具, Whisp Flow 开源替代。
+*   [pengling9405/miaoyu](https://github.com/pengling9405/miaoyu) - 妙语 - 智能桌面语音输入工具, Whisp Flow 开源替代。
 
 *   [xueyc1f/turbopush-website](https://github.com/xueyc1f/turbopush-website) - 多平台内容发布和管理工具，让您的内容创作更高效。一键发布到多个社交媒体平台，定时发布，数据分析，让您的内容营销事半功倍。
 
