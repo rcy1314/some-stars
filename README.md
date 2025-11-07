@@ -62,7 +62,7 @@
 
 *   [xgd16/x-rss](https://github.com/xgd16/x-rss) - 一个使用 Flutter 构建的跨平台 RSS 订阅阅读器应用，支持 iOS、Android、Web 和桌面平台。
 
-*   [naaammme/pilipro](https://github.com/naaammme/pilipro) - 使用Flutter开发的BiliBili第三方安卓客户端，对piliplus做了最小化修改，增加一些自用功能——自动记录评论和弹幕，应用内小窗。小字：pro是PeRsOnal的缩写，非professional
+*   [naaammme/pilipro](https://github.com/naaammme/pilipro) - 使用Flutter开发的BiliBili第三方客户端，对piliplus做了最小化修改，增加一些自用功能——自动记录评论和弹幕，应用内小窗等等。小字：pro是PeRsOnal的缩写，非professional
 
 *   [yyyyymmmmm/IntRoot](https://github.com/yyyyymmmmm/IntRoot) - 一款基于 Memos 系统打造第三方安卓iOS的极简笔记应用，专为追求高效记录与深度积累的用户设计。 它帮助你默默书写、静心沉淀，让每一次落笔都成为未来思想生根发芽的力量。  完美对接 Memos 服务器，保障数据安全与私密，适合个人及团队的知识管理需求。 无论是快速捕捉灵感，还是系统性整理思考，墨鸣都助你沉淀积累，厚积薄发。
 
@@ -578,7 +578,7 @@
 
 *   [SiyuanJia/brief](https://github.com/SiyuanJia/brief) - 一键将新闻链接转化为精美的财经简报，集成AI内容提炼、智能高亮、NanoBanana插图生成和长图导出功能
 
-*   [wubh2012/navsite](https://github.com/wubh2012/navsite) - 一个基于飞书多维表格数据的导航网站
+*   [wubh2012/navsite](https://github.com/wubh2012/navsite) - 【水果导航】一个基于飞书多维表格数据的导航网站
 
 *   [Standed/n8n-nodes-weixin-wechat](https://github.com/Standed/n8n-nodes-weixin-wechat) - 最简化的n8n微信发送插件，支持企微机器人和个人微信两种方式，个人微信基于页面自动化。
 
@@ -1562,7 +1562,7 @@
 
 ## C
 
-*   [2025-gd-hackers/heart-mind-robot](https://github.com/2025-gd-hackers/heart-mind-robot) - 集成小智AI的Live2D桌面机器人客户端
+*   [2025-gd-hackers/pc-xiaozhi](https://github.com/2025-gd-hackers/pc-xiaozhi) - 集成小智AI的Live2D桌面机器人客户端
 
 *   [SmallPond/D-BOT](https://github.com/SmallPond/D-BOT) - 一个可 AI 控制的桌面机器人， X-Knob 智能旋钮的变换形态
 
