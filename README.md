@@ -50,8 +50,8 @@
 *   [Pascal](#pascal)
 *   [EJS](#ejs)
 *   [AngelScript](#angelscript)
-*   [Dockerfile](#dockerfile)
 *   [Ruby](#ruby)
+*   [Dockerfile](#dockerfile)
 *   [Clojure](#clojure)
 *   [SCSS](#scss)
 *   [Metal](#metal)
@@ -1954,8 +1954,6 @@
 
 *   [jqueryscript/ChatGPT-Resources](https://github.com/jqueryscript/ChatGPT-Resources) - Curated list of awesome libraries, extensions, tools, apps for ChatGPT.
 
-*   [Correia-jpv/fucking-awesome-stock-resources](https://github.com/Correia-jpv/fucking-awesome-stock-resources) - 🌇 A collection of links for free stock photography, video and Illustration websites. With repository stars⭐ and forks🍴
-
 *   [nonacosa/notion-site-doc](https://github.com/nonacosa/notion-site-doc) - This is a document generated entirely based on notion-site
 
 *   [hsnadrs/forked--awesome-actions](https://github.com/hsnadrs/forked--awesome-actions) -
@@ -2516,6 +2514,12 @@
 
 *   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐
 
+## Ruby
+
+*   [Correia-jpv/fucking-awesome-stock-resources](https://github.com/Correia-jpv/fucking-awesome-stock-resources) - 🌇 A collection of links for free stock photography, video and Illustration websites. With repository stars⭐ and forks🍴
+
+*   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+
 ## Dockerfile
 
 *   [appleboy/telegram-action](https://github.com/appleboy/telegram-action) - GitHub Action that sends a Telegram message.
@@ -2523,10 +2527,6 @@
 *   [appotry/docker-hexo](https://github.com/appotry/docker-hexo) - Hexo Docker一键部署环境/One-Click Deployment Environment。Add cjk support 附赠详细教程
 
 *   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-
-## Ruby
-
-*   [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 
 ## Clojure
 
