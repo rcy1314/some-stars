@@ -628,8 +628,6 @@
 
 *   [haruki1953/Tweblog](https://github.com/haruki1953/Tweblog) - 一个社交媒体博客化工具，针对推特等平台的内容进行导入与转发。拥有支持 Windows 的桌面版，和使用 Docker 部署的Web版。
 
-*   [workbunny/bunny-ui](https://github.com/workbunny/bunny-ui) - 🐇一套 HTMX 开发模式的 Web UI 组件库，易上手，可以更简单快速地构建网页界面。
-
 *   [BannyLon/DifyAIA](https://github.com/BannyLon/DifyAIA) - 基于Dify自主创建的AI应用DSL工作流，你可以免费获取，无论是出于个人需求还是学习目的，它都能为您开启一段充满无限可能的智能之旅。
 
 *   [MCDFsteve/Kurisu](https://github.com/MCDFsteve/Kurisu) - 一个靠口头描述来转换文件格式的程序 A program that converts file formats based on verbal descriptions 口頭での説明に基づいてファイル形式を変換するプログラム
@@ -1600,6 +1598,8 @@
 
 *   [apconw/sanic-web](https://github.com/apconw/sanic-web) - 一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen3等大模型 基于 Dify 、LangChain/LangGraph、Ollama\&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以支持广泛的通用知识问答。
 
+*   [workbunny/bunny-ui](https://github.com/workbunny/bunny-ui) - 🐇一套 HTMX 开发模式的 Web UI 组件库，易上手，可以更简单快速地构建网页界面。
+
 *   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 
 *   [juerson/workersAI-convert-chatCompletions-API](https://github.com/juerson/workersAI-convert-chatCompletions-API) - Cloudflare Workers/Pages部署代码，功能：将Workers AI的文本生成模型的调用接口转换为 “/v1/chat/completions” 接口，提供给其它软件调用。
@@ -2126,7 +2126,7 @@
 
 *   [ethanzhao2001/Mailer-Typecho](https://github.com/ethanzhao2001/Mailer-Typecho) - Typecho上极简的邮件推送插件
 
-*   [guanguans/notify](https://github.com/guanguans/notify) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、Zulip).
+*   [guanguans/notify](https://github.com/guanguans/notify) - Push notification SDK(AnPush、Bark、Chanify、DingTalk、Discord、Gitter、GoogleChat、IGot、Lark、Mattermost、MicrosoftTeams、NowPush、Ntfy、Push、Pushback、PushBullet、PushDeer、PushMe、Pushover、PushPlus、QQ、RocketChat、ServerChan、ShowdocPush、SimplePush、Slack、Telegram、WeWork、WPush、XiZhi、YiFengChuanHua、ZohoCliq、Zulip).
 
 *   [HurryBy/CloudDiskAnalysis](https://github.com/HurryBy/CloudDiskAnalysis) - 蓝奏云/123云盘/中国移动云空间直链，蓝奏云/123云盘/中国移动云空间解析，蓝奏云/123云盘/中国移动云空间解析API，蓝奏云/123云盘/中国移动云空间带密码解析，蓝奏云/123云盘/中国移动云空间文件夹分享解析
 
