@@ -58,6 +58,10 @@
 
 ## Python
 
+*   [fz00x0fz/AI-Real-Time-Subtitle-Tool](https://github.com/fz00x0fz/AI-Real-Time-Subtitle-Tool) - AI实时字幕工具 (AI Real-time Subtitle Tool)
+
+*   [NewToolAI/imgenx](https://github.com/NewToolAI/imgenx) - AI 图片/视频生成与处理套件，支持文本/图生图、文本/图生视频、图片分析与常用编辑（裁剪、缩放、转换、调参），可作为命令行工具或 MCP Server 使用。
+
 *   [SRInternet-Studio/Wallpaper-generator](https://github.com/SRInternet-Studio/Wallpaper-generator) - A personalized image aggregation and generation platform. 个性化聚合图片生成平台
 
 *   [foxmooner2021/subtitle-cut](https://github.com/foxmooner2021/subtitle-cut) - 字符级精度的 AI 字幕剪辑工具（AI-based subtitle editor for word-level precise video cutting. ）
@@ -594,8 +598,6 @@
 
 *   [RWoxiN/AsoulNotificationPush](https://github.com/RWoxiN/AsoulNotificationPush) - A-SOUL 动态、直播状态获取，并推送到企业微信中。
 
-*   [tbsmcd/notion2hugo](https://github.com/tbsmcd/notion2hugo) - A document written in Notion that is converted to hugo. However, it is currently dedicated to the author's personal use.
-
 ## HTML
 
 *   [cyohei9907/auto-ski-info-subscribe](https://github.com/cyohei9907/auto-ski-info-subscribe) - 开源X推文抓取项目，现在已经发布在GCP上，感兴趣的可以增加MCP功能
@@ -697,8 +699,6 @@
 *   [ZutJoe/KoalaHackerNews](https://github.com/ZutJoe/KoalaHackerNews) - Koala hacker news 周报内容 每周二0点左右更新
 
 *   [LiuYuYang01/BookMark](https://github.com/LiuYuYang01/BookMark) - BookMark 是一款轻量、简洁雅观的书签导航项目 你可以将它设置为你的浏览器主页 告别杂乱无章的浏览器书签栏。相信你会喜欢它的! 🎉
-
-*   [WangGuibin/weather-action](https://github.com/WangGuibin/weather-action) - Github action自动化每天早上自动推送新闻简报  配合快捷指令使用https://www.icloud.com/shortcuts/85a83cbaff524a338d129e0d262704f3
 
 ## Rust
 
