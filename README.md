@@ -58,6 +58,12 @@
 
 ## Python
 
+*   [xiongsircool/aurora-rss-reader](https://github.com/xiongsircool/aurora-rss-reader) -  Aurora RSS Reader - AI 增强的跨平台桌面 RSS 阅读器，支持多语言翻译、智能摘要和现代化阅读体验.
+
+*   [YYH211/xiaohongshu](https://github.com/YYH211/xiaohongshu) - 这是一个基于人工智能的网页应用程序，用于为小红书生成和自动发布内容。它通过模型上下文协议（MCP）集成了多种工具和服务，实现了从主题输入到内容发布的全自动化流程。
+
+*   [4thfever/cultivation-world-simulator](https://github.com/4thfever/cultivation-world-simulator) - 修仙世界模拟器，旨在用AI还原智能、开放、多样的仙侠世界
+
 *   [fz00x0fz/AI-Real-Time-Subtitle-Tool](https://github.com/fz00x0fz/AI-Real-Time-Subtitle-Tool) - AI实时字幕工具 (AI Real-time Subtitle Tool)
 
 *   [NewToolAI/imgenx](https://github.com/NewToolAI/imgenx) - AI 图片/视频生成与处理套件，支持文本/图生图、文本/图生视频、图片分析与常用编辑（裁剪、缩放、转换、调参），可作为命令行工具或 MCP Server 使用。
@@ -1336,8 +1342,6 @@
 
 *   [MannyCooper/anzifan.com](https://github.com/MannyCooper/anzifan.com) - Personal blog powered by Notion official API + Next.JS + WindiCSS!
 
-*   [upleveled/notion-backup](https://github.com/upleveled/notion-backup) - Export Notion pages and subpages to a GitHub repo on a schedule (eg. to be used as a scheduled backup)
-
 ## Vue
 
 *   [Lewis456/video\_summary](https://github.com/Lewis456/video_summary) - 构建一套智能视频总结系统，实现视频上传后自动完成视频转音频、音频转写文本，并基于大模型输出结构化学习笔记，提升视频内容的获取与整理效率。
@@ -1858,8 +1862,6 @@
 
 *   [JimSunJing/ReviewHelper](https://github.com/JimSunJing/ReviewHelper) - A Github Action regulary query Notion Database & send review reminder(email).
 
-*   [ycf1998/greeting-mail](https://github.com/ycf1998/greeting-mail) - 一个定时给你发问候邮件的网站。目前支持的问候服务有天气预报、舔狗日记、彩虹屁、网易云、朋友圈文案等
-
 ## C
 
 *   [2025-gd-hackers/pc-xiaozhi](https://github.com/2025-gd-hackers/pc-xiaozhi) - 集成小智AI的Live2D桌面机器人客户端
@@ -2001,8 +2003,6 @@
 *   [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
 
 *   [Wpenga/webdav-teambition](https://github.com/Wpenga/webdav-teambition) - teambition网盘的webdav协议开源实现
-
-*   [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
 
 ## Shell
 
