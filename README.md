@@ -64,7 +64,7 @@
 
 *   [xgd16/ai-mcp](https://github.com/xgd16/ai-mcp) - 基于 Go 的 MCP 服务端，支持 SSE、受控命令执行、SQL/查询工具、时间工具，集成 GoFrame/MySQL，适配 IDE/Agent 即用。
 
-*   [arnoldhao/dreamcreator](https://github.com/arnoldhao/dreamcreator) - ✨跨平台的在线视频下载与字幕编辑工具 Cross-platform online video downloader & subtitle editor
+*   [arnoldhao/dreamcreator](https://github.com/arnoldhao/dreamcreator) - ✨跨平台的在线视频下载、字幕编辑与 AI 翻译工具 Cross-platform online video downloader, subtitle editor & AI-powered subtitle translator
 
 *   [lin-snow/Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 
@@ -800,7 +800,7 @@
 
 *   [YangguangZhou/Cards](https://github.com/YangguangZhou/Cards) - 个人名片 Cards
 
-*   [gh0stkey/gh0stkey.github.io](https://github.com/gh0stkey/gh0stkey.github.io) - 个人博客 https://gh0st.cn 模版来自：https://github.com/heiswayi/the-plain 在原基础上增加了分页、网易云音乐播放器、图片放大查看等功能（做了一些排版细节上的调整）
+*   [gh0stkey/gh0stkey.github.io](https://github.com/gh0stkey/gh0stkey.github.io) - 个人博客 https://gh0st.cn 模版来自：https://github.com/heiswayi/the-plain 在原基础上增加了一些功能
 
 *   [dontpanic92/embedded-netease-music-player](https://github.com/dontpanic92/embedded-netease-music-player) - 网易云音乐外链播放器 - Embed a netease music player into your web page
 
@@ -880,7 +880,7 @@
 
 ## TypeScript
 
-*   [vaesonshu/xtai-nav](https://github.com/vaesonshu/xtai-nav) - 星途 AI 导航 | AI 应用一站式导航、AI 聚合、工具、编程网站
+*   [vaesonshu/xtai-nav](https://github.com/vaesonshu/xtai-nav) - 星途 AI 导航 | AI 应用一站式导航 - Next.js 入门实战导航项目
 
 *   [ideasworkcn/ideanote](https://github.com/ideasworkcn/ideanote) -  IdeaNote - AI驱动的创意写作工具.专为创意写作而设计的智能桌面应用
 
@@ -906,7 +906,7 @@
 
 *   [Misaki-Akeno/synthesizer-flow](https://github.com/Misaki-Akeno/synthesizer-flow) - 🎧 前端：Next.js＋乐高式画布，拖模块就能编曲，AI 🤖 听懂人话秒加效果。 ⚡ 音频：TypeScript 全链路低延迟，Web Audio / Tonejs多端同步，随拖随响。 ☁️ 后端：OAuth 一键登录，工程、音色、偏好全入库 🐘，分享链接即刻开工。
 
-*   [pengling9405/miaoyu](https://github.com/pengling9405/miaoyu) - 妙语 - 智能桌面语音输入工具, Whisp Flow 开源替代。
+*   [pengling9405/miaoyu](https://github.com/pengling9405/miaoyu) - 妙语 - 智能语音输入，妙语生花。
 
 *   [xueyc1f/turbopush-website](https://github.com/xueyc1f/turbopush-website) - 多平台内容发布和管理工具，让您的内容创作更高效。一键发布到多个社交媒体平台，定时发布，数据分析，让您的内容营销事半功倍。
 
