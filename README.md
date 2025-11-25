@@ -13,16 +13,16 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [C#](#c)
 *   [Go](#go)
 *   [HTML](#html)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
-*   [Vue](#vue)
 *   [Swift](#swift)
 *   [Dart](#dart)
-*   [JavaScript](#javascript)
+*   [Vue](#vue)
 *   [C](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
@@ -56,6 +56,328 @@
 *   [SCSS](#scss)
 *   [Metal](#metal)
 
+## JavaScript
+
+*   [asxez/MusicBox](https://github.com/asxez/MusicBox) - 一款高颜值、插件化、可深度定制的现代本地音乐播放器，支持Windows、MacOS、Linux系统
+
+*   [MaskerPRC/everything-ai-chat](https://github.com/MaskerPRC/everything-ai-chat) - 一个现代化的 Everything 搜索客户端，将 AI 智能与极速本地搜索完美结合。
+
+*   [aydomini/pebble-drive](https://github.com/aydomini/pebble-drive) - 基于 Cloudflare Workers + R2 + D1 + KV 的现代化云存储解决方案，完全免费的私人云盘
+
+*   [Luoevanescence/word-wonderland](https://github.com/Luoevanescence/word-wonderland) - 一个现代化的英语学习平台，包含单词管理、短语、句子、句型和主题学习功能。
+
+*   [wxaiway/nce-web](https://github.com/wxaiway/nce-web) - 一个现代化的新概念英语在线点读应用，提供流畅的学习体验和丰富的功能。
+
+*   [XiaoLuoTian189/LanQiao](https://github.com/XiaoLuoTian189/LanQiao) - 一个开源的本地网盘系统，有了它您可以轻松的将让您的电脑和所有同一WIFI下的设备共享文件！
+
+*   [SiyuanJia/brief](https://github.com/SiyuanJia/brief) - 一键将新闻链接转化为精美的财经简报，集成AI内容提炼、智能高亮、NanoBanana插图生成和长图导出功能
+
+*   [wubh2012/navsite](https://github.com/wubh2012/navsite) - 【水果导航】一个基于飞书多维表格数据的导航网站
+
+*   [Standed/n8n-nodes-weixin-wechat](https://github.com/Standed/n8n-nodes-weixin-wechat) - 最简化的n8n微信发送插件，支持企微机器人和个人微信两种方式，个人微信基于页面自动化。
+
+*   [4evergr8/WorkerRSS](https://github.com/4evergr8/WorkerRSS) - 利用CFworker实现RSSHub
+
+*   [pprunbot/HomePage](https://github.com/pprunbot/HomePage) - HomePage 使用Nodejs构建，美观、轻量化的个人主页
+
+*   [tangchunwu/blinko-smart-collector](https://github.com/tangchunwu/blinko-smart-collector) - 🚀 智能收集网页内容到Blinko的Chrome扩展，支持AI总结和智能分类
+
+*   [Ed1s0nZ/loopy\_search](https://github.com/Ed1s0nZ/loopy_search) - 真的非常好用，并且在不断优化！！！！AI划词搜索是一个智能的 Chrome 浏览器扩展，它能让你在浏览网页时快速获取 AI 对选中文本的解释和翻译。通过支持 OpenAI 协议，它可以连接到各种 AI 服务，为你提供即时的智能解答。
+
+*   [YangShengzhou03/Jobs\_helper](https://github.com/YangShengzhou03/Jobs_helper) - 海投助手是一款为求职者打造的浏览器脚本插件，可以提升求职效率。初期聚焦于 Boss直聘 平台，通过自动化简历投递、AI智能回复HR消息等功能，帮助用户减少大量重复性操作，显著提高投递效率。
+
+*   [hu-qi/starReport](https://github.com/hu-qi/starReport) - starReport 是一个用于自动生成和管理指定 GitHub 仓库 star、commit、issue 等活跃度报告的 Node.js 工具，支持 MCP 协议服务，集成大模型智能分析，并可自动推送到飞书群。
+
+*   [hmjz100/123panYouthMember](https://github.com/hmjz100/123panYouthMember) - 123 云盘会员青春版 - 可超 1GB 上限下载，模拟 123 云盘会员，还支持隐藏广告、使用视频倍速、修改头像、修改用户名、修改等级等功能；123云盘下载辅助增强脚本 - “解锁”123云盘下载
+
+*   [TheSummerRain/sunflower-image-compressor](https://github.com/TheSummerRain/sunflower-image-compressor) - 开源免费的最佳图片压缩小工具，支持多种图片压缩，支持批量压缩，支持macos和windows的客户端应用
+
+*   [rcy1314/rss-server-ag](https://github.com/rcy1314/rss-server-ag) - 一个便捷的rss聚合订阅api服务
+
+*   [LeoMorrison2001/max\_personal\_website\_react](https://github.com/LeoMorrison2001/max_personal_website_react) - 该项目是我的个人主页，使用React书写。
+
+*   [FtsCloud/Tranzy](https://github.com/FtsCloud/Tranzy) - 专业的网页前端国际化解决方案，JavaScript自动翻译库，用于将网页自动翻译为各国语言，支持智能缓存和可定制的配置。 Professional web front-end internationalization solution, JavaScript automatic translation library for automatic translation of web pages into various languages, support for smart caching and customizable configuration.
+
+*   [CrowCooper/BookmarkAI](https://github.com/CrowCooper/BookmarkAI) - 一个智能书签管理器Chrome扩展，使用AI自动整理书签，检测无效和重复链接
+
+*   [2013888483/WeChatAssistant](https://github.com/2013888483/WeChatAssistant) - 微信智能助手插件系统是一个模块化、可扩展的框架，允许通过插件形式添加新功能。
+
+*   [Particaly/mail-notify-service](https://github.com/Particaly/mail-notify-service) - 一个基于 Webhook 的邮件通知服务，可以通过 HTTP 请求触发邮件发送。支持模板变量，可以从请求中获取动态内容。
+
+*   [idev-sig/navside](https://github.com/idev-sig/navside) - 一个简洁、优雅且高效的 Hugo 网址导航主题 https://navside.ooos.top/
+
+*   [wristwaking/doraemon-desktop-pet](https://github.com/wristwaking/doraemon-desktop-pet) - 这是一款Doraemon机器猫主题桌面电子宠物，基于前端electron框架实现快速搭建，可调整素材图片进行个性化UI重构，内置百度智能云千帆大模型文字互动功能。
+
+*   [howoii/SmartBookmark](https://github.com/howoii/SmartBookmark) - 一款基于 AI 的智能书签管理插件
+
+*   [machaojin1917939763/Dify-WebUI](https://github.com/machaojin1917939763/Dify-WebUI) - 由 Dify API 驱动的前沿桌面智能对话应用，具备企业级人工智能对话能力。这款应用拥有主题定制、知识库管理以及多场景应用等显著功能。​ 如今，我们进行了重大升级，新增对 OpenAI 格式输出的支持。这意味着，它能够与市面上所有遵循 OpenAI 格式的人工智能模型无缝对接。不管您使用的是知名供应商的模型，比如提供可靠且可扩展云端解决方案的 Azure OpenAI，还是以先进自然语言处理能力闻名的 Cohere，又或是专注于人工智能安全与伦理的 Anthropic 等众多供应商的模型，我们的应用都能满足需求。这种拓展后的兼容性，确保您可以在我们直观且功能丰富的桌面应用中，充分发挥您心仪的符合 OpenAI 标准的模型的强大效能。
+
+*   [leaferjs/LeaferJS](https://github.com/leaferjs/LeaferJS) - 绚丽多彩的 HTML5 Canvas 2D 图形渲染引擎， 可结合 AI 绘图、生成界面。能让你拥有瞬间创建 100 万个图形的超强能力，免费开源、易学易用、场景丰富。
+
+*   [BobH233/BITSuperGPT-client](https://github.com/BobH233/BITSuperGPT-client) - 一个能够在本地共享Plus账号，避免OpenAI标记降智前提下，使用原生网页版ChatGPT Plus的项目
+
+*   [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
+
+*   [apconw/sanic-web](https://github.com/apconw/sanic-web) - 一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen3等大模型 基于 Dify 、LangChain/LangGraph、Ollama\&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以支持广泛的通用知识问答。
+
+*   [workbunny/bunny-ui](https://github.com/workbunny/bunny-ui) - 🐇一套 HTMX 开发模式的 Web UI 组件库，易上手，可以更简单快速地构建网页界面。
+
+*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
+
+*   [juerson/workersAI-convert-chatCompletions-API](https://github.com/juerson/workersAI-convert-chatCompletions-API) - Cloudflare Workers/Pages部署代码，功能：将Workers AI的文本生成模型的调用接口转换为 “/v1/chat/completions” 接口，提供给其它软件调用。
+
+*   [james-a-rob/KodaStream](https://github.com/james-a-rob/KodaStream) - Headless shoppable video platform
+
+*   [comeonzhj/article2card](https://github.com/comeonzhj/article2card) - 一个把长文转款成摘要卡片/图片的前端应用，使用 Kimi 对文章进行结构化总结。
+
+*   [tuzirpa/tuziRobot](https://github.com/tuzirpa/tuziRobot) - 兔子rpa 搭积木方式构建自动化流程
+
+*   [bajiuguiyi/notecard](https://github.com/bajiuguiyi/notecard) - 笔记卡片生成器
+
+*   [zjrwtx/SFT-data-builder](https://github.com/zjrwtx/SFT-data-builder) - 利用免费的大模型api来结合你的私域数据来生成sft训练数据（妥妥白嫖）支持llamafactory等工具的训练数据格式synthetic data
+
+*   [4444TENSEI/AlistUploaderJS](https://github.com/4444TENSEI/AlistUploaderJS) - 纯前端实现多种云储存便捷文件上传JS库。支持CDN引入，简单配置即可使用。原理是调用个人部署的Alist接口，从而无需额外实现后端文件上传接口，可手动在服务端控制角色权限。附带详细的上传进度、速率、上传完毕预计时间等数据反馈。
+
+*   [SaKongA/Upper](https://github.com/SaKongA/Upper) - 一个简洁的小红书蒲公英账号运营批量概览程序
+
+*   [z394339702/xhs\_gpt](https://github.com/z394339702/xhs_gpt) - 小红书gpt，根据每一篇笔记回答你的问题，避免每一个点开才发现没有你搜索的内容。
+
+*   [ShawnZeng1996/reborn](https://github.com/ShawnZeng1996/reborn) - Typecho仿微信主题reborn
+
+*   [urin/vscode-web-visual-editor](https://github.com/urin/vscode-web-visual-editor) - Edit HTML files visually.
+
+*   [RavelloH/rss-aggregator](https://github.com/RavelloH/rss-aggregator) - RSS聚合器，将多个rss源(本地或url)聚合在同一个rss中
+
+*   [xyz349925756/Typora-Mid](https://github.com/xyz349925756/Typora-Mid) - Typora-Mid 是一个不一样的 typora 主题。目前有typora-mid-d|typora-mid-l 两套主题，添加了很多样式参考readme。
+
+*   [xieyumc/jyySlideWeb](https://github.com/xieyumc/jyySlideWeb) - 网页实时Markdown转换为Slide幻灯片，主题灵感来源于南京大学蒋炎岩jyy老师
+
+*   [beffiy/popclip-usememos-extension](https://github.com/beffiy/popclip-usememos-extension) - A simple popclip extension for usememos to create new memo.
+
+*   [lizhenwen/qzone-download-photos](https://github.com/lizhenwen/qzone-download-photos) - qzone照片，qq空间照片，qzone相册，qq空间相册，备份脚本工具
+
+*   [rcy1314/nav-manage](https://github.com/rcy1314/nav-manage) - Nav-manage 为静态导航带来强大的管理扩展
+
+*   [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts) - 🐒一些修改自网络的油猴脚本 Some Tampermonkey scripts modified from the internet
+
+*   [shengplus-2024/wechat-video-collect](https://github.com/shengplus-2024/wechat-video-collect) - 微信视频号采集
+
+*   [siquan001/mymusicbox2](https://github.com/siquan001/mymusicbox2) - 一个web音乐盒子
+
+*   [luiguangguan/cf\_worker\_subconvert](https://github.com/luiguangguan/cf_worker_subconvert) - 基于cloudflare的一个订阅转换服务，依赖第三方订阅服。订阅转换时会修改节点的服务器地址和密码等敏感信息为随机值，防止第三方窃取
+
+*   [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) - Transparent Proxy with Mihomo on OpenWrt.
+
+*   [CH563/image-beautifier](https://github.com/CH563/image-beautifier) - 在线截图美化工具，支持添加批注，裁剪，局部放大等，并预设各社媒尺寸和导出高清图
+
+*   [siddhant-vij/Content-Amplify-Hub](https://github.com/siddhant-vij/Content-Amplify-Hub) - Automated content cross posting from Notion Database to Dev.to, Hashnode, Medium, Twitter, and LinkedIn using GitHub Actions.
+
+*   [FengMengZhao/AiTransformEnhancer](https://github.com/FengMengZhao/AiTransformEnhancer) - AI驱动，自然语言为输入，chat的方式，激发文本转换、图片生成、智能阅读、音视频生成等生产效率。Utools插件链接：https://u.tools/plugins/detail/AI%20Transform%20Box/?c=lsabf3sl7c
+
+*   [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat) - 一个让微信（非WEB版）定时循环发送消息/文件（cron表达式精确到分钟），批量群发消息，定时检查聊天记录的小工具🚀，提供了简易直观的界面，并支持邮箱报警等功能，可部署到任意平台
+
+*   [rcy1314/noisework](https://github.com/rcy1314/noisework) - #主页 #引导页 ⭐️多模式个人主页展示页，🌈带pwa模式，多组件效果，可随时切换的引导页🎉 添加右键弹出菜单，RSS动态文章卡片，视频播放📫ADS广告位
+
+*   [Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive) - Blue Archive主题博客，基于VitePress，绝赞画饼中
+
+*   [hmllsnow/escape-wechat](https://github.com/hmllsnow/escape-wechat) - 微信助手，登录微信bot和配置管理页面
+
+*   [veasion/ppt2json](https://github.com/veasion/ppt2json) - PPT 文件解析为 JSON，并在前端渲染，支持修改 JSON 后反渲染为PPT文件。The PPT file is parsed into JSON and rendered on the front end, supporting modifications to the JSON and re-rendering it back into a PPT file.
+
+*   [MCDFsteve/NipaPlay](https://github.com/MCDFsteve/NipaPlay) - Nipaplay 一款跨平台（Windows Linux macOS）本地弹幕视频播放器。弹弹play 的mac代餐。主要平台为macOS，也是基于macOS开发，其他平台仅做移植。
+
+*   [fisherdaddy/FisherAI](https://github.com/fisherdaddy/FisherAI) -  FisherAI 是一款为提高学习效率而设计的Chrome插件，通过一键操作，支持自动摘要、网页及视频翻译、多轮对话等功能。此外，FisherAI 支持多种大语言模型，包括但不限于openai/gemini/deepseek/openrouter/siliconflow/doubao/xai/mistral/groq/yi/moonshot等等，为用户提供灵活且强大的AI工具。
+
+*   [tans/pug](https://github.com/tans/pug) - PUG微信机器人 -  简单有趣的机器人，主要功能包括微信群发言统计，邀请统计，群收藏夹等，还有小游戏等有趣的群运营功能。 产品设计以监听辅助为主，安全可靠耐造。
+
+*   [1nfiniteloop/json-bookmarks](https://github.com/1nfiniteloop/json-bookmarks) - Browser extension for Mozilla Firefox and Chrome for importing and exporting bookmarks with a json file
+
+*   [gd03champ/llm4sql](https://github.com/gd03champ/llm4sql) - Bridging the Gap Between AI and SQL Databases
+
+*   [JWalshe86/Nags-With-Notions2.0](https://github.com/JWalshe86/Nags-With-Notions2.0) - Nags with Notions Website with both backend and frontend functionality. Live site:
+
+*   [zazencodes/notion-obsidian-sync-zazencodes](https://github.com/zazencodes/notion-obsidian-sync-zazencodes) - Copy markdown files to Notion databases using the API
+
+*   [embernet/sidekick](https://github.com/embernet/sidekick) - Sidekick is an AI powered tool that uses the OpenAI API and GPT-4 model for thinking, exploring ideas, problem-solving, knowledge-building, and getting things done.
+
+*   [larkwins/grpc-webui](https://github.com/larkwins/grpc-webui) - 👨‍💻Like Postman, but for gRPC: web based GUI client for gRPC Development Testing
+
+*   [liu-ziting/PetThoughts](https://github.com/liu-ziting/PetThoughts) - I know what your pet is thinking - gemini
+
+*   [DoingDog/chatgpt-proxy-cloudflare-worker](https://github.com/DoingDog/chatgpt-proxy-cloudflare-worker) - Cloudflare Worker 反向代理 ChatGPT API，支持流式输出，支持联网搜索功能，支持设置访问密码
+
+*   [wmz1024/WRSS-OJS](https://github.com/wmz1024/WRSS-OJS) - WRSS - MD风格的RSS订阅器
+
+*   [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, fast, object pseudo-database for S3-compatible storages using JSON or Msgpack
+
+*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
+
+*   [walkthunder/action-wecom-webhook](https://github.com/walkthunder/action-wecom-webhook) - 🚀 GitHub Action that sends a WeCom Work notification.
+
+*   [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
+
+*   [liudding/notion-portal](https://github.com/liudding/notion-portal) - A portal site built with notion and nextjs  基于 Notion 的导航网站，支持自建，自定义主题
+
+*   [SenpaiHunters/SpotOn](https://github.com/SenpaiHunters/SpotOn) - SpotOn, a browser extension for Spotify. Including full custom toggles and user settings! For more info check out the README.md! Happy Spotting!
+
+*   [nicokruger/linkyrss](https://github.com/nicokruger/linkyrss) - LinkyRSS is an open-source project that solves bookmarking by combining RSS + AI.
+
+*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+
+*   [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
+
+*   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
+
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+
+*   [bartbzd/todo-list](https://github.com/bartbzd/todo-list) - To-Do List
+
+*   [cesarhuret/docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on 📑
+
+*   [azu/github-label-setup](https://github.com/azu/github-label-setup) - 📦 Setup GitHub label without configuration.
+
+*   [op7418/Prompt-hunter](https://github.com/op7418/Prompt-hunter) - Save the Prompt and images from the Midjourney details page to your Notion page
+
+*   [traceless/alist-encrypt](https://github.com/traceless/alist-encrypt) - 这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能，同时在 webdav 下的操作透明，自动实现文件资源的加解密。
+
+*   [ShaigroRB/freetchio](https://github.com/ShaigroRB/freetchio) - Find all free elements from itch.io due to 100% discounts
+
+*   [SivanLaai/blog](https://github.com/SivanLaai/blog) - 本地写hugo博客，快捷键Crtl + U快速发布并自动部署网页。
+
+*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone \&iPad 、TikTok\&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
+
+*   [BeautyyuYanli/full-mark-composition-generator](https://github.com/BeautyyuYanli/full-mark-composition-generator) - 将专业术语和名人名言以随机报菜名的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
+
+*   [RudyBekker/mailverifier](https://github.com/RudyBekker/mailverifier) - Free Bulk Email Verifier
+
+*   [zhuweiyou/chatgpt-api](https://github.com/zhuweiyou/chatgpt-api) - 封装 OpenAI 网页版最新 ChatGPT 接口, 不需要使用 API Key, 完全免费
+
+*   [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
+
+*   [eunomia-bpf/chatrepo](https://github.com/eunomia-bpf/chatrepo) - A Github App to chat with Your GitHub Repo's Issues Using ChatGPT
+
+*   [kholmogorov27/chevron](https://github.com/kholmogorov27/chevron) - Powerful and highly functional startpage integrated with chatGPT and hidden under the super minimalistic and animated design (static/hosted/github pages)
+
+*   [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
+
+*   [s-a/sonic-sound-picture](https://github.com/s-a/sonic-sound-picture) - Sonic Sound Picture (SSP) is a free, offline, and customizable music/audio visualizer software. With a range of templates to choose from, users can easily create stunning audio-visual experiences in just a few simple steps. SSP also allows users to create their own templates, giving them endless possibilities to bring their music to life.
+
+*   [myan0020/webrtc-group-chat-demo](https://github.com/myan0020/webrtc-group-chat-demo) - A web application to realize P2P features including video calling, screen sharing, text messaging and file transceiving with low lantency
+
+*   [amitmerchant1990/linksnatch](https://github.com/amitmerchant1990/linksnatch) - Dead simple bookmarks
+
+*   [Jarrettluo/all-docs-vue](https://github.com/Jarrettluo/all-docs-vue) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information. “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。
+
+*   [smallnew666/ChatGPT-wxapp](https://github.com/smallnew666/ChatGPT-wxapp) - ChatGPT微信小程序源码
+
+*   [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) - 给飞书准备的 ChatGPT 机器人
+
+*   [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
+
+*   [orion-tan/NavWebSite](https://github.com/orion-tan/NavWebSite) - 一个简单的导航网站，使用 Json 做数据源。
+
+*   [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+
+*   [tabhub/rss-feeds](https://github.com/tabhub/rss-feeds) - RSS feeds created/collected by TabHub.
+
+*   [buildspace/buildspace-projects](https://github.com/buildspace/buildspace-projects) - The home of our open-source projects.
+
+*   [delta1037/notion-export-client](https://github.com/delta1037/notion-export-client) - Notion备份客户端工具，将指定Notion page单向转换为本地markdown文件 | Notion backup client, backup some page to markdown files self-struct
+
+*   [itorr/anime-grid](https://github.com/itorr/anime-grid) - 🤖「动画生涯个人喜好表生成器」
+
+*   [ChuksJoshuaa/OpenAI-Project](https://github.com/ChuksJoshuaa/OpenAI-Project) - With an elegant user interface that resembles the ChatGPT app, communication with advanced GPT3 model API, and most importantly, the ability to ask the AI for help regarding JavaScript, React, or any other programming language, giving it code and translating it to another programming language, and much more
+
+*   [Aicirou/goindex-theme-acrou](https://github.com/Aicirou/goindex-theme-acrou) - Google-Drive-Directory-Index | Combining the power of Cloudflare Workers and Google Drive API will allow you to index your Google Drive files on the browser.
+
+*   [noobmaster432/khabrAI](https://github.com/noobmaster432/khabrAI) - An Artificial Intelligence React News Application that utilizes Alan AI for speech recognition, pulling data from News API and Material-UI for the user interface. The application enables users to control every aspect of the app using just their voice.
+
+*   [Samridhi-98/github-actions-visualizer](https://github.com/Samridhi-98/github-actions-visualizer) - A web application capable of monitoring and visualizing GitHub actions metrics across the organization by using GitHub API.
+
+*   [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
+
+*   [Alamantus/FeatherWiki](https://github.com/Alamantus/FeatherWiki) - A tiny, self-contained JavaScript wiki that runs in the browser \[MIRROR]
+
+*   [lizhounet/wx-intimate-pro](https://github.com/lizhounet/wx-intimate-pro) - 贴心小助手客户端,微信机器人, 群管理、头像处理、智能机器人对话、好友互动、定时任务，情侣每日说等功能的配置
+
+*   [ArsFy/tg\_channel\_to\_flarum](https://github.com/ArsFy/tg_channel_to_flarum) - 把你的 TG Channel 訊息推送到 Flarum
+
+*   [lgh06/web-page-monitor](https://github.com/lgh06/web-page-monitor) - Web Site Page Changes Monitor. 网站网页页面更新变更监控提醒。
+
+*   [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
+
+*   [zhuchunshu/SForum](https://github.com/zhuchunshu/SForum) - SForum 是一个页面简洁且功能丰富的中文论坛程序
+
+*   [uduakabaci/Paisley](https://github.com/uduakabaci/Paisley) -
+
+*   [Project-And-Factory/BlurLyric](https://github.com/Project-And-Factory/BlurLyric) - 🎵 A simple, beautiful, and user-friendly third-party player for NetEase Cloud Music. | 高颜值，高性能的网易云音乐第三方音乐播放器
+
+*   [GitHub-ZC/wp\_MusicApi](https://github.com/GitHub-ZC/wp_MusicApi) - QQ音乐、酷我音乐、咪咕音乐、酷狗音乐，支持各大排行榜，会员音乐、搜索，QQ音乐逆向，QQ登录，QQ扫码登陆等等的 一款Node.js的音乐接口
+
+*   [LastStranger/unblock\_music](https://github.com/LastStranger/unblock_music) - 网易云音乐unblock Mac版本,零配置, 开箱即用,随关随停
+
+*   [ZLENGANG/fuckCSDN](https://github.com/ZLENGANG/fuckCSDN) - CSDN自动显示博客全文，去掉广告，重置布局，添加背景图片
+
+*   [DeltaFlyerW/DF\_DanmakuExtension](https://github.com/DeltaFlyerW/DF_DanmakuExtension) - 在B站网页端视频及番剧中添加来自动画疯,NicoNico,Twitch,Youtube的弹幕及评论
+
+*   [satopian/poti-kaini-zh-TW](https://github.com/satopian/poti-kaini-zh-TW) - 繪圖留言板PHPscript POTI-board EVO 繁體中文版本 The OekakiBBS for for PaintBBS NEO, tegaki.js,AXNOS Paint,ChickenPaint and Klecks. (PHP7.4 - PHP8.5) https://paintbbs.sakura.ne.jp/poti/
+
+*   [georapbox/rss-feed-reader](https://github.com/georapbox/rss-feed-reader) - A simple RSS Feed Reader based on web technologies (HTML, CSS, JavaScript)
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+
+*   [solo1d/MAC\_OS\_System](https://github.com/solo1d/MAC_OS_System) - MAC系统使用笔记
+
+*   [Louiszhai/tool](https://github.com/Louiszhai/tool) - 开发效率提升：Mac生产力工具链推荐
+
+*   [ocoke/uptime-action](https://github.com/ocoke/uptime-action) - 使用 GitHub Action 检测网站 SSL 证书与可访问性。
+
+*   [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、ChatGPT集成、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
+
+*   [kazuki-sf/YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
+
+*   [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
+
+*   [dengxiwang/funtabs](https://github.com/dengxiwang/funtabs) - funtabs纷彩新标签页（原：趣标签页、方格桌面），缤纷多彩，一改常态，优质高效，为你而来！支持自定义您新标签页上的导航卡片、文章收藏、精美壁纸以及搜索引擎，创建、编辑及分享属于您自己的浏览器标签页,美化您的浏览器主页与newtab新标签页，清新、简约、高度的可自定义操作，让您设置属于您专属的小而美的独特导航页面!
+
+*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+
+*   [lucaszhongsj/fcgame](https://github.com/lucaszhongsj/fcgame) - FC/NES模拟器，在线畅玩八十款任天堂红白机游戏，小霸王游戏机其乐无穷。支持魂斗罗/超级玛丽/双截龙等等几十款任天堂红白机游戏。 非常适合在手机/电脑上在线游玩，近乎完美的还原任天堂FC/NES原版ROM游戏的视频和声音。
+
+*   [jamesmortensen/archiver-for-google-keep](https://github.com/jamesmortensen/archiver-for-google-keep) - Scrapes notes and checklists from Google Keep™ and writes them out as JSON and markdown archive/backup files. This tool is not affiliated or endorsed by Google™. Google Keep™ is a trademark of Google.
+
+*   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
+
+*   [qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet) - 获取城通网盘一次性直连地址
+
+*   [canwdev/page-craft-vite](https://github.com/canwdev/page-craft-vite) - ⛏️ PageCraft 工具箱 - 快速创建 HTML 结构和 SCSS 样式，多语言 JSON 批量编辑器，前端生产力工具    |    ⛏️ PageCraft Toolbox - Quickly create HTML structures and SCSS styles, multi-language JSON batch editor, productivity tools (Inspired by Minecraft)
+
+*   [yylive/YYEVA](https://github.com/yylive/YYEVA) - YYEVA（YY Effect Video Animate）是YYLive推出的一个开源的支持可插入动态元素的MP4动效播放器解决方案，包含设计资源输出的AE插件，客户端渲染引擎，在线预览工具。
+
+*   [MRHRTZ/Tiktok-Scraper-Without-Watermark](https://github.com/MRHRTZ/Tiktok-Scraper-Without-Watermark) - Download Video From Tiktok Without Watermark, With Watermark and Audio Only.
+
+*   [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
+
+*   [baumannzone/baumannzone](https://github.com/baumannzone/baumannzone) - 🤩 My custom README repo, automatically updated with my recent YouTube videos, Instagram photos and blog posts.
+
+*   [panghujiajia/todayhub-web](https://github.com/panghujiajia/todayhub-web) - react+tailwindcss实现的今日热榜
+
+*   [llnancy/netease-music-box](https://github.com/llnancy/netease-music-box) - 🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist。本仓库新增了写入 Markdown 文件功能，可写入 GitHub 个人主页仓库。原仓库地址为 https://github.com/Leecason/netease-music-box
+
+*   [xoobom/wpspaster](https://github.com/xoobom/wpspaster) - 🚀 Free rich text editor image and text pasting.Supports window and mac. 富文本图文粘贴，支持window和mac
+
+*   [fengshangsheng/nice-psdToHTML](https://github.com/fengshangsheng/nice-psdToHTML) - .psd设计稿自动转react、vue、html + .png图片
+
+*   [ESHexoN/ESHexoN](https://github.com/ESHexoN/ESHexoN) - 简洁、强大的 Hexo 在线编辑器 | A Powerful Manager For Hexo
+
+*   [neil-pan-s/text-video](https://github.com/neil-pan-s/text-video) - 文字视频 - 抖音热门文字旋转效果 自动分割文本 随机文字大小、颜色、旋转方向
+
+*   [lylelove/blread](https://github.com/lylelove/blread) - 🍵以哔哩哔哩专栏为后端进行Github Action自动部署的Hexo博客
+
+*   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
+
+*   [rcy1314/GeekBot](https://github.com/rcy1314/GeekBot) - 企业微信机器人主动推送获取信息脚本 | 每日自动推送天气、毒鸡汤、ONE图文、v2ex帖子 & more..
+
 ## Python
 
 *   [cuixiaoyan/SmartCutElf](https://github.com/cuixiaoyan/SmartCutElf) - 智能剪辑的小精灵，体现AI技术和自动化特性
@@ -77,6 +399,8 @@
 *   [foxmooner2021/subtitle-cut](https://github.com/foxmooner2021/subtitle-cut) - 字符级精度的 AI 字幕剪辑工具（AI-based subtitle editor for word-level precise video cutting. ）
 
 *   [victorxys/telegram-twitter-summarizer](https://github.com/victorxys/telegram-twitter-summarizer) - 通过x分享链接到TG-bot，自动总结此推文并回复。便于对推文的收藏与查找
+
+*   [Lewis456/video\_summary](https://github.com/Lewis456/video_summary) - 构建一套智能视频总结系统，实现视频上传后自动完成视频转音频、音频转写文本，并基于大模型输出结构化学习笔记，提升视频内容的获取与整理效率。
 
 *   [zj1123581321/obsidian-clip-api-couchdb](https://github.com/zj1123581321/obsidian-clip-api-couchdb) - 开放一个 api 供 obsidian 剪藏文章，输入 url，自动剪藏+上传图片到自己的图床+企微通知
 
@@ -253,8 +577,6 @@
 *   [IS-Howard/VideoPyDownloader](https://github.com/IS-Howard/VideoPyDownloader) - 影片下載工具
 
 *   [yuzhouxingzou/audio\_trimmer\_baseon\_ass](https://github.com/yuzhouxingzou/audio_trimmer_baseon_ass) - 使用ass字幕文件为基础的音频切片程序
-
-*   [kimwang1978/collect-txt](https://github.com/kimwang1978/collect-txt) - 源 (自动整理)
 
 *   [FlorianEagox/RSSpeak](https://github.com/FlorianEagox/RSSpeak) - Generate audio content from an RSS feed with TTS and voice cloning for my blog!
 
@@ -831,6 +1153,8 @@
 *   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
 
 *   [nas-tool/warpkey](https://github.com/nas-tool/warpkey) - CloudFlare Key Collection Tool CloudFlare WARP KEY收集工具，WARP KEY收集工具，每小时自动更新https://www.wanghaoyu.com.cn/archives/cloudflare-warp-key.html
+
+*   [kimwang1978/collect-txt](https://github.com/kimwang1978/collect-txt) - 源 (自动整理)
 
 *   [worldwonderer/promptdoc](https://github.com/worldwonderer/promptdoc) - Designed to manage a collection of Prompt templates for multiple versions, scenarios, and applicable models.
 
@@ -1412,9 +1736,69 @@
 
 *   [MannyCooper/anzifan.com](https://github.com/MannyCooper/anzifan.com) - Personal blog powered by Notion official API + Next.JS + WindiCSS!
 
-## Vue
+## Swift
 
-*   [Lewis456/video\_summary](https://github.com/Lewis456/video_summary) - 构建一套智能视频总结系统，实现视频上传后自动完成视频转音频、音频转写文本，并基于大模型输出结构化学习笔记，提升视频内容的获取与整理效率。
+*   [Tbxhs/LunarBar](https://github.com/Tbxhs/LunarBar) - 完全免费且开源的 Mac 状态栏极简日历，支持农历、公共假日、系统日历及提醒等功能。
+
+*   [SkyPixel-Studio/Sparkify](https://github.com/SkyPixel-Studio/Sparkify) - A native macOS tool for personally AI prompt management and versioning
+
+*   [976431yang/TransparentSafari](https://github.com/976431yang/TransparentSafari) - Transparent web browser for MacOS, 摸鱼神器-半透明web浏览器
+
+*   [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar) - A compact lunar calendar for your macOS menu bar.
+
+*   [nuance-dev/figura](https://github.com/nuance-dev/figura) - A free macOS native app to remove image backgrounds locally
+
+*   [even-cheng/ECSigner](https://github.com/even-cheng/ECSigner) - iOS签名Mac客户端，iPhone客户端，网页签名，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持最新iOS15，并向下兼容。
+
+*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
+
+*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+
+*   [shaishaicookie/fcpx-auto-captions](https://github.com/shaishaicookie/fcpx-auto-captions) - 🎬 Auto Captions for Final Cut Pro Powered by OpenAI's Whisper Model
+
+*   [hellokuls/macGPT](https://github.com/hellokuls/macGPT) - 一款ChatGPT for Mac原生客户端，一键下载！Develop a ChatGPT Mac client, not a web page integration.
+
+*   [Mnpn/Taberu](https://github.com/Mnpn/Taberu) - A simple RSS feed parser for macOS which lives in the menu bar
+
+## Dart
+
+*   [dsxksss/TodoCat](https://github.com/dsxksss/TodoCat) - Todo Cat 🐱 A beautiful and simple Todo application built with Flutter  |  事项猫 一个简洁UI风格的看板应用
+
+*   [xgd16/x-rss](https://github.com/xgd16/x-rss) - 一个使用 Flutter 构建的跨平台 RSS 订阅阅读器应用，支持 iOS、Android、Web 和桌面平台。
+
+*   [naaammme/pilipro](https://github.com/naaammme/pilipro) - 使用Flutter开发的BiliBili第三方客户端，对piliplus做了最小化修改，增加一些自用功能——自动记录评论和弹幕，应用内小窗等等。小字：pro是PeRsOnal的缩写，非professional
+
+*   [yyyyymmmmm/IntRoot](https://github.com/yyyyymmmmm/IntRoot) - 一款基于 Memos 系统打造第三方安卓iOS的极简笔记应用，专为追求高效记录与深度积累的用户设计。 它帮助你默默书写、静心沉淀，让每一次落笔都成为未来思想生根发芽的力量。  完美对接 Memos 服务器，保障数据安全与私密，适合个人及团队的知识管理需求。 无论是快速捕捉灵感，还是系统性整理思考，墨鸣都助你沉淀积累，厚积薄发。
+
+*   [shichen437/FingerLike](https://github.com/shichen437/FingerLike) - 一个简单的基于 Flutter 构建的鼠标连点器。A simple mouse auto-clicker built with Flutter.
+
+*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 /   A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.
+
+*   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
+
+*   [XFSeven7/SkinSwitcher](https://github.com/XFSeven7/SkinSwitcher) - SkinSwitcher 是一个 macOS 桌面应用，用于快速对应和切换不同文件夹中的图片（如皮肤或外观）。该应用允许用户拖拽图片，快速查看和复制不同文件夹中的对应图片。
+
+*   [zetaloop/keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具 Keyviz 的汉化版。Keyviz Chinese l10n fork.
+
+*   [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
+
+*   [lxpio/omnigram](https://github.com/lxpio/omnigram) - Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading experiences
+
+*   [fregie/pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
+
+*   [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
+
+*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
+
+*   [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
+
+*   [hahastudio/FlutterChat](https://github.com/hahastudio/FlutterChat) - A Flutter project which communicates with OpenAI API
+
+*   [bapaws/answer](https://github.com/bapaws/answer) - 小答是一款基于 ChatGPT API 的开源客户端。Chat Answer is an open source app based on ChatGPT.
+
+*   [iakdis/buhocms](https://github.com/iakdis/buhocms) - A free and open source local CMS for static site generators
+
+## Vue
 
 *   [GHchenjingqi/panda](https://github.com/GHchenjingqi/panda) - Panda，是一款本地壁纸、音乐、文档的管理器，桌面Electron  +  Vue3 + Nodejs
 
@@ -1446,7 +1830,7 @@
 
 *   [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
 
-*   [rcy1314/echo-noise](https://github.com/rcy1314/echo-noise) - #说说 轻量说说笔记系统及memos的开源替代品，这是对于Ech0的二次开发、魔改及完善，属于个人的自定化使用，类似朋友圈风格及一键数据下载备份和恢复上传，视觉上拥有更现代化的ui设计及毛玻璃背景 Ech0 - Noise
+*   [rcy1314/echo-noise](https://github.com/rcy1314/echo-noise) - #说说 轻量说说笔记系统及memos的开源替代品，这是对于Ech0的二次开发、魔改及完善，属于个人的自定化使用，类似朋友圈风格及一键数据下载备份和恢复上传，视觉上拥有更现代化的ui设计及毛玻璃背景 Notes - Noise
 
 *   [machaojin1917939763/mcp-ui](https://github.com/machaojin1917939763/mcp-ui) - 基于MCP(Model Context Protocol)的智能聊天应用，支持Web和桌面环境。集成OpenAI/Anthropic API，提供MCP服务器的所有工具能力。简洁现代的UI设计，支持跨平台部署。
 
@@ -1545,390 +1929,6 @@
 *   [chrisj74/vue-rss-blog](https://github.com/chrisj74/vue-rss-blog) - An embeddable to pull an RSS feed into your website
 
 *   [UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend) - GitScratch 社区前端
-
-*   [imsyy/SNav](https://github.com/imsyy/SNav) - 【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
-
-## Swift
-
-*   [Tbxhs/LunarBar](https://github.com/Tbxhs/LunarBar) - 完全免费且开源的 Mac 状态栏极简日历，支持农历、公共假日、系统日历及提醒等功能。
-
-*   [SkyPixel-Studio/Sparkify](https://github.com/SkyPixel-Studio/Sparkify) - A native macOS tool for personally AI prompt management and versioning
-
-*   [976431yang/TransparentSafari](https://github.com/976431yang/TransparentSafari) - Transparent web browser for MacOS, 摸鱼神器-半透明web浏览器
-
-*   [LunarBar-app/LunarBar](https://github.com/LunarBar-app/LunarBar) - A compact lunar calendar for your macOS menu bar.
-
-*   [nuance-dev/figura](https://github.com/nuance-dev/figura) - A free macOS native app to remove image backgrounds locally
-
-*   [even-cheng/ECSigner](https://github.com/even-cheng/ECSigner) - iOS签名Mac客户端，iPhone客户端，网页签名，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持最新iOS15，并向下兼容。
-
-*   [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
-
-*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
-
-*   [shaishaicookie/fcpx-auto-captions](https://github.com/shaishaicookie/fcpx-auto-captions) - 🎬 Auto Captions for Final Cut Pro Powered by OpenAI's Whisper Model
-
-*   [hellokuls/macGPT](https://github.com/hellokuls/macGPT) - 一款ChatGPT for Mac原生客户端，一键下载！Develop a ChatGPT Mac client, not a web page integration.
-
-*   [Mnpn/Taberu](https://github.com/Mnpn/Taberu) - A simple RSS feed parser for macOS which lives in the menu bar
-
-## Dart
-
-*   [dsxksss/TodoCat](https://github.com/dsxksss/TodoCat) - Todo Cat 🐱 A beautiful and simple Todo application built with Flutter  |  事项猫 一个简洁UI风格的看板应用
-
-*   [xgd16/x-rss](https://github.com/xgd16/x-rss) - 一个使用 Flutter 构建的跨平台 RSS 订阅阅读器应用，支持 iOS、Android、Web 和桌面平台。
-
-*   [naaammme/pilipro](https://github.com/naaammme/pilipro) - 使用Flutter开发的BiliBili第三方客户端，对piliplus做了最小化修改，增加一些自用功能——自动记录评论和弹幕，应用内小窗等等。小字：pro是PeRsOnal的缩写，非professional
-
-*   [yyyyymmmmm/IntRoot](https://github.com/yyyyymmmmm/IntRoot) - 一款基于 Memos 系统打造第三方安卓iOS的极简笔记应用，专为追求高效记录与深度积累的用户设计。 它帮助你默默书写、静心沉淀，让每一次落笔都成为未来思想生根发芽的力量。  完美对接 Memos 服务器，保障数据安全与私密，适合个人及团队的知识管理需求。 无论是快速捕捉灵感，还是系统性整理思考，墨鸣都助你沉淀积累，厚积薄发。
-
-*   [shichen437/FingerLike](https://github.com/shichen437/FingerLike) - 一个简单的基于 Flutter 构建的鼠标连点器。A simple mouse auto-clicker built with Flutter.
-
-*   [GhostenEditor/Ghosten-Player](https://github.com/GhostenEditor/Ghosten-Player) - 一个视频播放器，支持网盘直连、元数据刮削、IPTV、文件管理等 /   A video player that supports direct connection to network disk, metadata scraping, IPTV, file management, etc.
-
-*   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
-
-*   [XFSeven7/SkinSwitcher](https://github.com/XFSeven7/SkinSwitcher) - SkinSwitcher 是一个 macOS 桌面应用，用于快速对应和切换不同文件夹中的图片（如皮肤或外观）。该应用允许用户拖拽图片，快速查看和复制不同文件夹中的对应图片。
-
-*   [zetaloop/keyviz](https://github.com/zetaloop/keyviz) - 免费开源按键可视化工具 Keyviz 的汉化版。Keyviz Chinese l10n fork.
-
-*   [Xiang-cd/THU-downloader](https://github.com/Xiang-cd/THU-downloader) - 一个支持UI界面的清华云盘个人仓库批量下载, 链接批量下载，邮箱邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
-
-*   [lxpio/omnigram](https://github.com/lxpio/omnigram) - Omnigram is a Flutter-based file reader and audiobook . It accommodates  EPUB and PDF and offers audiobook functionality, supporting TTS model and other AI chat technologies for enhanced reading experiences
-
-*   [fregie/pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
-
-*   [guardllamanet/guardllama](https://github.com/guardllamanet/guardllama) - The Ultimate Open-Source VPN, Ad-blocker and DNS resolver :llama::shield:
-
-*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
-
-*   [vedfi/mondroid](https://github.com/vedfi/mondroid) - Mongodb Client w/ Flutter
-
-*   [hahastudio/FlutterChat](https://github.com/hahastudio/FlutterChat) - A Flutter project which communicates with OpenAI API
-
-*   [bapaws/answer](https://github.com/bapaws/answer) - 小答是一款基于 ChatGPT API 的开源客户端。Chat Answer is an open source app based on ChatGPT.
-
-*   [iakdis/buhocms](https://github.com/iakdis/buhocms) - A free and open source local CMS for static site generators
-
-## JavaScript
-
-*   [MaskerPRC/everything-ai-chat](https://github.com/MaskerPRC/everything-ai-chat) - 一个现代化的 Everything 搜索客户端，将 AI 智能与极速本地搜索完美结合。
-
-*   [aydomini/pebble-drive](https://github.com/aydomini/pebble-drive) - 基于 Cloudflare Workers + R2 + D1 + KV 的现代化云存储解决方案，完全免费的私人云盘
-
-*   [Luoevanescence/word-wonderland](https://github.com/Luoevanescence/word-wonderland) - 一个现代化的英语学习平台，包含单词管理、短语、句子、句型和主题学习功能。
-
-*   [wxaiway/nce-web](https://github.com/wxaiway/nce-web) - 一个现代化的新概念英语在线点读应用，提供流畅的学习体验和丰富的功能。
-
-*   [XiaoLuoTian189/LanQiao](https://github.com/XiaoLuoTian189/LanQiao) - 一个开源的本地网盘系统，有了它您可以轻松的将让您的电脑和所有同一WIFI下的设备共享文件！
-
-*   [SiyuanJia/brief](https://github.com/SiyuanJia/brief) - 一键将新闻链接转化为精美的财经简报，集成AI内容提炼、智能高亮、NanoBanana插图生成和长图导出功能
-
-*   [wubh2012/navsite](https://github.com/wubh2012/navsite) - 【水果导航】一个基于飞书多维表格数据的导航网站
-
-*   [Standed/n8n-nodes-weixin-wechat](https://github.com/Standed/n8n-nodes-weixin-wechat) - 最简化的n8n微信发送插件，支持企微机器人和个人微信两种方式，个人微信基于页面自动化。
-
-*   [4evergr8/WorkerRSS](https://github.com/4evergr8/WorkerRSS) - 利用CFworker实现RSSHub
-
-*   [pprunbot/HomePage](https://github.com/pprunbot/HomePage) - HomePage 使用Nodejs构建，美观、轻量化的个人主页
-
-*   [tangchunwu/blinko-smart-collector](https://github.com/tangchunwu/blinko-smart-collector) - 🚀 智能收集网页内容到Blinko的Chrome扩展，支持AI总结和智能分类
-
-*   [Ed1s0nZ/loopy\_search](https://github.com/Ed1s0nZ/loopy_search) - 真的非常好用，并且在不断优化！！！！AI划词搜索是一个智能的 Chrome 浏览器扩展，它能让你在浏览网页时快速获取 AI 对选中文本的解释和翻译。通过支持 OpenAI 协议，它可以连接到各种 AI 服务，为你提供即时的智能解答。
-
-*   [YangShengzhou03/Jobs\_helper](https://github.com/YangShengzhou03/Jobs_helper) - 海投助手是一款为求职者打造的浏览器脚本插件，可以提升求职效率。初期聚焦于 Boss直聘 平台，通过自动化简历投递、AI智能回复HR消息等功能，帮助用户减少大量重复性操作，显著提高投递效率。
-
-*   [hu-qi/starReport](https://github.com/hu-qi/starReport) - starReport 是一个用于自动生成和管理指定 GitHub 仓库 star、commit、issue 等活跃度报告的 Node.js 工具，支持 MCP 协议服务，集成大模型智能分析，并可自动推送到飞书群。
-
-*   [hmjz100/123panYouthMember](https://github.com/hmjz100/123panYouthMember) - 123 云盘会员青春版 - 可超 1GB 上限下载，模拟 123 云盘会员，还支持隐藏广告、使用视频倍速、修改头像、修改用户名、修改等级等功能；123云盘下载辅助增强脚本 - “解锁”123云盘下载
-
-*   [TheSummerRain/sunflower-image-compressor](https://github.com/TheSummerRain/sunflower-image-compressor) - 开源免费的最佳图片压缩小工具，支持多种图片压缩，支持批量压缩，支持macos和windows的客户端应用
-
-*   [rcy1314/rss-server-ag](https://github.com/rcy1314/rss-server-ag) - 一个便捷的rss聚合订阅api服务
-
-*   [LeoMorrison2001/max\_personal\_website\_react](https://github.com/LeoMorrison2001/max_personal_website_react) - 该项目是我的个人主页，使用React书写。
-
-*   [FtsCloud/Tranzy](https://github.com/FtsCloud/Tranzy) - 专业的网页前端国际化解决方案，JavaScript自动翻译库，用于将网页自动翻译为各国语言，支持智能缓存和可定制的配置。 Professional web front-end internationalization solution, JavaScript automatic translation library for automatic translation of web pages into various languages, support for smart caching and customizable configuration.
-
-*   [CrowCooper/BookmarkAI](https://github.com/CrowCooper/BookmarkAI) - 一个智能书签管理器Chrome扩展，使用AI自动整理书签，检测无效和重复链接
-
-*   [2013888483/WeChatAssistant](https://github.com/2013888483/WeChatAssistant) - 微信智能助手插件系统是一个模块化、可扩展的框架，允许通过插件形式添加新功能。
-
-*   [Particaly/mail-notify-service](https://github.com/Particaly/mail-notify-service) - 一个基于 Webhook 的邮件通知服务，可以通过 HTTP 请求触发邮件发送。支持模板变量，可以从请求中获取动态内容。
-
-*   [idev-sig/navside](https://github.com/idev-sig/navside) - 一个简洁、优雅且高效的 Hugo 网址导航主题 https://navside.ooos.top/
-
-*   [wristwaking/doraemon-desktop-pet](https://github.com/wristwaking/doraemon-desktop-pet) - 这是一款Doraemon机器猫主题桌面电子宠物，基于前端electron框架实现快速搭建，可调整素材图片进行个性化UI重构，内置百度智能云千帆大模型文字互动功能。
-
-*   [howoii/SmartBookmark](https://github.com/howoii/SmartBookmark) - 一款基于 AI 的智能书签管理插件
-
-*   [machaojin1917939763/Dify-WebUI](https://github.com/machaojin1917939763/Dify-WebUI) - 由 Dify API 驱动的前沿桌面智能对话应用，具备企业级人工智能对话能力。这款应用拥有主题定制、知识库管理以及多场景应用等显著功能。​ 如今，我们进行了重大升级，新增对 OpenAI 格式输出的支持。这意味着，它能够与市面上所有遵循 OpenAI 格式的人工智能模型无缝对接。不管您使用的是知名供应商的模型，比如提供可靠且可扩展云端解决方案的 Azure OpenAI，还是以先进自然语言处理能力闻名的 Cohere，又或是专注于人工智能安全与伦理的 Anthropic 等众多供应商的模型，我们的应用都能满足需求。这种拓展后的兼容性，确保您可以在我们直观且功能丰富的桌面应用中，充分发挥您心仪的符合 OpenAI 标准的模型的强大效能。
-
-*   [leaferjs/LeaferJS](https://github.com/leaferjs/LeaferJS) - 绚丽多彩的 HTML5 Canvas 2D 图形渲染引擎， 可结合 AI 绘图、生成界面。能让你拥有瞬间创建 100 万个图形的超强能力，免费开源、易学易用、场景丰富。
-
-*   [BobH233/BITSuperGPT-client](https://github.com/BobH233/BITSuperGPT-client) - 一个能够在本地共享Plus账号，避免OpenAI标记降智前提下，使用原生网页版ChatGPT Plus的项目
-
-*   [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
-
-*   [apconw/sanic-web](https://github.com/apconw/sanic-web) - 一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen3等大模型 基于 Dify 、LangChain/LangGraph、Ollama\&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以支持广泛的通用知识问答。
-
-*   [workbunny/bunny-ui](https://github.com/workbunny/bunny-ui) - 🐇一套 HTMX 开发模式的 Web UI 组件库，易上手，可以更简单快速地构建网页界面。
-
-*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
-
-*   [juerson/workersAI-convert-chatCompletions-API](https://github.com/juerson/workersAI-convert-chatCompletions-API) - Cloudflare Workers/Pages部署代码，功能：将Workers AI的文本生成模型的调用接口转换为 “/v1/chat/completions” 接口，提供给其它软件调用。
-
-*   [james-a-rob/KodaStream](https://github.com/james-a-rob/KodaStream) - Headless shoppable video platform
-
-*   [comeonzhj/article2card](https://github.com/comeonzhj/article2card) - 一个把长文转款成摘要卡片/图片的前端应用，使用 Kimi 对文章进行结构化总结。
-
-*   [tuzirpa/tuziRobot](https://github.com/tuzirpa/tuziRobot) - 兔子rpa 搭积木方式构建自动化流程
-
-*   [bajiuguiyi/notecard](https://github.com/bajiuguiyi/notecard) - 笔记卡片生成器
-
-*   [zjrwtx/SFT-data-builder](https://github.com/zjrwtx/SFT-data-builder) - 利用免费的大模型api来结合你的私域数据来生成sft训练数据（妥妥白嫖）支持llamafactory等工具的训练数据格式synthetic data
-
-*   [4444TENSEI/AlistUploaderJS](https://github.com/4444TENSEI/AlistUploaderJS) - 纯前端实现多种云储存便捷文件上传JS库。支持CDN引入，简单配置即可使用。原理是调用个人部署的Alist接口，从而无需额外实现后端文件上传接口，可手动在服务端控制角色权限。附带详细的上传进度、速率、上传完毕预计时间等数据反馈。
-
-*   [SaKongA/Upper](https://github.com/SaKongA/Upper) - 一个简洁的小红书蒲公英账号运营批量概览程序
-
-*   [z394339702/xhs\_gpt](https://github.com/z394339702/xhs_gpt) - 小红书gpt，根据每一篇笔记回答你的问题，避免每一个点开才发现没有你搜索的内容。
-
-*   [ShawnZeng1996/reborn](https://github.com/ShawnZeng1996/reborn) - Typecho仿微信主题reborn
-
-*   [urin/vscode-web-visual-editor](https://github.com/urin/vscode-web-visual-editor) - Edit HTML files visually.
-
-*   [RavelloH/rss-aggregator](https://github.com/RavelloH/rss-aggregator) - RSS聚合器，将多个rss源(本地或url)聚合在同一个rss中
-
-*   [xyz349925756/Typora-Mid](https://github.com/xyz349925756/Typora-Mid) - Typora-Mid 是一个不一样的 typora 主题。目前有typora-mid-d|typora-mid-l 两套主题，添加了很多样式参考readme。
-
-*   [xieyumc/jyySlideWeb](https://github.com/xieyumc/jyySlideWeb) - 网页实时Markdown转换为Slide幻灯片，主题灵感来源于南京大学蒋炎岩jyy老师
-
-*   [beffiy/popclip-usememos-extension](https://github.com/beffiy/popclip-usememos-extension) - A simple popclip extension for usememos to create new memo.
-
-*   [lizhenwen/qzone-download-photos](https://github.com/lizhenwen/qzone-download-photos) - qzone照片，qq空间照片，qzone相册，qq空间相册，备份脚本工具
-
-*   [rcy1314/nav-manage](https://github.com/rcy1314/nav-manage) - Nav-manage 为静态导航带来强大的管理扩展
-
-*   [ChinaGodMan/UserScripts](https://github.com/ChinaGodMan/UserScripts) - 🐒一些修改自网络的油猴脚本 Some Tampermonkey scripts modified from the internet
-
-*   [shengplus-2024/wechat-video-collect](https://github.com/shengplus-2024/wechat-video-collect) - 微信视频号采集
-
-*   [siquan001/mymusicbox2](https://github.com/siquan001/mymusicbox2) - 一个web音乐盒子
-
-*   [luiguangguan/cf\_worker\_subconvert](https://github.com/luiguangguan/cf_worker_subconvert) - 基于cloudflare的一个订阅转换服务，依赖第三方订阅服。订阅转换时会修改节点的服务器地址和密码等敏感信息为随机值，防止第三方窃取
-
-*   [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) - Transparent Proxy with Mihomo on OpenWrt.
-
-*   [CH563/image-beautifier](https://github.com/CH563/image-beautifier) - 在线截图美化工具，支持添加批注，裁剪，局部放大等，并预设各社媒尺寸和导出高清图
-
-*   [siddhant-vij/Content-Amplify-Hub](https://github.com/siddhant-vij/Content-Amplify-Hub) - Automated content cross posting from Notion Database to Dev.to, Hashnode, Medium, Twitter, and LinkedIn using GitHub Actions.
-
-*   [FengMengZhao/AiTransformEnhancer](https://github.com/FengMengZhao/AiTransformEnhancer) - AI驱动，自然语言为输入，chat的方式，激发文本转换、图片生成、智能阅读、音视频生成等生产效率。Utools插件链接：https://u.tools/plugins/detail/AI%20Transform%20Box/?c=lsabf3sl7c
-
-*   [xieyumc/YuYuWechat](https://github.com/xieyumc/YuYuWechat) - 一个让微信（非WEB版）定时循环发送消息/文件（cron表达式精确到分钟），批量群发消息，定时检查聊天记录的小工具🚀，提供了简易直观的界面，并支持邮箱报警等功能，可部署到任意平台
-
-*   [rcy1314/noisework](https://github.com/rcy1314/noisework) - #主页 #引导页 ⭐️多模式个人主页展示页，🌈带pwa模式，多组件效果，可随时切换的引导页🎉 添加右键弹出菜单，RSS动态文章卡片，视频播放📫ADS广告位
-
-*   [Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive) - Blue Archive主题博客，基于VitePress，绝赞画饼中
-
-*   [hmllsnow/escape-wechat](https://github.com/hmllsnow/escape-wechat) - 微信助手，登录微信bot和配置管理页面
-
-*   [veasion/ppt2json](https://github.com/veasion/ppt2json) - PPT 文件解析为 JSON，并在前端渲染，支持修改 JSON 后反渲染为PPT文件。The PPT file is parsed into JSON and rendered on the front end, supporting modifications to the JSON and re-rendering it back into a PPT file.
-
-*   [MCDFsteve/NipaPlay](https://github.com/MCDFsteve/NipaPlay) - Nipaplay 一款跨平台（Windows Linux macOS）本地弹幕视频播放器。弹弹play 的mac代餐。主要平台为macOS，也是基于macOS开发，其他平台仅做移植。
-
-*   [fisherdaddy/FisherAI](https://github.com/fisherdaddy/FisherAI) -  FisherAI 是一款为提高学习效率而设计的Chrome插件，通过一键操作，支持自动摘要、网页及视频翻译、多轮对话等功能。此外，FisherAI 支持多种大语言模型，包括但不限于openai/gemini/deepseek/openrouter/siliconflow/doubao/xai/mistral/groq/yi/moonshot等等，为用户提供灵活且强大的AI工具。
-
-*   [tans/pug](https://github.com/tans/pug) - PUG微信机器人 -  简单有趣的机器人，主要功能包括微信群发言统计，邀请统计，群收藏夹等，还有小游戏等有趣的群运营功能。 产品设计以监听辅助为主，安全可靠耐造。
-
-*   [1nfiniteloop/json-bookmarks](https://github.com/1nfiniteloop/json-bookmarks) - Browser extension for Mozilla Firefox and Chrome for importing and exporting bookmarks with a json file
-
-*   [gd03champ/llm4sql](https://github.com/gd03champ/llm4sql) - Bridging the Gap Between AI and SQL Databases
-
-*   [JWalshe86/Nags-With-Notions2.0](https://github.com/JWalshe86/Nags-With-Notions2.0) - Nags with Notions Website with both backend and frontend functionality. Live site:
-
-*   [zazencodes/notion-obsidian-sync-zazencodes](https://github.com/zazencodes/notion-obsidian-sync-zazencodes) - Copy markdown files to Notion databases using the API
-
-*   [embernet/sidekick](https://github.com/embernet/sidekick) - Sidekick is an AI powered tool that uses the OpenAI API and GPT-4 model for thinking, exploring ideas, problem-solving, knowledge-building, and getting things done.
-
-*   [larkwins/grpc-webui](https://github.com/larkwins/grpc-webui) - 👨‍💻Like Postman, but for gRPC: web based GUI client for gRPC Development Testing
-
-*   [liu-ziting/PetThoughts](https://github.com/liu-ziting/PetThoughts) - I know what your pet is thinking - gemini
-
-*   [DoingDog/chatgpt-proxy-cloudflare-worker](https://github.com/DoingDog/chatgpt-proxy-cloudflare-worker) - Cloudflare Worker 反向代理 ChatGPT API，支持流式输出，支持联网搜索功能，支持设置访问密码
-
-*   [wmz1024/WRSS-OJS](https://github.com/wmz1024/WRSS-OJS) - WRSS - MD风格的RSS订阅器
-
-*   [good-lly/lowstorage](https://github.com/good-lly/lowstorage) - 💾 Simple, fast, object pseudo-database for S3-compatible storages using JSON or Msgpack
-
-*   [obgnail/typora\_plugin](https://github.com/obgnail/typora_plugin) - Typora plugin. Feature enhancement tool | Typora 插件，功能增强工具
-
-*   [walkthunder/action-wecom-webhook](https://github.com/walkthunder/action-wecom-webhook) - 🚀 GitHub Action that sends a WeCom Work notification.
-
-*   [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - An easy 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.
-
-*   [liudding/notion-portal](https://github.com/liudding/notion-portal) - A portal site built with notion and nextjs  基于 Notion 的导航网站，支持自建，自定义主题
-
-*   [SenpaiHunters/SpotOn](https://github.com/SenpaiHunters/SpotOn) - SpotOn, a browser extension for Spotify. Including full custom toggles and user settings! For more info check out the README.md! Happy Spotting!
-
-*   [nicokruger/linkyrss](https://github.com/nicokruger/linkyrss) - LinkyRSS is an open-source project that solves bookmarking by combining RSS + AI.
-
-*   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-
-*   [tl-open-source/tl-rtc-file](https://github.com/tl-open-source/tl-rtc-file) - WebRTC P2P online web media streaming tool (for files, video, screen, live streaming, text) with management and statistical monitoring capabilities.
-
-*   [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) - 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
-
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-*   [bartbzd/todo-list](https://github.com/bartbzd/todo-list) - To-Do List
-
-*   [cesarhuret/docGPT](https://github.com/cesarhuret/docGPT) - ChatGPT directly within Google Docs as an Editor Add-on 📑
-
-*   [azu/github-label-setup](https://github.com/azu/github-label-setup) - 📦 Setup GitHub label without configuration.
-
-*   [op7418/Prompt-hunter](https://github.com/op7418/Prompt-hunter) - Save the Prompt and images from the Midjourney details page to your Notion page
-
-*   [traceless/alist-encrypt](https://github.com/traceless/alist-encrypt) - 这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能，同时在 webdav 下的操作透明，自动实现文件资源的加解密。
-
-*   [ShaigroRB/freetchio](https://github.com/ShaigroRB/freetchio) - Find all free elements from itch.io due to 100% discounts
-
-*   [SivanLaai/blog](https://github.com/SivanLaai/blog) - 本地写hugo博客，快捷键Crtl + U快速发布并自动部署网页。
-
-*   [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone \&iPad 、TikTok\&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
-
-*   [BeautyyuYanli/full-mark-composition-generator](https://github.com/BeautyyuYanli/full-mark-composition-generator) - 将专业术语和名人名言以随机报菜名的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
-
-*   [RudyBekker/mailverifier](https://github.com/RudyBekker/mailverifier) - Free Bulk Email Verifier
-
-*   [zhuweiyou/chatgpt-api](https://github.com/zhuweiyou/chatgpt-api) - 封装 OpenAI 网页版最新 ChatGPT 接口, 不需要使用 API Key, 完全免费
-
-*   [clean-css/clean-css](https://github.com/clean-css/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
-
-*   [eunomia-bpf/chatrepo](https://github.com/eunomia-bpf/chatrepo) - A Github App to chat with Your GitHub Repo's Issues Using ChatGPT
-
-*   [kholmogorov27/chevron](https://github.com/kholmogorov27/chevron) - Powerful and highly functional startpage integrated with chatGPT and hidden under the super minimalistic and animated design (static/hosted/github pages)
-
-*   [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
-
-*   [s-a/sonic-sound-picture](https://github.com/s-a/sonic-sound-picture) - Sonic Sound Picture (SSP) is a free, offline, and customizable music/audio visualizer software. With a range of templates to choose from, users can easily create stunning audio-visual experiences in just a few simple steps. SSP also allows users to create their own templates, giving them endless possibilities to bring their music to life.
-
-*   [myan0020/webrtc-group-chat-demo](https://github.com/myan0020/webrtc-group-chat-demo) - A web application to realize P2P features including video calling, screen sharing, text messaging and file transceiving with low lantency
-
-*   [amitmerchant1990/linksnatch](https://github.com/amitmerchant1990/linksnatch) - Dead simple bookmarks
-
-*   [Jarrettluo/all-docs-vue](https://github.com/Jarrettluo/all-docs-vue) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information. “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。
-
-*   [smallnew666/ChatGPT-wxapp](https://github.com/smallnew666/ChatGPT-wxapp) - ChatGPT微信小程序源码
-
-*   [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) - 给飞书准备的 ChatGPT 机器人
-
-*   [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
-
-*   [orion-tan/NavWebSite](https://github.com/orion-tan/NavWebSite) - 一个简单的导航网站，使用 Json 做数据源。
-
-*   [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-
-*   [tabhub/rss-feeds](https://github.com/tabhub/rss-feeds) - RSS feeds created/collected by TabHub.
-
-*   [buildspace/buildspace-projects](https://github.com/buildspace/buildspace-projects) - The home of our open-source projects.
-
-*   [delta1037/notion-export-client](https://github.com/delta1037/notion-export-client) - Notion备份客户端工具，将指定Notion page单向转换为本地markdown文件 | Notion backup client, backup some page to markdown files self-struct
-
-*   [itorr/anime-grid](https://github.com/itorr/anime-grid) - 🤖「动画生涯个人喜好表生成器」
-
-*   [ChuksJoshuaa/OpenAI-Project](https://github.com/ChuksJoshuaa/OpenAI-Project) - With an elegant user interface that resembles the ChatGPT app, communication with advanced GPT3 model API, and most importantly, the ability to ask the AI for help regarding JavaScript, React, or any other programming language, giving it code and translating it to another programming language, and much more
-
-*   [Aicirou/goindex-theme-acrou](https://github.com/Aicirou/goindex-theme-acrou) - Google-Drive-Directory-Index | Combining the power of Cloudflare Workers and Google Drive API will allow you to index your Google Drive files on the browser.
-
-*   [noobmaster432/khabrAI](https://github.com/noobmaster432/khabrAI) - An Artificial Intelligence React News Application that utilizes Alan AI for speech recognition, pulling data from News API and Material-UI for the user interface. The application enables users to control every aspect of the app using just their voice.
-
-*   [Samridhi-98/github-actions-visualizer](https://github.com/Samridhi-98/github-actions-visualizer) - A web application capable of monitoring and visualizing GitHub actions metrics across the organization by using GitHub API.
-
-*   [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
-
-*   [Alamantus/FeatherWiki](https://github.com/Alamantus/FeatherWiki) - A tiny, self-contained JavaScript wiki that runs in the browser \[MIRROR]
-
-*   [lizhounet/wx-intimate-pro](https://github.com/lizhounet/wx-intimate-pro) - 贴心小助手客户端,微信机器人, 群管理、头像处理、智能机器人对话、好友互动、定时任务，情侣每日说等功能的配置
-
-*   [ArsFy/tg\_channel\_to\_flarum](https://github.com/ArsFy/tg_channel_to_flarum) - 把你的 TG Channel 訊息推送到 Flarum
-
-*   [lgh06/web-page-monitor](https://github.com/lgh06/web-page-monitor) - Web Site Page Changes Monitor. 网站网页页面更新变更监控提醒。
-
-*   [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
-
-*   [zhuchunshu/SForum](https://github.com/zhuchunshu/SForum) - SForum 是一个页面简洁且功能丰富的中文论坛程序
-
-*   [uduakabaci/Paisley](https://github.com/uduakabaci/Paisley) -
-
-*   [Project-And-Factory/BlurLyric](https://github.com/Project-And-Factory/BlurLyric) - 🎵 A simple, beautiful, and user-friendly third-party player for NetEase Cloud Music. | 高颜值，高性能的网易云音乐第三方音乐播放器
-
-*   [GitHub-ZC/wp\_MusicApi](https://github.com/GitHub-ZC/wp_MusicApi) - QQ音乐、酷我音乐、咪咕音乐、酷狗音乐，支持各大排行榜，会员音乐、搜索，QQ音乐逆向，QQ登录，QQ扫码登陆等等的 一款Node.js的音乐接口
-
-*   [LastStranger/unblock\_music](https://github.com/LastStranger/unblock_music) - 网易云音乐unblock Mac版本,零配置, 开箱即用,随关随停
-
-*   [ZLENGANG/fuckCSDN](https://github.com/ZLENGANG/fuckCSDN) - CSDN自动显示博客全文，去掉广告，重置布局，添加背景图片
-
-*   [DeltaFlyerW/DF\_DanmakuExtension](https://github.com/DeltaFlyerW/DF_DanmakuExtension) - 在B站网页端视频及番剧中添加来自动画疯,NicoNico,Twitch,Youtube的弹幕及评论
-
-*   [satopian/poti-kaini-zh-TW](https://github.com/satopian/poti-kaini-zh-TW) - 繪圖留言板PHPscript POTI-board EVO 繁體中文版本 The OekakiBBS for for PaintBBS NEO, tegaki.js,AXNOS Paint,ChickenPaint and Klecks. (PHP7.4 - PHP8.5) https://paintbbs.sakura.ne.jp/poti/
-
-*   [georapbox/rss-feed-reader](https://github.com/georapbox/rss-feed-reader) - A simple RSS Feed Reader based on web technologies (HTML, CSS, JavaScript)
-
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-
-*   [solo1d/MAC\_OS\_System](https://github.com/solo1d/MAC_OS_System) - MAC系统使用笔记
-
-*   [Louiszhai/tool](https://github.com/Louiszhai/tool) - 开发效率提升：Mac生产力工具链推荐
-
-*   [ocoke/uptime-action](https://github.com/ocoke/uptime-action) - 使用 GitHub Action 检测网站 SSL 证书与可访问性。
-
-*   [JimHans/live2d-kanban-desktop](https://github.com/JimHans/live2d-kanban-desktop) - 基于Electron制作的桌面看板娘，支持日程提醒、小窗模式、ChatGPT集成、网页搜索、本地moc模型加载与独立设置界面等  | An AI Based live2d Kanban for Desktop Users Using Electron
-
-*   [kazuki-sf/YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
-
-*   [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
-
-*   [dengxiwang/funtabs](https://github.com/dengxiwang/funtabs) - funtabs纷彩新标签页（原：趣标签页、方格桌面），缤纷多彩，一改常态，优质高效，为你而来！支持自定义您新标签页上的导航卡片、文章收藏、精美壁纸以及搜索引擎，创建、编辑及分享属于您自己的浏览器标签页,美化您的浏览器主页与newtab新标签页，清新、简约、高度的可自定义操作，让您设置属于您专属的小而美的独特导航页面!
-
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
-
-*   [lucaszhongsj/fcgame](https://github.com/lucaszhongsj/fcgame) - FC/NES模拟器，在线畅玩八十款任天堂红白机游戏，小霸王游戏机其乐无穷。支持魂斗罗/超级玛丽/双截龙等等几十款任天堂红白机游戏。 非常适合在手机/电脑上在线游玩，近乎完美的还原任天堂FC/NES原版ROM游戏的视频和声音。
-
-*   [jamesmortensen/archiver-for-google-keep](https://github.com/jamesmortensen/archiver-for-google-keep) - Scrapes notes and checklists from Google Keep™ and writes them out as JSON and markdown archive/backup files. This tool is not affiliated or endorsed by Google™. Google Keep™ is a trademark of Google.
-
-*   [Bleu404/PotplayerPanVideo](https://github.com/Bleu404/PotplayerPanVideo) - 利用第三方webdav网盘，实现在potplayer播放百度、迅雷、阿里云盘视频。
-
-*   [qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet) - 获取城通网盘一次性直连地址
-
-*   [canwdev/page-craft-vite](https://github.com/canwdev/page-craft-vite) - ⛏️ PageCraft 工具箱 - 快速创建 HTML 结构和 SCSS 样式，多语言 JSON 批量编辑器，前端生产力工具    |    ⛏️ PageCraft Toolbox - Quickly create HTML structures and SCSS styles, multi-language JSON batch editor, productivity tools (Inspired by Minecraft)
-
-*   [yylive/YYEVA](https://github.com/yylive/YYEVA) - YYEVA（YY Effect Video Animate）是YYLive推出的一个开源的支持可插入动态元素的MP4动效播放器解决方案，包含设计资源输出的AE插件，客户端渲染引擎，在线预览工具。
-
-*   [MRHRTZ/Tiktok-Scraper-Without-Watermark](https://github.com/MRHRTZ/Tiktok-Scraper-Without-Watermark) - Download Video From Tiktok Without Watermark, With Watermark and Audio Only.
-
-*   [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
-
-*   [baumannzone/baumannzone](https://github.com/baumannzone/baumannzone) - 🤩 My custom README repo, automatically updated with my recent YouTube videos, Instagram photos and blog posts.
-
-*   [panghujiajia/todayhub-web](https://github.com/panghujiajia/todayhub-web) - react+tailwindcss实现的今日热榜
-
-*   [llnancy/netease-music-box](https://github.com/llnancy/netease-music-box) - 🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist。本仓库新增了写入 Markdown 文件功能，可写入 GitHub 个人主页仓库。原仓库地址为 https://github.com/Leecason/netease-music-box
-
-*   [xoobom/wpspaster](https://github.com/xoobom/wpspaster) - 🚀 Free rich text editor image and text pasting.Supports window and mac. 富文本图文粘贴，支持window和mac
-
-*   [fengshangsheng/nice-psdToHTML](https://github.com/fengshangsheng/nice-psdToHTML) - .psd设计稿自动转react、vue、html + .png图片
-
-*   [ESHexoN/ESHexoN](https://github.com/ESHexoN/ESHexoN) - 简洁、强大的 Hexo 在线编辑器 | A Powerful Manager For Hexo
-
-*   [neil-pan-s/text-video](https://github.com/neil-pan-s/text-video) - 文字视频 - 抖音热门文字旋转效果 自动分割文本 随机文字大小、颜色、旋转方向
-
-*   [lylelove/blread](https://github.com/lylelove/blread) - 🍵以哔哩哔哩专栏为后端进行Github Action自动部署的Hexo博客
-
-*   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
-
-*   [rcy1314/GeekBot](https://github.com/rcy1314/GeekBot) - 企业微信机器人主动推送获取信息脚本 | 每日自动推送天气、毒鸡汤、ONE图文、v2ex帖子 & more..
 
 ## C
 
