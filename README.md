@@ -66,6 +66,8 @@
 
 *   [deletexiumu/screen-analyzer](https://github.com/deletexiumu/screen-analyzer) - 🖥️ 基于 Tauri + Rust 的 AI 屏幕活动分析器。自动截屏记录、LLM 智能分析、生成时间线视频。灵感来自 Dayflow。100% AI 编程实现（Claude Code + Codex），零人工代码。隐私优先，数据完全本地化。
 
+*   [chen-zeong/DTV](https://github.com/chen-zeong/DTV) - 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
+
 *   [iKineticate/LinkEcho](https://github.com/iKineticate/LinkEcho) - 随心批量更换/恢复快捷方式图标，个性化自定义图标设计 ( Batch replace/restore shortcuts icons as you wish,  personalized custom icon design)
 
 *   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -148,7 +150,7 @@
 
 ## Python
 
-*   [ipvoov/Craft-Agent](https://github.com/ipvoov/Craft-Agent) - Craft-Agent是一个集「深度研究助手」与「一键建站引擎」于一体的智  - 深度研究- 网站生成。现代前后端架构：FastAPI + LangGraph/LangChain 后端，Next.js + TypeScript + shadcn/ui 前端
+*   [ipvoov/Craft-Agent](https://github.com/ipvoov/Craft-Agent) - Craft-Agent是一个集「深度研究助手」与「一键建站引擎」于一体的智能体  - 深度研究- 网站生成。现代前后端架构：FastAPI + LangGraph/LangChain 后端，Next.js + TypeScript + shadcn/ui 前端
 
 *   [cuixiaoyan/SmartCutElf](https://github.com/cuixiaoyan/SmartCutElf) - 智能剪辑的小精灵，体现AI技术和自动化特性
 
@@ -1498,7 +1500,7 @@
 
 *   [bilicapr/Pulse](https://github.com/bilicapr/Pulse) - Pulse 是一个极简、实时的多设备状态监控系统。它能将你当前的活动状态（如正在写代码、玩游戏、听音乐或休息）实时同步到 Web 端展示，并生成可视化的 SVG 状态卡片。
 
-*   [fishyo/xExtension-TranslateDigest](https://github.com/fishyo/xExtension-TranslateDigest) - TranslateDigest 是一个功能强大的 FreshRSS 扩展，能够自动将订阅源的文章标题翻译成您熟悉的语言，也可以对文章进行简单摘要。
+*   [fishyo/xExtension-TranslateDigest](https://github.com/fishyo/xExtension-TranslateDigest) - TranslateDigest is a powerful FreshRSS extension designed to enhance your RSS reading experience through AI technology. It can automatically translate article titles and generate summaries
 
 *   [rsea-ai/zen](https://github.com/rsea-ai/zen) - Zen - 基于极简主义设计理念构建的 WordPress 主题。
 
@@ -1951,8 +1953,6 @@
 *   [TIANQIAN1238/VibeClip-Pro](https://github.com/TIANQIAN1238/VibeClip-Pro) - VibeClip Pro 是一款面向创作者与效率爱好者的跨平台剪贴板控制台，整合本地历史、AI 快捷操作与深色/浅色视觉体系，让“复制 → 处理 → 粘贴”变成一次呼吸间的流程。
 
 *   [lidedongsn/cut.ai](https://github.com/lidedongsn/cut.ai) - cut.ai 是一个AI音视频剪辑工具，语音转写基于whisper
-
-*   [chen-zeong/DTV](https://github.com/chen-zeong/DTV) - 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
 
 *   [tlyboy/apichat](https://github.com/tlyboy/apichat) - 🤖 一个基于 Tauri 构建的现代化 API 客户端
 
