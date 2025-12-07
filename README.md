@@ -132,8 +132,6 @@
 
 *   [blurmood/SyncToNotion](https://github.com/blurmood/SyncToNotion) - 企微同步Notion - 支持抖音/小红书链接解析和Live图处理的Cloudflare Workers项目
 
-*   [frankiejun/Domains-Support](https://github.com/frankiejun/Domains-Support) - 一个基于 Cloudflare Pages 的域名管理系统，帮助您轻松管理和监控多个域名的状态、到期时间等信息。
-
 *   [JacksonHe04/flow-flat](https://github.com/JacksonHe04/flow-flat) - 集成白板、Markdown、IDE 等多种工具，简洁 · 现代 · 高效的节点流程图平台
 
 *   [hmslsky/markdown-livesync](https://github.com/hmslsky/markdown-livesync) - Markdown LiveSync 是一款专为 VS Code 设计的 Markdown 插件，支持在外部浏览器（如 Chrome、Firefox）中实时预览文档，编辑内容时浏览器与编辑器自动同步更新，无需手动刷新。核心功能聚焦「实时联动」，让你在 VS Code 中修改 Markdown 文本的同时，即时看到浏览器端的渲染效果，尤其适合调试样式、查看响应式布局或多设备预览，提升文档编写与排版效率。
@@ -1955,6 +1953,8 @@
 *   [lidedongsn/cut.ai](https://github.com/lidedongsn/cut.ai) - cut.ai 是一个AI音视频剪辑工具，语音转写基于whisper
 
 *   [tlyboy/apichat](https://github.com/tlyboy/apichat) - 🤖 一个基于 Tauri 构建的现代化 API 客户端
+
+*   [frankiejun/Domains-Support](https://github.com/frankiejun/Domains-Support) - 一个基于 Cloudflare Pages 的域名管理系统，帮助您轻松管理和监控多个域名的状态、到期时间等信息。
 
 *   [supebase/ericdit.com-refactor](https://github.com/supebase/ericdit.com-refactor) - 由 Nuxt 4 和 Directus 构建的个人博客、内容发布平台，支持评论、点赞、收藏、用户在线或离线状态、更新提示、实时订阅等功能。
 
