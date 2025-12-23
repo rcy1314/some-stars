@@ -13,13 +13,13 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Kotlin](#kotlin)
 *   [Jinja](#jinja)
 *   [Rust](#rust)
-*   [Vue](#vue)
 *   [Batchfile](#batchfile)
 *   [Java](#java)
 *   [Go](#go)
@@ -56,11 +56,159 @@
 *   [Clojure](#clojure)
 *   [Metal](#metal)
 
+## Vue
+
+*   [slightlee/diy-nav-web](https://github.com/slightlee/diy-nav-web) - 轻量、极速、可定制的现代化个人导航管理平台
+
+*   [anghunk/clipper-hub](https://github.com/anghunk/clipper-hub) - 将网页内容一键收藏至多个平台的浏览器扩展，支持 Telegram、Discord、Notion 等多个平台，让你的灵感和收藏无处不在。 https://clipper-hub.netlify.app
+
+*   [Garry-QD/FlatNas](https://github.com/Garry-QD/FlatNas) - FlatNas 是一个轻量级、高度可定制的个人导航页与仪表盘系统。它基于 Vue 3 和 Express 构建，旨在为 NAS 用户、极客和开发者提供一个优雅的浏览器起始页。
+
+*   [zhaotututu/CodeArk](https://github.com/zhaotututu/CodeArk) - 全自动 Git + GitHub 托管系统 | 版本控制 + 云端备份一体化解决方案
+
+*   [tony-wang1990/laowang-subscription](https://github.com/tony-wang1990/laowang-subscription) - 一款高颜值的私有化订阅管理系统。集中管理您的 VPS、域名、SSL 证书及各类会员服务，支持 Telegram、微信、邮件等多渠道到期自动提醒，防止服务意外中断。
+
+*   [GHchenjingqi/panda](https://github.com/GHchenjingqi/panda) - Panda，是一款本地壁纸、音乐、文档的管理器，桌面Electron  +  Vue3 + Nodejs
+
+*   [reaishijie/moments](https://github.com/reaishijie/moments) - 瞬刻，更简洁、更现代化的内容发布平台
+
+*   [ldx123000/Hydrogen-Music](https://github.com/ldx123000/Hydrogen-Music) - 第三方网易云播放器 Hydrogen Music 复活版：修复登录/歌曲下载/音乐视频/云盘功能，新增私人漫游/桌面歌词/评论区/深色模式功能
+
+*   [TIANQIAN1238/VibeClip-Pro](https://github.com/TIANQIAN1238/VibeClip-Pro) - VibeClip Pro 是一款面向创作者与效率爱好者的跨平台剪贴板控制台，整合本地历史、AI 快捷操作与深色/浅色视觉体系，让“复制 → 处理 → 粘贴”变成一次呼吸间的流程。
+
+*   [lidedongsn/cut.ai](https://github.com/lidedongsn/cut.ai) - cut.ai 是一个AI音视频剪辑工具，语音转写基于whisper
+
+*   [tlyboy/apichat](https://github.com/tlyboy/apichat) - 🤖 一个基于 Tauri 构建的现代化 API 客户端
+
+*   [frankiejun/Domains-Support](https://github.com/frankiejun/Domains-Support) - 一个基于 Cloudflare Pages 的域名管理系统，帮助您轻松管理和监控多个域名的状态、到期时间等信息。
+
+*   [xhongc/PhotoZen](https://github.com/xhongc/PhotoZen) - NAS高性能的自托管照片和视频管理解决方案
+
+*   [Robert-Stackflow/Moment](https://github.com/Robert-Stackflow/Moment) - Modern photo album blog that supports self-hosting, developed based on Vue and Naive UI and FastAPI.支持自托管的现代化相册博客，基于Vue、Naive UI和FastAPI开发。
+
+*   [wsrh8888/beaver-mobile](https://github.com/wsrh8888/beaver-mobile) - 海狸 - 开源社交软件-基于go-zero的高性能IM(im)系统 | 微服务架构 | 支持万人群聊/消息已读回执 | 自托管替代企业微信
+
+*   [mengxiaozhi/mxz\_app](https://github.com/mengxiaozhi/mxz_app) - WordPress mxz\_app 是一个现代化的网页应用，专为手机浏览优化设计，能够抓取 WordPress 网站的内容（文章和页面），并以简洁、易用的界面呈现给用户。该应用支持将内容打包成静态网页，随后可进一步封装成手机 App，为用户提供便捷的移动端阅读体验。此外，它还提供了 WordPress 原生所没有的书签功能，增强了用户体验。
+
+*   [INFO-studio/info-c.cn](https://github.com/INFO-studio/info-c.cn) - 个人主页「浮音华章」
+
+*   [rehiy/website-nav](https://github.com/rehiy/website-nav) - 现代化网址导航源码，数据源支持JSON和GraphQL
+
+*   [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
+
+*   [rcy1314/echo-noise](https://github.com/rcy1314/echo-noise) - 轻博客风格可自由切换多栏布局，面向个人的高度自定义场景的说说笔记系统及memos的开源替代品，支持各种组件，并提供完善的开放 API 与 MCP 支持，适配自动化平台与一键发布/更新/删除/搜索。通过内置组件与扩展能力，它既可作为内容笔记，也可作为跨平台的发布与中转中心。
+
+*   [machaojin1917939763/mcp-ui](https://github.com/machaojin1917939763/mcp-ui) - 基于MCP(Model Context Protocol)的智能聊天应用，支持Web和桌面环境。集成OpenAI/Anthropic API，提供MCP服务器的所有工具能力。简洁现代的UI设计，支持跨平台部署。
+
+*   [wiidede/exif-gallery-nuxt](https://github.com/wiidede/exif-gallery-nuxt) - A full-stack photo album solution that integrates AI intelligent processing, browser image compression, and other functions.
+
+*   [dengaye/translatex](https://github.com/dengaye/translatex) - TranslateX 是一款基于 Electron 开发的跨平台桌面划词翻译工具，支持 Windows 和 macOS 系统。您可以使用快捷键调用翻译功能，翻译选中的文本。
+
+*   [XiangZi7/GlassMusicPlayer](https://github.com/XiangZi7/GlassMusicPlayer) - 简约风 高颜值 毛玻璃 支持PC\&Mobile
+
+*   [Tzyito/x-copilot](https://github.com/Tzyito/x-copilot) - An elegant browser extension that helps you record and manage your X (Twitter) browsing history. Your personal X assistant.
+
+*   [leleo886/leleo-home-page](https://github.com/leleo886/leleo-home-page) - 一个用Vue.js和Vuetify构建的个人主页，可轻松部署在Vercel上。
+
+*   [kev1nweng/reel-sync](https://github.com/kev1nweng/reel-sync) - 随时随地与他人同步观看视频或共享屏幕 | Watch videos in sync or share your screen with others anytime, anywhere.
+
+*   [stark81/VutronMusic](https://github.com/stark81/VutronMusic) - 高颜值的第三方网易云播放器；支持流媒体音乐，如navidrome、jellyfin、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome与Linux-kde桌面状态栏歌词显示；支持降调降速，支持自定义主题等。支持 Windows / macOS / Linux :electron:
+
+*   [dcbestwords/Local-cloudPan](https://github.com/dcbestwords/Local-cloudPan) - 本地 磁盘/文件夹 托管，供局域网内用户通过网页进行在线管理
+
+*   [Estelle925/SmartBrief](https://github.com/Estelle925/SmartBrief) - SmartBrief 是一款基于 AI 的智能工作报告生成工具，可以自动分析项目代码提交记录和任务数据，快速生成日报、周报和月报。
+
+*   [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署个人的 ChatGPT 镜像站
+
+*   [dawnstaryrx/go-nav](https://github.com/dawnstaryrx/go-nav) - 多用户的导航站，让每个人拥有自己的导航页，功能强大，样式极简。
+
+*   [XiCheng148/SmartPreview](https://github.com/XiCheng148/SmartPreview) - Smart Preview 是一个强大的浏览器扩展，旨在提升您的网页浏览体验。它允许用户快速预览链接内容，而无需打开新的标签页，同时提供智能的窗口管理和自定义设置选项。
+
+*   [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) - Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
+
+*   [Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft) - craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
+
+*   [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 🍂 : 轻量级跨平台IM聊天应用，集成AI机器人( DeepSeek/Gemini/Kimi... )、音视频通话及AI购物。支持多端消息同步，自定义主题，高效便捷  🍒
+
+*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
+
+*   [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. English UI support.
+
+*   [sdrpsps/friend-daily](https://github.com/sdrpsps/friend-daily) - Nuxt 朋友圈主题
+
+*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+
+*   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
+
+*   [lianginx/chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基于 Nuxt.js 框架的 ChatGPT 类项目，支持 OpenAI 和 Azure 两种 API 切换，支持黑暗模式、中英日多语言切换。
+
+*   [tinygeeker/autocue](https://github.com/tinygeeker/autocue) - 🌈 AI绘画标签提词器：将标签进行分类整理，支持中文显示、加权、降权等隐藏功能
+
+*   [ZiuChen/ClipboardManager](https://github.com/ZiuChen/ClipboardManager) - 📋 A Powerful clipboard management tool
+
+*   [Beadd/Creamplayer](https://github.com/Beadd/Creamplayer) - 网易云音乐下载器(mp3友好)
+
+*   [vastsa/openai-apikey-query](https://github.com/vastsa/openai-apikey-query) - 批量查询OpenAI账号已用余额，判断apikey的状态
+
+*   [Chen-Jieteng/GPT-TodoList](https://github.com/Chen-Jieteng/GPT-TodoList) - TodoList and daily scheduler based on ChatGPT-4o
+
+*   [RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui) - 【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。支持私有化部署场景。
+
+*   [Taosky/BiliMini](https://github.com/Taosky/BiliMini) - Bilibili Chrome / Edge / Firefox扩展，用于提示并快速查看更新。
+
+*   [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
+
+*   [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - Fantastic toolkit for CTFers and everyone.
+
+*   [lvshihao-debug/ChatGPT\_JCM](https://github.com/lvshihao-debug/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star。
+
+*   [gaozhun/ChatGPT-Web](https://github.com/gaozhun/ChatGPT-Web) -
+
+*   [weekend-project-space/moon-note](https://github.com/weekend-project-space/moon-note) - bullet journal, 子弹笔记
+
+*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
+
+*   [lxchinesszz/dev-springlearn2](https://github.com/lxchinesszz/dev-springlearn2) - 极客导航2.0
+
+*   [hua-zhi-wan/otto-hzys](https://github.com/hua-zhi-wan/otto-hzys) - 电棍otto语音活字印刷生成
+
+*   [ybw0014/guizhan-builds](https://github.com/ybw0014/guizhan-builds) - 由 Github Actions + Vue2 + Nuxt.js + Github Pages 驱动的构建页面, 支持 Maven, Gradle 项目构建
+
+*   [4350pChris/slack-vuesualizer](https://github.com/4350pChris/slack-vuesualizer) - Display and search your Slack export
+
+*   [debug16/LuoYiMusic](https://github.com/debug16/LuoYiMusic) - 基于 vue3 + vite + pinia + vue-router4 实现的一个简约美观的音乐播放平台，使用 pake 打包桌面端，只有1M+，欢迎大家体验和star
+
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player
+
+*   [a7650/h5-editor](https://github.com/a7650/h5-editor) - 📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能
+
+*   [xp-bear/note\_wall](https://github.com/xp-bear/note_wall) - 留言墙功能可以让用户在网站上发表留言，以便其他用户可以看到并回复。它可以帮助网站的用户更好地交流，提高网站的互动性，增加用户体验。使用技术栈: vue3+express+mysql,觉得还可以的话,可以给一个star~
+
+*   [one-among-us/tg-blog](https://github.com/one-among-us/tg-blog) - Display offline telegram channel data like a blog
+
+*   [FTLIKON/EachStar](https://github.com/FTLIKON/EachStar) - 🌟在线互助Star社区🌟，基于 Github API 和 Element Plus 开发，致力于帮助开源项目积累初始影响力！
+
+*   [fyl080801/vjdesign](https://github.com/fyl080801/vjdesign) - Vue 界面可视化设计器，支持任何 html 标签以及项目中引用的组件，可实现仅通过配置文件就能增加支持的组件和组件属性
+
+*   [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
+
+*   [chrisj74/vue-rss-blog](https://github.com/chrisj74/vue-rss-blog) - An embeddable to pull an RSS feed into your website
+
+*   [UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend) - GitScratch 社区前端
+
+*   [imsyy/SNav](https://github.com/imsyy/SNav) - 【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
+
+*   [amtoaer/coolapk-pic-v2](https://github.com/amtoaer/coolapk-pic-v2) - 酷安酷图桌面客户端
+
+*   [Hacker233/navigation](https://github.com/Hacker233/navigation) - 网址导航项目，包含前台和后台管理。（Vue2.x版本）
+
 ## TypeScript
+
+*   [Jehuge/video-Ai-note](https://github.com/Jehuge/video-Ai-note) - 一个智能视频笔记生成工具，支持自动提取视频音频、转写文字，并使用 AI 生成结构化笔记。  完全本地化处理，保护数据隐私 - 所有数据处理均在本地完成，支持 Ollama 等本地大模型，无需联网即可使用。
 
 *   [IvanLark/pretty-please](https://github.com/IvanLark/pretty-please) - AI 驱动的命令行助手 - 将自然语言转换为 Shell 命令，支持多步骤执行、智能错误恢复、React Ink UI。TypeScript + Mastra + Ink 构建。
 
-*   [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - 一个类似于Notebook LM，以用户自有知识为中心的 AI 工作空间，帮助你思考、研究与写作。更方便，更轻量，更懂你！
+*   [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - Similar to Google Notebook LM, a lightweight, local AI workspace built with Electron. Click to start—helping you think, research, and write. More convenient, more lightweight, and understands you better!
 
 *   [yc-w-cn/vibe-coding](https://github.com/yc-w-cn/vibe-coding) - 一个用于对比和分析各类 AI 编程工具的 Web 应用，帮助开发者了解不同工具的模型成本、付费计划和功能特性。
 
@@ -586,15 +734,13 @@
 
 *   [JamesNZL/notion-assignment-import](https://github.com/JamesNZL/notion-assignment-import) - A free cross-browser extension to load Canvas assignments into Notion, with 8200+ unique users.
 
-*   [justorez/bookmark-cleaner](https://github.com/justorez/bookmark-cleaner) - 🚀 Check and clean invalid browser bookmarks.
-
 ## JavaScript
 
 *   [JianguSheng/yuns-desktop-pet](https://github.com/JianguSheng/yuns-desktop-pet) - 🐕 AI桌面宠物助手 - 多模型对话 + MCP工具调用 + 视觉分析 | Electron
 
 *   [fengzhongsen/short-url](https://github.com/fengzhongsen/short-url) - 简单易用的短链接生成工具，完全开源、免费、无需登录，可私有化部署，链接永久有效！
 
-*   [mgks/GitHubTree](https://github.com/mgks/GitHubTree) - Visualize folder structure of any public GitHub repository.
+*   [mgks/GitHubTree](https://github.com/mgks/GitHubTree) - Visualize folder structure of any public GitHub repository. Available as a web app, CLI tool, and node.js library.
 
 *   [tony-wang1990/laowang-sub-converter](https://github.com/tony-wang1990/laowang-sub-converter) - LaoWang Sub-converter - 一款开源的代理订阅转换工具，支持多协议解析和 10+ 主流客户端格式输出，提供 Docker 容器化部署和 Vercel 一键部署。
 
@@ -962,7 +1108,7 @@
 
 *   [xingfeng7788/docker-hub-proxy](https://github.com/xingfeng7788/docker-hub-proxy) - 一个轻量级、智能的 Docker 镜像加速与代理管理工具
 
-*   [kannazuki-c/twitter-web-exporter-gui](https://github.com/kannazuki-c/twitter-web-exporter-gui) - Store your exported tweets by twitter-web-exporter in a db file. Download all media files in the tweets and compare them.(将您导出的推文储存在db文件中。下载推文中的所有媒体文件并比对它们。)
+*   [kannazuki-c/twitter-web-exporter-gui](https://github.com/kannazuki-c/twitter-web-exporter-gui) - The best next step after exporting tweets as JSON files using twitter-web-exporter.
 
 *   [nfachenxi/doc-notify](https://github.com/nfachenxi/doc-notify) - 一个轻量级的文档更新通知服务，当用户点击特定链接时自动发送 webhook 通知。
 
@@ -1538,10 +1684,6 @@
 
 *   [seahorse-is-bored/PowerPoint\_Anki\_Macro-Addon](https://github.com/seahorse-is-bored/PowerPoint_Anki_Macro-Addon) - A macro and addon you can use for powerpoint to import straight into Anki.
 
-*   [icodebase/ivideo](https://github.com/icodebase/ivideo) - ivideo 是一款轻量、强大、好用的视频处理软件。可以满足普通人一般的视频处理需求：压缩视频、转码视频、倒放视频、合并片段、根据字幕裁切片段、自动配字幕、自动剪辑……
-
-*   [groundcat/power-automate-rss-triggers](https://github.com/groundcat/power-automate-rss-triggers) - RSS custom triggers for your Microsoft Power Automate flows
-
 ## Kotlin
 
 *   [xinzezhu/Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android) - 安卓版的AutoGLM，不需要部署直接安装就可以使用，欢迎共建~
@@ -1637,148 +1779,6 @@
 *   [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。
 
 *   [YangchenYe323/Danmuji](https://github.com/YangchenYe323/Danmuji) - :hamster: 用Rust + React编写的Bilibili弹幕姬，感谢礼物，自动回复，定时任务弹幕助手
-
-## Vue
-
-*   [Garry-QD/FlatNas](https://github.com/Garry-QD/FlatNas) - FlatNas 是一个轻量级、高度可定制的个人导航页与仪表盘系统。它基于 Vue 3 和 Express 构建，旨在为 NAS 用户、极客和开发者提供一个优雅的浏览器起始页。
-
-*   [zhaotututu/CodeArk](https://github.com/zhaotututu/CodeArk) - 全自动 Git + GitHub 托管系统 | 版本控制 + 云端备份一体化解决方案
-
-*   [tony-wang1990/laowang-subscription](https://github.com/tony-wang1990/laowang-subscription) - 一款高颜值的私有化订阅管理系统。集中管理您的 VPS、域名、SSL 证书及各类会员服务，支持 Telegram、微信、邮件等多渠道到期自动提醒，防止服务意外中断。
-
-*   [GHchenjingqi/panda](https://github.com/GHchenjingqi/panda) - Panda，是一款本地壁纸、音乐、文档的管理器，桌面Electron  +  Vue3 + Nodejs
-
-*   [reaishijie/moments](https://github.com/reaishijie/moments) - 瞬刻，更简洁、更现代化的内容发布平台
-
-*   [ldx123000/Hydrogen-Music](https://github.com/ldx123000/Hydrogen-Music) - 第三方网易云播放器 Hydrogen Music 复活版：修复登录/歌曲下载/音乐视频/云盘功能，新增私人漫游/桌面歌词/评论区/深色模式功能
-
-*   [TIANQIAN1238/VibeClip-Pro](https://github.com/TIANQIAN1238/VibeClip-Pro) - VibeClip Pro 是一款面向创作者与效率爱好者的跨平台剪贴板控制台，整合本地历史、AI 快捷操作与深色/浅色视觉体系，让“复制 → 处理 → 粘贴”变成一次呼吸间的流程。
-
-*   [lidedongsn/cut.ai](https://github.com/lidedongsn/cut.ai) - cut.ai 是一个AI音视频剪辑工具，语音转写基于whisper
-
-*   [tlyboy/apichat](https://github.com/tlyboy/apichat) - 🤖 一个基于 Tauri 构建的现代化 API 客户端
-
-*   [frankiejun/Domains-Support](https://github.com/frankiejun/Domains-Support) - 一个基于 Cloudflare Pages 的域名管理系统，帮助您轻松管理和监控多个域名的状态、到期时间等信息。
-
-*   [xhongc/PhotoZen](https://github.com/xhongc/PhotoZen) - NAS高性能的自托管照片和视频管理解决方案
-
-*   [Robert-Stackflow/Moment](https://github.com/Robert-Stackflow/Moment) - Modern photo album blog that supports self-hosting, developed based on Vue and Naive UI and FastAPI.支持自托管的现代化相册博客，基于Vue、Naive UI和FastAPI开发。
-
-*   [wsrh8888/beaver-mobile](https://github.com/wsrh8888/beaver-mobile) - 海狸 - 开源社交软件-基于go-zero的高性能IM(im)系统 | 微服务架构 | 支持万人群聊/消息已读回执 | 自托管替代企业微信
-
-*   [mengxiaozhi/mxz\_app](https://github.com/mengxiaozhi/mxz_app) - WordPress mxz\_app 是一个现代化的网页应用，专为手机浏览优化设计，能够抓取 WordPress 网站的内容（文章和页面），并以简洁、易用的界面呈现给用户。该应用支持将内容打包成静态网页，随后可进一步封装成手机 App，为用户提供便捷的移动端阅读体验。此外，它还提供了 WordPress 原生所没有的书签功能，增强了用户体验。
-
-*   [INFO-studio/info-c.cn](https://github.com/INFO-studio/info-c.cn) - 个人主页「浮音华章」
-
-*   [rehiy/website-nav](https://github.com/rehiy/website-nav) - 现代化网址导航源码，数据源支持JSON和GraphQL
-
-*   [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
-
-*   [rcy1314/echo-noise](https://github.com/rcy1314/echo-noise) - 轻博客风格可自由切换多栏布局，面向个人的高度自定义场景的说说笔记系统及memos的开源替代品，支持各种组件，并提供完善的开放 API 与 MCP 支持，适配自动化平台与一键发布/更新/删除/搜索。通过内置组件与扩展能力，它既可作为内容笔记，也可作为跨平台的发布与中转中心。
-
-*   [machaojin1917939763/mcp-ui](https://github.com/machaojin1917939763/mcp-ui) - 基于MCP(Model Context Protocol)的智能聊天应用，支持Web和桌面环境。集成OpenAI/Anthropic API，提供MCP服务器的所有工具能力。简洁现代的UI设计，支持跨平台部署。
-
-*   [wiidede/exif-gallery-nuxt](https://github.com/wiidede/exif-gallery-nuxt) - A full-stack photo album solution that integrates AI intelligent processing, browser image compression, and other functions.
-
-*   [dengaye/translatex](https://github.com/dengaye/translatex) - TranslateX 是一款基于 Electron 开发的跨平台桌面划词翻译工具，支持 Windows 和 macOS 系统。您可以使用快捷键调用翻译功能，翻译选中的文本。
-
-*   [XiangZi7/GlassMusicPlayer](https://github.com/XiangZi7/GlassMusicPlayer) - 简约风 高颜值 毛玻璃 支持PC\&Mobile
-
-*   [Tzyito/x-copilot](https://github.com/Tzyito/x-copilot) - An elegant browser extension that helps you record and manage your X (Twitter) browsing history. Your personal X assistant.
-
-*   [leleo886/leleo-home-page](https://github.com/leleo886/leleo-home-page) - 一个用Vue.js和Vuetify构建的个人主页，可轻松部署在Vercel上。
-
-*   [kev1nweng/reel-sync](https://github.com/kev1nweng/reel-sync) - 随时随地与他人同步观看视频或共享屏幕 | Watch videos in sync or share your screen with others anytime, anywhere.
-
-*   [stark81/VutronMusic](https://github.com/stark81/VutronMusic) - 高颜值的第三方网易云播放器；支持流媒体音乐，如navidrome、jellyfin、emby；支持本地音乐播放、离线歌单、逐字歌词、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示、Linux-gnome与Linux-kde桌面状态栏歌词显示；支持降调降速，支持自定义主题等。支持 Windows / macOS / Linux :electron:
-
-*   [dcbestwords/Local-cloudPan](https://github.com/dcbestwords/Local-cloudPan) - 本地 磁盘/文件夹 托管，供局域网内用户通过网页进行在线管理
-
-*   [Estelle925/SmartBrief](https://github.com/Estelle925/SmartBrief) - SmartBrief 是一款基于 AI 的智能工作报告生成工具，可以自动分析项目代码提交记录和任务数据，快速生成日报、周报和月报。
-
-*   [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署个人的 ChatGPT 镜像站
-
-*   [dawnstaryrx/go-nav](https://github.com/dawnstaryrx/go-nav) - 多用户的导航站，让每个人拥有自己的导航页，功能强大，样式极简。
-
-*   [XiCheng148/SmartPreview](https://github.com/XiCheng148/SmartPreview) - Smart Preview 是一个强大的浏览器扩展，旨在提升您的网页浏览体验。它允许用户快速预览链接内容，而无需打开新的标签页，同时提供智能的窗口管理和自定义设置选项。
-
-*   [JLinMr/Mini-Cover](https://github.com/JLinMr/Mini-Cover) - Mini-Cover：简洁的在线生成封面网站，专为博客、短视频、社交媒体等生成个性化封面
-
-*   [Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft) - craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务
-
-*   [KiWi233333/JiwuChat](https://github.com/KiWi233333/JiwuChat) - JiwuChat 🍂 : 轻量级跨平台IM聊天应用，集成AI机器人( DeepSeek/Gemini/Kimi... )、音视频通话及AI购物。支持多端消息同步，自定义主题，高效便捷  🍒
-
-*   [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
-
-*   [classfang/AIHub](https://github.com/classfang/AIHub) - 一款集合多家大模型能力的客户端。拥有丰富的个性化功能。现已支持：OpenAI，Ollama，谷歌 Gemini，讯飞星火，百度文心，阿里通义，天工，月之暗面，智谱，阶跃星辰，DeepSeek 🎉🎉🎉。A collection of large model capabilities of the client. Has a wealth of personalized functions. English UI support.
-
-*   [sdrpsps/friend-daily](https://github.com/sdrpsps/friend-daily) - Nuxt 朋友圈主题
-
-*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
-
-*   [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
-
-*   [lianginx/chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基于 Nuxt.js 框架的 ChatGPT 类项目，支持 OpenAI 和 Azure 两种 API 切换，支持黑暗模式、中英日多语言切换。
-
-*   [tinygeeker/autocue](https://github.com/tinygeeker/autocue) - 🌈 AI绘画标签提词器：将标签进行分类整理，支持中文显示、加权、降权等隐藏功能
-
-*   [ZiuChen/ClipboardManager](https://github.com/ZiuChen/ClipboardManager) - 📋 A Powerful clipboard management tool
-
-*   [Beadd/Creamplayer](https://github.com/Beadd/Creamplayer) - 网易云音乐下载器(mp3友好)
-
-*   [vastsa/openai-apikey-query](https://github.com/vastsa/openai-apikey-query) - 批量查询OpenAI账号已用余额，判断apikey的状态
-
-*   [Chen-Jieteng/GPT-TodoList](https://github.com/Chen-Jieteng/GPT-TodoList) - TodoList and daily scheduler based on ChatGPT-4o
-
-*   [RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui) - 【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。支持私有化部署场景。
-
-*   [Taosky/BiliMini](https://github.com/Taosky/BiliMini) - Bilibili Chrome / Edge / Firefox扩展，用于提示并快速查看更新。
-
-*   [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
-
-*   [UniiemStudio/CTFever](https://github.com/UniiemStudio/CTFever) - Fantastic toolkit for CTFers and everyone.
-
-*   [lvshihao-debug/ChatGPT\_JCM](https://github.com/lvshihao-debug/ChatGPT_JCM) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star。
-
-*   [gaozhun/ChatGPT-Web](https://github.com/gaozhun/ChatGPT-Web) -
-
-*   [weekend-project-space/moon-note](https://github.com/weekend-project-space/moon-note) - bullet journal, 子弹笔记
-
-*   [Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat) - 📽️ 主要用于 OBS 的纯 Web 仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬
-
-*   [lxchinesszz/dev-springlearn2](https://github.com/lxchinesszz/dev-springlearn2) - 极客导航2.0
-
-*   [hua-zhi-wan/otto-hzys](https://github.com/hua-zhi-wan/otto-hzys) - 电棍otto语音活字印刷生成
-
-*   [ybw0014/guizhan-builds](https://github.com/ybw0014/guizhan-builds) - 由 Github Actions + Vue2 + Nuxt.js + Github Pages 驱动的构建页面, 支持 Maven, Gradle 项目构建
-
-*   [4350pChris/slack-vuesualizer](https://github.com/4350pChris/slack-vuesualizer) - Display and search your Slack export
-
-*   [debug16/LuoYiMusic](https://github.com/debug16/LuoYiMusic) - 基于 vue3 + vite + pinia + vue-router4 实现的一个简约美观的音乐播放平台，使用 pake 打包桌面端，只有1M+，欢迎大家体验和star
-
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player
-
-*   [a7650/h5-editor](https://github.com/a7650/h5-editor) - 📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能
-
-*   [xp-bear/note\_wall](https://github.com/xp-bear/note_wall) - 留言墙功能可以让用户在网站上发表留言，以便其他用户可以看到并回复。它可以帮助网站的用户更好地交流，提高网站的互动性，增加用户体验。使用技术栈: vue3+express+mysql,觉得还可以的话,可以给一个star~
-
-*   [one-among-us/tg-blog](https://github.com/one-among-us/tg-blog) - Display offline telegram channel data like a blog
-
-*   [FTLIKON/EachStar](https://github.com/FTLIKON/EachStar) - 🌟在线互助Star社区🌟，基于 Github API 和 Element Plus 开发，致力于帮助开源项目积累初始影响力！
-
-*   [fyl080801/vjdesign](https://github.com/fyl080801/vjdesign) - Vue 界面可视化设计器，支持任何 html 标签以及项目中引用的组件，可实现仅通过配置文件就能增加支持的组件和组件属性
-
-*   [Thecosy/IceCMS](https://github.com/Thecosy/IceCMS) - 🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。
-
-*   [chrisj74/vue-rss-blog](https://github.com/chrisj74/vue-rss-blog) - An embeddable to pull an RSS feed into your website
-
-*   [UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend) - GitScratch 社区前端
-
-*   [imsyy/SNav](https://github.com/imsyy/SNav) - 【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份
-
-*   [amtoaer/coolapk-pic-v2](https://github.com/amtoaer/coolapk-pic-v2) - 酷安酷图桌面客户端
-
-*   [Hacker233/navigation](https://github.com/Hacker233/navigation) - 网址导航项目，包含前台和后台管理。（Vue2.x版本）
 
 ## Batchfile
 
@@ -2332,7 +2332,7 @@
 
 *   [Azad-sl/FreeAI](https://github.com/Azad-sl/FreeAI) - FreeAI - 基于 Pollinations.AI 的AI应用平台，实现免费且无限制的AI聊天助手、图像生成和语音合成服务。A powerful AI platform powered by Pollinations.AI, offering free, no-registration, unlimited AI chat, image generation, and TTS services.
 
-*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+*   [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus) - Turn any webpage/HTML/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/HTML/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
 
 *   [qq254950134/my-iptv](https://github.com/qq254950134/my-iptv) - 用于个人托管自用直播源
 
