@@ -218,7 +218,7 @@
 
 *   [JochenYang/luma-mcp](https://github.com/JochenYang/luma-mcp) - Multi-Model Visual Understanding MCP Server, GLM-4.6V, DeepSeek-OCR (free), and Qwen3-VL-Flash. Provide visual processing capabilities for AI coding models that do not support image understanding.多模型视觉理解MCP服务器，GLM-4.6V、DeepSeek-OCR（免费）和Qwen3-VL-Flash。为不支持图片理解的 AI 编码模型提供视觉处理能力。
 
-*   [gogogadgetscott/AnchorMarks](https://github.com/gogogadgetscott/AnchorMarks) - A modern, self-hosted bookmark manager with browser sync, Flow Launcher integration, REST API, and AI-assisted tooling baked into development.  Self-hosted bookmark manager with sync and full-text search, ideal for power users and teams.
+*   [AnchorMarks/AnchorMarks](https://github.com/AnchorMarks/AnchorMarks) - A modern, self-hosted bookmark manager with browser sync, Flow Launcher integration, REST API, and AI-assisted tooling baked into development.  Self-hosted bookmark manager with sync and full-text search, ideal for power users and teams.
 
 *   [mire403/VisionForge](https://github.com/mire403/VisionForge) - VisionForge是一个轻量级、高扩展性的大模型图片训练&描述工具生成器，支持多家大模型API（Google、OpenAI 兼容、DeepSeek、Qwen、GLM、Claude、Doubao、自定义模型）。 它提供多图片上传、提示词优化、自动生成JSONL训练数据、多项信息分析（标签、OCR、场景分类、主色调、置信度、推理原因）等能力。 支持实时统计图表（置信度分布直方图与趋势曲线），适用于AI数据集制作、图像训练样本生成、遥感标注、计算机视觉模型预处理等场景。
 
@@ -235,8 +235,6 @@
 *   [unilei/kerkerker](https://github.com/unilei/kerkerker) - 🎬 这是壳儿 - 影视聚合平台 - 豆瓣集成/多源切换/智能匹配 | Next.js + TypeScript | Docker 部署
 
 *   [PeanutSplash/xhs-data-helper](https://github.com/PeanutSplash/xhs-data-helper) - 小红书数据助手 - 轻松保存你喜欢的小红书笔记
-
-*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
 
 *   [SimonAKing/Gwitter](https://github.com/SimonAKing/Gwitter) - Turn GitHub Issues into your personal microblog platform
 
@@ -1126,6 +1124,8 @@
 
 *   [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 
+*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on nano banana pro🍌
+
 *   [ipvoov/Craft-Agent](https://github.com/ipvoov/Craft-Agent) - Craft-Agent是一个集「深度研究助手」与「一键建站引擎」于一体的智能体  - 深度研究- 网站生成。现代前后端架构：FastAPI + LangGraph/LangChain 后端，Next.js + TypeScript + shadcn/ui 前端
 
 *   [cuixiaoyan/SmartCutElf](https://github.com/cuixiaoyan/SmartCutElf) - 智能剪辑的小精灵，体现AI技术和自动化特性
@@ -1296,7 +1296,7 @@
 
 *   [sekai-soft/galerie](https://github.com/sekai-soft/galerie) -
 
-*   [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。LangChain v1 + Vue + FastAPI。集成主流大模型、LightRAG、MinerU、PP-Structure、Neo4j 、联网检索、工具调用。
+*   [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 
 *   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
