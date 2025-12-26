@@ -70,7 +70,7 @@
 
 *   [MrSibe/KnowNote](https://github.com/MrSibe/KnowNote) - Similar to Google Notebook LM, a lightweight, local AI workspace built with Electron. Click to start—helping you think, research, and write. More convenient, more lightweight, and understands you better!
 
-*   [yc-w-cn/vibe-coding](https://github.com/yc-w-cn/vibe-coding) - 一个用于对比和分析各类 AI 编程工具的 Web 应用，帮助开发者了解不同工具的模型成本、付费计划和功能特性。
+*   [yc-w-cn/vibe-coding](https://github.com/yc-w-cn/vibe-coding) - 氛围编程（Vibe Coding）国内方案综合对比
 
 *   [peterfei/ifai](https://github.com/peterfei/ifai) - 若爱 (IfAI) - 基于 Tauri 2.0 构建的跨平台 AI 代码编辑器 | A Cross-Platform AI Code Editor Built with Tauri 2.0
 
@@ -78,7 +78,7 @@
 
 *   [JochenYang/luma-mcp](https://github.com/JochenYang/luma-mcp) - Multi-Model Visual Understanding MCP Server, GLM-4.6V, DeepSeek-OCR (free), and Qwen3-VL-Flash. Provide visual processing capabilities for AI coding models that do not support image understanding.多模型视觉理解MCP服务器，GLM-4.6V、DeepSeek-OCR（免费）和Qwen3-VL-Flash。为不支持图片理解的 AI 编码模型提供视觉处理能力。
 
-*   [AnchorMarks/AnchorMarks](https://github.com/AnchorMarks/AnchorMarks) - A modern, self-hosted bookmark manager with browser sync, Flow Launcher integration, REST API, and AI-assisted tooling baked into development.  Self-hosted bookmark manager with sync and full-text search, ideal for power users and teams.
+*   [gogogadgetscott/AnchorMarks](https://github.com/gogogadgetscott/AnchorMarks) - A modern, self-hosted bookmark manager with browser sync, Flow Launcher integration, REST API, and AI-assisted tooling baked into development.  Self-hosted bookmark manager with sync and full-text search, ideal for power users and teams.
 
 *   [mire403/VisionForge](https://github.com/mire403/VisionForge) - VisionForge是一个轻量级、高扩展性的大模型图片训练&描述工具生成器，支持多家大模型API（Google、OpenAI 兼容、DeepSeek、Qwen、GLM、Claude、Doubao、自定义模型）。 它提供多图片上传、提示词优化、自动生成JSONL训练数据、多项信息分析（标签、OCR、场景分类、主色调、置信度、推理原因）等能力。 支持实时统计图表（置信度分布直方图与趋势曲线），适用于AI数据集制作、图像训练样本生成、遥感标注、计算机视觉模型预处理等场景。
 
@@ -92,7 +92,7 @@
 
 *   [wearzdk/seedream-image-mcp](https://github.com/wearzdk/seedream-image-mcp) - 🚀 PixelMCP | 为你的 Cursor、Claude Code 等集成AI绘画能力，让AI生成的页面不再单调！
 
-*   [unilei/kerkerker](https://github.com/unilei/kerkerker) - 🎬 这是壳儿 - 影视聚合平台 - 豆瓣集成/多源切换/智能匹配 | Next.js + TypeScript | Docker 部署
+*   [unilei/kerkerker](https://github.com/unilei/kerkerker) - 🎬 这是壳儿 - 影视聚合平台 - 豆瓣集成/多源切换/智能匹配 | Next.js + TypeScript | Docker 部署 | Vercel 部署
 
 *   [PeanutSplash/xhs-data-helper](https://github.com/PeanutSplash/xhs-data-helper) - 小红书数据助手 - 轻松保存你喜欢的小红书笔记
 
@@ -583,6 +583,8 @@
 *   [fky2015/nexon](https://github.com/fky2015/nexon) - Nexon is a Notion-powered blog template built with the Next.js and Vercel. It's a modified version of https://github.com/transitive-bullshit/nextjs-notion-starter-kit with a special focus on the better blogging experience.
 
 *   [Mereithhh/van-nav](https://github.com/Mereithhh/van-nav) - 一个轻量导航站，汇总你的所有服务。全平台支持，单文件部署，有配套浏览器插件
+
+*   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 
 ## Python
 
@@ -1292,7 +1294,7 @@
 
 ## Vue
 
-*   [slightlee/diy-nav-web](https://github.com/slightlee/diy-nav-web) - 轻量、极速、可定制的现代化个人导航管理平台
+*   [slightlee/diy-nav-web](https://github.com/slightlee/diy-nav-web) - AI 驱动的下一代导航平台 | 告别手动填写：一句话，自动添加网站、获取图标、生成描述、智能分类 | 开源 · 云原生
 
 *   [anghunk/clipper-hub](https://github.com/anghunk/clipper-hub) - 将网页内容一键收藏至多个平台的浏览器扩展，支持 Telegram、Discord、Notion 等多个平台，让你的灵感和收藏无处不在。 https://clipper-hub.netlify.app
 
@@ -1350,7 +1352,7 @@
 
 *   [dcbestwords/Local-cloudPan](https://github.com/dcbestwords/Local-cloudPan) - 本地 磁盘/文件夹 托管，供局域网内用户通过网页进行在线管理
 
-*   [Estelle925/SmartBrief](https://github.com/Estelle925/SmartBrief) - SmartBrief 是一款基于 AI 的智能工作报告生成工具，可以自动分析项目代码提交记录和任务数据，快速生成日报、周报和月报。
+*   [ch4nhm/SmartBrief](https://github.com/ch4nhm/SmartBrief) - SmartBrief 是一款基于 AI 的智能工作报告生成工具，可以自动分析项目代码提交记录和任务数据，快速生成日报、周报和月报。
 
 *   [dairoot/ChatGPT-Mirror](https://github.com/dairoot/ChatGPT-Mirror) - 🚀 一键部署个人的 ChatGPT 镜像站
 
@@ -2349,8 +2351,6 @@
 *   [pmhw/telegram-bot](https://github.com/pmhw/telegram-bot) - Tg机器人，自动回复自定义消息回复，私聊回复以及群聊回复，可以进行二次开发，希望你做出更优质的东西，记得@我
 
 ## HTML
-
-*   [cyohei9907/auto-ski-info-subscribe](https://github.com/cyohei9907/auto-ski-info-subscribe) -
 
 *   [zrt-ai-lab/scanshare](https://github.com/zrt-ai-lab/scanshare) - 微信一键扫描直接上传电脑！干掉微信文件传输助手！
 
