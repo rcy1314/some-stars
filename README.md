@@ -2097,7 +2097,7 @@
 
 ## Dart
 
-*   [lingshichat/Paperwhisper](https://github.com/lingshichat/Paperwhisper) - 一款优雅的桌面日记应用,专注于书写体验与视觉美学。
+*   [lingshichat/Paperwhisper](https://github.com/lingshichat/Paperwhisper) - 一款优雅的拟物风日记应用,支持Android和Windows。
 
 *   [shnulaa/FlutterIPTV](https://github.com/shnulaa/FlutterIPTV) - Lotus IPTV是一款基于 Flutter 开发的现代化高性能 IPTV 播放器。它支持多平台无缝观看和分屏播放，专注于易用性和美观的界面设计。Lotus IPTV is a modern, high-performance IPTV player built with Flutter. It offers seamless multi-platform viewing with split-screen support, focusing on usability and aesthetics.
 
