@@ -77,7 +77,7 @@
 
 *   [poppoppuppylove/our-moments](https://github.com/poppoppuppylove/our-moments) - Our Moments 是一个充满手绘质感的社交博客平台，采用独特的拼贴手账风格设计。用户可以自由记录文字、图片，装饰自己的生活记忆，与朋友分享美好时刻。平台支持好友系统、私信聊天、实时通知等功能，结合 JWT 认证、阿里云 OSS 存储、WebSocket 实时通信等现代技术，为用户提供温馨舒适的在线生活记录体验。
 
-*   [xiaoshengxianjun/51mazi](https://github.com/xiaoshengxianjun/51mazi) - 我要码字，这可能会是最好用的小说写作软件。51mazi是一款基于 Electron + Vue 3 技术栈开发的桌面小说写作软件，专为小说创作者设计，它不仅提供了专业的写作环境，还集成了随机取名，小说地图设计、关系图谱、人物档案，时间线等创作辅助工具，让小说创作变得更加高效和有趣。
+*   [xiaoshengxianjun/51mazi](https://github.com/xiaoshengxianjun/51mazi) - 我要码字，这可能会是最好用的小说写作软件。51mazi是一款基于 Electron + Vue 3 技术栈开发的桌面小说写作软件，专为小说创作者设计，它不仅集成了随机取名，小说地图设计、关系图谱、人物档案，时间线等创作辅助工具，还集成了AI辅助写作功能，让小说创作变得更加高效和有趣。
 
 *   [Tosuke-sama/DesktopFriends](https://github.com/Tosuke-sama/DesktopFriends) - 利用闲置的手机来和桌面宠物们「一起」聊天吧！
 
