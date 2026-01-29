@@ -197,7 +197,7 @@
 
 *   [CrankZ/guan-manager](https://github.com/CrankZ/guan-manager) - 可视化管理和更新软件，基于 WinGet
 
-*   [stone-yu/ai-draw](https://github.com/stone-yu/ai-draw) - 一个 AI 驱动的图表创作平台，用自然语言描述你想要的图表，与AI对话，轻松绘图。支持 Mermaid、Excalidraw 和 Draw.io 三大引擎。支持docker私有部署。支持绘图文件存储和管理。  基于 next-ai-drawio 和 ai-draw-next 二次开发，增加文件管理、文件分组管理、本地/云端两种模式支持、动态绘图效果等功能。
+*   [stone-yu/ai-draw](https://github.com/stone-yu/ai-draw) - AI-driven diagram tool that lets you describe charts verbally and generates them automatically using Mermaid, Excalidraw, or Draw.io. Supports private deployment via Docker, file management, and both local and cloud access.        AI驱动的图表创作平台，与AI对话，轻松使用Mermaid、Excalidraw和Draw.io绘图，支持docker私有部署、绘图文件存储和管理、本地和云端两种使用模式。
 
 *   [awinds/xa-note](https://github.com/awinds/xa-note) - XA Note 是一款轻量级、自托管的个人笔记应用，支持 Markdown 编辑、分类与标签管理、笔记导出、GitHub 登录、安全分享、WebDAV 备份、锁屏保护以及深色主题。 所有数据完全由用户掌控，存储在自有服务器中，适合追求隐私、安全和长期可维护性的个人知识管理场景。
 
@@ -729,6 +729,8 @@
 
 *   [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy) - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
 
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，评论区，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
+
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
 *   [EutropicAI/VSET](https://github.com/EutropicAI/VSET) - VSET
@@ -813,7 +815,7 @@
 
 *   [nsmao-com/claude-code-env-change](https://github.com/nsmao-com/claude-code-env-change) - 一个用Go语言编写的现代化桌面应用，支持多种 AI CLI 工具（Claude Code、Codex、Gemini CLI）的环境变量配置管理。本工具采用现代 Bento Grid 设计风格，使用Wails框架构建，提供简洁优雅的用户界面。
 
-*   [LittleOrange-i/Youzi-Write](https://github.com/LittleOrange-i/Youzi-Write) - 柚子写作是一款基于 Electron + Vue 3 +Tailwind CSS 技术栈开发的桌面小说写作软件（AI写作辅助），专为小说创作者设计
+*   [LittleOrange-i/Youzi-Write](https://github.com/LittleOrange-i/Youzi-Write) - 柚子写作是一款基于 Electron + Vue 3 +Tailwind CSS 技术栈开发的桌面小说写作软件（AI写作辅助），专为小说创作者设计，致力于专业写作软件
 
 *   [lyhxx/photography-station](https://github.com/lyhxx/photography-station) - 摄影站 - 个人摄影作品展示网站 用镜头记录生活的美好瞬间，分享我的摄影作品。每一张照片都是一个故事，一段回忆，一种对生活的感悟。
 
@@ -827,7 +829,7 @@
 
 *   [poppoppuppylove/our-moments](https://github.com/poppoppuppylove/our-moments) - Our Moments 是一个充满手绘质感的社交博客平台，采用独特的拼贴手账风格设计。用户可以自由记录文字、图片，装饰自己的生活记忆，与朋友分享美好时刻。平台支持好友系统、私信聊天、实时通知等功能，结合 JWT 认证、阿里云 OSS 存储、WebSocket 实时通信等现代技术，为用户提供温馨舒适的在线生活记录体验。
 
-*   [xiaoshengxianjun/51mazi](https://github.com/xiaoshengxianjun/51mazi) - 我要码字，这可能会是最好用的小说写作软件。51mazi是一款基于 Electron + Vue 3 技术栈开发的桌面小说写作软件，专为小说创作者设计，它不仅集成了随机取名，小说地图设计、关系图谱、人物档案，时间线等创作辅助工具，还集成了AI写作辅助功能，让小说创作变得更加高效和有趣。
+*   [xiaoshengxianjun/51mazi](https://github.com/xiaoshengxianjun/51mazi) - 我要码字，这可能会是最好用的小说写作软件。51mazi是一款基于 Electron + Vue 3 技术栈开发的桌面小说写作软件，专为小说创作者设计，它不仅集成了随机取名，小说地图设计、关系图谱、人物档案，时间线等创作辅助工具，还集成了AI写作、AI生成封面，AI生成人物图等AI辅助功能，让小说创作变得更加高效和有趣。
 
 *   [Tosuke-sama/DesktopFriends](https://github.com/Tosuke-sama/DesktopFriends) - 利用闲置的手机来和桌面宠物们「一起」聊天吧！
 
@@ -963,8 +965,6 @@
 
 *   [debug16/LuoYiMusic](https://github.com/debug16/LuoYiMusic) - 基于 vue3 + vite + pinia + vue-router4 实现的一个简约美观的音乐播放平台，使用 pake 打包桌面端，只有1M+，欢迎大家体验和star
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，评论区，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
-
 *   [a7650/h5-editor](https://github.com/a7650/h5-editor) - 📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能
 
 *   [xp-bear/note\_wall](https://github.com/xp-bear/note_wall) - 留言墙功能可以让用户在网站上发表留言，以便其他用户可以看到并回复。它可以帮助网站的用户更好地交流，提高网站的互动性，增加用户体验。使用技术栈: vue3+express+mysql,觉得还可以的话,可以给一个star~
@@ -994,8 +994,6 @@
 *   [vscodev/XArchiver](https://github.com/vscodev/XArchiver) - 🚀 基于大数据的压缩包密码破解软件
 
 *   [etools-lab/etools](https://github.com/etools-lab/etools) - etools - 一个基于 Tauri + React 构建的桌面生产力启动器。支持全局快捷键、应用搜索、文件搜索、浏览器书签、剪贴板历史等功能。
-
-*   [Ceeon/videocut-skills](https://github.com/Ceeon/videocut-skills) - 用 Claude Code Skills 做的视频剪辑 Agent
 
 *   [Mac-XK/MacTools](https://github.com/Mac-XK/MacTools) - MacTools是一款现代化的 macOS 原生应用程序，专为安全研究人员、逆向工程师和开发者设计。它提供了一站式的可视化界面，用于自动化管理 macOS 应用的动态库注入（Dylib/Framework Injection）流程，并集成了多种实用的二进制分析与处理工具。
 
@@ -1103,6 +1101,8 @@
 
 *   [HXHGTS/DeactivationIDM](https://github.com/HXHGTS/DeactivationIDM) - IDM激活/反激活规则
 
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+
 *   [wsdjeg/hello-vim](https://github.com/wsdjeg/hello-vim) - Vim 中文资源整理
 
 *   [phith0n/Mind-Map](https://github.com/phith0n/Mind-Map) - 各种安全相关思维导图整理收集
@@ -1148,6 +1148,8 @@
 *   [labilio/lofi-radio](https://github.com/labilio/lofi-radio) - Lofi音乐被科学家认为是最适合专注工作学习的音乐，lofigirl是一个风靡全球的电台，24小时播放适合专注的lofi音乐。但lofigirl团队基本都在海外平台，仅在中国Bilibili有开设直播间。我希望做一个lofigirl桌面版播放器，让所有热爱lofi音乐的中国朋友每天打开电脑一键启动电台，并加入相关音乐快捷键功能，让lofigirl摆脱直播间束缚，成为真正的陪伴在身边的音乐电台
 
 *   [nacrcn/nacrbbs](https://github.com/nacrcn/nacrbbs) - NacrBBS 轻量化论坛系统 是采用前后端分离架构打造的全新轻量化论坛系统，界面简洁美观，性能卓越。基于 Fastify + Nuxt3 技术栈构建，提供完整的社区论坛解决方案，适用于个人博客、企业社区、技术论坛等多种场景。
+
+*   [Ceeon/videocut-skills](https://github.com/Ceeon/videocut-skills) - 用 Claude Code Skills 做的视频剪辑 Agent
 
 *   [24K-GA/App-Mockup-Studio](https://github.com/24K-GA/App-Mockup-Studio) - 🎨 SnapShell - 专业的在线截图 Mockup 生成工具。无需设计基础，上传图片即可一键生成精美的设备带壳展示图，完美适用于应用商店上架、官网展示及社媒分享。
 
@@ -1450,8 +1452,6 @@
 *   [satopian/poti-kaini-zh-TW](https://github.com/satopian/poti-kaini-zh-TW) - 繪圖留言板PHPscript POTI-board EVO 繁體中文版本 The OekakiBBS for for PaintBBS NEO, tegaki.js,AXNOS Paint,ChickenPaint and Klecks. (PHP7.4 - PHP8.5) https://paintbbs.sakura.ne.jp/poti/
 
 *   [georapbox/rss-feed-reader](https://github.com/georapbox/rss-feed-reader) - A simple RSS Feed Reader based on web technologies (HTML, CSS, JavaScript)
-
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 
 *   [solo1d/MAC\_OS\_System](https://github.com/solo1d/MAC_OS_System) - MAC系统使用笔记
 
@@ -2275,7 +2275,7 @@
 
 *   [vas3k/infomate.club](https://github.com/vas3k/infomate.club) - RSS feed aggregator with collections and NLP article summarization
 
-*   [xiangsanliu/Rules](https://github.com/xiangsanliu/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
+*   [skylark36/Rules](https://github.com/skylark36/Rules) - 🛫️ 🎵 Shadowrocket Rules: block ads, proxy, netease music unblock.
 
 *   [talengu/rss-translate](https://github.com/talengu/rss-translate) - rss translate any to any
 
