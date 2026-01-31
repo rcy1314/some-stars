@@ -837,6 +837,8 @@
 
 *   [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+
 *   [abdtriedcoding/notionverse](https://github.com/abdtriedcoding/notionverse) - A static blog build on top of Notion and NextJS 14, deployed on Vercel.
 
 *   [westinyang/F-OH](https://github.com/westinyang/F-OH) - ⭐ F-OH 是一个 OpenHarmony 平台上 FOSS（Free and Open Source Software，自由开源软件）的应用中心，并提供下载安装支持
@@ -1293,7 +1295,7 @@
 
 *   [a55509432/pyipatool](https://github.com/a55509432/pyipatool) - 苹果商店搜索下载历史版本工具
 
-*   [YoKONCy/PeroCore](https://github.com/YoKONCy/PeroCore) - 具备“数字下意识”的高性能桌面 AI 核心。基于 Rust 的 0.5ms 意图闪回引擎，实现 15ms 级感知-预判闭环。融合 AuraVision 隐私视觉，让 AI 具备生物级的直觉与温度。内置 NIT (Non-Invasive Toolcall) 协议解释器，实现全自动化工作流。
+*   [YoKONCy/PeroCore](https://github.com/YoKONCy/PeroCore) - 拥有“无限长记忆”的高性能桌面AI桌宠，基于Python+Rust构建，目前处于早期测试阶段
 
 *   [baby7/agile-tiles](https://github.com/baby7/agile-tiles) - 【灵卡面板】一款Windows侧边栏应用，打造你的自定义专属摸鱼办公面板
 
@@ -1327,7 +1329,7 @@
 
 *   [LC044/TrailSnap](https://github.com/LC044/TrailSnap) - 行影集——你的私人AI智能相册
 
-*   [666fy666/WebMoniter](https://github.com/666fy666/WebMoniter) - 一款整合社交媒体动态/直播开播、下播提醒检测与推送、签到服务， 目前支持：微博、虎牙、ikuuu。
+*   [666fy666/WebMoniter](https://github.com/666fy666/WebMoniter) - 一款整合社交媒体动态/直播开播、下播提醒检测与推送、签到服务， 目前支持：微博(超话)、虎牙、ikuuu、贴吧。
 
 *   [moon-like-gray-cat/WordFormatter](https://github.com/moon-like-gray-cat/WordFormatter) - WordFormatter 是一款用于 自动整理 Word 文档标题编号与段落格式的桌面轻量级工具。它能帮助用户一键格式化word文档，方便生成目录、规范论文或课程报告的排版。
 
@@ -1355,7 +1357,7 @@
 
 *   [xingfeng7788/docker-hub-proxy](https://github.com/xingfeng7788/docker-hub-proxy) - 一个轻量级、智能的 Docker 镜像加速与代理管理工具
 
-*   [kannazuki-c/twitter-web-exporter-gui](https://github.com/kannazuki-c/twitter-web-exporter-gui) - The best next step after exporting tweets as JSON files using twitter-web-exporter.
+*   [kannazuki-c/twitter-web-exporter-gui](https://github.com/kannazuki-c/twitter-web-exporter-gui) - The best next step after exporting tweets as JSON files through twitter-web-exporter.
 
 *   [nfachenxi/doc-notify](https://github.com/nfachenxi/doc-notify) - 一个轻量级的文档更新通知服务，当用户点击特定链接时自动发送 webhook 通知。
 
@@ -1668,8 +1670,6 @@
 *   [infamouskoala/koalahook](https://github.com/infamouskoala/koalahook) - A webhook multitool coded in python to seamlessly interact with Discord Webhooks! Send messages, Spam, Delete and much more!
 
 *   [hydrotho/BiliBili\_Livestream\_Reminder](https://github.com/hydrotho/BiliBili_Livestream_Reminder) - 一款监控哔哩哔哩直播间并通过 Telegram 机器人发送通知的工具。A tool for monitoring BiliBili livestreams and sending notifications via a Telegram bot.
-
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 *   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
@@ -2231,7 +2231,7 @@
 
 *   [HXHGTS/DeactivationIDM](https://github.com/HXHGTS/DeactivationIDM) - IDM激活/反激活规则
 
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) -
 
 *   [wsdjeg/hello-vim](https://github.com/wsdjeg/hello-vim) - Vim 中文资源整理
 
