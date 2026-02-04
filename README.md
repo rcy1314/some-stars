@@ -819,7 +819,7 @@
 
 *   [liwenka1/next-web-nav](https://github.com/liwenka1/next-web-nav) - 一个简单好用的导航网站
 
-*   [aifuxi/fuxiaochen](https://github.com/aifuxi/fuxiaochen) - 🌈 一个简单的个人站，使用 Go + Next.js 构建
+*   [aifuxi/fuxiaochen](https://github.com/aifuxi/fuxiaochen) - 🌈 一个简单的个人博客，使用 Next.js 构建
 
 *   [ChatLunaLab/chatluna](https://github.com/ChatLunaLab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats
 
@@ -1223,7 +1223,7 @@
 
 *   [a55509432/pyipatool](https://github.com/a55509432/pyipatool) - 苹果商店搜索下载历史版本工具
 
-*   [YoKONCy/PeroCore](https://github.com/YoKONCy/PeroCore) - 高性能 AI 桌宠，基于Python+Rust构建。这不是一个冰冷的 AI 工具，而是一个尝试赋予 AI “温度”与“灵魂”的项目
+*   [YoKONCy/PeroCore](https://github.com/YoKONCy/PeroCore) - 拥有“无限长记忆”的高性能 AI 桌宠，基于Python+Rust构建。这不是一个冰冷的 AI 工具，而是一个尝试赋予 AI “温度”与“灵魂”的项目
 
 *   [baby7/agile-tiles](https://github.com/baby7/agile-tiles) - 【灵卡面板】一款Windows侧边栏应用，打造你的自定义专属摸鱼办公面板
 
@@ -1872,6 +1872,8 @@
 *   [howie6879/liuli](https://github.com/howie6879/liuli) - 一站式构建多源、干净、个性化的阅读环境(Build a multi-source, clean and personalized reading environment in one stop.)
 
 *   [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
+
+*   [jbzdarkid/RssToEmail](https://github.com/jbzdarkid/RssToEmail) - Sends new RSS entries via email
 
 ## Dart
 
@@ -2936,8 +2938,6 @@
 *   [grokify/ringcentral-permahooks](https://github.com/grokify/ringcentral-permahooks) - Webhook proxy to turn RingCentral webhooks into permanent webhooks for use with services like Zapier Instant Triggers.
 
 *   [tarampampam/webhook-tester](https://github.com/tarampampam/webhook-tester) - 🔭 Powerful tool for testing WebHooks and more
-
-*   [xlzy520/typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床，也可以自定义修改成任意其他图床接口。使用教程：https://b23.tv/urxCc3
 
 *   [CatchZeng/feishu](https://github.com/CatchZeng/feishu) - feishu 是飞书机器人的 go 实现。支持 Docker、Jenkinsfile、命令行模式，module 模式；支持加签安全设置、链式语法创建消息；支持文本（text）、富文本（post）、图片（image）、群名片（share\_chat）、消息卡片（interactive）消息类型。
 
