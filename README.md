@@ -527,7 +527,7 @@
 
 *   [anghunk/cwd](https://github.com/anghunk/cwd) - 基于 Cloudflare Workers 与全球边缘网络的免服务器、极速安全、即插即用评论系统。
 
-*   [stone-yu/ai-draw](https://github.com/stone-yu/ai-draw) - AI-driven diagram tool that lets you describe charts verbally and generates them automatically using Mermaid, Excalidraw, or Draw.io. Supports private deployment via Docker, file management, and both local and cloud access, and supports multi-user usage.AI驱动的图表创作平台，与AI对话，轻松使用Mermaid、Excalidraw和Draw.io绘图，支持docker私有部署、绘图文件存储和管理、本地和云端两种使用模式、支持多用户使用。
+*   [stone-yu/ai-draw](https://github.com/stone-yu/ai-draw) - AI驱动的图表创作平台，与AI对话，轻松使用Mermaid、Excalidraw和Draw.io绘图，支持docker私有部署、绘图文件存储和管理、本地和云端两种使用模式、支持多用户使用。AI-driven diagram tool that lets you describe charts verbally and generates them automatically using Mermaid, Excalidraw, or Draw.io. Supports private deployment via Docker, file management, and both local and cloud access, and supports multi-user usage.
 
 *   [awinds/xa-note](https://github.com/awinds/xa-note) - XA Note 是一款轻量级、自托管的个人笔记应用，支持 Markdown 编辑、分类与标签管理、笔记导出、GitHub 登录、安全分享、WebDAV 备份、锁屏保护以及深色主题。 所有数据完全由用户掌控，存储在自有服务器中，适合追求隐私、安全和长期可维护性的个人知识管理场景。
 
@@ -1311,7 +1311,7 @@
 
 *   [YYH211/xiaohongshu](https://github.com/YYH211/xiaohongshu) - 这是一个基于人工智能的网页应用程序，用于为小红书生成和自动发布内容。它通过模型上下文协议（MCP）集成了多种工具和服务，实现了从主题输入到内容发布的全自动化流程。
 
-*   [AI-Cultivation/cultivation-world-simulator](https://github.com/AI-Cultivation/cultivation-world-simulator) - 基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world.
+*   [4thfever/cultivation-world-simulator](https://github.com/4thfever/cultivation-world-simulator) - 基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world.
 
 *   [fz00x0fz/AI-Real-Time-Subtitle-Tool](https://github.com/fz00x0fz/AI-Real-Time-Subtitle-Tool) - AI实时字幕工具 (AI Real-time Subtitle Tool)
 
@@ -1929,7 +1929,7 @@
 
 *   [Galaxykaito/flowchart](https://github.com/Galaxykaito/flowchart) - 本地化部属，点击即用的流程图制作工具
 
-*   [hoowhoami/EchoMusic](https://github.com/hoowhoami/EchoMusic) - 一个基于 Electron + Vue 3 的跨平台桌面音乐播放器
+*   [hoowhoami/EchoMusicLegacy](https://github.com/hoowhoami/EchoMusicLegacy) - 一个基于 Electron + Vue 3 的跨平台桌面音乐播放器
 
 *   [lcz1219/freemix](https://github.com/lcz1219/freemix) - Freemix 是一个功能强大、设计优雅的全栈目标管理系统（Goal Management System）。它采用跨平台架构，既提供现代化的 Web 应用，又通过 Electron 框架打包成原生桌面应用，让用户在任何环境下都能享受流畅的目标管理体验
 
