@@ -643,7 +643,7 @@
 
 *   [xiongsircool/aurora-rss-reader](https://github.com/xiongsircool/aurora-rss-reader) -  Aurora RSS Reader - AI 增强的跨平台桌面 RSS 阅读器，支持多语言翻译、智能摘要和现代化阅读体验.
 
-*   [vaesonshu/xtai-nav](https://github.com/vaesonshu/xtai-nav) - 星途 AI 导航 | AI 应用一站式导航 - Next.js 入门实战导航项目
+*   [vaesonshu/xtai-nav](https://github.com/vaesonshu/xtai-nav) - 星途 AI 导航 | AI 应用一站式导航 - Next.js 入门实战导航项目。
 
 *   [ideasworkcn/ideanote](https://github.com/ideasworkcn/ideanote) -  IdeaNote - AI驱动的创意写作工具.专为创意写作而设计的智能桌面应用
 
@@ -1278,6 +1278,8 @@
 *   [sysgiven/AI-XiaoPi](https://github.com/sysgiven/AI-XiaoPi) - 小皮AI直播机器人 硬件+私有服务器解决方案 (XiaoPi)是一个将直播弹幕与AI硬件语音交互结合的解决方案。它能够：  - 📺 实时接收直播间弹幕消息 - 🤖 使用大语言模型(LLM)生成智能回复 - 🔊 将回复转换为语音(TTS) - 📡 发送到ESP32等硬件设备进行播放 - 🎯 支持串行化处理，避免弹幕堆积
 
 *   [wwwzhouhui/jimeng-mcp-server](https://github.com/wwwzhouhui/jimeng-mcp-server) - 一个为即梦AI打造的MCP服务器，让Claude、Cherry Studio等AI应用直接调用即梦的AI生成能力。基于jimeng-free-api-all开源项目，提供OpenAI兼容接口。    核心功能：文本生成图像（即梦4.0/3.1）、图像合成（多图融合）、文本生成视频（480p-1080p）、图像生成视频（静态转动态）。    支持三种模式：stdio（Claude Desktop）、SSE（Web）、HTTP REST API（跨平台）。Docker一键部署，开箱即用。异步轮询优化，确保长时间任务稳定完成。    需要Python 3.10+和Docker，配置SessionID即可使用，每日免费66积分。适合AI创作者、开发者学习MCP协议。MIT开源，代码透明。
+
+*   [lumingya/universal-web-api](https://github.com/lumingya/universal-web-api) - 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An AI-powered, self-healing web automation bridge. Converts any website (ChatGPT, DeepSeek, etc.) into a standard API using DrissionPage and LLM analysis.）
 
 *   [QUSEIT/simacode](https://github.com/QUSEIT/simacode) - 一个AI自动化工作流框架，其核心作用是通过智能的多代理协作系统，理解、执行和扩展复杂的自动化任务
 
@@ -2282,8 +2284,6 @@
 *   [Dbables/Dbable](https://github.com/Dbables/Dbable) - Free universal database tool and SQL client
 
 *   [ivigne/windsurf-account-manager](https://github.com/ivigne/windsurf-account-manager) - 一个用于管理多个 Windsurf 账号的 VS Code / Windsurf 扩展。  功能特性： ✅ 批量导入账号 ✅ 一键切换账号 ✅ 余额查询 ✅ API 用量统计 ✅ 补丁管理  ⚠️ 仅供学习研究使用，请勿用于商业或非法目的。
-
-*   [lumingya/universal-web-api](https://github.com/lumingya/universal-web-api) - 🤖 一个由 AI 驱动的自愈式网页自动化智能体，将任意网站转化为标准 API。基于 DrissionPage 和 LLM 构建。（An AI-powered, self-healing web automation bridge. Converts any website (ChatGPT, DeepSeek, etc.) into a standard API using DrissionPage and LLM analysis.）
 
 *   [A7225204/PS](https://github.com/A7225204/PS) - PS插件调用纳米香蕉模型
 
