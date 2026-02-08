@@ -69,11 +69,13 @@
 
 *   [YUxiangLuo/miao](https://github.com/YUxiangLuo/miao) - 一个开箱即用的 sing-box 启动器，支持Linux系统/OpenWrt软路由。30秒实现 TUN 模式透明代理，国内外自动分流。
 
+*   [datawhalechina/vibe-blog](https://github.com/datawhalechina/vibe-blog) - Vibe-Blog是一个基于Multi-Agent 架构的万字长文技术博客生成AI助手，支持深度调研、智能配图、Mermaid 图表、代码集成、专业排版的各种专业技术博客写作中所需要的能力, 真正做到了 "输入一句话, 一键输出图文混合的万字技术长文, 轻轻松松做到日更万字长文技术博客"，将晦涩的技术知识转化为通俗易懂的科普文章，让每个人都能轻松理解复杂技术,在 AI 时代扬帆起航.
+
 *   [LoneKingCode/panbox](https://github.com/LoneKingCode/panbox) - 盘盒子是专业的网盘资源盒子，提供海量免费AI资源（AI模型、AI资料、AI课程）、源码下载（前端、后端、移动端）、软件工具（Windows、Mac、手机APP、绿色软件）、学习课程（IT编程、设计创意、办公职场、副业创业）。每日更新优质资源！
 
 *   [jianjieyiban/JJYB\_AI\_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut) - JJYB\_AI 智剪 - 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音）
 
-*   [Xuuuuu04/BiliBiliSummary](https://github.com/Xuuuuu04/BiliBiliSummary) - 一键提取 B 站视频字幕、弹幕、评论及关键帧画面，通过 AI 多模态大模型生成深度总结、思维导图及舆情分析报告。
+*   [Xuuuuu04/bilibili-analysis-helper](https://github.com/Xuuuuu04/bilibili-analysis-helper) - B站视频分析助手：提取字幕/评论/关键帧并生成深度分析报告。
 
 *   [yuyou-dev/Vibe-Agent](https://github.com/yuyou-dev/Vibe-Agent) - 手搓Agent系列，香蕉Pro邪修应用和gemini本地化部署
 
@@ -751,7 +753,7 @@
 
 *   [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy) - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 支持逐字歌词，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
@@ -1367,8 +1369,6 @@
 
 *   [qq85423296/t3mt](https://github.com/qq85423296/t3mt) - 免费影视管理助手，夸克全自动下载，腾讯、爱奇艺、芒果、优酷等影视资源全自动更新下载。
 
-*   [datawhalechina/vibe-blog](https://github.com/datawhalechina/vibe-blog) - Vibe-Blog是一个基于Multi-Agent 架构的万字长文技术博客生成AI助手，支持深度调研、智能配图、Mermaid 图表、代码集成、专业排版的各种专业技术博客写作中所需要的能力, 真正做到了 "输入一句话, 一键输出图文混合的万字技术长文, 轻轻松松做到日更万字长文技术博客"，将晦涩的技术知识转化为通俗易懂的科普文章，让每个人都能轻松理解复杂技术,在 AI 时代扬帆起航.
-
 *   [eighteenth-last/End\_of\_term\_revision](https://github.com/eighteenth-last/End_of_term_revision) - 神阁卷藏是一款基于 AI 视觉模型的智能期末复习系统，通过先进的图像识别技术自动解析试题图片，支持多科目题库管理、智能练习、错题集、学习统计等功能，帮助学生高效备考。
 
 *   [github653224/ai-auto-touch](https://github.com/github653224/ai-auto-touch) - 一款基于 AI 大模型的 Android 设备自动化控制平台，支持自然语言指令控制、实时屏幕镜像、多设备批量管理。
@@ -1611,7 +1611,7 @@
 
 *   [Jiabinone/SambaNova2API](https://github.com/Jiabinone/SambaNova2API) - SambaNova AI模型API适配器：将SambaNova的强大AI模型转换为OpenAI兼容的接口，支持流式响应和多模型选择。
 
-*   [baihengaead/wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi密码暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
+*   [baihengaead/wifi-crack-tool](https://github.com/baihengaead/wifi-crack-tool) - WiFi暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典
 
 *   [infrost/DeeplxFile](https://github.com/infrost/DeeplxFile) - 基于Deeplx和Playwright提供的简单易用，快速，免费，不限制文件大小，支持超长文本翻译，跨平台的文件翻译工具 / Easy-to-use, fast, free, unlimited file size and cross platform file translation tool based on Deeplx & Playwright that supports long text translations.
 
@@ -2009,7 +2009,7 @@
 
 *   [openAnimeFlow/AnimeFlow](https://github.com/openAnimeFlow/AnimeFlow) - 一个跨平台的动漫视频播放应用，支持多数据源、支持实时视频4k超分辨率、自定义爬虫配置,对接Bangumi服务同步用户收藏数据,对接弹弹Play提供弹幕体验，为您提供流畅的观影体验
 
-*   [future-gole/PocketMind](https://github.com/future-gole/PocketMind) - 触手可及的第二大脑。无感收藏链接，你的中央收藏夹，让 AI 帮你整理数字生活。
+*   [MimicHunterZ/PocketMind](https://github.com/MimicHunterZ/PocketMind) - 触手可及的第二大脑。无感收藏链接，你的中央收藏夹，让 AI 帮你整理数字生活。
 
 *   [dsxksss/TodoCat](https://github.com/dsxksss/TodoCat) - Todo Cat 🐱 A beautiful and simple Todo application built with Flutter  |  事项猫 一个简洁UI风格的看板应用
 
@@ -2231,7 +2231,7 @@
 
 ## Shell
 
-*   [Future-404/TAV-X](https://github.com/Future-404/TAV-X) - 一个为安卓 Termux 环境量身定制的傻瓜式一键安装脚本，旨在简化 SillyTavern 的部署和管理流程。无论您是想在本地使用，还是通过安全隧道跨设备远程访问您的“酒馆”，TAV-X 都能助您一臂之力，让您在无论是安卓还是iOS，只要有浏览器的地方随时随地进入Sillytavern聊天环境。
+*   [Future-404/TAV-X](https://github.com/Future-404/TAV-X) - AI脚本合集 一键安装命令  bash <(curl -s -L https://tav-x.future404.qzz.io)      🧑🧑
 
 *   [alg-bug-engineer/vibe-coding-collection](https://github.com/alg-bug-engineer/vibe-coding-collection) - Vibe Coding 资源集合 - AI 辅助编程一站式学习平台  本仓库系统收集了国内外优质的 Vibe Coding（AI 辅助编程）资源，包括： • 核心概念和理论基础 • 50+ AI 编程工具详细对比 • 专家课程和大厂官方文档 • 实战项目案例和工作流程 • 系统化的视频教程 • GitHub 优质仓库推荐  适合所有想掌握 AI 辅助编程的开发者。
 
