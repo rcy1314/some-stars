@@ -42,13 +42,13 @@
 *   [CMake](#cmake)
 *   [Astro](#astro)
 *   [AutoHotkey](#autohotkey)
-*   [PowerShell](#powershell)
 *   [Svelte](#svelte)
 *   [Pug](#pug)
 *   [AppleScript](#applescript)
 *   [Less](#less)
 *   [Perl](#perl)
 *   [Pascal](#pascal)
+*   [PowerShell](#powershell)
 *   [EJS](#ejs)
 *   [AngelScript](#angelscript)
 *   [Ruby](#ruby)
@@ -198,6 +198,8 @@
 
 *   [erbanku/awesome](https://github.com/erbanku/awesome) - 🌟 My Awesome Repositories List. Automatically updates by GitHub Actions on UTC 00:00 & 16:00
 
+*   [qianguyihao/Mac-list](https://github.com/qianguyihao/Mac-list) - Mac软件清单、Mac使用技巧整理，正在不断完善中。努力做到最全。
+
 ## Python
 
 *   [gongxings/ai-creator](https://github.com/gongxings/ai-creator) - AI创作者平台，一个功能强大的AI创作平台，提供AI写作、图片生成、视频生成、PPT生成等创作工具，并支持一键发布到多个平台。
@@ -246,8 +248,6 @@
 
 *   [qq85423296/t3mt](https://github.com/qq85423296/t3mt) - 免费影视管理助手，夸克全自动下载，腾讯、爱奇艺、芒果、优酷等影视资源全自动更新下载。
 
-*   [eighteenth-last/End\_of\_term\_revision](https://github.com/eighteenth-last/End_of_term_revision) - 神阁卷藏是一款基于 AI 视觉模型的智能期末复习系统，通过先进的图像识别技术自动解析试题图片，支持多科目题库管理、智能练习、错题集、学习统计等功能，帮助学生高效备考。
-
 *   [github653224/ai-auto-touch](https://github.com/github653224/ai-auto-touch) - 一款基于 AI 大模型的 Android 设备自动化控制平台，支持自然语言指令控制、实时屏幕镜像、多设备批量管理。
 
 *   [cookiesen77-rgb/superAIAutoCutVideo](https://github.com/cookiesen77-rgb/superAIAutoCutVideo) - AI 自动视频剪辑工具 - 集成 IndexTTS2 本地推理
@@ -258,7 +258,7 @@
 
 *   [LC044/TrailSnap](https://github.com/LC044/TrailSnap) - 行影集——你的私人AI智能相册
 
-*   [666fy666/WebMoniter](https://github.com/666fy666/WebMoniter) - 一款整合社交媒体动态/直播开播、下播提醒检测与推送、签到服务， 目前支持：微博(超话)、虎牙、ikuuu、贴吧。
+*   [666fy666/WebMoniter](https://github.com/666fy666/WebMoniter) - 虎牙直播、微博(超话)、ikuuu、百度贴吧、雨云、恩山、天翼云盘、阿里云盘、什么值得买、富贵论坛、小米社区、爱奇艺、联想乐豆、丽宝乐园、品赞、达美乐、小茅预约 等多平台的任务与签到工具
 
 *   [moon-like-gray-cat/WordFormatter](https://github.com/moon-like-gray-cat/WordFormatter) - WordFormatter 是一款用于 自动整理 Word 文档标题编号与段落格式的桌面轻量级工具。它能帮助用户一键格式化word文档，方便生成目录、规范论文或课程报告的排版。
 
@@ -410,7 +410,7 @@
 
 *   [EdGrass/CLINews](https://github.com/EdGrass/CLINews) - 💻 CLI News 是一个命令行新闻工具，从 RSS feed 获取新闻并完成翻译，在摸鱼的时候方便地浏览新闻内容
 
-*   [yhbcode000/talk2scene](https://github.com/yhbcode000/talk2scene) - Talk2Scene 是一个 音频驱动的智能动画生成工具，它能够自动解析 语音杂谈文件，识别文本内容与时间节点，并基于 AI 推荐适合的 角色姿态（STA）、表情（EXP）、动作（ACT）、背景（BG），在适当位置留白插入 CG 插画。最终，项目会生成 可点击的 CSV 数据文件，记录所有匹配信息，同时自动 合成预览视频，展现 AI 角色在不同场景中的动态表现。该工具可广泛用于 访谈视频、AI 互动演示、教育讲解、虚拟主播 等场景，帮助创作者轻松实现 从音频到可视化动画 的智能转换。
+*   [yhbcode000/talk2scene](https://github.com/yhbcode000/talk2scene) - Talk2Scene 是一个音频驱动的智能动画生成工具，能够自动解析语音杂谈文件，识别文本内容与时间节点，并基于 AI 推荐适合的角色姿态（STA）、表情（EXP）、动作（ACT）、背景（BG），在适当位置插入 CG 插画。最终生成结构化的场景事件数据，并自动合成预览视频，展现 AI 角色在不同场景中的动态表现。  该工具专为内容创作者、教育工作者、虚拟主播和 AI 爱好者设计，可广泛用于访谈视频、AI 互动演示、教育讲解等场景，帮助创作者轻松实现从音频到可视化动画的智能转换。
 
 *   [wangyaominde/iMessage\_llm](https://github.com/wangyaominde/iMessage_llm) - 用闲置Mac接入llm，使用iMessage进行对话
 
@@ -485,6 +485,8 @@
 *   [TakWolf/aseprite-universal-pixel-theme](https://github.com/TakWolf/aseprite-universal-pixel-theme) - 支持多语言的具有默认主题外观的像素主题
 
 *   [heavyimage/Album-Art-Bottle-LEDs](https://github.com/heavyimage/Album-Art-Bottle-LEDs) - Create a custom LED palette based on your favorite albums!
+
+*   [licyk/sd-webui-all-in-one](https://github.com/licyk/sd-webui-all-in-one) - 支持部署多种 WebUI 的 Jupyter Notebook / CLI，与支持一键部署 SD-Trainer，InvokeAI，ComfyUI，SD WebUI，SD-Trainer-Script，Fooocus，Qwen TTS WebUI 的 PowerShell 脚本
 
 *   [Jiabinone/SambaNova2API](https://github.com/Jiabinone/SambaNova2API) - SambaNova AI模型API适配器：将SambaNova的强大AI模型转换为OpenAI兼容的接口，支持流式响应和多模型选择。
 
@@ -926,7 +928,7 @@
 
 *   [lidedongsn/cut.ai](https://github.com/lidedongsn/cut.ai) - cut.ai 是一个AI音视频剪辑工具，语音转写基于whisper
 
-*   [tlyboy/apichat](https://github.com/tlyboy/apichat) - 🤖 一个基于 Tauri 构建的现代化 API 客户端
+*   [tlyboy/apichat](https://github.com/tlyboy/apichat) - 🤖 A modern API client built with Tauri
 
 *   [frankiejun/Domains-Support](https://github.com/frankiejun/Domains-Support) - 一个基于 Cloudflare Pages 的域名管理系统，帮助您轻松管理和监控多个域名的状态、到期时间等信息。
 
@@ -950,7 +952,7 @@
 
 *   [machaojin1917939763/mcp-ui](https://github.com/machaojin1917939763/mcp-ui) - 基于MCP(Model Context Protocol)的智能聊天应用，支持Web和桌面环境。集成OpenAI/Anthropic API，提供MCP服务器的所有工具能力。简洁现代的UI设计，支持跨平台部署。
 
-*   [wiidede/exif-gallery-nuxt](https://github.com/wiidede/exif-gallery-nuxt) - A full-stack photo album solution that integrates AI intelligent processing, browser image compression, and other functions.
+*   [wiidede/exif-gallery-nuxt](https://github.com/wiidede/exif-gallery-nuxt) - A free personal photo gallery deployable on Cloudflare, with AI image analysis and browser-side image compression  可免费部署在 Cloudflare 的个人相册网站，支持AI图像分析，浏览器压缩图片
 
 *   [dengaye/translatex](https://github.com/dengaye/translatex) - TranslateX 是一款基于 Electron 开发的跨平台桌面划词翻译工具，支持 Windows 和 macOS 系统。您可以使用快捷键调用翻译功能，翻译选中的文本。
 
@@ -1057,8 +1059,6 @@
 ## HTML
 
 *   [oidd/LightToDo](https://github.com/oidd/LightToDo) - Tailored for macOS with native liquid glass design, making tasks as light as inspiration.专为 macOS 打造，原生液态玻璃设计，让待办事项如灵感般轻盈。
-
-*   [My-Search/ai-rss-hub](https://github.com/My-Search/ai-rss-hub) - 一个基于 Spring Boot 的智能 RSS 过滤系统，集成 AI 能力实现个性化内容筛选。支持多用户、多 RSS 源，自动处理并生成符合个人偏好的自定义 RSS 订阅。
 
 *   [cornradio/AirMouse](https://github.com/cornradio/AirMouse) - 用手机当鼠标/键盘的极简解决方案
 
@@ -1327,8 +1327,6 @@
 *   [Sallyn0225/gemini-rss-app](https://github.com/Sallyn0225/gemini-rss-app) - RSS 聚合 + AI 翻译与总结的资讯阅读器，支持多源订阅、按日总结与内容分类，使用自有 OpenAI 兼容 / Gemini API。
 
 *   [dengcb/weixin-reader-desktop](https://github.com/dengcb/weixin-reader-desktop) - 轻量级微信读书客户端，体积小，页面宽，自动翻页，体验增强 A Weixin Reader Desktop with Auto-turning and Wide-pager
-
-*   [itwanger/PaiAgent](https://github.com/itwanger/PaiAgent) - 🔥轻量级的AI工作流编排系统，类似dify、n8n，全程使用Vibe Coding，AI工具为Qoder+CLI。涉及到的技术栈包括SpringAI、LangGraph4J、SSE、MinIO、DAG自定引擎等。
 
 *   [YangZxi/Linkit](https://github.com/YangZxi/Linkit) - A lightweight file-sharing & image-hosting application: upload files -> pick a share code -> preview in the browser. (一个轻量级的文件分享&图床系统，上传文件 -> 获取分享码 -> 浏览器在线预览)
 
@@ -1908,6 +1906,8 @@
 
 *   [justorez/bookmark-cleaner](https://github.com/justorez/bookmark-cleaner) - 🚀Check and clean invalid browser bookmarks.
 
+*   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
+
 ## Swift
 
 *   [fxding/forks](https://github.com/fxding/forks) - A beautiful native macOS app to manage skills for 25+ AI coding agents including Cursor, Claude Code, and Windsurf.
@@ -2018,7 +2018,7 @@
 
 *   [aydomini/pebble-drive](https://github.com/aydomini/pebble-drive) - 基于 Cloudflare Workers + R2 + D1 + KV 的现代化云存储解决方案，完全免费的私人云盘。
 
-*   [Luoevanescence/word-wonderland](https://github.com/Luoevanescence/word-wonderland) - 一个现代化的英语学习平台，包含单词管理、短语、句子、句型和主题学习功能。
+*   [Moewerry/word-wonderland](https://github.com/Moewerry/word-wonderland) - 一个现代化的英语学习平台，包含单词管理、短语、句子、句型和主题学习功能。
 
 *   [wxaiway/nce-web](https://github.com/wxaiway/nce-web) - 一个现代化的新概念英语在线点读应用，提供流畅的学习体验和丰富的功能。
 
@@ -2588,6 +2588,8 @@
 
 *   [TestersNightmare/ctv](https://github.com/TestersNightmare/ctv) - 老年人看电视必备神器
 
+*   [itwanger/PaiAgent](https://github.com/itwanger/PaiAgent) - 🔥轻量级的AI工作流编排系统，类似dify、n8n，全程使用Vibe Coding，AI工具为Qoder+CLI。涉及到的技术栈包括SpringAI、LangGraph4J、SSE、MinIO、DAG自定引擎等。
+
 *   [lds7871/StainedGlass\_XApiWrapper](https://github.com/lds7871/StainedGlass_XApiWrapper) - 对于X(Twitter)开发者门户的API封装/账号认证/Token自动刷新 的Spring项目，意在通过定时任务和额外逻辑快速开发平台自动化账号。
 
 *   [wangxinpo777/DataLinkX-P](https://github.com/wangxinpo777/DataLinkX-P) - 在原DatalinkX项目基础上进行了扩展，Flink+大模型（DeepSeek）智能数据中台;
@@ -3070,16 +3072,6 @@
 
 *   [dbgba/PCtoiOSClipboardSync](https://github.com/dbgba/PCtoiOSClipboardSync) - 电脑与iOS互相剪贴板同步 Computer and iOS clipboard sync with each other
 
-## PowerShell
-
-*   [licyk/sd-webui-all-in-one](https://github.com/licyk/sd-webui-all-in-one) - 支持部署多种 WebUI 的 Jupyter Notebook / CLI，与支持一键部署 SD-Trainer，InvokeAI，ComfyUI，SD WebUI，SD-Trainer-Script，Fooocus，Qwen TTS WebUI 的 PowerShell 脚本
-
-*   [Lin-jun-xiang/awesome-vscode-extensions](https://github.com/Lin-jun-xiang/awesome-vscode-extensions) - :gem:Tops of VSCode Extensions
-
-*   [daboynb/ChatGPT-Bypass-gui](https://github.com/daboynb/ChatGPT-Bypass-gui) - A  gui that allows you to bypass content filtering in ChatGPT through the OpenAI autocompletion API for DaVinci-003
-
-*   [SummonHIM/Bestdori-Music-Downloader](https://github.com/SummonHIM/Bestdori-Music-Downloader) - A script that automatically downloads music from Bestdori and fills in the music information(Song title, Artist, Album, Composer and Front cover)
-
 ## Svelte
 
 *   [jxqu3/aiui](https://github.com/jxqu3/aiui) - A simple no-install web UI for Ollama and OAI-Compatible APIs!
@@ -3109,6 +3101,14 @@
 *   [HemulGM/ChatGPT](https://github.com/HemulGM/ChatGPT) - ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux)
 
 *   [ericwang2006/bcut2srt](https://github.com/ericwang2006/bcut2srt) - 从必剪导出srt格式字幕 export srt subtitle from bcut project
+
+## PowerShell
+
+*   [Lin-jun-xiang/awesome-vscode-extensions](https://github.com/Lin-jun-xiang/awesome-vscode-extensions) - :gem:Tops of VSCode Extensions
+
+*   [daboynb/ChatGPT-Bypass-gui](https://github.com/daboynb/ChatGPT-Bypass-gui) - A  gui that allows you to bypass content filtering in ChatGPT through the OpenAI autocompletion API for DaVinci-003
+
+*   [SummonHIM/Bestdori-Music-Downloader](https://github.com/SummonHIM/Bestdori-Music-Downloader) - A script that automatically downloads music from Bestdori and fills in the music information(Song title, Artist, Album, Composer and Front cover)
 
 ## EJS
 
