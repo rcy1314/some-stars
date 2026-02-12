@@ -642,7 +642,7 @@
 
 *   [qq85423296/t3mt](https://github.com/qq85423296/t3mt) - 免费影视管理助手，夸克全自动下载，腾讯、爱奇艺、芒果、优酷等影视资源全自动更新下载。
 
-*   [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。
+*   [datawhalechina/vibe-blog](https://github.com/datawhalechina/vibe-blog) - Vibe-Blog是一个基于Multi-Agent 架构的万字长文技术博客生成AI助手，支持深度调研、智能配图、Mermaid 图表、代码集成、专业排版的各种专业技术博客写作中所需要的能力, 真正做到了 "输入一句话, 一键输出图文混合的万字技术长文, 轻轻松松做到日更万字长文技术博客"，将晦涩的技术知识转化为通俗易懂的科普文章，让每个人都能轻松理解复杂技术,在 AI 时代扬帆起航.
 
 *   [github653224/ai-auto-touch](https://github.com/github653224/ai-auto-touch) - 一款基于 AI 大模型的 Android 设备自动化控制平台，支持自然语言指令控制、实时屏幕镜像、多设备批量管理。
 
@@ -654,7 +654,7 @@
 
 *   [LC044/TrailSnap](https://github.com/LC044/TrailSnap) - 行影集——你的私人AI智能相册
 
-*   [666fy666/WebMoniter](https://github.com/666fy666/WebMoniter) - 虎牙直播、微博(超话)、ikuuu、百度贴吧、雨云、恩山、天翼云盘、阿里云盘、什么值得买、富贵论坛、小米社区、爱奇艺、联想乐豆、丽宝乐园、品赞、达美乐、小茅预约 等多平台的任务与签到工具
+*   [666fy666/WebMoniter](https://github.com/666fy666/WebMoniter) - 虎牙/哔哩哔哩/微博/抖音/斗鱼/小红书 开播&动态监控 · iKuuu/贴吧/阿里云盘/值得买 等 30+ 签到 · 企微/钉钉/飞书/Telegram 推送 · Web 管理 · 青龙·Docker
 
 *   [moon-like-gray-cat/WordFormatter](https://github.com/moon-like-gray-cat/WordFormatter) - WordFormatter 是一款用于 自动整理 Word 文档标题编号与段落格式的桌面轻量级工具。它能帮助用户一键格式化word文档，方便生成目录、规范论文或课程报告的排版。
 
@@ -899,8 +899,6 @@
 *   [IS-Howard/VideoPyDownloader](https://github.com/IS-Howard/VideoPyDownloader) - 影片下載工具
 
 *   [yuzhouxingzou/audio\_trimmer\_baseon\_ass](https://github.com/yuzhouxingzou/audio_trimmer_baseon_ass) - 使用ass字幕文件为基础的音频切片程序
-
-*   [kimwang1978/collect-txt](https://github.com/kimwang1978/collect-txt) - 源 (自动整理)
 
 *   [FlorianEagox/RSSpeak](https://github.com/FlorianEagox/RSSpeak) - Generate audio content from an RSS feed with TTS and voice cloning for my blog!
 
@@ -1278,8 +1276,6 @@
 
 *   [YUxiangLuo/miao](https://github.com/YUxiangLuo/miao) - 一个开箱即用的 sing-box 启动器，支持Linux系统/OpenWrt软路由。30秒实现 TUN 模式透明代理，国内外自动分流。
 
-*   [datawhalechina/vibe-blog](https://github.com/datawhalechina/vibe-blog) - Vibe-Blog是一个基于Multi-Agent 架构的万字长文技术博客生成AI助手，支持深度调研、智能配图、Mermaid 图表、代码集成、专业排版的各种专业技术博客写作中所需要的能力, 真正做到了 "输入一句话, 一键输出图文混合的万字技术长文, 轻轻松松做到日更万字长文技术博客"，将晦涩的技术知识转化为通俗易懂的科普文章，让每个人都能轻松理解复杂技术,在 AI 时代扬帆起航.
-
 *   [LoneKingCode/panbox](https://github.com/LoneKingCode/panbox) - 盘盒子是专业的网盘资源盒子，提供海量免费AI资源（AI模型、AI资料、AI课程）、源码下载（前端、后端、移动端）、软件工具（Windows、Mac、手机APP、绿色软件）、学习课程（IT编程、设计创意、办公职场、副业创业）。每日更新优质资源！
 
 *   [jianjieyiban/JJYB\_AI\_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut) - JJYB\_AI 智剪 - 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音）
@@ -1327,6 +1323,8 @@
 *   [vbskycn/iptv](https://github.com/vbskycn/iptv) - iptv最新可用直播源,支持iptv4/iptv6双栈访问。直播电视系统，这里有折腾好的，直接下载用吧。直播电视app电视手机全部兼容。
 
 *   [nas-tool/warpkey](https://github.com/nas-tool/warpkey) - CloudFlare Key Collection Tool CloudFlare WARP KEY收集工具，WARP KEY收集工具，每小时自动更新https://www.wanghaoyu.com.cn/archives/cloudflare-warp-key.html
+
+*   [kimwang1978/collect-txt](https://github.com/kimwang1978/collect-txt) - 源 (自动整理)
 
 *   [worldwonderer/promptdoc](https://github.com/worldwonderer/promptdoc) - Designed to manage a collection of Prompt templates for multiple versions, scenarios, and applicable models.
 
@@ -1626,7 +1624,7 @@
 
 *   [liuyuhe666/wx-gzh-cover](https://github.com/liuyuhe666/wx-gzh-cover) - 🤗 微信公众号封面
 
-*   [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回。
+*   [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回，开放API接口。
 
 *   [consistent-k/VodHub](https://github.com/consistent-k/VodHub) - VodHub 是一个电影、电视剧、动漫等视频接口聚合服务
 
@@ -1954,7 +1952,7 @@
 
 *   [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy) - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 支持逐字歌词，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / Emby 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
@@ -2107,6 +2105,8 @@
 *   [BeCrafter/prompt-manager](https://github.com/BeCrafter/prompt-manager) - 基于MCP协议的Prompt管理服务：支持HTTP流式传输、Web/桌面双端管理。
 
 *   [arch3rPro/MarkHub](https://github.com/arch3rPro/MarkHub) - MarkHub 是一款功能强大的浏览器新标签页扩展，专为书签管理和高效访问而设计。它将书签管理、快速搜索、个性化定制完美结合，让您的浏览体验更加高效、美观。
+
+*   [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。
 
 *   [ImLTHQ/edgetunnel](https://github.com/ImLTHQ/edgetunnel) - Edge Tunnel 是一个基于 Cloudflare Pages 的免费代理解决方案, 配置精简, 适合新手快速上手
 
