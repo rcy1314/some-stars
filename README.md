@@ -2382,7 +2382,7 @@
 
 *   [aoaostar/legado](https://github.com/aoaostar/legado) - 阅读APP书源
 
-*   [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional software installation. The engine uses standard HTML document elements such as div and img. This allows the use of any media format supported by browsers including vector graphics svg, gif animations and css styles.
+*   [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional software installation. The engine uses standard HTML document elements such as div and img.
 
 *   [mydearcc/tools](https://github.com/mydearcc/tools) - free online tools, developer toolbox, web utilities: Minify CSS, Format JSON, Encrypt/Decrypt, Convert Formats, QR Code, Dev Docs,Webmaster Tools, Image Tools & more. For programmers, webmasters,designers.  | 免费在线工具箱集合
 
