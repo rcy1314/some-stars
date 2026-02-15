@@ -246,7 +246,7 @@
 
 *   [KenDvD/SmartHostsTool-github](https://github.com/KenDvD/SmartHostsTool-github) - 「智能 Host 测速工具」是一款帮你优化网络访问的实用工具。它能自动获取域名的多个 IP 地址，测试各 IP 延迟并排序，一键将最优 IP 写入系统 Hosts 文件，还支持 GitHub 专属 IP 获取、自定义域名管理和可视化操作界面，让你轻松解决网络访问慢的问题。
 
-*   [Agions/CineAIStudio](https://github.com/Agions/CineAIStudio) - 一款基于Python和PyQt6开发的智能视频混剪工具，专为短剧创作者设计。利用多种AI大模型实现自动字幕识别、智能混剪、特效添加等功能，并与剪映等主流剪辑软件深度集成。
+*   [Agions/CineFlow](https://github.com/Agions/CineFlow) - 一款基于Python和PyQt6开发的智能视频混剪工具，专为短剧创作者设计。利用多种AI大模型实现自动字幕识别、智能混剪、特效添加等功能，并与剪映等主流剪辑软件深度集成。
 
 *   [jhihhe/House-Survey-Workflow-Assistant](https://github.com/jhihhe/House-Survey-Workflow-Assistant) - 📁 专为房产摄影工作流打造的桌面自动化工具。支持批量创建文件夹、多线程极速导卡、实时收入统计。采用 Dracula 主题，Python 原生开发，macOS/Windows 开箱即用
 
@@ -1528,7 +1528,7 @@
 
 *   [SimonAKing/Gwitter](https://github.com/SimonAKing/Gwitter) - Turn GitHub Issues into your personal microblog platform
 
-*   [legeling/PromptHub](https://github.com/legeling/PromptHub) - 一款开源、纯本地 AI Prompt 管理工具，帮助你高效管理、版本控制和复用 Prompt | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts
+*   [legeling/PromptHub](https://github.com/legeling/PromptHub) - 一款开源、纯本地 Prompt ，Skill 管理工具，帮助你高效管理、版本控制和复用 Prompt，并一键分发skill | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts
 
 *   [xiao-ge008/cherry-studio-magic](https://github.com/xiao-ge008/cherry-studio-magic) - Cherry Studio 组件魔改版本，新增组件功能，可以自定义聊天组件，选项组件,comfyui 组件 ，tts组件 和 html 渲染组件。
 
@@ -2042,7 +2042,7 @@
 
 *   [NORMAL-EX/LetRecovery](https://github.com/NORMAL-EX/LetRecovery) - 一款免费开源的 Windows 系统重装工具
 
-*   [qqqqqf-q/NanoTrans](https://github.com/qqqqqf-q/NanoTrans) - 极致轻量化输入翻译助手  --Built with Rust
+*   [Arkilo-Labs/NanoTrans](https://github.com/Arkilo-Labs/NanoTrans) - 极致轻量化输入翻译助手  --Built with Rust
 
 *   [Haaaiawd/PromptKey](https://github.com/Haaaiawd/PromptKey) - 一个专为 AI 重度用户设计的系统级提示词管理器，支持全局快捷键、智能应用上下文感知和专业模板管理，让用户在任何软件中一键调用高质量 Prompt
 
@@ -2586,8 +2586,6 @@
 
 *   [httpsok/httpsok](https://github.com/httpsok/httpsok) - 🔥🔥🔥一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书自动续期，SSL证书自动更新，七牛云、阿里云、腾讯云、CDN、OSS、https证书管理,https证书管理,免费SSL证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt
 
-*   [web1n/wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak) - Flatpak 打包微信 Linux Universal 版
-
 *   [zydou/WeChat-AppImage](https://github.com/zydou/WeChat-AppImage) - 微信客户端Linux AppImage. AppImage version of wechat for linux desktop.
 
 *   [KZ25T/wechat-appimage](https://github.com/KZ25T/wechat-appimage) - Linux 运行微信（可能是）最简单的方法，支持 debian/Arch/RHEL 三大发行版系列
@@ -3029,6 +3027,8 @@
 *   [TDSSSzero/tds\_android\_util](https://github.com/TDSSSzero/tds_android_util) - 使用flutter制作一个桌面App，通过adb、adpt等命令来实现无线连接手机，快速安装APP，快速安装AAB，复制文件到手机等
 
 *   [KeyL-SJ/BalanceCar](https://github.com/KeyL-SJ/BalanceCar) - 智能自平衡小车，实现平衡功能的基础上，加入了超声波避障、超声波跟随、蓝牙遥控等功能
+
+*   [web1n/wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak) - Flatpak 打包微信 Linux Universal 版
 
 *   [zero-rp/ops](https://github.com/zero-rp/ops) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
