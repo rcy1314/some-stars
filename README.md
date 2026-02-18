@@ -108,6 +108,8 @@
 
 *   [qq85423296/t3mt](https://github.com/qq85423296/t3mt) - 免费影视管理助手，夸克全自动下载，腾讯、爱奇艺、芒果、优酷等影视资源全自动更新下载。
 
+*   [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。  ⬇️⬇️ WebRPA技术交流群 ⬇️⬇️
+
 *   [github653224/ai-auto-touch](https://github.com/github653224/ai-auto-touch) - 一款基于 AI 大模型的 Android 设备自动化控制平台，支持自然语言指令控制、实时屏幕镜像、多设备批量管理。
 
 *   [cookiesen77-rgb/superAIAutoCutVideo](https://github.com/cookiesen77-rgb/superAIAutoCutVideo) - AI 自动视频剪辑工具 - 集成 IndexTTS2 本地推理
@@ -1027,8 +1029,6 @@
 *   [BeCrafter/prompt-manager](https://github.com/BeCrafter/prompt-manager) - 基于MCP协议的Prompt管理服务：支持HTTP流式传输、Web/桌面双端管理。
 
 *   [arch3rPro/MarkHub](https://github.com/arch3rPro/MarkHub) - MarkHub 是一款功能强大的浏览器新标签页扩展，专为书签管理和高效访问而设计。它将书签管理、快速搜索、个性化定制完美结合，让您的浏览体验更加高效、美观。
-
-*   [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。  ⬇️⬇️ WebRPA技术交流群 ⬇️⬇️
 
 *   [ImLTHQ/edgetunnel](https://github.com/ImLTHQ/edgetunnel) - Edge Tunnel 是一个基于 Cloudflare Pages 的免费代理解决方案, 配置精简, 适合新手快速上手
 
@@ -1954,7 +1954,7 @@
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
-*   [EutropicAI/VSET](https://github.com/EutropicAI/VSET) - VSET
+*   [NangInShell/VSET](https://github.com/NangInShell/VSET) - VSET
 
 *   [xushengfeng/xlinkote](https://github.com/xushengfeng/xlinkote) - 无限画布 白板笔记 知识管理
 
