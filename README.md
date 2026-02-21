@@ -182,7 +182,7 @@
 
 *   [KenDvD/SmartHostsTool-github](https://github.com/KenDvD/SmartHostsTool-github) - 「智能 Host 测速工具」是一款帮你优化网络访问的实用工具。它能自动获取域名的多个 IP 地址，测试各 IP 延迟并排序，一键将最优 IP 写入系统 Hosts 文件，还支持 GitHub 专属 IP 获取、自定义域名管理和可视化操作界面，让你轻松解决网络访问慢的问题。
 
-*   [Agions/CineFlow](https://github.com/Agions/CineFlow) - 一款基于Python和PyQt6开发的智能视频混剪工具，专为短剧创作者设计。利用多种AI大模型实现自动字幕识别、智能混剪、特效添加等功能，并与剪映等主流剪辑软件深度集成。
+*   [Agions/cine-flow](https://github.com/Agions/cine-flow) - 一款基于Python和PyQt6开发的智能视频混剪工具，专为短剧创作者设计。利用多种AI大模型实现自动字幕识别、智能混剪、特效添加等功能，并与剪映等主流剪辑软件深度集成。
 
 *   [jhihhe/House-Survey-Workflow-Assistant](https://github.com/jhihhe/House-Survey-Workflow-Assistant) - 📁 专为房产摄影工作流打造的桌面自动化工具。支持批量创建文件夹、多线程极速导卡、实时收入统计。采用 Dracula 主题，Python 原生开发，macOS/Windows 开箱即用
 
