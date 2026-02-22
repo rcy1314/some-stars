@@ -166,6 +166,8 @@
 
 *   [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的可视化网页自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写代码即可实现网页数据采集、表单填写、自动化测试等任务。  ⬇️⬇️ WebRPA技术交流群 ⬇️⬇️
 
+*   [datawhalechina/vibe-blog](https://github.com/datawhalechina/vibe-blog) - Vibe-Blog是一个基于Multi-Agent 架构的万字长文技术博客生成AI助手，支持深度调研、智能配图、Mermaid 图表、代码集成、专业排版的各种专业技术博客写作中所需要的能力, 真正做到了 "输入一句话, 一键输出图文混合的万字技术长文, 轻轻松松做到日更万字长文技术博客"，将晦涩的技术知识转化为通俗易懂的科普文章，让每个人都能轻松理解复杂技术,在 AI 时代扬帆起航.
+
 *   [github653224/ai-auto-touch](https://github.com/github653224/ai-auto-touch) - 一款基于 AI 大模型的 Android 设备自动化控制平台，支持自然语言指令控制、实时屏幕镜像、多设备批量管理。
 
 *   [cookiesen77-rgb/superAIAutoCutVideo](https://github.com/cookiesen77-rgb/superAIAutoCutVideo) - AI 自动视频剪辑工具 - 集成 IndexTTS2 本地推理
@@ -2364,8 +2366,6 @@
 
 *   [YUxiangLuo/miao](https://github.com/YUxiangLuo/miao) - 一个开箱即用的 sing-box 启动器，支持Linux系统/OpenWrt软路由。30秒实现 TUN 模式透明代理，国内外自动分流。
 
-*   [datawhalechina/vibe-blog](https://github.com/datawhalechina/vibe-blog) - Vibe-Blog是一个基于Multi-Agent 架构的万字长文技术博客生成AI助手，支持深度调研、智能配图、Mermaid 图表、代码集成、专业排版的各种专业技术博客写作中所需要的能力, 真正做到了 "输入一句话, 一键输出图文混合的万字技术长文, 轻轻松松做到日更万字长文技术博客"，将晦涩的技术知识转化为通俗易懂的科普文章，让每个人都能轻松理解复杂技术,在 AI 时代扬帆起航.
-
 *   [LoneKingCode/panbox](https://github.com/LoneKingCode/panbox) - 盘盒子是专业的网盘资源盒子，提供海量免费AI资源（AI模型、AI资料、AI课程）、源码下载（前端、后端、移动端）、软件工具（Windows、Mac、手机APP、绿色软件）、学习课程（IT编程、设计创意、办公职场、副业创业）。每日更新优质资源！
 
 *   [jianjieyiban/JJYB\_AI\_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut) - JJYB\_AI 智剪 - 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音）
@@ -2810,7 +2810,7 @@
 
 *   [jynew/jynew](https://github.com/jynew/jynew) - JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.
 
-*   [zzy-life/DesktopNotes](https://github.com/zzy-life/DesktopNotes) - Windows桌面便签，500kb极简，支持置顶显示
+*   [zzy-life/DesktopNotes](https://github.com/zzy-life/DesktopNotes) - Windows桌面便签，520kb极简，支持置顶显示
 
 *   [kentxxq/pusher](https://github.com/kentxxq/pusher) - webhook聚合推送
 
