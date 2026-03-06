@@ -14,13 +14,13 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Dart](#dart)
 *   [Swift](#swift)
 *   [Go](#go)
 *   [PHP](#php)
 *   [Java](#java)
-*   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Svelte](#svelte)
@@ -60,6 +60,10 @@
 
 ## Python
 
+*   [countbot-ai/CountBot](https://github.com/countbot-ai/CountBot) - 专为个人用户打造的开源 AI Agent — 轻量、易用、更适合中文用户 |  智能记忆 · Skills拓展 · 模块化 · 国产大模型深度适配 | 轻量版中文 OpenClaw，支持飞书、钉钉、Telegram远程控制
+
+*   [runningZ1/union-search-skill](https://github.com/runningZ1/union-search-skill) - 统一搜索工具集 - 跨平台内容搜索解决方案，支持 B 站/抖音/小红书/GitHub/Twitter 等 20+ 平台
+
 *   [Anning01/playlet-clip](https://github.com/Anning01/playlet-clip) - 短剧自动化剪辑
 
 *   [leduchuong48-byte/telegram\_autotgtoward](https://github.com/leduchuong48-byte/telegram_autotgtoward) - 由 leduchuong 维护的 WebUI 优先 Telegram 自动转发与 RSS 运营平台，集成 Setup Wizard、规则过滤、AI 处理、日志监控与 Bot 控制，适合 NAS/HomeLab 长期运行。
@@ -80,13 +84,13 @@
 
 *   [Pangu-Immortal/hunter-ai-content-factory](https://github.com/Pangu-Immortal/hunter-ai-content-factory) - 自动发布 24 小时情报系统：好文章的 80% 在于选题。Hunter AI 自动从 GitHub Trending、Twitter、HackerNews Reddit 等平台采集热点，用 AI 判断哪些值得写，自动生成文章和插图，自动发布。
 
-*   [Laihiujin/SYNAPSEAUTOMATION](https://github.com/Laihiujin/SYNAPSEAUTOMATION) - AI矩阵投放，支持平台「抖音/小红书/快手/视频号/B站」，支持已发布抖音/B站账号的视频数据回收；
+*   [Laihiujin/SYNAPSEAUTOMATION](https://github.com/Laihiujin/SYNAPSEAUTOMATION) - AI矩阵投放/多平台批量发布视频，支持平台「抖音/小红书/快手/视频号/B站」，支持已发布抖音/B站账号的视频数据回收；
 
 *   [yeasy/ai\_beginner\_guide](https://github.com/yeasy/ai_beginner_guide) - 普通人看的 AI 入门。从零开始，掌握人工智能的最新工具与实践技能 | AI Book for Beginners
 
 *   [gongxings/ai-creator](https://github.com/gongxings/ai-creator) - AI创作者平台，一个功能强大的AI创作平台，提供AI写作、图片生成、视频生成、PPT生成等创作工具，并支持一键发布到多个平台。
 
-*   [869413421/aicon](https://github.com/869413421/aicon) - 这是一个面向创作者，超高自由度的 AI 电影生成系统。 你只需输入一个剧本，系统即可自动完成剧本拆解、分镜生成、画面与音频素材生成、视频合成，并支持一键分发到媒体。 从灵感到成片，不再需要复杂流程，让个人也能创作电影级作品。
+*   [869413421/ai-moive-studio](https://github.com/869413421/ai-moive-studio) - AI成片工作流Agent，这是一个面向创作者，高自由度的 AI 电影生成系统。 你只需输入一个剧本，系统即可自动完成剧本拆解、分镜生成、画面与音频素材生成、视频合成，并支持一键分发到媒体。 从灵感到成片，不再需要复杂流程，让个人也能创作电影级作品。
 
 *   [CCSH/IPTV](https://github.com/CCSH/IPTV) - 一个免费、轻量、全自动化的直播源、台标 Logo 与 EPG 电子节目指南网络采集同步工具。自动拉取并整合互联网公开资源，格式化输出，适配 IPTV、电视盒子、手机直播 APP 等主流使用场景。（自动采集、测速、无广告）
 
@@ -558,7 +562,7 @@
 
 *   [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.
 
-*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
+*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The best local UI for large language models, with easy setup and powerful features. 100% offline.
 
 *   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 
@@ -731,6 +735,98 @@
 *   [guangzhengli/wecom-notification-action](https://github.com/guangzhengli/wecom-notification-action) - 企业微信机器人消息发送，支持内容自定义，配置模版
 
 *   [guangzhengli/notification-action-template](https://github.com/guangzhengli/notification-action-template) - A github action template for notification action.
+
+## Rust
+
+*   [EcoRoundDev/ScreenHop](https://github.com/EcoRoundDev/ScreenHop) - 🚀 跨平台多显示器窗口快速移动工具，基于 Rust 开发。支持 macOS & Windows，让窗口在屏幕间自由穿梭。
+
+*   [liusheng22/export-wechat-emoji](https://github.com/liusheng22/export-wechat-emoji) - 在 macOS 系统上导出微信收藏的表情包（Tauri + React + Rust）
+
+*   [UknowNull/biliClipFlow](https://github.com/UknowNull/biliClipFlow) - reaction-cut-rust 是一个基于 Tauri 的跨平台桌面应用，聚焦 Bilibili 录播场景：  录播订阅与自动录制 多分 P 下载 剪辑、合并、分段工作流 投稿、更新与失败重试 可选百度网盘同步
+
+*   [zRq1351/fuyun\_tools](https://github.com/zRq1351/fuyun_tools) - fuyun\_tools是一款集剪切板管理和AI划词功能于一体的桌面效率工具，运行在系统托盘中。通过智能化的历史记录管理和AI辅助功能，大幅提升日常工作效率。
+
+*   [guchang233/VOICE2TYPE](https://github.com/guchang233/VOICE2TYPE) - 一个极简高效的 Windows 语音输入助手，基于 Rust 开发。支持全局热键一键录音上屏、灵动岛式状态悬浮窗、自动标点与中英文混合识别。轻量、无感、隐私安全。  Minimalist, high-performance voice-to-text assistant for Windows built with Rust.
+
+*   [kavil/mini-transfer](https://github.com/kavil/mini-transfer) - 一个轻量级（7M）的跨平台桌面应用程序，用于在 PC 和移动设备之间进行文件传输。
+
+*   [git-hub-cc/ScreenTranslator](https://github.com/git-hub-cc/ScreenTranslator) - 一款基于 Tauri 框架开发的现代化、轻量级的桌面端截图翻译工具。它允许用户通过一个简单的全局快捷键，快速捕捉屏幕上的任意区域，自动识别其中的文本并进行翻译。
+
+*   [Moyuin-aka/EXIF-Catcher](https://github.com/Moyuin-aka/EXIF-Catcher) - 一个快速的照片处理工具，批量提取 EXIF 并转换为 WebP，专为摄影博客设计。| A fast photo processor with EXIF extraction and WebP conversion for photography blogs.
+
+*   [bruceblink/ani-todo-app](https://github.com/bruceblink/ani-todo-app) - Ani-Todo-App - 今天的番看完了吗？技术栈：React + TypeScript + Vite + Tauri(Rust)实现的桌面应用软件
+
+*   [NORMAL-EX/LetRecovery](https://github.com/NORMAL-EX/LetRecovery) - 一款免费开源的 Windows 系统重装工具
+
+*   [Arkilo-Labs/NanoTrans](https://github.com/Arkilo-Labs/NanoTrans) - 极致轻量化输入翻译助手  --Built with Rust
+
+*   [Haaaiawd/PromptKey](https://github.com/Haaaiawd/PromptKey) - 一个专为 AI 重度用户设计的系统级提示词管理器，支持全局快捷键、智能应用上下文感知和专业模板管理，让用户在任何软件中一键调用高质量 Prompt
+
+*   [DDG0808/aibal](https://github.com/DDG0808/aibal) - AiBal 是一款 菜单栏应用，为 AI 重度用户提供统一的多服务用量监控平台。
+
+*   [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
+
+*   [ox01024/cmirror](https://github.com/ox01024/cmirror) - 🇨🇳 Cmirror: 专为中国大陆开发者打造的一键换源工具 (A unified CLI for managing mirrors: Pip, NPM, Docker, Cargo, Apt, Go, Brew).
+
+*   [sunjackson/claude-code-proxy](https://github.com/sunjackson/claude-code-proxy) - 一个功能强大的跨平台桌面应用，用于管理 Claude Code 的本地代理服务
+
+*   [wordflowlab/pubcast](https://github.com/wordflowlab/pubcast) - 多平台内容自动发布工具，内置浏览器实现一键分发
+
+*   [TimmyOVO/freshrss-filter](https://github.com/TimmyOVO/freshrss-filter) - AI-Powered RSS Content Filter - Automatically remove ads, sponsored content, and low-quality articles from your FreshRSS feeds using LLM intelligence. Set it & forget it with automated   scheduling, privacy-first self-hosted solution.
+
+*   [deletexiumu/screen-analyzer](https://github.com/deletexiumu/screen-analyzer) - 🖥️ 基于 Tauri + Rust 的 AI 屏幕活动分析器。自动截屏记录、LLM 智能分析、生成时间线视频。灵感来自 Dayflow。100% AI 编程实现（Claude Code + Codex），零人工代码。隐私优先，数据完全本地化。
+
+*   [chen-zeong/DTV](https://github.com/chen-zeong/DTV) - 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
+
+*   [iKineticate/LinkEcho](https://github.com/iKineticate/LinkEcho) - 随心批量更换/恢复快捷方式图标，个性化自定义图标设计 ( Batch replace/restore shortcuts icons as you wish,  personalized custom icon design)
+
+*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+
+*   [cloudhu/skywalker2088](https://github.com/cloudhu/skywalker2088) - 吸血鬼幸存者类型游戏，宇宙科幻废土，玩家驾驶飞船在宇宙中漫游，打怪收集装备升级飞船，研究科技，探索文明的遗迹。
+
+*   [singcl/XmVideoPlayer](https://github.com/singcl/XmVideoPlayer) - 一款高颜值的支持播放和下载mp4, m3u8,flv,mpeg-dash等多种流媒体格式的桌面客户端 🔥。
+
+*   [fleek-network/lightning](https://github.com/fleek-network/lightning) - Fleek Network, a decentralized edge platform.
+
+*   [juerson/wireguard2clash](https://github.com/juerson/wireguard2clash) - WireGuard转Clash，以cf warp的WireGuard配置文件为例，批量生成WireGuard协议的Clash的配置文件。支持warp优选IP的result.csv文件为数据输入；支持IPv4、IPv6。
+
+*   [miantiao-me/cloudflare-worker-image](https://github.com/miantiao-me/cloudflare-worker-image) - 使用 Cloudflare Worker + Container 处理图片, 依赖 Photon，支持缩放、剪裁、水印、滤镜等功能。
+
+*   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
+
+*   [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive.
+
+*   [zhu327/workers-tunnel](https://github.com/zhu327/workers-tunnel) - Edge network tunnel implemented using Cloudflare Workers.
+
+*   [rogeryoungh/github-action-rss](https://github.com/rogeryoungh/github-action-rss) - RSS email notifactions, based on GitHub Action. RSS 邮件订阅，基于 GitHub Action。
+
+*   [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
+
+*   [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) - 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
+
+*   [xuncv/ChatSubtitle](https://github.com/xuncv/ChatSubtitle) - 基于Chatgpt的字幕脱水 字幕总结，去除网课、教程灌水，总结干货
+
+*   [cn-kali-team/notion-rss](https://github.com/cn-kali-team/notion-rss) - Build your own RSS Feeds in Notion.
+
+*   [everest-architecture/NewBing](https://github.com/everest-architecture/NewBing) - NewBin Desktop Application (Mac, Windows and Linux)
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+
+*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
+
+*   [morphy2k/rss-forwarder](https://github.com/morphy2k/rss-forwarder) - Checks RSS feeds for new entries and forwards them
+
+*   [mbround18/redirect](https://github.com/mbround18/redirect) - Simple redirection tool! Ready to use, docker capable, Kubernetes friendly, any Linux based env ready!
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
+*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A lightweight 🍃 cross-platform GUI wrapper for yt-dlp.
+
+*   [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。
+
+*   [YangchenYe323/Danmuji](https://github.com/YangchenYe323/Danmuji) - :hamster: 用Rust + React编写的Bilibili弹幕姬，感谢礼物，自动回复，定时任务弹幕助手
 
 ## TypeScript
 
@@ -953,6 +1049,8 @@
 *   [wrtx-dev/gochat](https://github.com/wrtx-dev/gochat) - 第三方Gemini 桌面客户端/Third-party Gemini Desktop Client
 
 *   [OneOhCloud/OneBox](https://github.com/OneOhCloud/OneBox) - OneBox is a cross-platform GUI client based on the sing-box kernel. \n Onebox 是一个基于sing-box 内核的跨平台图形客户端
+
+*   [tlyboy/apichat](https://github.com/tlyboy/apichat) - 🤖 A modern API client built with Tauri
 
 *   [Zwanan-github/blog](https://github.com/Zwanan-github/blog) - 一个基于 Next.js 的个人博客项目，不需要数据库，可以部署Vercel或者个人服务器
 
@@ -1360,8 +1458,6 @@
 
 *   [WhiteMinds/LiveAutoRecord](https://github.com/WhiteMinds/LiveAutoRecord) - 基于 Electron 的多平台直播自动录制软件
 
-*   [qianjiachun/douyu-monitor](https://github.com/qianjiachun/douyu-monitor) - 网页端跨平台斗鱼弹幕助手
-
 ## Dart
 
 *   [hoowhoami/EchoMusic](https://github.com/hoowhoami/EchoMusic) - 🎉 一个简约的第三方酷狗概念版音乐播放器
@@ -1484,7 +1580,7 @@
 
 *   [zdt1013/wen-ai-cli](https://github.com/zdt1013/wen-ai-cli) - 问AI是一个专为服务器运维和个人主机管理设计的CLI工具，通过集成AI能力，帮助用户快速查找和执行系统命令，提升运维效率。它能够智能解析用户需求，提供精准的命令建议和执行方案，是运维人员的得力助手。
 
-*   [g-brook/brook](https://github.com/g-brook/brook) - Brook 是一款跨平台（Linux / macOS / Windows）的高性能网络隧道与代理工具、内网穿透工具，使用 Go 语言编写。 支持 TCP、UDP、HTTP(S)、WebSocket 等隧道传输方式，兼容 SSH、HTTP、Redis、MySQL 等主流协议，并提供直观的可视化管理界面，便于配置与监控。
+*   [g-brook/brook](https://github.com/g-brook/brook) - High-performance network tunnel & proxy tool written in Go.  (高性能 Go 语言网络隧道与代理工具。)
 
 *   [nobiyou/wx\_channel](https://github.com/nobiyou/wx_channel) - 微信视频号下载工具
 
@@ -1783,96 +1879,6 @@
 *   [Jarrettluo/all-docs](https://github.com/Jarrettluo/all-docs) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information.  “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。demo账号密码：admin123
 
 *   [muedsa/BilibiliLiveTV](https://github.com/muedsa/BilibiliLiveTV) - \[Deprecated]Bilibili Live APP for Android TV
-
-## Rust
-
-*   [liusheng22/export-wechat-emoji](https://github.com/liusheng22/export-wechat-emoji) - 在 macOS 系统上导出微信收藏的表情包（Tauri + React + Rust）
-
-*   [UknowNull/biliClipFlow](https://github.com/UknowNull/biliClipFlow) - reaction-cut-rust 是一个基于 Tauri 的跨平台桌面应用，聚焦 Bilibili 录播场景：  录播订阅与自动录制 多分 P 下载 剪辑、合并、分段工作流 投稿、更新与失败重试 可选百度网盘同步
-
-*   [zRq1351/fuyun\_tools](https://github.com/zRq1351/fuyun_tools) - fuyun\_tools是一款集剪切板管理和AI划词功能于一体的桌面效率工具，运行在系统托盘中。通过智能化的历史记录管理和AI辅助功能，大幅提升日常工作效率。
-
-*   [guchang233/VOICE2TYPE](https://github.com/guchang233/VOICE2TYPE) - 一个极简高效的 Windows 语音输入助手，基于 Rust 开发。支持全局热键一键录音上屏、灵动岛式状态悬浮窗、自动标点与中英文混合识别。轻量、无感、隐私安全。  Minimalist, high-performance voice-to-text assistant for Windows built with Rust.
-
-*   [kavil/mini-transfer](https://github.com/kavil/mini-transfer) - 一个轻量级（7M）的跨平台桌面应用程序，用于在 PC 和移动设备之间进行文件传输。
-
-*   [git-hub-cc/ScreenTranslator](https://github.com/git-hub-cc/ScreenTranslator) - 一款基于 Tauri 框架开发的现代化、轻量级的桌面端截图翻译工具。它允许用户通过一个简单的全局快捷键，快速捕捉屏幕上的任意区域，自动识别其中的文本并进行翻译。
-
-*   [Moyuin-aka/EXIF-Catcher](https://github.com/Moyuin-aka/EXIF-Catcher) - 一个快速的照片处理工具，批量提取 EXIF 并转换为 WebP，专为摄影博客设计。| A fast photo processor with EXIF extraction and WebP conversion for photography blogs.
-
-*   [bruceblink/ani-todo-app](https://github.com/bruceblink/ani-todo-app) - Ani-Todo-App - 今天的番看完了吗？技术栈：React + TypeScript + Vite + Tauri(Rust)实现的桌面应用软件
-
-*   [NORMAL-EX/LetRecovery](https://github.com/NORMAL-EX/LetRecovery) - 一款免费开源的 Windows 系统重装工具
-
-*   [Arkilo-Labs/NanoTrans](https://github.com/Arkilo-Labs/NanoTrans) - 极致轻量化输入翻译助手  --Built with Rust
-
-*   [Haaaiawd/PromptKey](https://github.com/Haaaiawd/PromptKey) - 一个专为 AI 重度用户设计的系统级提示词管理器，支持全局快捷键、智能应用上下文感知和专业模板管理，让用户在任何软件中一键调用高质量 Prompt
-
-*   [DDG0808/aibal](https://github.com/DDG0808/aibal) - AiBal 是一款 菜单栏应用，为 AI 重度用户提供统一的多服务用量监控平台。
-
-*   [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) - 把灵感、写作、出图、改稿、沉淀放进同一个工作台，让创作从“想到”直接走到“可发布”
-
-*   [ox01024/cmirror](https://github.com/ox01024/cmirror) - 🇨🇳 Cmirror: 专为中国大陆开发者打造的一键换源工具 (A unified CLI for managing mirrors: Pip, NPM, Docker, Cargo, Apt, Go, Brew).
-
-*   [sunjackson/claude-code-proxy](https://github.com/sunjackson/claude-code-proxy) - 一个功能强大的跨平台桌面应用，用于管理 Claude Code 的本地代理服务
-
-*   [wordflowlab/pubcast](https://github.com/wordflowlab/pubcast) - 多平台内容自动发布工具，内置浏览器实现一键分发
-
-*   [TimmyOVO/freshrss-filter](https://github.com/TimmyOVO/freshrss-filter) - AI-Powered RSS Content Filter - Automatically remove ads, sponsored content, and low-quality articles from your FreshRSS feeds using LLM intelligence. Set it & forget it with automated   scheduling, privacy-first self-hosted solution.
-
-*   [deletexiumu/screen-analyzer](https://github.com/deletexiumu/screen-analyzer) - 🖥️ 基于 Tauri + Rust 的 AI 屏幕活动分析器。自动截屏记录、LLM 智能分析、生成时间线视频。灵感来自 Dayflow。100% AI 编程实现（Claude Code + Codex），零人工代码。隐私优先，数据完全本地化。
-
-*   [chen-zeong/DTV](https://github.com/chen-zeong/DTV) - 抖音、b站、斗鱼、虎牙跨平台轻量化桌面客户端
-
-*   [iKineticate/LinkEcho](https://github.com/iKineticate/LinkEcho) - 随心批量更换/恢复快捷方式图标，个性化自定义图标设计 ( Batch replace/restore shortcuts icons as you wish,  personalized custom icon design)
-
-*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-
-*   [cloudhu/skywalker2088](https://github.com/cloudhu/skywalker2088) - 吸血鬼幸存者类型游戏，宇宙科幻废土，玩家驾驶飞船在宇宙中漫游，打怪收集装备升级飞船，研究科技，探索文明的遗迹。
-
-*   [singcl/XmVideoPlayer](https://github.com/singcl/XmVideoPlayer) - 一款高颜值的支持播放和下载mp4, m3u8,flv,mpeg-dash等多种流媒体格式的桌面客户端 🔥。
-
-*   [fleek-network/lightning](https://github.com/fleek-network/lightning) - Fleek Network, a decentralized edge platform.
-
-*   [juerson/wireguard2clash](https://github.com/juerson/wireguard2clash) - WireGuard转Clash，以cf warp的WireGuard配置文件为例，批量生成WireGuard协议的Clash的配置文件。支持warp优选IP的result.csv文件为数据输入；支持IPv4、IPv6。
-
-*   [miantiao-me/cloudflare-worker-image](https://github.com/miantiao-me/cloudflare-worker-image) - 使用 Cloudflare Worker + Container 处理图片, 依赖 Photon，支持缩放、剪裁、水印、滤镜等功能。
-
-*   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
-
-*   [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive.
-
-*   [zhu327/workers-tunnel](https://github.com/zhu327/workers-tunnel) - Edge network tunnel implemented using Cloudflare Workers.
-
-*   [rogeryoungh/github-action-rss](https://github.com/rogeryoungh/github-action-rss) - RSS email notifactions, based on GitHub Action. RSS 邮件订阅，基于 GitHub Action。
-
-*   [1595901624/gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
-
-*   [YukiCoco/ToMoon](https://github.com/YukiCoco/ToMoon) - 基于 SteamOS 定制的网络工具，自动配置 TUN 模式加速游戏，网络代理。
-
-*   [xuncv/ChatSubtitle](https://github.com/xuncv/ChatSubtitle) - 基于Chatgpt的字幕脱水 字幕总结，去除网课、教程灌水，总结干货
-
-*   [cn-kali-team/notion-rss](https://github.com/cn-kali-team/notion-rss) - Build your own RSS Feeds in Notion.
-
-*   [everest-architecture/NewBing](https://github.com/everest-architecture/NewBing) - NewBin Desktop Application (Mac, Windows and Linux)
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-
-*   [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
-
-*   [morphy2k/rss-forwarder](https://github.com/morphy2k/rss-forwarder) - Checks RSS feeds for new entries and forwards them
-
-*   [mbround18/redirect](https://github.com/mbround18/redirect) - Simple redirection tool! Ready to use, docker capable, Kubernetes friendly, any Linux based env ready!
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-
-*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A lightweight 🍃 cross-platform GUI wrapper for yt-dlp.
-
-*   [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。
-
-*   [YangchenYe323/Danmuji](https://github.com/YangchenYe323/Danmuji) - :hamster: 用Rust + React编写的Bilibili弹幕姬，感谢礼物，自动回复，定时任务弹幕助手
 
 ## JavaScript
 
@@ -2260,8 +2266,6 @@
 
 *   [neil-pan-s/text-video](https://github.com/neil-pan-s/text-video) - 文字视频 - 抖音热门文字旋转效果 自动分割文本 随机文字大小、颜色、旋转方向
 
-*   [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
-
 ## HTML
 
 *   [bingoYB/ham\_home](https://github.com/bingoYB/ham_home) - HamHome is an AI-powered browser extension for collecting, organizing, and retrieving web content—auto-categorized, summarized, and tagged, with all data kept local and private.       HamHome 是一款 AI 驱动的浏览器扩展，用于智能地收集、整理和检索网页内容。它可以自动分类页面、生成摘要并推荐标签，同时所有数据都保存在本地，确保隐私与安全。
@@ -2553,8 +2557,6 @@
 *   [TIANQIAN1238/VibeClip-Pro](https://github.com/TIANQIAN1238/VibeClip-Pro) - VibeClip Pro 是一款面向创作者与效率爱好者的跨平台剪贴板控制台，整合本地历史、AI 快捷操作与深色/浅色视觉体系，让“复制 → 处理 → 粘贴”变成一次呼吸间的流程。
 
 *   [lidedongsn/cut.ai](https://github.com/lidedongsn/cut.ai) - cut.ai 是一个AI音视频剪辑工具，语音转写基于whisper
-
-*   [tlyboy/apichat](https://github.com/tlyboy/apichat) - 🤖 A modern API client built with Tauri
 
 *   [frankiejun/Domains-Support](https://github.com/frankiejun/Domains-Support) - 一个基于 Cloudflare Pages 的域名管理系统，帮助您轻松管理和监控多个域名的状态、到期时间等信息。
 
@@ -3081,8 +3083,6 @@
 *   [xianyukang/MyKeymap](https://github.com/xianyukang/MyKeymap) - 一款基于 AutoHotkey 的键盘映射工具
 
 *   [no5ix/sux](https://github.com/no5ix/sux) - An alternative to Alfred+Wox+Listary+OneQuick+CapslockPlus.一个只有2M大小的强大效率工具
-
-*   [shizengsong/taskSwitcher](https://github.com/shizengsong/taskSwitcher) - 改进windows任务窗口操作，鼠标移动到屏幕右下角，即可启动选择任务。详见文件
 
 ## Pug
 
