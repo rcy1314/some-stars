@@ -255,8 +255,6 @@
 
 *   [FelixHenrikChristian/TagAnything](https://github.com/FelixHenrikChristian/TagAnything) - 一个现代化、功能强大的开源文件标签管理工具
 
-*   [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor) - Your Vibe Coding Toolkit A cross-platform desktop application for managing development tools, AI coding assistants, and dependencies
-
 *   [comeonzhj/easy-skills](https://github.com/comeonzhj/easy-skills) - Skills 安装助手 - 一键安装 Claude Code，管理技能包
 
 *   [ziguishian/banana-mall](https://github.com/ziguishian/banana-mall) - 一键生成电商头图及详情页
@@ -421,7 +419,7 @@
 
 *   [ultrazg/horizon](https://github.com/ultrazg/horizon) - 使用 wails + react 构建的第三方小宇宙桌面客户端，支持 Windows 和 MacOS
 
-*   [Qingyon-AI/Revornix](https://github.com/Qingyon-AI/Revornix) - Built-in MCP client–powered document/news management tool with daily auto summaries, document interaction, user-defined notifications (email, apns, etc.), and customizable model support.内置 MCP 客户端的文档/资讯管理工具，支持每日自动总结、文档交互、自定义通知（邮箱、APNS等）以及模型自定义。
+*   [Qingyon-AI/Revornix](https://github.com/Qingyon-AI/Revornix) - 拒绝FOMO！面对信息流，做个懒人，剩下的，交给AI！Reject FOMO! When facing the information stream, be lazy—leave the rest to AI!
 
 *   [blurmood/SyncToNotion](https://github.com/blurmood/SyncToNotion) - 企微同步Notion - 支持抖音/小红书链接解析和Live图处理的Cloudflare Workers项目
 
@@ -863,7 +861,7 @@
 
 *   [linzitong247-svg/Animancer](https://github.com/linzitong247-svg/Animancer) - 基于 AI 的 2D 角色动作动画生成工具
 
-*   [countbot-ai/CountBot](https://github.com/countbot-ai/CountBot) - 专为个人用户打造的开源 AI Agent — 轻量、易用、更适合中文用户 |  智能记忆 · Skills拓展 · 模块化 · 国产大模型深度适配 | 轻量版中文 OpenClaw，支持飞书、钉钉、Telegram远程控制
+*   [countbot-ai/CountBot](https://github.com/countbot-ai/CountBot) - 专为个人用户打造的开源 AI Agent — 轻量、易用、更适合中文用户 |  智能记忆 · Skills拓展 · 模块化 · 国产大模型深度适配 | 轻量版中文 OpenClaw，支持微博龙虾、飞书、钉钉、Telegram远程控制，QQ交流群（1028356423）。
 
 *   [runningZ1/union-search-skill](https://github.com/runningZ1/union-search-skill) - 统一搜索工具集 - 跨平台内容搜索解决方案，支持 B 站/抖音/小红书/GitHub/Twitter 等 20+ 平台
 
@@ -1602,6 +1600,8 @@
 *   [git-hub-cc/ScreenTranslator](https://github.com/git-hub-cc/ScreenTranslator) - 一款基于 Tauri 框架开发的现代化、轻量级的桌面端截图翻译工具。它允许用户通过一个简单的全局快捷键，快速捕捉屏幕上的任意区域，自动识别其中的文本并进行翻译。
 
 *   [Moyuin-aka/EXIF-Catcher](https://github.com/Moyuin-aka/EXIF-Catcher) - 一个快速的照片处理工具，批量提取 EXIF 并转换为 WebP，专为摄影博客设计。| A fast photo processor with EXIF extraction and WebP conversion for photography blogs.
+
+*   [cocojojo5213/Dev-Janitor](https://github.com/cocojojo5213/Dev-Janitor) - Your Vibe Coding Toolkit A cross-platform desktop application for managing development tools, AI coding assistants, and dependencies
 
 *   [bruceblink/ani-todo-app](https://github.com/bruceblink/ani-todo-app) - Ani-Todo-App - 今天的番看完了吗？技术栈：React + TypeScript + Vite + Tauri(Rust)实现的桌面应用软件
 
@@ -3143,7 +3143,7 @@
 
 *   [xksoft/OcrHelper](https://github.com/xksoft/OcrHelper) - 桌面图像实时转文字工具
 
-*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshooting network problems!
 
 *   [PavlenkoDR/TikTokDownloader](https://github.com/PavlenkoDR/TikTokDownloader) - TikTok downloader application. Xamarin.Forms
 
