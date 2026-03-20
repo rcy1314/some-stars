@@ -119,7 +119,7 @@
 
 *   [GuDong2003/xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) - 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
 
-*   [SonicBotMan/lobster-press](https://github.com/SonicBotMan/lobster-press) - 🦞 龙虾饼 - 智能上下文压缩系统，让 AI 记忆永不溢出
+*   [SonicBotMan/lobster-press](https://github.com/SonicBotMan/lobster-press) - 🦞 LobsterPress（龙虾饼） - Cognitive Memory System for AI Agents 基于认知科学的 LLM 永久记忆引擎
 
 *   [linzitong247-svg/Animancer](https://github.com/linzitong247-svg/Animancer) - 基于 AI 的 2D 角色动作动画生成工具
 
@@ -139,7 +139,7 @@
 
 *   [dai-hongtao/InkTime](https://github.com/dai-hongtao/InkTime) - InkTime 是一个可自托管的墨水屏电子相框。它用AI分析你的照片库，按值得回忆度打分，并按“历史上的今天”自动生成每日最具回忆价值的照片，让沉睡的记忆重新被看见。
 
-*   [hungryM0/fuck-wjx](https://github.com/hungryM0/fuck-wjx) - 基于Playwright的问卷星高并发自动化程序，附带友好的图形化界面；可指定信效度、ip地区、作答时长，1分钟猛干50份。稳定更新
+*   [hungryM0/fuck-wjx](https://github.com/hungryM0/fuck-wjx) - 基于Playwright的问卷星高并发自动化程序，附带友好的图形化界面；可指定ip地区、作答时长，1分钟猛干50份。稳定更新
 
 *   [kangarooking/x-skills](https://github.com/kangarooking/x-skills) - 自动收集素材，确认选题，并创作x推文，最后并发布到草稿箱的Claude Skills
 
@@ -151,7 +151,7 @@
 
 *   [yeasy/ai\_beginner\_guide](https://github.com/yeasy/ai_beginner_guide) - 普通人看的 AI 入门。从零开始，掌握人工智能的最新工具与实践技能 | AI Book for Beginners
 
-*   [gongxings/ai-creator](https://github.com/gongxings/ai-creator) - AI创作者平台，一个功能强大的AI创作平台，提供AI写作、图片生成、视频生成、PPT生成等创作工具，并支持一键发布到多个平台。
+*   [gongxings/ai-creator](https://github.com/gongxings/ai-creator) - A powerful AI content creation platform with AI writing, image generation, video generation, PPT generation tools, and one-click multi-platform publishing.AI创作者平台，一个功能强大的AI创作平台，提供AI写作、图片生成、视频生成、PPT生成等创作工具，并支持一键发布到多个平台。
 
 *   [869413421/ai-moive-studio](https://github.com/869413421/ai-moive-studio) - AI成片工作流Agent，这是一个面向创作者，高自由度的 AI 电影生成系统。 你只需输入一个剧本，系统即可自动完成剧本拆解、分镜生成、画面与音频素材生成、视频合成，并支持一键分发到媒体。 从灵感到成片，不再需要复杂流程，让个人也能创作电影级作品。
 
@@ -1257,7 +1257,7 @@
 
 *   [liusheng22/export-wechat-emoji](https://github.com/liusheng22/export-wechat-emoji) - 在 macOS 系统上导出微信收藏的表情包（Tauri + React + Rust）
 
-*   [UknowNull/biliClipFlow](https://github.com/UknowNull/biliClipFlow) - biliClipFlow 是一个基于 Tauri 的跨平台桌面应用，聚焦 Bilibili 录播场景：  录播订阅与自动录制 多分 P 下载 剪辑、合并、分段工作流 投稿、更新与失败重试 可选百度网盘同步 详情使用见bilibili:明前奶姊
+*   [UknowNull/biliClipFlow](https://github.com/UknowNull/biliClipFlow) - biliClipFlow 是一个基于 Tauri 的跨平台桌面应用，聚焦 Bilibili 录播场景：  录播订阅与自动录制 多分 P 下载 剪辑、合并、分段工作流 投稿、更新与失败重试 可选百度网盘同步 详情使用见bilibili:明前奶姊，返回交流QQ群: 1064612942
 
 *   [zRq1351/fuyun\_tools](https://github.com/zRq1351/fuyun_tools) - fuyun\_tools是一款集剪切板管理和AI划词功能于一体的桌面效率工具，运行在系统托盘中。通过智能化的历史记录管理和AI辅助功能，大幅提升日常工作效率。
 
@@ -1585,7 +1585,7 @@
 
 *   [ultrazg/horizon](https://github.com/ultrazg/horizon) - 使用 wails + react 构建的第三方小宇宙桌面客户端，支持 Windows 和 MacOS
 
-*   [Qingyon-AI/Revornix](https://github.com/Qingyon-AI/Revornix) - 拒绝FOMO！面对信息流，做个懒人，剩下的，交给AI！Reject FOMO! When facing the information stream, be lazy—leave the rest to AI!
+*   [Qingyon-AI/Revornix](https://github.com/Qingyon-AI/Revornix) - Revornix is an open-source, local-first AI information/markdown workspace. It helps you collect fragmented inputs, turn them into structured knowledge, generate reports with images and podcast audio, and deliver the output through automated notifications.
 
 *   [blurmood/SyncToNotion](https://github.com/blurmood/SyncToNotion) - 企微同步Notion - 支持抖音/小红书链接解析和Live图处理的Cloudflare Workers项目
 
@@ -2217,7 +2217,7 @@
 
 ## HTML
 
-*   [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) - 🦞 U-Claw - OpenClaw Offline Installer USB for China | OpenClaw 离线安装 U 盘，专为中国用户打造。免翻墙，一键安装，雨林木风风格。
+*   [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) - 🦞 U-Claw 虾盘 - OpenClaw AI 助手离线安装 U 盘 | 提供远程维护·定制开发·企业私有化部署服务 | Remote support & custom AI development
 
 *   [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。
 
