@@ -2439,7 +2439,7 @@
 
 *   [MUKAPP/InitialX](https://github.com/MUKAPP/InitialX) - 一款简洁的 Typecho 主题
 
-*   [little-gt/THEME-BooAdmin](https://github.com/little-gt/THEME-BooAdmin) - BooAdmin 是一款基于 TailwindCSS 的现代化 Typecho 后台主题，旨在通过简洁、响应式的设计全面提升内容管理体验。
+*   [little-gt/THEME-BooAdmin](https://github.com/little-gt/THEME-BooAdmin) - BooAdmin 是一款基于 TailwindCSS 的现代化 Typecho 后台主题，旨在通过简洁、响应式的设计全面提升内容管理体验，轻松实现 Typecho 后台美化。
 
 *   [YuYisir/Initial-M](https://github.com/YuYisir/Initial-M) - Typecho 简约 SEO 博客主题 · 支持 1.3.0 · 结构化数据优化 · 响应式设计
 
@@ -3023,7 +3023,7 @@
 
 *   [bradtraversy/nodejs-openai-image](https://github.com/bradtraversy/nodejs-openai-image) - Web app that uses Node.js and OpenAI to generate images
 
-*   [xiangjianan/lks](https://github.com/xiangjianan/lks) -
+*   [xiangjianan/lks](https://github.com/xiangjianan/lks) - 📚 LKs网站推荐合集 - B站UP主LKs《良心到难以置信的网站推荐》系列整理，收录303个网站
 
 *   [ZxBing0066/pixel-converter](https://github.com/ZxBing0066/pixel-converter) - 上传图片即可一键将图片转换为像素风格，支持多种自定义方式，可生成方块像素、点状像素和文字像素图等等。支持导出纯 CSS 像素图，并支持生成 CSS 像素图动画。
 
