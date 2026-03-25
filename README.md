@@ -61,6 +61,10 @@
 
 ## TypeScript
 
+*   [Perimsx/Coet](https://github.com/Perimsx/Coet) - Coet Blog是一款基于最新的 Next.js 15 和 Tailwind CSS v4 构建，集极致阅读体验、强大 MDX 内容创作与自动化 SEO 推送于一体的高性能个人博客系统方案。
+
+*   [RavelloH/NeutralPress](https://github.com/RavelloH/NeutralPress) - 基于 Next.js 构建的下一代动态 CMS 博客系统，可免费部署的一站式解决方案：可视化可拖拽页面编辑、所见即所得/Markdown/MDX内容支持、媒体管理、访问分析、照片墙、自动友链管理、无限层级评论、邮箱通知、实时私信、Github 项目展示、多用户多权限账号管理、内置安全防护。
+
 *   [Jamailar/RedBox](https://github.com/Jamailar/RedBox) - 小红书版OpenClaw，原RedConvert，小红书自动化AI工具RedClaw，支持小红书图文下载、AI转写仿写、目标账号追踪和克隆、智囊团AI群聊、小红书AI创作，小红书内容打包下载等创作全程AI化｜🌟 Star if you like it!
 
 *   [raselshikdar/syntxt](https://github.com/raselshikdar/syntxt) - A minimalist, monospace-driven microblogging platform focused on raw text and zero noise. Built with React, Vite, Tailwind CSS, and Supabase.
@@ -732,8 +736,6 @@
 *   [tiddly-gittly/TidGi-Desktop](https://github.com/tiddly-gittly/TidGi-Desktop) - TidGi is an privacy-in-mind, automated, auto-git-backup, freely-deployed knowledge management Desktop note app, based on Tiddlywiki, with REST API for web-clipping and Anki connect. 「 太记 」是一个基于「 太微 TiddlyWiki 」的知识管理桌面应用，能保护隐私内容、高级自动化、自动Git云备份、部署为博客，且可通过RESTAPI与Anki等应用连接。（迭代开发中欢迎试用，开发进度见下方链接）(Under active development, see website below for details)
 
 *   [HydenLiu/itu-nav-code](https://github.com/HydenLiu/itu-nav-code) - 🍻  艾兔db - 程序员导航
-
-*   [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight navigation website
 
 ## Swift
 
@@ -1519,8 +1521,6 @@
 
 *   [why2lyj/youxiang-Itchat](https://github.com/why2lyj/youxiang-Itchat) - 无视微信Web无法登录问题。获取淘宝优惠券、京东优惠券、拼多多（多多客）优惠券、苏宁易购优惠券、唯品会优惠券，通过接入淘宝联盟、京东联盟、拼多多（多多进宝）、苏宁联盟（苏宁推客）、唯品会及其对应的开放平台，获取优惠商品图片和对应商品信息，利用微信机器人推送到指定群聊。
 
-*   [zxins/hotfish](https://github.com/zxins/hotfish) - 获取知乎、V2EX、微博、贴吧、IT之家、豆瓣、虎扑、天涯、GitHub等网站热门头条的多线程爬虫，使用Flask聚合网站。
-
 ## JavaScript
 
 *   [kk43994/kkclaw](https://github.com/kk43994/kkclaw) - 🦞 一个可爱的桌面龙虾AI助手 - Desktop lobster pet with OpenClaw AI, Edge TTS voice, and emotion animations
@@ -2233,6 +2233,8 @@
 
 *   [wanyki/Postcards](https://github.com/wanyki/Postcards) - 基于 Vue.js 和 ECharts 开发的个人明信片数字化收集册，记录每一份跨越时空的记忆。
 
+*   [jiuxina/ushio-md](https://github.com/jiuxina/ushio-md) - Markdown 编辑器, Android Markdown 编辑器, 安卓 Markdown 软件, 手机 Markdown 工具, Ushio MD，Markdown 实时预览, 语法高亮编辑器, 沉浸式写作工具, 移动端码字神器, Markdown 个性化主题, 自动云同步编辑器, 离线 Markdown 工具, Markdown 文件管理，程序员笔记应用, 博客文章写作, 简洁笔记软件, 自媒体写作工具, 跨平台同步笔记 (如有同步功能), 学习笔记 Markdown
+
 *   [LoneKingCode/panbox](https://github.com/LoneKingCode/panbox) - 盘盒子是专业的网盘资源盒子，提供海量免费AI资源（AI模型、AI资料、AI课程）、源码下载（前端、后端、移动端）、软件工具（Windows、Mac、手机APP、绿色软件）、学习课程（IT编程、设计创意、办公职场、副业创业）。每日更新优质资源！
 
 *   [jianjieyiban/JJYB\_AI\_VideoAutoCut](https://github.com/jianjieyiban/JJYB_AI_VideoAutoCut) - JJYB\_AI 智剪 - 智能视频自动剪辑与AI解说工具（离线TTS、原创解说、混剪、AI配音）
@@ -2394,8 +2396,6 @@
 *   [shnulaa/FlutterIPTV](https://github.com/shnulaa/FlutterIPTV) - Lotus IPTV是一款基于 Flutter 开发的现代化高性能 IPTV 播放器。它支持多平台无缝观看和分屏播放，专注于易用性和美观的界面设计。Lotus IPTV is a modern, high-performance IPTV player built with Flutter. It offers seamless multi-platform viewing with split-screen support, focusing on usability and aesthetics.
 
 *   [NEKOparapa/ReaDreamAI](https://github.com/NEKOparapa/ReaDreamAI) - 阅你所想，绘你所梦，从一个想法到一本完整的精彩小说。ReaDreamAI为你包办写作、插图与视频。
-
-*   [jiuxina/ushio-md](https://github.com/jiuxina/ushio-md) - Markdown 编辑器, Android Markdown 编辑器, 安卓 Markdown 软件, 手机 Markdown 工具, Ushio MD，Markdown 实时预览, 语法高亮编辑器, 沉浸式写作工具, 移动端码字神器, Markdown 个性化主题, 自动云同步编辑器, 离线 Markdown 工具, Markdown 文件管理，程序员笔记应用, 博客文章写作, 简洁笔记软件, 自媒体写作工具, 跨平台同步笔记 (如有同步功能), 学习笔记 Markdown
 
 *   [openAnimeFlow/AnimeFlow](https://github.com/openAnimeFlow/AnimeFlow) - 一个跨平台的动漫视频播放追番软件，支持多数据源、支持实时视频4k超分辨率、自定义爬虫配置,对接Bangumi服务同步用户收藏数据,对接弹弹Play提供弹幕体验，为您提供流畅的观影体验
 
@@ -2983,7 +2983,7 @@
 
 *   [Nitai9h/nBlogHexo](https://github.com/Nitai9h/nBlogHexo) - 一个基于Hexo的轻量极简主题 / A lightweight minimalist theme based on Hexo
 
-*   [HagiCode-org/site](https://github.com/HagiCode-org/site) - Hagicode 是一款 AI 驱动的代码智能助手，通过创新的 OpenSpec 工作流、多线程并发操作 和 游戏化机制，为开发者带来前所未有的编码体验。
+*   [HagiCode-org/site](https://github.com/HagiCode-org/site) - Official marketing website for HagiCode, showcasing AI coding workflows, product capabilities, and getting-started paths.
 
 *   [zqlit/Hugo-Theme-Amigo](https://github.com/zqlit/Hugo-Theme-Amigo) - 一款简约大方的Hugo主题，UI仿微信朋友圈，评论依赖于 Artalk 2.8.7 版本
 
