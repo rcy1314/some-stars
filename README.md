@@ -171,7 +171,7 @@
 
 *   [linzitong247-svg/Animancer](https://github.com/linzitong247-svg/Animancer) - 基于 AI 的 2D 角色动作动画生成工具
 
-*   [countbot-ai/CountBot](https://github.com/countbot-ai/CountBot) - 更适配中文用户的轻量开源AI Agent | 国产大模型Coding plan支持 | 兼容OpenClaw Skills生态| 已接入微信ClawBot/微博龙虾/飞书/钉钉/QQ/小智AI/Telegram
+*   [countbot-ai/CountBot](https://github.com/countbot-ai/CountBot) - 更适配中文用户的轻量开源AI Agent | 国产大模型Coding plan支持 | 兼容OpenClaw Skills生态| 已接入微信ClawBot/微博龙虾/飞书/钉钉/QQ/小智AI/Telegram。交流群1028356423
 
 *   [runningZ1/union-search-skill](https://github.com/runningZ1/union-search-skill) - 统一搜索工具集 - 跨平台内容搜索解决方案，支持 B 站/抖音/小红书/GitHub/Twitter 等 20+ 平台
 
@@ -1615,7 +1615,7 @@
 
 *   [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 
-*   [wangrongding/wallpaper-box](https://github.com/wangrongding/wallpaper-box) - 🏞️ 一个桌面壁纸客户端，可以设置静态 / 动态壁纸，集成了 RunCat 的功能。(A desktop wallpaper client to set static / dynamic wallpapers, integrated with RunCat's features.)
+*   [wangrongding/wallpaper-box](https://github.com/wangrongding/wallpaper-box) - 🏞️ 让桌面活起来：静态、视频、网页、自定义html、3D、AI 壁纸，且支持通过Bilibili，YouTube链接直接下载在线视频设为壁纸，并集成了会随着 CPU 使用率变化速度的 RunCat 托盘动画。(A desktop wallpaper client to set static / dynamic wallpapers, integrated with RunCat's features.)
 
 *   [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy) - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
 
