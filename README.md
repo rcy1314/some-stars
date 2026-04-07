@@ -664,7 +664,7 @@
 
 *   [GetMural/Mural](https://github.com/GetMural/Mural) - Mural is a tool for visual storytelling. It’s a program that helps you sequence your visual story, and then generates everything needed for that story to be displayed on most modern web browsers and served from any web server.
 
-*   [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Create beautiful markdown-based websites, docs wikis and PKMs.
+*   [flowershow/flowershow](https://github.com/flowershow/flowershow) - 💐 Publish markdown (and html) websites, docs, wikis and websites in seconds. Integrates with your AI.
 
 *   [maheshj01/pastelog](https://github.com/maheshj01/pastelog) - PasteLog is a simple, fast, and powerful pastebin. It allows you to publish Rich Text logs/Notes, and access them with a unique link.
 
@@ -1264,7 +1264,7 @@
 
 ## Python
 
-*   [TobyKSKGD/PodGist](https://github.com/TobyKSKGD/PodGist) - PodGist 是一个基于本地算力与 AI 技术的音频内容结构化工具。通过语音转录和大语言模型分析，将各类音频（播客、讲座、会议录音等）转化为带精确时间轴的结构化摘要，解决音频内容难以快速定位、检索和预览的核心痛点。
+*   [TobyKSKGD/PodGist](https://github.com/TobyKSKGD/PodGist) - PodGist 是一个基于云端 AI 的音频内容结构化工具。它通过语音转录和大语言模型分析，将各类音频（播客、讲座、会议录音等）转化为带精确时间轴的结构化摘要。
 
 *   [hirogoing/PolyStudio](https://github.com/hirogoing/PolyStudio) - 一个「对话式生图/改图 + 可视化画板」项目：FastAPI 后端通过 LangGraph 编排工具调用，React 前端提供画板承载与项目管理，支持 SSE 流式输出、图片自动落到画板、项目链接与历史记录。
 
@@ -1320,7 +1320,7 @@
 
 *   [gongxings/ai-creator](https://github.com/gongxings/ai-creator) - A powerful AI content creation platform with AI writing, image generation, video generation, PPT generation tools, and one-click multi-platform publishing.AI创作者平台，一个功能强大的AI创作平台，提供AI写作、图片生成、视频生成、PPT生成等创作工具，并支持一键发布到多个平台。
 
-*   [869413421/ai-moive-studio](https://github.com/869413421/ai-moive-studio) - AI成片工作流Agent，这是一个面向创作者，高自由度的 AI 电影生成系统。 你只需输入一个剧本，系统即可自动完成剧本拆解、分镜生成、画面与音频素材生成、视频合成，并支持一键分发到媒体。 从灵感到成片，不再需要复杂流程，让个人也能创作电影级作品。
+*   [869413421/ai-moive-studio](https://github.com/869413421/ai-moive-studio) - 自然语言驱动的无限画布工作流 Agent，让 AI 视频创作第一次真正变成可编辑的工作流。   AICON 面向创作者，提供从剧本拆解、分镜生成、素材生成、视频合成到内容分发的一整套能力。   不是只给你一个输入框，而是让你用自然语言和无限画布一起驱动创作，把文本、图片、视频节点组织成完整链路，真正把“从灵感到   成片”放进一个系统里完成。
 
 *   [CCSH/IPTV](https://github.com/CCSH/IPTV) - 一个免费、轻量、全自动化的直播源、台标 Logo 与 EPG 电子节目指南网络采集同步工具。自动拉取并整合互联网公开资源，格式化输出，适配 IPTV、电视盒子、手机直播 APP 等主流使用场景。（自动采集、测速、无广告）
 
@@ -1454,7 +1454,7 @@
 
 *   [cwyalpha/Word-Formatter-Pro](https://github.com/cwyalpha/Word-Formatter-Pro) - 一款桌面应用程序，可将格式混乱的 Word 文档（及兼容格式）一键转换为符合规范的专业文档，实现排版工作自动化。
 
-*   [cxfjh/PandaEditor](https://github.com/cxfjh/PandaEditor) - 熊猫编辑器（PandaEditor）是一个简单易用的中文文本编辑工具，提供了丰富的功能和友好的界面，让用户可以轻松地使用中文编写代码。
+*   [cxfjh/panda-editor](https://github.com/cxfjh/panda-editor) - 熊猫编辑器（PandaEditor）是一个简单易用的中文文本编辑工具，提供了丰富的功能和友好的界面，让用户可以轻松地使用中文编写代码。
 
 *   [xinliu9451/smart\_voice\_assistant](https://github.com/xinliu9451/smart_voice_assistant) - 一个基于本地模型的中文语音智能助手，支持关键词唤醒、语音识别、大模型对话、本地知识库问答和语音合成。
 
@@ -1592,7 +1592,7 @@
 
 *   [sekai-soft/galerie](https://github.com/sekai-soft/galerie) -
 
-*   [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+*   [xerrors/Yuxi](https://github.com/xerrors/Yuxi) - 结合知识库管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 
 *   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
 
@@ -2852,7 +2852,7 @@
 
 *   [SoKeiKei/CapKit-download](https://github.com/SoKeiKei/CapKit-download) - CapKit 是一款专为创作者打造的轻量级“剪映草稿/模板”管理工具。旨在解决本地模版管理混乱、难以查找、重复冗余等痛点。
 
-*   [Thoseyearsbrian/Aegis](https://github.com/Thoseyearsbrian/Aegis) - Surge 个人数字防火墙规则集，帮助用户在 iOS 与 macOS 本地实现流量的精准识别与分类，并根据自身需求自主设定流量策略。支持简体中文、繁體中文与 English 三种语言，助力全球用户快速部署与灵活使用。
+*   [Thoseyearsbrian/Aegis](https://github.com/Thoseyearsbrian/Aegis) - Personal digital firewall ruleset for Surge, built for precise traffic identification, classification, and policy control on iOS and macOS.
 
 *   [vscodev/XArchiver](https://github.com/vscodev/XArchiver) - 🚀 基于大数据的压缩包密码破解软件
 
@@ -3248,7 +3248,7 @@
 
 *   [qlAD/gkBlog](https://github.com/qlAD/gkBlog) - gkBlog 是一个使用 Turborepo + pnpm 构建的个人博客网站 📚
 
-*   [geekskai/blog](https://github.com/geekskai/blog) - 🚀 2025 Most Popular FREE Blog Template! Next.js 14, Zero Code - Just Write & Deploy | 2025最火免费博客模板！支持Markdown，一键部署，极致性能！⚡️ ✨ Write in Markdown, get your professional blog in minutes. Custom domain & comments ready! | 写Markdown即可，快速部署，支持自定义域名和评论，无需代码！geekskai.com/
+*   [geekskai/blog](https://github.com/geekskai/blog) - 🚀 2026 Most Popular FREE Blog Template! Next.js 14, Zero Code - Just Write & Deploy | 2026最火免费博客模板！支持Markdown，一键部署，极致性能！⚡️ ✨ Write in Markdown, get your professional blog in minutes. Custom domain & comments ready! | 写Markdown即可，快速部署，支持自定义域名和评论，无需代码！geekskai.com/
 
 ## Haskell
 
