@@ -60,6 +60,10 @@
 
 ## TypeScript
 
+*   [AAAAAnson/mbeditor](https://github.com/AAAAAnson/mbeditor) - 首款支持 CLI 化操作的微信公众号编辑器 — 让你的Agent直接写出精美推文
+
+*   [JarvisPMS/z-image](https://github.com/JarvisPMS/z-image) - 基于魔搭的z-image 网页版和桌面版软件，每天2000次配额，可以使用各类开源图片生成模型和对话模型
+
 *   [ZRMYDYCG/Navernass](https://github.com/ZRMYDYCG/Navernass) - 我们专注为才华横溢的创作者打造舒适的创作环境，降低优质内容被看见、被分享、被发掘的门槛，同时也为新手提供AI辅助，降低直面感受创作、学习创作、走进创作的门槛。
 
 *   [GoldJohnKing/CameraFTP](https://github.com/GoldJohnKing/CameraFTP) - 📷 图传伴侣 - 让摄影工作流更简单！
@@ -1286,8 +1290,6 @@
 
 *   [GuDong2003/xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) - 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
 
-*   [SonicBotMan/lobster-press](https://github.com/SonicBotMan/lobster-press) - 🦞 LobsterPress（龙虾饼） - Cognitive Memory System for AI Agents 基于认知科学的 LLM 永久记忆引擎
-
 *   [linzitong247-svg/Animancer](https://github.com/linzitong247-svg/Animancer) - 基于 AI 的 2D 角色动作动画生成工具
 
 *   [countbot-ai/CountBot](https://github.com/countbot-ai/CountBot) - 更适配中文用户的轻量开源AI Agent | 国产大模型Coding plan支持 | 兼容OpenClaw Skills生态| 已接入微信ClawBot/微博龙虾/飞书/钉钉/QQ/小智AI/Telegram。交流群1028356423
@@ -1441,8 +1443,6 @@
 *   [victorxys/telegram-twitter-summarizer](https://github.com/victorxys/telegram-twitter-summarizer) - 通过x分享链接到TG-bot，自动总结此推文并回复。便于对推文的收藏与查找
 
 *   [Lewis456/video\_summary](https://github.com/Lewis456/video_summary) - 构建一套智能视频总结系统，实现视频上传后自动完成视频转音频、音频转写文本，并基于大模型输出结构化学习笔记，提升视频内容的获取与整理效率。
-
-*   [zj1123581321/obsidian-clip-api](https://github.com/zj1123581321/obsidian-clip-api) - 开放一个 api 供 obsidian 剪藏文章，输入 url，自动剪藏+上传图片到自己的图床+企微通知
 
 *   [Liu-Bot24/fuguang-translator](https://github.com/Liu-Bot24/fuguang-translator) - 实时捕捉系统音频，调用阿里云百炼语音翻译模型生成中文字幕的桌面应用。界面基于 PyQt6，支持浮窗显示、历史字幕保存与手动编辑。支持多国语言，可用于外语电影、直播。
 
