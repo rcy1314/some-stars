@@ -316,7 +316,7 @@
 
 *   [sjzsdu/OpencodePlugins](https://github.com/sjzsdu/OpencodePlugins) - 🤖 OpenCode 插件 - 三省六部多智能体协作系统：将中国古代治理智慧融入 AI 编程助手，自动完成复杂编程任务的规划、审核与执行
 
-*   [xintaofei/codeg](https://github.com/xintaofei/codeg) - A unified workspace for local AI coding agents (Claude Code, Codex, Gemini CLI, etc.) — desktop app, standalone server, or Docker. Conversation aggregation, git worktree workflows, MCP/Skills management, chat channel integration (Telegram, Lark, iLink), and integrated terminal, all accessible from any browser.
+*   [xintaofei/codeg](https://github.com/xintaofei/codeg) - Aggregate and browse AI coding agent sessions (Claude Code, Codex, Gemini CLI, etc.) in one place. Desktop app, self-hosted server, or Docker.
 
 *   [sorker/ai-shotlive](https://github.com/sorker/ai-shotlive) - AI 短剧，小说、剧本、分镜、提示词、关键帧、视频、AI剪辑的一站式服务。参考shuyu-labs/BigBanana-AI-Director、shamsharoon/CutOS、Will-Water/CineGen-AI以及HBAI-Ltd/Toonflow-app项目修改的。提供前后端分离和用户服务。
 
@@ -962,8 +962,6 @@
 
 *   [Mereithhh/van-nav](https://github.com/Mereithhh/van-nav) - 一个轻量导航站，汇总你的所有服务。全平台支持，单文件部署，有配套浏览器插件
 
-*   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-
 ## Python
 
 *   [yu20103983/xiaolong-openclaw](https://github.com/yu20103983/xiaolong-openclaw) - 中文语音助手 | 唤醒词 + ASR + OpenClaw Agent + TTS | 离线唤醒、流式语音交互、工具调用、Skills 扩展
@@ -993,6 +991,8 @@
 *   [Suge8/Bao](https://github.com/Suge8/Bao) - 🍞 记得住、学得会、能进化的个人 AI 助手。持久分类记忆 · 闭环经验引擎 · 子代理并行 · 长任务不漂移 · 9 大平台 · 4 类 LLM · MCP 生态 · 桌面自动化，只有你需要的轻量。｜ The AI assistant that remembers, learns, and evolves. Persistent memory · Experience engine · Sub-agents · 9 platforms · 4 LLM providers · MCP tools.
 
 *   [GuDong2003/xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) - 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
+
+*   [SonicBotMan/lobster-press](https://github.com/SonicBotMan/lobster-press) - 🦞 LobsterPress（龙虾饼） - Cognitive Memory System for AI Agents 基于认知科学的 LLM 永久记忆引擎
 
 *   [linzitong247-svg/Animancer](https://github.com/linzitong247-svg/Animancer) - 基于 AI 的 2D 角色动作动画生成工具
 
