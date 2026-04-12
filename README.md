@@ -124,7 +124,7 @@
 
 *   [little-gt/THEME-BooAdmin](https://github.com/little-gt/THEME-BooAdmin) - BooAdmin 是一款基于 TailwindCSS 的现代化 Typecho 后台主题，旨在通过简洁、响应式的设计全面提升内容管理体验，轻松实现 Typecho 后台美化。
 
-*   [YuYisir/Initial-M](https://github.com/YuYisir/Initial-M) - Typecho 简约 SEO 博客主题 · 支持 1.3.0 · 结构化数据优化 · 响应式设计
+*   [YuYisir/Initial-M](https://github.com/YuYisir/Initial-M) - Typecho-theme 简约 SEO 博客主题 · 支持 1.3.0 · 结构化数据优化 · 响应式设计
 
 *   [xhadmincn/FastMovieAI](https://github.com/xhadmincn/FastMovieAI) - FastMovieAI 是一个功能完整的开源短剧/短视频创作平台，采用前后端分离架构，提供 AI 驱动的视频内容创作能力。平台集成了用户管理、支付系统、内容管理、视频生成等完整功能模块，适合内容创作者和视频制作团队使用。
 
@@ -2000,8 +2000,6 @@
 
 *   [vark-debug/PremierePro-Smart-Export](https://github.com/vark-debug/PremierePro-Smart-Export) - 一键导出 Premiere Pro 序列的智能插件，自动管理导出预设、输出文件夹和智能文件版本控制。
 
-*   [luotian2020/photo-application](https://github.com/luotian2020/photo-application) - 摄影师图片实用工具
-
 *   [eggyrooch-blip/XBooster](https://github.com/eggyrooch-blip/XBooster) - 一款强大的 X (Twitter) Chrome 扩展，支持智能评论生成、批量回复、潜力指数筛选、快速书签管理等功能，提升社交媒体互动效率
 
 *   [labilio/lofi-radio](https://github.com/labilio/lofi-radio) - Lofi音乐被科学家认为是最适合专注工作学习的音乐，lofigirl是一个风靡全球的电台，24小时播放适合专注的lofi音乐。但lofigirl团队基本都在海外平台，仅在中国Bilibili有开设直播间。我希望做一个lofigirl桌面版播放器，让所有热爱lofi音乐的中国朋友每天打开电脑一键启动电台，并加入相关音乐快捷键功能，让lofigirl摆脱直播间束缚，成为真正的陪伴在身边的音乐电台
@@ -2324,7 +2322,7 @@
 
 *   [dengxiwang/funtabs](https://github.com/dengxiwang/funtabs) - funtabs纷彩新标签页（原：趣标签页、方格桌面），缤纷多彩，一改常态，优质高效，为你而来！支持自定义您新标签页上的导航卡片、文章收藏、精美壁纸以及搜索引擎，创建、编辑及分享属于您自己的浏览器标签页,美化您的浏览器主页与newtab新标签页，清新、简约、高度的可自定义操作，让您设置属于您专属的小而美的独特导航页面!
 
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+*   [win12-online/win12](https://github.com/win12-online/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 
 *   [lucaszhongsj/fcgame](https://github.com/lucaszhongsj/fcgame) - FC/NES模拟器，在线畅玩八十款任天堂红白机游戏，小霸王游戏机其乐无穷。支持魂斗罗/超级玛丽/双截龙等等几十款任天堂红白机游戏。 非常适合在手机/电脑上在线游玩，近乎完美的还原任天堂FC/NES原版ROM游戏的视频和声音。
 
@@ -2495,6 +2493,8 @@
 *   [topcss/AirScan-QR](https://github.com/topcss/AirScan-QR) - AirScan-QR 是一款极简、高效的开源 Web 工具，在通过二维码动态流（QR Code Stream）解决跨设备、跨网络环境下的数据传输痛点。
 
 *   [Sevendogs077/PinMD](https://github.com/Sevendogs077/PinMD) - 一个极简的桌面悬浮Markdown便签
+
+*   [luotian2020/photo-application](https://github.com/luotian2020/photo-application) - 摄影师图片实用工具
 
 *   [wanyki/Postcards](https://github.com/wanyki/Postcards) - 基于 Vue.js 和 ECharts 开发的个人明信片数字化收集册，记录每一份跨越时空的记忆。
 
