@@ -72,8 +72,6 @@
 
 *   [Allen-xxa/ComfyNexus](https://github.com/Allen-xxa/ComfyNexus) - 为专业创作者而生的 ComfyUI 现代化管理平台
 
-*   [AAAAAnson/mbeditor](https://github.com/AAAAAnson/mbeditor) - 首款支持 CLI 化操作的微信公众号编辑器 — 让你的Agent直接写出精美推文
-
 *   [TobyKSKGD/PodGist](https://github.com/TobyKSKGD/PodGist) - PodGist 是一个基于云端 AI 的音频内容结构化工具。它通过语音转录和大语言模型分析，将各类音频（播客、讲座、会议录音等）转化为带精确时间轴的结构化摘要。
 
 *   [hirogoing/PolyStudio](https://github.com/hirogoing/PolyStudio) - 一个「对话式生图/改图 + 可视化画板」项目：FastAPI 后端通过 LangGraph 编排工具调用，React 前端提供画板承载与项目管理，支持 SSE 流式输出、图片自动落到画板、项目链接与历史记录。
@@ -800,6 +798,8 @@
 
 *   [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) - 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。
 
+*   [AAAAAnson/mbeditor](https://github.com/AAAAAnson/mbeditor) - 首款支持 CLI 化操作的微信公众号编辑器 — 让你的Agent直接写出精美推文
+
 *   [JarvisPMS/z-image](https://github.com/JarvisPMS/z-image) - 基于魔搭的z-image 网页版和桌面版软件，每天2000次配额，可以使用各类开源图片生成模型和对话模型
 
 *   [lee0166/nanshanai-animata](https://github.com/lee0166/nanshanai-animata) - NS AI Animata 是一款专为影视创作爱好者打造的 AI 驱动的小说转影视全流程工具，从小说文本到影视作品一站式生成，能力持续进化，既友好新手也支持深度自定义，与创作者同步成长。
@@ -952,7 +952,7 @@
 
 *   [mengjian-github/wechat-mp-assistant](https://github.com/mengjian-github/wechat-mp-assistant) - 微信公众号智能编辑助手 Chrome 插件 - 集成 AI 写作、素材管理、一键排版等功能
 
-*   [CaoMeiYouRen/momei](https://github.com/CaoMeiYouRen/momei) - 墨梅博客是一个AI 驱动、原生国际化的开发者博客平台。MomeiBlog is an AI driven, native international developer blog platform.
+*   [CaoMeiYouRen/momei](https://github.com/CaoMeiYouRen/momei) - MomeiBlog is an AI driven, native international developer blog platform. 墨梅博客是一个AI 驱动、原生国际化的开发者博客平台。
 
 *   [di-ba-yan/cook-docs](https://github.com/di-ba-yan/cook-docs) - 基于 Docusaurus + pnpm 的烹饪知识库，支持将 `/lhqs-docs/做饭指南` 里的 Markdown 一键导入、上线。
 
