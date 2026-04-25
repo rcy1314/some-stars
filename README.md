@@ -98,7 +98,7 @@
 
 *   [linzitong247-svg/Animancer](https://github.com/linzitong247-svg/Animancer) - 基于 AI 的 2D 角色动作动画生成工具
 
-*   [countbot-ai/CountBot](https://github.com/countbot-ai/CountBot) - 更适配中文用户的轻量开源AI Agent | 国产大模型Coding plan支持 | 兼容OpenClaw Skills生态| 已接入微信ClawBot/微博龙虾/飞书/钉钉/QQ/小智AI/Telegram。交流群1028356423
+*   [countbot-ai/CountBot](https://github.com/countbot-ai/CountBot) - 更适配中文用户的轻量开源AI Agent | 国产大模型Coding plan支持 | 兼容OpenClaw Skills生态| 已接入微信ClawBot/微博龙虾/飞书/钉钉/QQ/小智AI/Telegram/Deepseek-v4。交流群1028356423
 
 *   [runningZ1/union-search-skill](https://github.com/runningZ1/union-search-skill) - 统一搜索工具集 - 跨平台内容搜索解决方案，支持 B 站/抖音/小红书/GitHub/Twitter 等 20+ 平台
 
@@ -231,6 +231,8 @@
 *   [HG-ha/MTools](https://github.com/HG-ha/MTools) - MTools 是一个功能强大的全能桌面应用程序，集成了音视频处理、图片编辑、文本操作和编码工具，内置AI增强功能。旨在简化您的工作流程，提升生产效率
 
 *   [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
+
+*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 
 *   [ipvoov/Craft-Agent](https://github.com/ipvoov/Craft-Agent) - Craft-Agent是一个集「深度研究助手」与「一键建站引擎」于一体的智能体  - 深度研究- 网站生成。现代前后端架构：FastAPI + LangGraph/LangChain 后端，Next.js + TypeScript + shadcn/ui 前端
 
@@ -993,8 +995,6 @@
 *   [unilei/kerkerker](https://github.com/unilei/kerkerker) - 🎬 这是壳儿 - 影视聚合平台 - 豆瓣集成/多源切换/智能匹配 | Next.js + TypeScript | Docker 部署 | Vercel 部署
 
 *   [PeanutSplash/xhs-data-helper](https://github.com/PeanutSplash/xhs-data-helper) - 小红书数据助手 - 轻松保存你喜欢的小红书笔记
-
-*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 
 *   [SimonAKing/Gwitter](https://github.com/SimonAKing/Gwitter) - Turn GitHub Issues into your personal microblog platform
 
