@@ -60,6 +60,8 @@
 
 ## Vue
 
+*   [sxchou/futuristic-blog](https://github.com/sxchou/futuristic-blog) - 一个基于 Vue 3、FastAPI 和 PostgreSQL 的现代化个人博客系统。具有未来感 UI 设计、实时评论、后台管理和邮件通知等功能。A futuristic personal blog system built with Vue 3, FastAPI, and PostgreSQL. Features modern UI design, real-time comments, admin dashboard, and email notifications.
+
 *   [Aprilming/maiknote](https://github.com/Aprilming/maiknote) - 一个vibe coding的笔记软件， 即来即走～
 
 *   [sankigan/Sift](https://github.com/sankigan/Sift) -  ⚡ 快速、跨平台的 RAW + JPG 照片筛选工具，专为摄影师打造。基于 Tauri 2 + Vue 3。
@@ -990,7 +992,7 @@
 
 *   [owenshen0907/tts-stepfun-web](https://github.com/owenshen0907/tts-stepfun-web) - Owen's Cats TTS Web is a StepFun text-to-speech (TTS) web application. It can run locally or be deployed with your StepFun Key in just one click.Owen\`s Cats TTS Web 是一个 StepFun 文本转语音（TTS）网页应用。可以在本地运行或使用你的 StepFun Key 一键部署。
 
-*   [neovateai/petercat](https://github.com/neovateai/petercat) - A conversational Q\&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q\&A bots for your GitHub repositories
+*   [afx-team/petercat](https://github.com/afx-team/petercat) - A conversational Q\&A agent configuration system, self-hosted deployment solutions, and a convenient all-in-one application SDK, allowing you to create intelligent Q\&A bots for your GitHub repositories
 
 *   [pingcap/autoflow](https://github.com/pingcap/autoflow) - pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai
 
@@ -2427,8 +2429,6 @@
 *   [MarkMindCkm/obsidian-markmind](https://github.com/MarkMindCkm/obsidian-markmind) - A mind map, outline for obsidian,It support mobile and desktop
 
 *   [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
-
-*   [Wpenga/webdav-teambition](https://github.com/Wpenga/webdav-teambition) - teambition网盘的webdav协议开源实现
 
 ## Go
 
