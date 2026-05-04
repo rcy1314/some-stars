@@ -62,7 +62,7 @@
 
 *   [actionow-ai/actionow](https://github.com/actionow-ai/actionow) - Action! Now! The open-source AI studio for screenwriting and storyboard production. 从剧本到分镜，从角色到成片，Actionow 把"开拍 · 此刻"变成创意团队。触手可及的工程化工作台——智能体驱动，开箱即接最新模型，可代码级控制、可私有化部署。
 
-*   [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，请勿商用，仅供学习交流
+*   [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流
 
 *   [Maruiful/BitFlow](https://github.com/Maruiful/BitFlow) - AI Agent 工作流编排平台 - 通过可视化界面自由编排 LLM 节点、工具节点和流程逻辑
 
@@ -1552,7 +1552,7 @@
 
 *   [dai-hongtao/InkTime](https://github.com/dai-hongtao/InkTime) - InkTime 是一个可自托管的墨水屏电子相框。它用AI分析你的照片库，按值得回忆度打分，并按“历史上的今天”自动生成每日最具回忆价值的照片，让沉睡的记忆重新被看见。
 
-*   [hungryM0/SurveyController](https://github.com/hungryM0/SurveyController) - 支持问卷星、腾讯问卷、Credamo见数的自动化处理程序，附带友好的图形化界面；可指定ip地区、作答时长、AI填空，1分钟猛干50份。稳定更新
+*   [hungryM0/SurveyController](https://github.com/hungryM0/SurveyController) - 支持问卷星、腾讯问卷、Credamo见数的高并发自动化处理程序，附带友好的图形化界面；可指定ip地区、作答时长、AI填空，2分钟猛干300份。稳定更新
 
 *   [kangarooking/x-skills](https://github.com/kangarooking/x-skills) - 自动收集素材，确认选题，并创作x推文，最后并发布到草稿箱的Claude Skills
 
@@ -1844,7 +1844,7 @@
 
 *   [heavyimage/Album-Art-Bottle-LEDs](https://github.com/heavyimage/Album-Art-Bottle-LEDs) - Create a custom LED palette based on your favorite albums!
 
-*   [licyk/sd-webui-all-in-one](https://github.com/licyk/sd-webui-all-in-one) - 支持部署多种 WebUI 的 Jupyter Notebook / CLI，与支持一键部署 SD-Trainer，InvokeAI，ComfyUI，SD WebUI，SD-Trainer-Script，Fooocus，Qwen TTS WebUI 的 PowerShell 脚本
+*   [licyk/sd-webui-all-in-one](https://github.com/licyk/sd-webui-all-in-one) - 支持安装、下载、启动和管理多种 AI WebUI / 训练工具的一体化项目，提供 Installer、整合包下载器、Launcher、CLI 与 Colab / Kaggle Notebook。
 
 *   [Jiabinone/SambaNova2API](https://github.com/Jiabinone/SambaNova2API) - SambaNova AI模型API适配器：将SambaNova的强大AI模型转换为OpenAI兼容的接口，支持流式响应和多模型选择。
 
