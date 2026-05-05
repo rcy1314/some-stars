@@ -202,7 +202,7 @@
 
 *   [DjTaNg-404/Desktop-Claw](https://github.com/DjTaNg-404/Desktop-Claw) - 一个常驻桌面的 AI 小伙伴。悬浮球形态，轻量不打扰，支持对话、文件处理与轻记录，具备 Agent Loop 与按天记忆能力。Electron + TypeScript 构建，支持 macOS & Windows。
 
-*   [Perimsx/Coet](https://github.com/Perimsx/Coet) - Coet Blog是一款基于最新的 Next.js 15 和 Tailwind CSS v4 构建，集极致阅读体验、强大 MDX 内容创作与自动化 SEO 推送于一体的高性能个人博客系统方案。
+*   [Perimsx/cot](https://github.com/Perimsx/cot) - Coet Blog是一款基于最新的 Next.js 15 和 Tailwind CSS v4 构建，集极致阅读体验、强大 MDX 内容创作与自动化 SEO 推送于一体的高性能个人博客系统方案。
 
 *   [RavelloH/NeutralPress](https://github.com/RavelloH/NeutralPress) - 基于 Next.js 构建的下一代动态 CMS 博客系统，可免费部署的一站式解决方案：可视化可拖拽页面编辑、所见即所得/Markdown/MDX内容支持、媒体管理、访问分析、照片墙、自动友链管理、无限层级评论、邮箱通知、实时私信、Github 项目展示、多用户多权限账号管理、内置安全防护。
 
@@ -308,7 +308,7 @@
 
 *   [huangzijian888/GeekFaka](https://github.com/huangzijian888/GeekFaka) -  GeekFaka 是一个专为独立开发者和创作者打造的 Headless 自动发卡系统。基于 Next.js + React 18 + Prisma 构建，拥有极致的深色极客   UI、Markdown 渲染、多渠道易支付（RSA/MD5）集成以及 Docker 一键部署能力。抛弃繁琐，让数字商品售卖回归简单与优雅。
 
-*   [adnaan-worker/Adnify](https://github.com/adnaan-worker/Adnify) - Adnify—— 轻量级、高定制化 AI Agent 编辑器，碾压主流 AI 编程工具的极致体验！轻量化架构秒启不卡顿，支持 AI Agent 全流程定制（逻辑编排 / 工具审批 / 智能交互），深度集成 XTerminal（WebGL 加速 + 自定义快捷键），搭配 Markdown 多模式编辑、主题自定义、Git 一体化管理，告别臃肿模板，让 AI 开发完全贴合你的习惯。
+*   [adnaan-worker/Adnify](https://github.com/adnaan-worker/Adnify) - Adnify—A lightweight, highly customizable AI Agent Editor.It delivers a superior experience beyond mainstream AI coding tools, featuring instant startup and lag-free performance.
 
 *   [Tosuke-sama/DesktopFriends](https://github.com/Tosuke-sama/DesktopFriends) -  A desktop companion for Live2D driven by agent system.
 
@@ -1536,7 +1536,7 @@
 
 *   [linzitong247-svg/Animancer](https://github.com/linzitong247-svg/Animancer) - 基于 AI 的 2D 角色动作动画生成工具
 
-*   [countbot-ai/CountBot](https://github.com/countbot-ai/CountBot) - 更适配中文用户的轻量开源AI Agent | 国产大模型Coding plan支持 | 兼容OpenClaw Skills生态| 已接入微信ClawBot/微博龙虾/飞书/钉钉/QQ/小智AI/Telegram/Deepseek-v4。
+*   [countbot-ai/CountBot](https://github.com/countbot-ai/CountBot) - 更适配中文用户的轻量开源AI Agent | 国产大模型Coding plan支持 | 兼容OpenClaw Skills生态| 已接入微信ClawBot/微博龙虾/飞书/钉钉/QQ/小智AI/Telegram/deepseek-v4。
 
 *   [runningZ1/union-search-skill](https://github.com/runningZ1/union-search-skill) - 统一搜索工具集 - 跨平台内容搜索解决方案，支持 B 站/抖音/小红书/GitHub/Twitter 等 20+ 平台
 
@@ -1724,7 +1724,7 @@
 
 *   [rcy1314/Memory](https://github.com/rcy1314/Memory) - Memory-不负时光摄影相册，一个全屏瀑布流摄影图库程序
 
-*   [HughesCuit/heventure-search-mcp](https://github.com/HughesCuit/heventure-search-mcp) - 一个无需API key的网页搜索MCP（Model Context Protocol）服务器，使用DuckDuckGo搜索引擎提供网页搜索功能
+*   [HughesCuit/heventure-search-mcp](https://github.com/HughesCuit/heventure-search-mcp) - Free, API-key-free web search MCP server — DuckDuckGo, Bing, Google and optional SerpAPI/Tavily
 
 *   [YinChingZ/VideoTranslator](https://github.com/YinChingZ/VideoTranslator) - 智能视频翻译系统 - 基于 PyQt5 和 OpenAI Whisper 的桌面应用程序
 
@@ -2788,7 +2788,7 @@
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
-*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A lightweight 🍃 cross-platform GUI wrapper for yt-dlp.
+*   [o7q/MediaDownloader](https://github.com/o7q/MediaDownloader) - A lightweight 🍃 cross-platform GUI wrapper for yt-dlp
 
 *   [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream是一个支持无人值守自动转播Twitch和Youtube（包括预告类型直播）的B站直播自动转播工具。
 
@@ -3124,7 +3124,7 @@
 
 ## C++
 
-*   [DarkKandaoMaster/QuickSay](https://github.com/DarkKandaoMaster/QuickSay) - 目前最强的电脑快捷短语软件（聊天/常用语/快捷回复/快捷语录/客服软件/文本暂存器）
+*   [DarkKandaoMaster/QuickSay](https://github.com/DarkKandaoMaster/QuickSay) - 一款强大的快捷短语软件（聊天/常用语/快捷回复/快捷语录/客服工具/文本暂存器）
 
 *   [azurplain/Mini-Window-Browser](https://github.com/azurplain/Mini-Window-Browser) - 专为单屏玩家打造的 Windows 画中画浏览器。核心功能：【沉浸式挖孔/鼠标穿透】挂机不挡操作、【场景预设】一键切换窗口布局、老板键及书签管理。基于 C++ / WebView2 开发。主要用于一个屏幕肝地图，您也可以用到其他方便的合法用途。
 
@@ -3292,7 +3292,7 @@
 
 ## Less
 
-*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × ENHANCEMENT PLUGIN for Typora/Markdown.
+*   [MadMaxChow/VLOOK](https://github.com/MadMaxChow/VLOOK) - VLOOK™ 是优雅好用的 Typora/Markdown 主题包和排版增强插件。  VLOOK™ is an elegant and practical THEME PACKAGE × TYPESETTING PLUS for Typora/Markdown
 
 *   [MaLuns/hexo-theme-text](https://github.com/MaLuns/hexo-theme-text) - 一款简约、轻量的Hexo主题
 
