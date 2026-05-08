@@ -13,8 +13,10 @@
 
 ## Table of Contents
 
-*   [Java](#java)
 *   [TypeScript](#typescript)
+*   [CSS](#css)
+*   [Astro](#astro)
+*   [Java](#java)
 *   [Vue](#vue)
 *   [JavaScript](#javascript)
 *   [Swift](#swift)
@@ -24,9 +26,7 @@
 *   [Go](#go)
 *   [PHP](#php)
 *   [Rust](#rust)
-*   [CSS](#css)
 *   [Kotlin](#kotlin)
-*   [Astro](#astro)
 *   [HTML](#html)
 *   [Dart](#dart)
 *   [Shell](#shell)
@@ -58,93 +58,11 @@
 *   [Metal](#metal)
 *   [Less](#less)
 
-## Java
-
-*   [actionow-ai/actionow](https://github.com/actionow-ai/actionow) - Action! Now! The open-source AI studio for screenwriting and storyboard production. 从剧本到分镜，从角色到成片，Actionow 把"开拍 · 此刻"变成创意团队。触手可及的工程化工作台——智能体驱动，开箱即接最新模型，可代码级控制、可私有化部署。
-
-*   [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流
-
-*   [Maruiful/BitFlow](https://github.com/Maruiful/BitFlow) - AI Agent 工作流编排平台 - 通过可视化界面自由编排 LLM 节点、工具节点和流程逻辑
-
-*   [LuoYiDeDe/SmartNotboot](https://github.com/LuoYiDeDe/SmartNotboot) - 一个智能化的个人知识管理平台，让 AI 成为你的第二大脑。SmartNotbook 是一款AI 驱动的智能笔记系统款款（个人知识库），通过将人工智能技术与传统笔记管理相结合，帮助用户更高效地组织和利用个人知识资产。
-
-*   [CszYihen/Yihen-Drama](https://github.com/CszYihen/Yihen-Drama) - AI短剧生成平台，包含前端、后端与一键Docker部署（MySQL/Redis/RabbitMQ/MinIO/Elasticsearch/Kibana），支持角色场景资产、分镜与视频任务流程。
-
-*   [duoec/duo-video](https://github.com/duoec/duo-video) - Duo-Video 是一个强大的 Java 视频编辑 SDK。通过简洁的json结构组织视频结构，并生成剪映草稿工程文件。支持最新的剪映版本，支持文本模板、花字、多段文本；支持复合片段、特效、支持绿幕...
-
-*   [TestersNightmare/ctv](https://github.com/TestersNightmare/ctv) - 老年人看电视必备神器
-
-*   [itwanger/PaiAgent](https://github.com/itwanger/PaiAgent) - 🔥轻量级的AI工作流编排系统，类似dify、n8n，全程使用Vibe Coding，AI工具为Qoder+CLI。涉及到的技术栈包括SpringAI、LangGraph4J、SSE、MinIO、DAG自定引擎等。
-
-*   [lds7871/StainedGlass\_XApiWrapper](https://github.com/lds7871/StainedGlass_XApiWrapper) - 对于X(Twitter)开发者门户的API封装/账号认证/Token自动刷新 的Spring项目，意在通过定时任务和额外逻辑快速开发平台自动化账号。
-
-*   [wangxinpo777/DataLinkX-P](https://github.com/wangxinpo777/DataLinkX-P) - 在原DatalinkX项目基础上进行了扩展，Flink+大模型（DeepSeek）智能数据中台;
-
-*   [alex-oos/ai-wechat-bot](https://github.com/alex-oos/ai-wechat-bot) - 将所有AI 产品接入你的微信，打造你个人AI 助理，帮助你解决更多生活日常。
-
-*   [Widdit/now-playing-service](https://github.com/Widdit/now-playing-service) - 一款全能的「正在播放」歌曲展示工具。支持检测 20+ 款音乐软件的歌曲信息，内置精美歌曲组件、歌词组件、播放器，提供 API 接口。适配 OBS 等直播软件以及日常桌面使用。
-
-*   [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
-
-*   [mymagicpower/AIAS](https://github.com/mymagicpower/AIAS) - 提供产品级IOCR自定义模板识别，以图搜图，人像搜索等，免费，可商用，Java AI 人工智能一站式解决方案，为工作减负，为产品研发加速。项目类别包括：以及Java版 Pytorch 训练引擎，AI SDK，web应用等。
-
-*   [aqpmzngldh/wechatsdk\_demo](https://github.com/aqpmzngldh/wechatsdk_demo) - 微信机器人wecaht\_demo是一个创新的基于wechatsdk开发的项目，主要针对微信群聊中使用，使用java实现，3分钟打造一个属于你自己的bot
-
-*   [CoCoTeaNet/ElysianAnime](https://github.com/CoCoTeaNet/ElysianAnime) - 这是一个专注动漫番剧管理服务，主要用于部署在私人服务器上，订阅并下载RSS内容，然后自动追番~~~
-
-*   [xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于Java开发的微信数据分析工具。
-
-*   [AaronComo/Inscape-of-Dreams](https://github.com/AaronComo/Inscape-of-Dreams) - 一站式中华文化IP项目，以壁画修复、二次创作和在线壁画风图片库为核心，让中华优秀传统文化走进更多人的生活，在艺术世界中探索壁画魅力，开启梦幻之旅。
-
-*   [leo6g/Jeverything](https://github.com/leo6g/Jeverything) - JEverything (Java Edition) - Desktop Quick File Search, Cross-Platform Support, Rich Features, Smooth Operation. Ultra-Fast File Search, Supports Advanced Search, LAN Sharing, Fast Transfer, Online File Preview, Audio and Video Playback, Streaming, and More. One-Click Start, Everything Handled.
-
-*   [TouShang6015/Hugai-chatgpt](https://github.com/TouShang6015/Hugai-chatgpt) - HugAi是由Springboot Vue2 elementUI集成各大AI大模型平台开发的智能问答助手，文本对话模型支持流式响应，现已接入OpenAi、chatGpt、讯飞星火、文心一言、Ollama，以及主流AI绘图Midjourney、Stable Diffusion，完全开源搭建属于自己的AI聊天室
-
-*   [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增智能体模式】安卓端全场景GPT助手，可用音量键唤起并进行语音交流，支持联网、拍照、模板、附件解析、智能体模式等 | GPT assistant for Android, activated via volume keys for voice interaction, supporting features such as networking, taking photos, templates, parsing PDF and Office documents, and agent mode.
-
-*   [april-projects/april-wallpaper](https://github.com/april-projects/april-wallpaper) - 一个每日自动拉取壁纸写入readme文件的程序，新增壁纸 API
-
-*   [eairp/eairp](https://github.com/eairp/eairp) - ✨ Saas Enterprise Resource Plan (开源Sass AI ERP系统)
-
-*   [yajuhua/podcast2](https://github.com/yajuhua/podcast2) - 将视频网站转换成播客订阅   Convert a video website into a podcast subscription 支持 哔哩哔哩、YouTube、干净世界和girigirilove 图形化界面
-
-*   [Yanyutin753/fakeApiTool-One-API](https://github.com/Yanyutin753/fakeApiTool-One-API) - （fakeOpen服务已停，请移步到PandoraNext-tokensTool项目，该项目全面支持one-api使用pandoraNext）针对于One-API使用Pandora的可视化网页，可以实现网页批量更改刷新token并每五天自动通过账号密码刷新Tokens,从而自动装填fakeAPI，同时自动更新FakeOpenAI地址，已打包好docker,开箱即用，后续扩展更多功能
-
-*   [mindolph/Mindolph](https://github.com/mindolph/Mindolph) - Mindolph is an open source personal knowledge management software with Gen-AI support for all desktop platforms.
-
-*   [yamonc/hexoHelper](https://github.com/yamonc/hexoHelper) - hexo文章转换器，通过上传文件的方式，将原始的markdown文件格式化成为hexo可以识别的带有front-matter格式的文档。
-
-*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
-
-*   [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.
-
-*   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
-
-*   [mblog-backend/backend](https://github.com/mblog-backend/backend) - 支持前后分离/不分离的个人/多人使用的微博平台
-
-*   [JokerIvanZK/cloud-serverless](https://github.com/JokerIvanZK/cloud-serverless) - 1.qq机器人、discord机器人、webapi集成服务
-
-*   [itning/yunshu-nas](https://github.com/itning/yunshu-nas) - 自建NAS系统，实现本地视频音频点播，文件存储等功能。自动视频转码，在线观看下载视频！
-
-*   [vividus-framework/vividus](https://github.com/vividus-framework/vividus) - VIVIDUS is all in one test automation tool
-
-*   [DarkLineX/WechatBackupNoRoot](https://github.com/DarkLineX/WechatBackupNoRoot) - 免ROOT微信聊天数据备份/导出工具。支持 安卓微信8.x
-
-*   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
-
-*   [mozhu811/oh-my-helper](https://github.com/mozhu811/oh-my-helper) - 🚀原bilibili-helper-hub，目前已部署B站每日任务及大会员中心任务
-
-*   [april-projects/april-zh-hotspot-push](https://github.com/april-projects/april-zh-hotspot-push) - 知乎热点推送
-
-*   [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台🔥 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。
-
-*   [jeequan/jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
-
-*   [Jarrettluo/all-docs](https://github.com/Jarrettluo/all-docs) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information.  “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。demo账号密码：admin123
-
-*   [muedsa/BilibiliLiveTV](https://github.com/muedsa/BilibiliLiveTV) - \[Deprecated]Bilibili Live APP for Android TV
-
 ## TypeScript
+
+*   [mofajiang/project-x](https://github.com/mofajiang/project-x) - 基于 Next.js 14 + Tailwind CSS + SQLite（Prisma）构建的 X 风格个人博客系统，支持文章发布、Markdown 编辑、评论审核、邮件提醒、后台管理以及站点个性化配置。
+
+*   [PLFJY/hexo-blog-admin](https://github.com/PLFJY/hexo-blog-admin) - 一个运行在 Cloudflare Workers 上基于 Vite + React + TypeScript 的 Hexo 博客管理后台
 
 *   [jimieguang/dycast-overlay](https://github.com/jimieguang/dycast-overlay) - 一个基于抖音直播弹幕采集页扩展出来的桌面悬浮窗工具。
 
@@ -243,6 +161,8 @@
 *   [jihe520/mindpocket](https://github.com/jihe520/mindpocket) - Open-source, free, multi-platform, one-click deploy, AI Agent–integrated personal bookmarking system｜完全开源、免费、多端、一键部署、AI Agent 集成的个人收藏夹系统
 
 *   [jiema123/picoshareTS](https://github.com/jiema123/picoshareTS) - 轻量级文件分享工具，部署在CloudFlare上，免费快速方便
+
+*   [xpnobug/CanvasMind](https://github.com/xpnobug/CanvasMind) - CanvasMind 是一个基于 Vue 3 的 AI 图像生成工具，借鉴即梦AI的智能画布和多模态创作理念，提供无限画布交互界面，支持图片生成、编辑和对话式协作。
 
 *   [liou666/couplet](https://github.com/liou666/couplet) - 🧨 桌面春联，把春节氛围带到你的电脑桌面！
 
@@ -380,7 +300,7 @@
 
 *   [SimonAKing/Gwitter](https://github.com/SimonAKing/Gwitter) - Turn GitHub Issues into your personal microblog platform
 
-*   [legeling/PromptHub](https://github.com/legeling/PromptHub) - 一款开源、纯本地 Prompt ，Skill 管理工具，帮助你高效管理、版本控制和复用 Prompt，并一键分发skill | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts
+*   [legeling/PromptHub](https://github.com/legeling/PromptHub) - 一款包含了 Prompt管理，Skill管理，Agent管理的一站式AI工具箱，助你高效管理提示词，一键分发skills ，一站式管理Agent资产，并实现云同步，备份，版本管理 | An all-in-one AI toolbox for prompt, skill, and agent management. Reuse prompts, distribute skills with one click, manage agent assets, and support cloud sync, backup, and version control
 
 *   [xiao-ge008/cherry-studio-magic](https://github.com/xiao-ge008/cherry-studio-magic) - Cherry Studio 组件魔改版本，新增组件功能，可以自定义聊天组件，选项组件,comfyui 组件 ，tts组件 和 html 渲染组件。
 
@@ -856,7 +776,155 @@
 
 *   [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 
-*   [MannyCooper/anzifan.com](https://github.com/MannyCooper/anzifan.com) - Personal blog powered by Notion official API + Next.JS + WindiCSS!
+## CSS
+
+*   [zuoyunlai/zhuoer-theme](https://github.com/zuoyunlai/zhuoer-theme) - ZHUOER WordPress主题是一款基于 Minimalist 主题框架开发的简约极简风格 WordPress 主题，专为中文博客和企业官网设计。主题完全响应式，SEO友好，并针对中国大陆用户做了深度优化。
+
+*   [QingXuan2000/QingBlog](https://github.com/QingXuan2000/QingBlog) - QingBlog 是一个基于 GitHub Issues 和 GitHub Workflow 的博客框架。通过创建 GitHub Issue，GitHub Workflow 会将其转换为博客文章并生成对应的 HTML 页面，无需手动部署。
+
+*   [Nitai9h/nBlogHexo](https://github.com/Nitai9h/nBlogHexo) - 一个基于Hexo的轻量极简主题 / A lightweight minimalist theme based on Hexo
+
+*   [zqlit/Hugo-Theme-Amigo](https://github.com/zqlit/Hugo-Theme-Amigo) - 一款简约大方的Hugo主题，UI仿微信朋友圈，评论依赖于 Artalk 2.8.7 版本
+
+*   [SpatioStu/Lofi](https://github.com/SpatioStu/Lofi) - 极简、纯粹、黑白风格的 Hexo 博客主题。
+
+*   [telagod/kooix-cut](https://github.com/telagod/kooix-cut) - ✂️ 智能视频剪辑预处理工具 | 自动合并视频并删除静音片段 | Rust + Tauri 2.0 液态玻璃 GUI
+
+*   [foxihd/hugo-brewm](https://github.com/foxihd/hugo-brewm) - Fine-brewed Hugo theme made open
+
+*   [Azimiao/TypeflowThemeForAzimiao](https://github.com/Azimiao/TypeflowThemeForAzimiao) - WordPress (Child) Theme For azimiao.com
+
+*   [verkyer/xg-icons](https://github.com/verkyer/xg-icons) - 图标托管项目，基于PHP，可以实现自动抓取分组内的图标，并且快速复制。
+
+*   [workbunny/bunny.ui](https://github.com/workbunny/bunny.ui) - 🐇一套 HTMX 开发模式的 Web UI 组件库，易上手，可以更简单快速地构建网页界面。
+
+*   [maxminmarconi/light\_card](https://github.com/maxminmarconi/light_card) - 一个简洁优雅的卡片生成工具，让你轻松创建精美的内容卡片。支持自定义内容、多种主题样式和二维码，让创作变得更加简单有趣。
+
+*   [eKing-one/pansou](https://github.com/eKing-one/pansou) - 这是一个基于Thinkphp 6.1 + MySQL开发的网盘搜索引擎，可以批量导入各大网盘链接，例如百度网盘、阿里云盘、夸克网盘等。
+
+*   [cayxc/Mdmdt](https://github.com/cayxc/Mdmdt) - Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring both light and dark themes, it is a deeply customized personalized Typora theme.
+
+*   [ImGoodBai/GoodWeBot](https://github.com/ImGoodBai/GoodWeBot) - 全RPA技术实现完全合规，下载一键免安装运行，已接入coze等主流AI，使用超级简便的AI微信机器人
+
+*   [fordes123/typecho-theme-pir](https://github.com/fordes123/typecho-theme-pir) - typecho相册主题，瀑布流、懒加载、无限滚动
+
+*   [jakholuo/quest](https://github.com/jakholuo/quest) - 一款轻量 Memo 记录程序，基于 Bun + Hono + MongoDB 构建
+
+*   [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
+
+*   [piratebayproxy/proxybay](https://github.com/piratebayproxy/proxybay) - Mirror for the Proxy Bay
+
+*   [sunyctf/css-effects](https://github.com/sunyctf/css-effects) - ⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！
+
+*   [longjie2333/Message](https://github.com/longjie2333/Message) - 留言条 · 就留下一句你想说的话吧
+
+*   [BugFor-Pings/nimingly](https://github.com/BugFor-Pings/nimingly) - 一个免费的匿名留言程序，可做匿名留言树洞，对接公众号做 匿名留言送信邮局
+
+*   [bradtraversy/nodejs-openai-image](https://github.com/bradtraversy/nodejs-openai-image) - Web app that uses Node.js and OpenAI to generate images
+
+*   [xiangjianan/lks](https://github.com/xiangjianan/lks) - 📚 LKs网站推荐合集 - B站UP主LKs《良心到难以置信的网站推荐》系列整理，收录303个网站
+
+*   [ZxBing0066/pixel-converter](https://github.com/ZxBing0066/pixel-converter) - 上传图片即可一键将图片转换为像素风格，支持多种自定义方式，可生成方块像素、点状像素和文字像素图等等。支持导出纯 CSS 像素图，并支持生成 CSS 像素图动画。
+
+*   [emperinter/auto-generate-navigation](https://github.com/emperinter/auto-generate-navigation) - A plugin which  can generate a navigation  catalogue on your WordPress post!
+
+*   [xmizore/hexo-theme-insnow](https://github.com/xmizore/hexo-theme-insnow) - insnow, a simple hexo theme.
+
+*   [zkeq/news](https://github.com/zkeq/news) - 前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。
+
+## Astro
+
+*   [zhaobaizhou/signalpaper](https://github.com/zhaobaizhou/signalpaper) -
+
+*   [AlexanderJ-Carter/AlexanderJ-Carter.github.io](https://github.com/AlexanderJ-Carter/AlexanderJ-Carter.github.io) - 多语言个人网站与作品集，聚焦摄影、创作、工具与生活记录。
+
+*   [matrixji/bin-weekly](https://github.com/matrixji/bin-weekly) - BIN 周刊
+
+## Java
+
+*   [actionow-ai/actionow](https://github.com/actionow-ai/actionow) - Action! Now! The open-source AI studio for screenwriting and storyboard production. 从剧本到分镜，从角色到成片，Actionow 把"开拍 · 此刻"变成创意团队。触手可及的工程化工作台——智能体驱动，开箱即接最新模型，可代码级控制、可私有化部署。
+
+*   [IAMLZY2018/XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流
+
+*   [Maruiful/BitFlow](https://github.com/Maruiful/BitFlow) - AI Agent 工作流编排平台 - 通过可视化界面自由编排 LLM 节点、工具节点和流程逻辑
+
+*   [LuoYiDeDe/SmartNotboot](https://github.com/LuoYiDeDe/SmartNotboot) - 一个智能化的个人知识管理平台，让 AI 成为你的第二大脑。SmartNotbook 是一款AI 驱动的智能笔记系统款款（个人知识库），通过将人工智能技术与传统笔记管理相结合，帮助用户更高效地组织和利用个人知识资产。
+
+*   [CszYihen/Yihen-Drama](https://github.com/CszYihen/Yihen-Drama) - AI短剧生成平台，包含前端、后端与一键Docker部署（MySQL/Redis/RabbitMQ/MinIO/Elasticsearch/Kibana），支持角色场景资产、分镜与视频任务流程。
+
+*   [duoec/duo-video](https://github.com/duoec/duo-video) - Duo-Video 是一个强大的 Java 视频编辑 SDK。通过简洁的json结构组织视频结构，并生成剪映草稿工程文件。支持最新的剪映版本，支持文本模板、花字、多段文本；支持复合片段、特效、支持绿幕...
+
+*   [TestersNightmare/ctv](https://github.com/TestersNightmare/ctv) - 老年人看电视必备神器
+
+*   [itwanger/PaiAgent](https://github.com/itwanger/PaiAgent) - 🔥轻量级的AI工作流编排系统，类似dify、n8n，全程使用Vibe Coding，AI工具为Qoder+CLI。涉及到的技术栈包括SpringAI、LangGraph4J、SSE、MinIO、DAG自定引擎等。
+
+*   [lds7871/StainedGlass\_XApiWrapper](https://github.com/lds7871/StainedGlass_XApiWrapper) - 对于X(Twitter)开发者门户的API封装/账号认证/Token自动刷新 的Spring项目，意在通过定时任务和额外逻辑快速开发平台自动化账号。
+
+*   [wangxinpo777/DataLinkX-P](https://github.com/wangxinpo777/DataLinkX-P) - 在原DatalinkX项目基础上进行了扩展，Flink+大模型（DeepSeek）智能数据中台;
+
+*   [alex-oos/ai-wechat-bot](https://github.com/alex-oos/ai-wechat-bot) - 将所有AI 产品接入你的微信，打造你个人AI 助理，帮助你解决更多生活日常。
+
+*   [Widdit/now-playing-service](https://github.com/Widdit/now-playing-service) - 一款全能的「正在播放」歌曲展示工具。支持检测 20+ 款音乐软件的歌曲信息，内置精美歌曲组件、歌词组件、播放器，提供 API 接口。适配 OBS 等直播软件以及日常桌面使用。
+
+*   [LiuYuYang01/ThriveX-Server](https://github.com/LiuYuYang01/ThriveX-Server) - 🎉 ThriveX 是一个年轻、高颜值、全开源、永不收费的现代化博客管理系统。它采用前后端分离开发模式，是一个 NextJS + Spring Boot 的产物
+
+*   [mymagicpower/AIAS](https://github.com/mymagicpower/AIAS) - 提供产品级IOCR自定义模板识别，以图搜图，人像搜索等，免费，可商用，Java AI 人工智能一站式解决方案，为工作减负，为产品研发加速。项目类别包括：以及Java版 Pytorch 训练引擎，AI SDK，web应用等。
+
+*   [aqpmzngldh/wechatsdk\_demo](https://github.com/aqpmzngldh/wechatsdk_demo) - 微信机器人wecaht\_demo是一个创新的基于wechatsdk开发的项目，主要针对微信群聊中使用，使用java实现，3分钟打造一个属于你自己的bot
+
+*   [CoCoTeaNet/ElysianAnime](https://github.com/CoCoTeaNet/ElysianAnime) - 这是一个专注动漫番剧管理服务，主要用于部署在私人服务器上，订阅并下载RSS内容，然后自动追番~~~
+
+*   [xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于Java开发的微信数据分析工具。
+
+*   [AaronComo/Inscape-of-Dreams](https://github.com/AaronComo/Inscape-of-Dreams) - 一站式中华文化IP项目，以壁画修复、二次创作和在线壁画风图片库为核心，让中华优秀传统文化走进更多人的生活，在艺术世界中探索壁画魅力，开启梦幻之旅。
+
+*   [leo6g/Jeverything](https://github.com/leo6g/Jeverything) - JEverything (Java Edition) - Desktop Quick File Search, Cross-Platform Support, Rich Features, Smooth Operation. Ultra-Fast File Search, Supports Advanced Search, LAN Sharing, Fast Transfer, Online File Preview, Audio and Video Playback, Streaming, and More. One-Click Start, Everything Handled.
+
+*   [TouShang6015/Hugai-chatgpt](https://github.com/TouShang6015/Hugai-chatgpt) - HugAi是由Springboot Vue2 elementUI集成各大AI大模型平台开发的智能问答助手，文本对话模型支持流式响应，现已接入OpenAi、chatGpt、讯飞星火、文心一言、Ollama，以及主流AI绘图Midjourney、Stable Diffusion，完全开源搭建属于自己的AI聊天室
+
+*   [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增智能体模式】安卓端全场景GPT助手，可用音量键唤起并进行语音交流，支持联网、拍照、模板、附件解析、智能体模式等 | GPT assistant for Android, activated via volume keys for voice interaction, supporting features such as networking, taking photos, templates, parsing PDF and Office documents, and agent mode.
+
+*   [april-projects/april-wallpaper](https://github.com/april-projects/april-wallpaper) - 一个每日自动拉取壁纸写入readme文件的程序，新增壁纸 API
+
+*   [eairp/eairp](https://github.com/eairp/eairp) - ✨ Saas Enterprise Resource Plan (开源Sass AI ERP系统)
+
+*   [yajuhua/podcast2](https://github.com/yajuhua/podcast2) - 将视频网站转换成播客订阅   Convert a video website into a podcast subscription 支持 哔哩哔哩、YouTube、干净世界和girigirilove 图形化界面
+
+*   [Yanyutin753/fakeApiTool-One-API](https://github.com/Yanyutin753/fakeApiTool-One-API) - （fakeOpen服务已停，请移步到PandoraNext-tokensTool项目，该项目全面支持one-api使用pandoraNext）针对于One-API使用Pandora的可视化网页，可以实现网页批量更改刷新token并每五天自动通过账号密码刷新Tokens,从而自动装填fakeAPI，同时自动更新FakeOpenAI地址，已打包好docker,开箱即用，后续扩展更多功能
+
+*   [mindolph/Mindolph](https://github.com/mindolph/Mindolph) - Mindolph is an open source personal knowledge management software with Gen-AI support for all desktop platforms.
+
+*   [yamonc/hexoHelper](https://github.com/yamonc/hexoHelper) - hexo文章转换器，通过上传文件的方式，将原始的markdown文件格式化成为hexo可以识别的带有front-matter格式的文档。
+
+*   [besscroft/diyfile](https://github.com/besscroft/diyfile) - 一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。
+
+*   [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.
+
+*   [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
+
+*   [mblog-backend/backend](https://github.com/mblog-backend/backend) - 支持前后分离/不分离的个人/多人使用的微博平台
+
+*   [JokerIvanZK/cloud-serverless](https://github.com/JokerIvanZK/cloud-serverless) - 1.qq机器人、discord机器人、webapi集成服务
+
+*   [itning/yunshu-nas](https://github.com/itning/yunshu-nas) - 自建NAS系统，实现本地视频音频点播，文件存储等功能。自动视频转码，在线观看下载视频！
+
+*   [vividus-framework/vividus](https://github.com/vividus-framework/vividus) - VIVIDUS is all in one test automation tool
+
+*   [DarkLineX/WechatBackupNoRoot](https://github.com/DarkLineX/WechatBackupNoRoot) - 免ROOT微信聊天数据备份/导出工具。支持 安卓微信8.x
+
+*   [Hello-hao/Tbed](https://github.com/Hello-hao/Tbed) - Hellohao图床 | 图像托管 | 云相册，分享/水印、存储源分发、图像管理、前后端分离。
+
+*   [mozhu811/oh-my-helper](https://github.com/mozhu811/oh-my-helper) - 🚀原bilibili-helper-hub，目前已部署B站每日任务及大会员中心任务
+
+*   [april-projects/april-zh-hotspot-push](https://github.com/april-projects/april-zh-hotspot-push) - 知乎热点推送
+
+*   [ZhongFuCheng3y/austin](https://github.com/ZhongFuCheng3y/austin) - 消息推送平台🔥 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。
+
+*   [jeequan/jeepay](https://github.com/jeequan/jeepay) - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
+
+*   [Jarrettluo/all-docs](https://github.com/Jarrettluo/all-docs) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information.  “全文档”(All Docs)，Word, Excel, PPT, PDF, Pic等文档在线预览、存储、共享的工具，并且支持全文搜索的所有的文档信息。demo账号密码：admin123
+
+*   [muedsa/BilibiliLiveTV](https://github.com/muedsa/BilibiliLiveTV) - \[Deprecated]Bilibili Live APP for Android TV
 
 ## Vue
 
@@ -873,8 +941,6 @@
 *   [wintopic/DOUYIN\_EMOJI](https://github.com/wintopic/DOUYIN_EMOJI) - 抖音表情下载
 
 *   [HenryZ838978/Seedance2.0-Storyboard-Planner](https://github.com/HenryZ838978/Seedance2.0-Storyboard-Planner) - Seedance 2.0 素材分镜规划器 — 从创意规划到视频生成的一站式前期制作工具
-
-*   [xpnobug/CanvasMind](https://github.com/xpnobug/CanvasMind) - CanvasMind 是一个基于 Vue 3 的 AI 图像生成工具，借鉴即梦AI的智能画布和多模态创作理念，提供无限画布交互界面，支持图片生成、编辑和对话式协作。
 
 *   [Ryanisgood/SecondDesk](https://github.com/Ryanisgood/SecondDesk) - Second Desk 是一款现代化的 Windows 桌面文件管理工具，采用 Rust + Tauri 2.x + Vue 3 技术栈构建。它以抽屉式设计理念，通过屏幕边缘触发或全局快捷键快速呼出，让桌面文件访问变得触手可及
 
@@ -1044,8 +1110,6 @@
 
 *   [chrisj74/vue-rss-blog](https://github.com/chrisj74/vue-rss-blog) - An embeddable to pull an RSS feed into your website
 
-*   [UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend) - GitScratch 社区前端
-
 ## JavaScript
 
 *   [valueriver/mindbase](https://github.com/valueriver/mindbase) - 自建笔记 · AI 协作 · Notion 风格
@@ -1091,8 +1155,6 @@
 *   [huanghfzhufeng/App-Mockup-Studio](https://github.com/huanghfzhufeng/App-Mockup-Studio) - 🎨 SnapShell - 专业的在线截图 Mockup 生成工具。无需设计基础，上传图片即可一键生成精美的设备带壳展示图，完美适用于应用商店上架、官网展示及社媒分享。
 
 *   [nov1ce-lee/picUp](https://github.com/nov1ce-lee/picUp) - 一键上传图片至图床功能的本地工具
-
-*   [SpadesA99/MarkPilot](https://github.com/SpadesA99/MarkPilot) - AI 智能导航你的书签
 
 *   [jiliying0617-stack/photo-picker](https://github.com/jiliying0617-stack/photo-picker) - ⚡ 筛图神器 - 极速挑图工具
 
@@ -2798,60 +2860,6 @@
 
 *   [YangchenYe323/Danmuji](https://github.com/YangchenYe323/Danmuji) - :hamster: 用Rust + React编写的Bilibili弹幕姬，感谢礼物，自动回复，定时任务弹幕助手
 
-## CSS
-
-*   [QingXuan2000/QingBlog](https://github.com/QingXuan2000/QingBlog) - QingBlog 是一个基于 GitHub Issues 和 GitHub Workflow 的博客框架。通过创建 GitHub Issue，GitHub Workflow 会将其转换为博客文章并生成对应的 HTML 页面，无需手动部署。
-
-*   [Nitai9h/nBlogHexo](https://github.com/Nitai9h/nBlogHexo) - 一个基于Hexo的轻量极简主题 / A lightweight minimalist theme based on Hexo
-
-*   [zqlit/Hugo-Theme-Amigo](https://github.com/zqlit/Hugo-Theme-Amigo) - 一款简约大方的Hugo主题，UI仿微信朋友圈，评论依赖于 Artalk 2.8.7 版本
-
-*   [SpatioStu/Lofi](https://github.com/SpatioStu/Lofi) - 极简、纯粹、黑白风格的 Hexo 博客主题。
-
-*   [telagod/kooix-cut](https://github.com/telagod/kooix-cut) - ✂️ 智能视频剪辑预处理工具 | 自动合并视频并删除静音片段 | Rust + Tauri 2.0 液态玻璃 GUI
-
-*   [foxihd/hugo-brewm](https://github.com/foxihd/hugo-brewm) - Fine-brewed Hugo theme made open
-
-*   [Azimiao/TypeflowThemeForAzimiao](https://github.com/Azimiao/TypeflowThemeForAzimiao) - WordPress (Child) Theme For azimiao.com
-
-*   [verkyer/xg-icons](https://github.com/verkyer/xg-icons) - 图标托管项目，基于PHP，可以实现自动抓取分组内的图标，并且快速复制。
-
-*   [workbunny/bunny.ui](https://github.com/workbunny/bunny.ui) - 🐇一套 HTMX 开发模式的 Web UI 组件库，易上手，可以更简单快速地构建网页界面。
-
-*   [maxminmarconi/light\_card](https://github.com/maxminmarconi/light_card) - 一个简洁优雅的卡片生成工具，让你轻松创建精美的内容卡片。支持自定义内容、多种主题样式和二维码，让创作变得更加简单有趣。
-
-*   [eKing-one/pansou](https://github.com/eKing-one/pansou) - 这是一个基于Thinkphp 6.1 + MySQL开发的网盘搜索引擎，可以批量导入各大网盘链接，例如百度网盘、阿里云盘、夸克网盘等。
-
-*   [cayxc/Mdmdt](https://github.com/cayxc/Mdmdt) - Typora极简文档主题Mdmdt，包含亮色和暗色两种主题，是深度定制的个性化Typora主题；Typora minimalist document theme Mdmdt. Featuring both light and dark themes, it is a deeply customized personalized Typora theme.
-
-*   [ImGoodBai/GoodWeBot](https://github.com/ImGoodBai/GoodWeBot) - 全RPA技术实现完全合规，下载一键免安装运行，已接入coze等主流AI，使用超级简便的AI微信机器人
-
-*   [fordes123/typecho-theme-pir](https://github.com/fordes123/typecho-theme-pir) - typecho相册主题，瀑布流、懒加载、无限滚动
-
-*   [jakholuo/quest](https://github.com/jakholuo/quest) - 一款轻量 Memo 记录程序，基于 Bun + Hono + MongoDB 构建
-
-*   [stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles) - 不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com
-
-*   [piratebayproxy/proxybay](https://github.com/piratebayproxy/proxybay) - Mirror for the Proxy Bay
-
-*   [sunyctf/css-effects](https://github.com/sunyctf/css-effects) - ⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！
-
-*   [longjie2333/Message](https://github.com/longjie2333/Message) - 留言条 · 就留下一句你想说的话吧
-
-*   [BugFor-Pings/nimingly](https://github.com/BugFor-Pings/nimingly) - 一个免费的匿名留言程序，可做匿名留言树洞，对接公众号做 匿名留言送信邮局
-
-*   [bradtraversy/nodejs-openai-image](https://github.com/bradtraversy/nodejs-openai-image) - Web app that uses Node.js and OpenAI to generate images
-
-*   [xiangjianan/lks](https://github.com/xiangjianan/lks) - 📚 LKs网站推荐合集 - B站UP主LKs《良心到难以置信的网站推荐》系列整理，收录303个网站
-
-*   [ZxBing0066/pixel-converter](https://github.com/ZxBing0066/pixel-converter) - 上传图片即可一键将图片转换为像素风格，支持多种自定义方式，可生成方块像素、点状像素和文字像素图等等。支持导出纯 CSS 像素图，并支持生成 CSS 像素图动画。
-
-*   [emperinter/auto-generate-navigation](https://github.com/emperinter/auto-generate-navigation) - A plugin which  can generate a navigation  catalogue on your WordPress post!
-
-*   [xmizore/hexo-theme-insnow](https://github.com/xmizore/hexo-theme-insnow) - insnow, a simple hexo theme.
-
-*   [zkeq/news](https://github.com/zkeq/news) - 前后端均基于 vercel 的轻量级每日早报项目，支持一键部署，支持部署至服务器。后端由 FastAPI + BeautifulSoup 实现。
-
 ## Kotlin
 
 *   [vesaaa/vstv](https://github.com/vesaaa/vstv) - VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道，支持国产及常见品牌电视 / 盒子（如 TCL、海信、酷开、华为智慧屏、荣耀、小米电视等）
@@ -2889,12 +2897,6 @@
 *   [avatsav/linkding-apps](https://github.com/avatsav/linkding-apps) - \[WIP] Mobile apps for Linkding self-hosted bookmark service
 
 *   [gyakkun/qq-mht2html](https://github.com/gyakkun/qq-mht2html) - 转换QQ导出的MHT文件到HTML和图片文件, 支持按日期、行数自动分页, 支持多线程, 支持150G+文件
-
-## Astro
-
-*   [AlexanderJ-Carter/AlexanderJ-Carter.github.io](https://github.com/AlexanderJ-Carter/AlexanderJ-Carter.github.io) - 多语言个人网站与作品集，聚焦摄影、创作、工具与生活记录。
-
-*   [matrixji/bin-weekly](https://github.com/matrixji/bin-weekly) - BIN 周刊
 
 ## HTML
 
@@ -3273,8 +3275,6 @@
 *   [no5ix/sux](https://github.com/no5ix/sux) - An alternative to Alfred+Wox+Listary+OneQuick+CapslockPlus.一个只有2M大小的强大效率工具
 
 *   [shizengsong/taskSwitcher](https://github.com/shizengsong/taskSwitcher) - 改进windows任务窗口操作，鼠标移动到屏幕右下角，即可启动选择任务。详见文件
-
-*   [dbgba/PCtoiOSClipboardSync](https://github.com/dbgba/PCtoiOSClipboardSync) - 电脑与iOS互相剪贴板同步 Computer and iOS clipboard sync with each other
 
 ## Svelte
 
