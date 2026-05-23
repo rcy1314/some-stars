@@ -407,7 +407,7 @@
 
 *   [jimieguang/dycast-overlay](https://github.com/jimieguang/dycast-overlay) - 一个基于抖音直播弹幕采集页扩展出来的桌面悬浮窗工具。
 
-*   [Wutpeach/Ameow](https://github.com/Wutpeach/Ameow) - 是一款面向设计师的素材收集悬浮窗工具，专为 After Effects 工作流程优化。
+*   [Wutpeach/Ameow](https://github.com/Wutpeach/Ameow) - 一个常驻桌面的悬浮窗，把拖拽、粘贴和浏览器发送的内容统一收进来。
 
 *   [qfpqhyl/qfpqhyl.top](https://github.com/qfpqhyl/qfpqhyl.top) - 一个使用 React、Vite 和 Base UI 搭建的个人主页，展示最近文章与工具。「没错，正是这个页面，Github Action每天都会抓取最新的文章和仓库。」
 
@@ -989,7 +989,7 @@
 
 *   [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 
-*   [mchaNetwork/github-proxy](https://github.com/mchaNetwork/github-proxy) - Yet another GitHub proxy running on Cloudflare Workers
+*   [mchaNetwork/github-proxy](https://github.com/mchaNetwork/github-proxy) - Yet another GitHub proxy running on Web Workers
 
 *   [bytemate/chatapi-single](https://github.com/bytemate/chatapi-single) - Simple and powerful ChatGPT-API-Server
 
@@ -1061,7 +1061,7 @@
 
 *   [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy) - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放
+*   [SPlayer-Dev/SPlayer](https://github.com/SPlayer-Dev/SPlayer) - 🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音乐播放器，支持逐字歌词、桌面歌词、任务栏歌词、云盘音乐、本地音乐管理及流媒体播放
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
