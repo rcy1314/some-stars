@@ -251,8 +251,6 @@
 
 *   [DDG0808/aibal](https://github.com/DDG0808/aibal) - AiBal 是一款 菜单栏应用，为 AI 重度用户提供统一的多服务用量监控平台。
 
-*   [limecloud/lime](https://github.com/limecloud/lime) -   AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.
-
 *   [ox01024/cmirror](https://github.com/ox01024/cmirror) - 🇨🇳 Cmirror: 专为中国大陆开发者打造的一键换源工具 (A unified CLI for managing mirrors: Pip, NPM, Docker, Cargo, Apt, Go, Brew).
 
 *   [sunjackson/claude-code-proxy](https://github.com/sunjackson/claude-code-proxy) - 一个功能强大的跨平台桌面应用，用于管理 Claude Code 的本地代理服务
@@ -620,6 +618,8 @@
 *   [JochenYang/luma-mcp](https://github.com/JochenYang/luma-mcp) - Multi-Model Visual Understanding MCP Server, GLM-4.6V, DeepSeek-OCR (free), and Qwen3-VL-Flash. Provide visual processing capabilities for AI coding models that do not support image understanding.多模型视觉理解MCP服务器，GLM-4.6V、DeepSeek-OCR（免费）和Qwen3-VL-Flash等。为不支持图片理解的 AI 编码模型提供视觉处理能力。
 
 *   [gogogadgetscott/AnchorMarks](https://github.com/gogogadgetscott/AnchorMarks) - A modern, self-hosted bookmark manager with browser sync, Flow Launcher integration, sync, full-text search, REST API, and AI-assisted tooling baked into development.
+
+*   [limecloud/lime](https://github.com/limecloud/lime) -   AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.
 
 *   [mire403/VisionForge](https://github.com/mire403/VisionForge) - VisionForge是一个轻量级、高扩展性的大模型图片训练&描述工具生成器，支持多家大模型API（Google、OpenAI 兼容、DeepSeek、Qwen、GLM、Claude、Doubao、自定义模型）。 它提供多图片上传、提示词优化、自动生成JSONL训练数据、多项信息分析（标签、OCR、场景分类、主色调、置信度、推理原因）等能力。 支持实时统计图表（置信度分布直方图与趋势曲线），适用于AI数据集制作、图像训练样本生成、遥感标注、计算机视觉模型预处理等场景。
 
@@ -1153,7 +1153,7 @@
 
 *   [Aprilming/maiknote](https://github.com/Aprilming/maiknote) - 一个vibe coding的笔记软件， 即来即走～
 
-*   [realuckyang/mindbase](https://github.com/realuckyang/mindbase) - 同步你和AI的上下文
+*   [realuckyang/mindbase-os](https://github.com/realuckyang/mindbase-os) - 同步你和AI的上下文
 
 *   [sankigan/Sift](https://github.com/sankigan/Sift) -  ⚡ 快速、跨平台的 RAW + JPG 照片筛选工具，专为摄影师打造。基于 Tauri 2 + Vue 3。
 
@@ -1547,7 +1547,7 @@
 
 *   [KenDvD/SmartHostsTool-github](https://github.com/KenDvD/SmartHostsTool-github) - 「智能 Host 测速工具」是一款帮你优化网络访问的实用工具。它能自动获取域名的多个 IP 地址，测试各 IP 延迟并排序，一键将最优 IP 写入系统 Hosts 文件，还支持 GitHub 专属 IP 获取、自定义域名管理和可视化操作界面，让你轻松解决网络访问慢的问题。
 
-*   [Agions/Voxplore](https://github.com/Agions/Voxplore) - AI驱动的第一人称视频解说工具 — AI-Powered First-Person Video Narration
+*   [Agions/scene-fab](https://github.com/Agions/scene-fab) - scene-fab - AI 影视解说创作工具 | 智能拆条 · AI 解说生成 · 一键配音合成
 
 *   [jhihhe/House-Survey-Workflow-Assistant](https://github.com/jhihhe/House-Survey-Workflow-Assistant) - 📁 专为房产摄影工作流打造的桌面自动化工具。支持批量创建文件夹、多线程极速导卡、实时收入统计。采用 Dracula 主题，Python 原生开发，macOS/Windows 开箱即用
 
@@ -1587,7 +1587,7 @@
 
 *   [RICHQAQ/PasteMD](https://github.com/RICHQAQ/PasteMD) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
 
-*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
+*   [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 
 *   [ipvoov/Craft-Agent](https://github.com/ipvoov/Craft-Agent) - Craft-Agent是一个集「深度研究助手」与「一键建站引擎」于一体的智能体  - 深度研究- 网站生成。现代前后端架构：FastAPI + LangGraph/LangChain 后端，Next.js + TypeScript + shadcn/ui 前端
 
