@@ -397,7 +397,7 @@
 
 *   [millerice/OneMix](https://github.com/millerice/OneMix) - OneMix 是电商图片生成工具：提取商品信息，自动规划提示词，批量生成主图与详情图。
 
-*   [baseclaw/weclaws](https://github.com/baseclaw/weclaws) - Self-hosted 多用户 WeChat / 微信 AI 智能体控制台，支持 Web 管理、Docker部署、MCP、Skills、记忆、定时任务、沙盒执行和长期运行，支持分享AI Bot给团队成员。
+*   [yokingma/weclaws](https://github.com/yokingma/weclaws) - Self-hosted 多用户 WeChat / 微信 AI 智能体控制台，支持 Web 管理、Docker部署、MCP、Skills、记忆、定时任务、沙盒执行和长期运行，支持分享AI Bot给团队成员。
 
 *   [mofajiang/project-x](https://github.com/mofajiang/project-x) - 基于 Next.js 14 + Tailwind CSS + SQLite（Prisma）构建的 X 风格个人博客系统，支持文章发布、Markdown 编辑、评论审核、邮件提醒、后台管理以及站点个性化配置。
 
@@ -473,7 +473,7 @@
 
 *   [sjzsdu/OpencodePlugins](https://github.com/sjzsdu/OpencodePlugins) - 🤖 OpenCode 插件 - 三省六部多智能体协作系统：将中国古代治理智慧融入 AI 编程助手，自动完成复杂编程任务的规划、审核与执行
 
-*   [xintaofei/codeg](https://github.com/xintaofei/codeg) - Aggregate and browse AI coding agent sessions (Claude Code, Codex, Gemini CLI, etc.) in one place. Desktop app, self-hosted server, or Docker.
+*   [xintaofei/codeg](https://github.com/xintaofei/codeg) - Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker.
 
 *   [sorker/ai-shotlive](https://github.com/sorker/ai-shotlive) - AI 短剧，小说、剧本、分镜、提示词、关键帧、视频、AI剪辑的一站式服务。参考shuyu-labs/BigBanana-AI-Director、shamsharoon/CutOS、Will-Water/CineGen-AI以及HBAI-Ltd/Toonflow-app项目修改的。提供前后端分离和用户服务。
 
@@ -2747,7 +2747,7 @@
 
 *   [Turbo1123/turbometa-rayban-ai](https://github.com/Turbo1123/turbometa-rayban-ai) - World's First Full-Chinese Ray-Ban Meta AI Assistant - 全球首个全中文 Ray-Ban Meta 智能眼镜 AI 助手
 
-*   [iSoldLeo/PastScreen-CN](https://github.com/iSoldLeo/PastScreen-CN) - PastScreen-CN 是一款专注于效率的 macOS 截图工具，截图即刻进入剪贴板，几乎无等待。 它支持全局热键自定义、右键取消、原生截图音效和全中文界面，轻量、快速、不打扰。
+*   [iSoldLeo/Mio](https://github.com/iSoldLeo/Mio) - Mio 是一款专注于效率的 macOS 截图工具，截图即刻进入剪贴板，几乎无等待。 它支持全局热键自定义、右键取消、原生截图音效和全中文界面，轻量、快速、不打扰。
 
 *   [tekintian/CopyPathFinder](https://github.com/tekintian/CopyPathFinder) - A lightweight macOS utility to copy file paths from Finder to clipboard with global shortcut。🚀 一键复制文件路径 | ⚡ 效率提升神器 | 🍎 Mac 原生体验
 
