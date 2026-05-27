@@ -61,6 +61,8 @@
 
 ## Python
 
+*   [datascale-ai/opentalking](https://github.com/datascale-ai/opentalking) - OpenTalking：支持实时对话的工业级开源数字人框架，可私有部署、可插拔模型。
+
 *   [lycohana/BiliSum](https://github.com/lycohana/BiliSum) - 为 Bilibili、YouTube 及本地视频提供 AI 视频摘要和知识库.AI video summarizer and knowledge base for Bilibili, YouTube and local videos.
 
 *   [JochenYang/shiyu](https://github.com/JochenYang/shiyu) - 时语 Shiyu Subtitle - 基于 Tauri + Vue 3 + SenseVoice-Small 的极速、轻量级 100% 离线本地 AI 字幕助手。支持高精度断句与 -150ms 智能时值对齐。Ultra-fast, lightweight & 100% offline local AI subtitle generator.
@@ -1011,6 +1013,8 @@
 
 *   [DDG0808/aibal](https://github.com/DDG0808/aibal) - AiBal 是一款 菜单栏应用，为 AI 重度用户提供统一的多服务用量监控平台。
 
+*   [limecloud/lime](https://github.com/limecloud/lime) -   AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.
+
 *   [ox01024/cmirror](https://github.com/ox01024/cmirror) - 🇨🇳 Cmirror: 专为中国大陆开发者打造的一键换源工具 (A unified CLI for managing mirrors: Pip, NPM, Docker, Cargo, Apt, Go, Brew).
 
 *   [sunjackson/claude-code-proxy](https://github.com/sunjackson/claude-code-proxy) - 一个功能强大的跨平台桌面应用，用于管理 Claude Code 的本地代理服务
@@ -1187,7 +1191,7 @@
 
 *   [DBAAZzz/easy-weixin-clawbot](https://github.com/DBAAZzz/easy-weixin-clawbot) - 多账号微信 ClawBot 连接器 —— 通过 Web 后台管理多个微信号的 ClawBot 接入，支持扫码登录、对话持久化、LLM 智能回复、插件化工具/技能扩展。
 
-*   [Agions/CutDeck](https://github.com/Agions/CutDeck) - 开源AI视频剪辑工具。长视频自动拆条为爆款短片段 · 9:16/1:1/16:9多格式导出 · 本地Whisper字幕 · Rust渲染管线 · 无需上传
+*   [Agions/story-fab](https://github.com/Agions/story-fab) - 开源AI视频剪辑工具。长视频自动拆条为爆款短片段 · 9:16/1:1/16:9多格式导出 · 本地Whisper字幕 · Rust渲染管线 · 无需上传
 
 *   [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) - 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。
 
@@ -1376,8 +1380,6 @@
 *   [JochenYang/luma-mcp](https://github.com/JochenYang/luma-mcp) - Multi-Model Visual Understanding MCP Server, GLM-4.6V, DeepSeek-OCR (free), and Qwen3-VL-Flash. Provide visual processing capabilities for AI coding models that do not support image understanding.多模型视觉理解MCP服务器，GLM-4.6V、DeepSeek-OCR（免费）和Qwen3-VL-Flash等。为不支持图片理解的 AI 编码模型提供视觉处理能力。
 
 *   [gogogadgetscott/AnchorMarks](https://github.com/gogogadgetscott/AnchorMarks) - A modern, self-hosted bookmark manager with browser sync, Flow Launcher integration, sync, full-text search, REST API, and AI-assisted tooling baked into development.
-
-*   [limecloud/lime](https://github.com/limecloud/lime) -   AI content workspace for Chinese creators: desktop writing, research, prompt   library, knowledge base, and multi-model workflows.
 
 *   [mire403/VisionForge](https://github.com/mire403/VisionForge) - VisionForge是一个轻量级、高扩展性的大模型图片训练&描述工具生成器，支持多家大模型API（Google、OpenAI 兼容、DeepSeek、Qwen、GLM、Claude、Doubao、自定义模型）。 它提供多图片上传、提示词优化、自动生成JSONL训练数据、多项信息分析（标签、OCR、场景分类、主色调、置信度、推理原因）等能力。 支持实时统计图表（置信度分布直方图与趋势曲线），适用于AI数据集制作、图像训练样本生成、遥感标注、计算机视觉模型预处理等场景。
 
@@ -1911,8 +1913,6 @@
 
 *   [Aprilming/maiknote](https://github.com/Aprilming/maiknote) - 一个vibe coding的笔记软件， 即来即走～
 
-*   [realuckyang/mindbase-os](https://github.com/realuckyang/mindbase-os) - 同步你和AI的上下文
-
 *   [sankigan/Sift](https://github.com/sankigan/Sift) -  ⚡ 快速、跨平台的 RAW + JPG 照片筛选工具，专为摄影师打造。基于 Tauri 2 + Vue 3。
 
 *   [miragecoa/AI-Cubby](https://github.com/miragecoa/AI-Cubby) - Local-first media manager that auto-catalogs files as you open them. AI-powered tagging for images, games & apps. Built with Electron + Vue 3. 本地优先的 AI小抽屉 (AI资源管家) — 自动记录你打开过的文件，AI 智能打标签，告别手动整理。
@@ -2385,7 +2385,7 @@
 
 *   [wxaiway/nce-web](https://github.com/wxaiway/nce-web) - 一个现代化的新概念英语在线点读应用，提供流畅的学习体验和丰富的功能。
 
-*   [Liu-Bot24/liusheng-subtitles](https://github.com/Liu-Bot24/liusheng-subtitles) - Chrome 扩展：嗅探网页流媒体，基于 ASR 与大语言模型生成、翻译生肉视频字幕。
+*   [Liu-Bot24/liusheng-subtitles](https://github.com/Liu-Bot24/liusheng-subtitles) - 流声字幕：基于 ASR 与 LLM 生成、翻译流媒体视频字幕的 Chrome 扩展。 / Chrome extension for ASR + LLM subtitles on streaming videos.
 
 *   [XiaoLuoTian189/LanQiao](https://github.com/XiaoLuoTian189/LanQiao) - 一个开源的本地网盘系统，有了它您可以轻松的将让您的电脑和所有同一WIFI下的设备共享文件！
 
