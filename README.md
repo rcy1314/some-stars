@@ -665,7 +665,7 @@
 
 *   [dai-hongtao/InkTime](https://github.com/dai-hongtao/InkTime) - InkTime 是一个可自托管的墨水屏电子相框。它用AI分析你的照片库，按值得回忆度打分，并按“历史上的今天”自动生成每日最具回忆价值的照片，让沉睡的记忆重新被看见。
 
-*   [SurveyController/SurveyController](https://github.com/SurveyController/SurveyController) - 适用于问卷星、腾讯问卷、Credamo见数平台的高并发自动化填写程序，附带友好的图形化界面；可指定ip地区、作答时长、AI填空，1分钟猛干200份。稳定更新
+*   [SurveyController/SurveyController](https://github.com/SurveyController/SurveyController) - 适用于问卷星、腾讯问卷、Credamo见数平台的纯HTTP高并发提交程序，附带友好的图形化界面，无浏览器依赖；可指定ip地区、修改作答时长、AI填空，1分钟猛干2000份
 
 *   [kangarooking/x-skills](https://github.com/kangarooking/x-skills) - 自动收集素材，确认选题，并创作x推文，最后并发布到草稿箱的Claude Skills
 
@@ -773,7 +773,7 @@
 
 *   [GongLingRui/rss-aigc](https://github.com/GongLingRui/rss-aigc) - Vibe-Coding|RSS-AIGC是一个非常简易的现代化的 RSS 订阅与 AI 内容聚合平台，专为内容创作者、研究人员和知识工作者设计。系统集成了 AI 报告生成、飞书机器人推送、多源内容聚合等高级功能，帮助用户高效地获取、管理和分析来自 Hacker News、GitHub、ArXiv 等专业平台的内容
 
-*   [lissettecarlr/nano-banana-prompt-studio](https://github.com/lissettecarlr/nano-banana-prompt-studio) - 一个面向nano-banana-pro（gemini-3-pro-image-preview）文生图模型的提示词结构化与优化工具集。 它帮助你快速构建高质量的提示词，并一键调用接口生成图片，让「想法 → 好图」变得更简单、更可控。
+*   [lissettecarlr/nano-banana-prompt-studio](https://github.com/lissettecarlr/nano-banana-prompt-studio) - 一个支持nano-banana和gpt-image-2的文生图模型的提示词结构化与优化工具集。 它帮助你快速构建高质量的提示词，并一键调用接口生成图片，让「想法 → 好图」变得更简单、更可控。
 
 *   [HG-ha/MTools](https://github.com/HG-ha/MTools) - MTools 是一个功能强大的多功能桌面应用程序，集成了音视频处理、图片编辑、文本操作和编码工具，内置AI增强功能。旨在简化您的工作流程，提升生产效率
 
@@ -2037,7 +2037,7 @@
 
 *   [oiov/vmail](https://github.com/oiov/vmail) - 📫 只需一个域名部署临时邮箱到 Cloudflare Worker，使用 D1 保存数据，支持多域名后缀，密码找回，开放API接口。
 
-*   [consistent-k/VodHub](https://github.com/consistent-k/VodHub) - VodHub 是一个电影、电视剧、动漫等视频接口聚合服务
+*   [consistent-k/VodHub](https://github.com/consistent-k/VodHub) - VodHub 是一个电影、电视剧、动漫等标准CMS资源播放器
 
 *   [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
 
