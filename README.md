@@ -133,7 +133,7 @@
 
 *   [dai-hongtao/InkTime](https://github.com/dai-hongtao/InkTime) - InkTime 是一个可自托管的墨水屏电子相框。它用AI分析你的照片库，按值得回忆度打分，并按“历史上的今天”自动生成每日最具回忆价值的照片，让沉睡的记忆重新被看见。
 
-*   [SurveyController/SurveyController](https://github.com/SurveyController/SurveyController) - 适用于问卷星、腾讯问卷、Credamo见数平台的纯HTTP高并发提交程序，附带友好的图形化界面，无浏览器依赖；可指定ip地区、修改作答时长、AI填空，1分钟猛干2000份
+*   [SurveyController/SurveyController](https://github.com/SurveyController/SurveyController) - 适用于问卷星、腾讯问卷、Credamo见数平台的纯HTTP高并发提交程序，一秒30份，附带友好的图形化界面，无浏览器依赖；可指定ip地区、修改作答时长、AI填空
 
 *   [kangarooking/x-skills](https://github.com/kangarooking/x-skills) - 自动收集素材，确认选题，并创作x推文，最后并发布到草稿箱的Claude Skills
 
@@ -366,8 +366,6 @@
 *   [xiesx123/CreatorBox](https://github.com/xiesx123/CreatorBox) - 🚀🎬灵活、高效、可扩展，专属剪辑配音工具箱，释放创作潜力 . Flexible, efficient, and scalable toolbox for editing and dubbing, unleashing creative potential
 
 *   [Desmond-Dong/zhipuai](https://github.com/Desmond-Dong/zhipuai) - This project aims to seamlessly connect the Zhipu Qingyan language model with the Home Assistant (HASS) platform to provide more intelligent home automation management.
-
-*   [kunkeji/chatGPT\_auto\_msg\_multiPlat](https://github.com/kunkeji/chatGPT_auto_msg_multiPlat) - 核心代码开源，电商、社交多平台自动AI智能客服机器人，支持多种平台（微信、拼多多、千牛、抖店、京东、企业微信、微博、小红书、知乎等平台接入）可接入任何模型（gpt、glm、千问、gemma、llama、qwen、phi、yi等）
 
 *   [yandaozi/PPress](https://github.com/yandaozi/PPress) - 一个基于Python的博客CMS系统，采用Flask极致构建。
 
@@ -1510,6 +1508,8 @@
 *   [jamesroutley/news.routley.io](https://github.com/jamesroutley/news.routley.io) - 🗞 My personal RSS feed
 
 *   [easychen/wecomchan](https://github.com/easychen/wecomchan) - 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。
+
+*   [yann0917/dedao-dl](https://github.com/yann0917/dedao-dl) - 得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。可结合 openclaw +skill 等使用
 
 ## Rust
 
