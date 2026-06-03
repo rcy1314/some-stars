@@ -1253,8 +1253,6 @@
 
 *   [zzyong24/AITerm](https://github.com/zzyong24/AITerm) -
 
-*   [wxwhhh/srcwiki](https://github.com/wxwhhh/srcwiki) - 📚 轻量级现代化自托管知识库系统 - Go + Vue 3 + Docker | A lightweight self-hosted wiki with Markdown, multi-user, full-text search
-
 *   [15673312611/yunji-canvas-main](https://github.com/15673312611/yunji-canvas-main) - 云迹无限画布；一键ai生成节点,智能体,支持文生图，图生图，图生视频，多模型切换。兼容 openai标准格式兼容newapi项目
 
 *   [qiuuchan/vue3-ecommerce-fullstack](https://github.com/qiuuchan/vue3-ecommerce-fullstack) - 基于 Vue 3 + TypeScript 的全栈电商管理系统，支持 Docker 一键部署与 GitHub Actions CI/CD
@@ -2350,6 +2348,8 @@
 ## Go
 
 *   [qqqqqf-q/Arkloop](https://github.com/qqqqqf-q/Arkloop) - 干净、强大、属于你的 AI Agent 平台  --AI agents, without the clutter.
+
+*   [wxwhhh/srcwiki](https://github.com/wxwhhh/srcwiki) - 📚 轻量级现代化自托管知识库系统 - Go + Vue 3 + Docker | A lightweight self-hosted wiki with Markdown, multi-user, full-text search
 
 *   [fe-spark/EcoHub](https://github.com/fe-spark/EcoHub) - 一款高性能、现代化的全栈影视聚合系统。它不仅提供极致流畅的 Web 观影体验，还集成了强大的自动化采集与管理后台，旨在帮助开发者和影视爱好者快速搭建属于自己的私人影视库。
 
