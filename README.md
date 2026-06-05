@@ -125,7 +125,7 @@
 
 *   [DBAAZzz/easy-weixin-clawbot](https://github.com/DBAAZzz/easy-weixin-clawbot) - 多账号微信 ClawBot 连接器 —— 通过 Web 后台管理多个微信号的 ClawBot 接入，支持扫码登录、对话持久化、LLM 智能回复、插件化工具/技能扩展。
 
-*   [Agions/story-fab](https://github.com/Agions/story-fab) - 开源AI视频剪辑工具。长视频自动拆条为爆款短片段 · 9:16/1:1/16:9多格式导出 · 本地Whisper字幕 · Rust渲染管线 · 无需上传
+*   [Agions/story-fab](https://github.com/Agions/story-fab) - 开源 AI 影视解说创作工坊 (Tauri 2 + Rust)。长视频 → AI 拆条 + 多 Agent 智能解说 + 本地 Whisper 字幕 + 配音合成，9:16/1:1/16:9 多格式导出，100% 本地处理零上传。
 
 *   [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) - 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。
 
@@ -196,8 +196,6 @@
 *   [jiema123/picoshareTS](https://github.com/jiema123/picoshareTS) - 轻量级文件分享工具，部署在CloudFlare上，免费快速方便
 
 *   [liou666/couplet](https://github.com/liou666/couplet) - 🧨 桌面春联，把春节氛围带到你的电脑桌面！
-
-*   [YuniqueUnic/elizabeth](https://github.com/YuniqueUnic/elizabeth) - Elizabeth 项目致力于构建一个现代化的文件分享系统，支持多种文件类型、实时预览和高级安全特性。项目采用模块化设计，使用 Rust 语言确保高性能和内存安全。
 
 *   [Everless321/dYm](https://github.com/Everless321/dYm) - 抖音视频下载与智能分析管理工具 | Douyin Video Download & AI Analysis Manager
 
@@ -2235,7 +2233,7 @@
 
 *   [ty-yqs/wordpress-theme-Lumivra](https://github.com/ty-yqs/wordpress-theme-Lumivra) - Lumivra 是一个干净、现代、富有设计感的 WordPress 主题。专为追求极简美学和优雅排版的内容创作者、博客作者和企业网站打造。Lumivra is a clean, modern, and beautifully designed WordPress theme. It's created for content creators, bloggers, and business websites who appreciate minimalist aesthetics and elegant typography.
 
-*   [sutchan/WP-Clean-Admin](https://github.com/sutchan/WP-Clean-Admin) - 这个插件将帮助用户打造一个清爽、高效、个性化的 WordPress 后台，特别适合内容创作者、设计师、开发者等追求简洁体验的用户。
+*   [Tanox/WP-Clean-Admin](https://github.com/Tanox/WP-Clean-Admin) - 这个插件将帮助用户打造一个清爽、高效、个性化的 WordPress 后台，特别适合内容创作者、设计师、开发者等追求简洁体验的用户。
 
 *   [TikatAK/enhanced-download-manager](https://github.com/TikatAK/enhanced-download-manager) - 轻量级 WordPress 下载管理插件，支持可视化管理界面和下载统计功能
 
@@ -2514,6 +2512,8 @@
 *   [UknowNull/biliClipFlow](https://github.com/UknowNull/biliClipFlow) - biliClipFlow 是一个基于 Tauri 的跨平台桌面应用，聚焦 Bilibili 录播场景：  录播订阅与自动录制 多分 P 下载 剪辑、合并、分段工作流 投稿、更新与失败重试 可选百度网盘同步 详情使用见bilibili:明前奶姊，返回交流QQ群: 1064612942
 
 *   [guchang233/VOICE2TYPE](https://github.com/guchang233/VOICE2TYPE) - 一个极简高效的 Windows 语音输入助手，基于 Rust 开发。支持全局热键一键录音上屏、灵动岛式状态悬浮窗、自动标点与中英文混合识别。轻量、无感、隐私安全。  Minimalist, high-performance voice-to-text assistant for Windows built with Rust.
+
+*   [YuniqueUnic/elizabeth](https://github.com/YuniqueUnic/elizabeth) - Elizabeth 项目致力于构建一个现代化的文件分享系统，支持多种文件类型、实时预览和高级安全特性。项目采用模块化设计，使用 Rust 语言确保高性能和内存安全。
 
 *   [kavil/mini-transfer](https://github.com/kavil/mini-transfer) - 一个轻量级（7M）的跨平台桌面应用程序，用于在 PC 和移动设备之间进行文件传输。
 
