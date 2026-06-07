@@ -87,8 +87,6 @@
 
 *   [guchang233/VOICE2TYPE](https://github.com/guchang233/VOICE2TYPE) - 一个极简高效的 Windows 语音输入助手，基于 Rust 开发。支持全局热键一键录音上屏、灵动岛式状态悬浮窗、自动标点与中英文混合识别。轻量、无感、隐私安全。  Minimalist, high-performance voice-to-text assistant for Windows built with Rust.
 
-*   [YuniqueUnic/elizabeth](https://github.com/YuniqueUnic/elizabeth) - Elizabeth 项目致力于构建一个现代化的文件分享系统，支持多种文件类型、实时预览和高级安全特性。项目采用模块化设计，使用 Rust 语言确保高性能和内存安全。
-
 *   [kavil/mini-transfer](https://github.com/kavil/mini-transfer) - 一个轻量级（7M）的跨平台桌面应用程序，用于在 PC 和移动设备之间进行文件传输。
 
 *   [git-hub-cc/ScreenTranslator](https://github.com/git-hub-cc/ScreenTranslator) - 项目废弃了-用pixpin不错
@@ -197,8 +195,6 @@
 
 *   [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) - Claude Cowork 开源替代品，开源的本地 AI Agent 桌面端 · 多模型适配 · 自进化 Skills · 隐私优先
 
-*   [xueshuai1/ai-master-site](https://github.com/xueshuai1/ai-master-site) - AI Master - 精通人工智能
-
 *   [lianhuaijin1981/EcomPicAIGen](https://github.com/lianhuaijin1981/EcomPicAIGen) - AI电商主图生成工具 - 50品类覆盖，质量评分96.2分，完整5步生图工作流
 
 *   [millerice/OneMix](https://github.com/millerice/OneMix) - OneMix 是电商图片生成工具：提取商品信息，自动规划提示词，批量生成主图与详情图。
@@ -305,6 +301,8 @@
 
 *   [liou666/couplet](https://github.com/liou666/couplet) - 🧨 桌面春联，把春节氛围带到你的电脑桌面！
 
+*   [YuniqueUnic/elizabeth](https://github.com/YuniqueUnic/elizabeth) - Elizabeth 项目致力于构建一个现代化的文件分享系统，支持多种文件类型、实时预览和高级安全特性。项目采用模块化设计，使用 Rust 语言确保高性能和内存安全。
+
 *   [Everless321/dYm](https://github.com/Everless321/dYm) - 抖音视频下载与智能分析管理工具 | Douyin Video Download & AI Analysis Manager
 
 *   [dedatech/changelog-system](https://github.com/dedatech/changelog-system) - 一个现代化的 Changelog 发布系统，支持多产品管理、Markdown 编辑和暗色主题
@@ -404,8 +402,6 @@
 *   [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools) - 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
 
 *   [baiwumm/portfolio](https://github.com/baiwumm/portfolio) - 一个基于 Next.js 的个人作品与简历站点，集成文章聚合、GitHub 活动可视化、SEO 与站点分析，支持暗色主题与高质量动效。
-
-*   [Jehuge/video-Ai-note](https://github.com/Jehuge/video-Ai-note) - 一个智能视频笔记生成工具，支持自动提取视频音频、转写文字，并使用 AI 生成结构化笔记,新增bilibili 视频下载功能。  完全本地化处理，保护数据隐私 支持 Ollama 等本地大模型，无需联网即可使用。
 
 *   [IvanLark/pretty-please](https://github.com/IvanLark/pretty-please) - AI 驱动的命令行助手 - 将自然语言转换为 Shell 命令，支持多步骤执行、智能错误恢复、React Ink UI。TypeScript + Mastra + Ink 构建。
 
@@ -1639,8 +1635,6 @@
 
 *   [Pangu-Immortal/hunter-ai-content-factory](https://github.com/Pangu-Immortal/hunter-ai-content-factory) - 自动发布 24 小时情报系统：好文章的 80% 在于选题。Hunter AI 自动从 GitHub Trending、Twitter、HackerNews Reddit 等平台采集热点，用 AI 判断哪些值得写，自动生成文章和插图，自动发布。
 
-*   [Laihiujin/SYNAPSEAUTOMATION](https://github.com/Laihiujin/SYNAPSEAUTOMATION) - AI矩阵投放/多平台批量发布视频，支持平台「抖音/小红书/快手/视频号/B站」，支持已发布抖音/B站账号的视频数据回收；
-
 *   [yeasy/ai\_beginner\_guide](https://github.com/yeasy/ai_beginner_guide) - 普通人看的 AI 入门。从零开始，掌握人工智能的最新工具与实践技能 | AI Book for Beginners
 
 *   [gongxings/ai-creator](https://github.com/gongxings/ai-creator) - A powerful AI content creation platform with AI writing, image generation, video generation, PPT generation tools, and one-click multi-platform publishing.AI创作者平台，一个功能强大的AI创作平台，提供AI写作、图片生成、视频生成、PPT生成等创作工具，并支持一键发布到多个平台。
@@ -1710,6 +1704,8 @@
 *   [Agions/scene-fab](https://github.com/Agions/scene-fab) - scene-fab - AI 影视解说创作工具 | 智能拆条 · AI 解说生成 · 一键配音合成
 
 *   [jhihhe/House-Survey-Workflow-Assistant](https://github.com/jhihhe/House-Survey-Workflow-Assistant) - 📁 专为房产摄影工作流打造的桌面自动化工具。支持批量创建文件夹、多线程极速导卡、实时收入统计。采用 Dracula 主题，Python 原生开发，macOS/Windows 开箱即用
+
+*   [Jehuge/video-Ai-note](https://github.com/Jehuge/video-Ai-note) - 一个智能视频笔记生成工具，支持自动提取视频音频、转写文字，并使用 AI 生成结构化笔记,新增bilibili 视频下载功能。  完全本地化处理，保护数据隐私 支持 Ollama 等本地大模型，无需联网即可使用。
 
 *   [mini-yifan/baodou\_AI](https://github.com/mini-yifan/baodou_AI) - 包豆电脑是一款基于 豆包AI 视觉模型的智能控制系统，能够通过分析屏幕内容自动执行鼠标和键盘操作，实现任务自动化。
 
@@ -2309,6 +2305,8 @@
 
 *   [LogicJake/WebMonitor](https://github.com/LogicJake/WebMonitor) - 实时监控网页变化，并发送通知（Monitor web page changes in real time and send notifications）
 
+*   [caibingcheng/rssblog](https://github.com/caibingcheng/rssblog) - 独立博客聚合, 提供最新的博客内容服务
+
 ## Svelte
 
 *   [skyrocketingHong/FuyaoHomepage](https://github.com/skyrocketingHong/FuyaoHomepage) - 基于 SvelteKit 构建的现代个人主页/博客系统
@@ -2592,6 +2590,8 @@
 *   [MiaoMint/g8ink](https://github.com/MiaoMint/g8ink) - 一个短链接生成程序
 
 *   [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
+
+*   [jamesroutley/news.routley.io](https://github.com/jamesroutley/news.routley.io) - 🗞 My personal RSS feed
 
 ## Dart
 
@@ -3357,7 +3357,7 @@
 
 *   [KZ25T/wechat-appimage](https://github.com/KZ25T/wechat-appimage) - Linux 运行微信（可能是）最简单的方法，支持 debian/Arch/RHEL 三大发行版系列
 
-*   [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、AnyTLS 、Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket），功能强大、配置灵活。
+*   [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess / VLESS + ws + tls 、NaiveProxy，搭配 Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFA / SFM），无须域名、功能强大、配置灵活。
 
 *   [Yanyutin753/unofficial-gpt4-api](https://github.com/Yanyutin753/unofficial-gpt4-api) - 一键部署专属于中转gpt-4，回复流畅，支持高并发，小白也能快速使用！unofficial-gpt4-api Transfer gpt-4, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!
 
