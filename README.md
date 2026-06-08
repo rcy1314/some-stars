@@ -459,7 +459,7 @@
 
 *   [yy0691/PromptMate](https://github.com/yy0691/PromptMate) - PromptMate 是一款帮助您管理和使用常用提示词（Prompts）的桌面效率工具。它旨在提高您与 AI 模型（如 ChatGPT 等）或其他需要预设文本输入的工具进行交互的效率。
 
-*   [yanstu/FilmTrack](https://github.com/yanstu/FilmTrack) - FilmTrack 是一个基于 Tauri + Vue 3 开发的桌面应用程序，专为影视爱好者打造的个人影视管理平台。通过集成 TMDb API，为用户提供丰富的影视数据和优雅的管理体验。记录电视剧观看进度追踪，支持集数管理
+*   [yanstu/FilmTrack](https://github.com/yanstu/FilmTrack) - 个人影视管理桌面应用 · TMDb 检索 + 在线播放（自动匹配片源/失败回退）+ 季集进度 + 豆瓣导入 + 观看活跃度热力图 · macOS / Windows · Tauri 2 + Vue 3
 
 *   [lucasmen9527/claude-suite](https://github.com/lucasmen9527/claude-suite) - 🍎 专业的 Claude CLI 桌面管理工具 - macOS 优化版。可视化项目管理、API代理商切换、使用统计分析，解决DMG应用Claude CLI检测问题。
 
@@ -1577,6 +1577,8 @@
 
 *   [pixelxzen/ai-magazine-photographer](https://github.com/pixelxzen/ai-magazine-photographer) - 教你让AI像杂志摄影师一样拍写真
 
+*   [lilong7676/doubao-murmur](https://github.com/lilong7676/doubao-murmur) - 极简语音输入法，利用豆包 Web 语音识别实现全局听写。支持 macOS 与 Linux/SteamOS（Steam Deck 手柄一键语音输入）
+
 *   [fankcoder/email-quote-automation](https://github.com/fankcoder/email-quote-automation) - Automated email inquiry processing and quotation generator for e-commerce and custom manufacturing businesses.
 
 *   [Mr-ZeLong/E-commerce-Smart-Agent](https://github.com/Mr-ZeLong/E-commerce-Smart-Agent) - 基于 LangGraph 和 FastAPI 的电商 AI Agent 框架。从 RAG 知识库到复杂的退货业务流的智能客服系统。
@@ -2651,7 +2653,7 @@
 
 *   [ee268/HexoBlogManager](https://github.com/ee268/HexoBlogManager) - 基于 Qt 6.5 + QML 的 Hexo 博客桌面管理工具，支持导入 GitHub Pages 托管的 Hexo 项目，提供可视化博客管理、Markdown 实时编辑预览、YAML 配置编辑、一键部署等功能。
 
-*   [DarkKandaoMaster/QuickSay](https://github.com/DarkKandaoMaster/QuickSay) - 一款强大的快捷短语软件（聊天/常用语/快捷回复/快捷语录/客服工具/文本暂存器/Prompt）
+*   [DarkKandaoMaster/QuickSay](https://github.com/DarkKandaoMaster/QuickSay) - 一款强大的快捷短语软件（聊天/常用语/快捷回复/快捷语录/客服工具/文本暂存器/Prompt输入）
 
 *   [azurplain/Mini-Window-Browser](https://github.com/azurplain/Mini-Window-Browser) - 专为单屏玩家打造的 Windows 画中画浏览器。核心功能：【沉浸式挖孔/鼠标穿透】挂机不挡操作、【场景预设】一键切换窗口布局、老板键及书签管理。基于 C++ / WebView2 开发。主要用于一个屏幕肝地图，您也可以用到其他方便的合法用途。
 
@@ -2854,8 +2856,6 @@
 *   [SaneHe/mac-tools](https://github.com/SaneHe/mac-tools) - 原生 macOS 文本动作工具，支持全局快捷键触发选中文本处理，提供 JSON 格式化、时间转换、MD5 与结果复制替换等能力。
 
 *   [aruis/ReelFlow](https://github.com/aruis/ReelFlow) - 一个为摄影师朋友打造，行在 macOS 上生成图片幻灯片视频的小工具
-
-*   [lilong7676/doubao-murmur](https://github.com/lilong7676/doubao-murmur) - 极简 macOS 语音输入法，< 500KB，利用豆包 Web 语音识别实现全局听写
 
 *   [lopleec/Zz](https://github.com/lopleec/Zz) - Zz is a lightweight macOS AI assistant that sees your screen and directly controls your desktop to automate any task.  Zz 是一款能看懂屏幕并直接代操作系统的 macOS 智能桌面助手，旨在为您全自动执行任何繁琐任务。
 
@@ -3357,7 +3357,7 @@
 
 *   [KZ25T/wechat-appimage](https://github.com/KZ25T/wechat-appimage) - Linux 运行微信（可能是）最简单的方法，支持 debian/Arch/RHEL 三大发行版系列
 
-*   [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess / VLESS + ws + tls 、NaiveProxy，搭配 Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFA / SFM），无须域名、功能强大、配置灵活。
+*   [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本。支持 Reality、Hysteria2 、TUIC 、Trojan 、Shadowsocks 、 AnyTLS 、ShadowTLS 、 Vmess 、 VLESS 、NaiveProxy，搭配 Argo 隧道等，多客户端订阅（Clash / V2rayN / Throne / ShadowRocket / SFA ），无须域名、功能强大、配置灵活。
 
 *   [Yanyutin753/unofficial-gpt4-api](https://github.com/Yanyutin753/unofficial-gpt4-api) - 一键部署专属于中转gpt-4，回复流畅，支持高并发，小白也能快速使用！unofficial-gpt4-api Transfer gpt-4, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!
 
@@ -3378,6 +3378,8 @@
 *   [RightToPrivacy/snowflake-tor-service](https://github.com/RightToPrivacy/snowflake-tor-service) - Automated 🧅 Tor ❄️ Snowflake Proxy (any Linux device). Run install.sh and you have a new Snowflake ProxyService  (every boot)
 
 *   [EXP-Tools/mstream-docker](https://github.com/EXP-Tools/mstream-docker) - docker 一键部署 mstream 私人云音乐
+
+*   [appotry/docker-hexo](https://github.com/appotry/docker-hexo) - Hexo Docker一键部署环境/One-Click Deployment Environment。Add cjk support 附赠详细教程
 
 *   [Jason6111/OpenWrt\_Personal](https://github.com/Jason6111/OpenWrt_Personal) - Jason6111's OpenWrt source 在线集成自动编译环境
 
@@ -3532,8 +3534,6 @@
 ## Dockerfile
 
 *   [appleboy/telegram-action](https://github.com/appleboy/telegram-action) - GitHub Action that sends a Telegram message.
-
-*   [appotry/docker-hexo](https://github.com/appotry/docker-hexo) - Hexo Docker一键部署环境/One-Click Deployment Environment。Add cjk support 附赠详细教程
 
 *   [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 
