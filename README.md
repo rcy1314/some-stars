@@ -169,7 +169,7 @@
 
 *   [xiaokeaijqx/VideoNote](https://github.com/xiaokeaijqx/VideoNote) - 总结视频内容笔记 并排版 ，下载笔记远程推送云盘。完全本地运行，快速积累本地知识库。
 
-*   [fanfan-de/fanfande\_studio](https://github.com/fanfan-de/fanfande_studio) - AI Agent产品，可以理解为obsidian UX风格的opencode版 codex，设计目的是让开发本身进入心流。
+*   [fanfan-de/anybox](https://github.com/fanfan-de/anybox) - AI Agent产品，可以理解为obsidian UX风格的opencode版 codex，设计目的是让开发本身进入心流。
 
 *   [Jackyhq/Photography](https://github.com/Jackyhq/Photography) - Jacky’s Photography 是一个基于开源项目定制的个人摄影作品展示站，使用 React/Vite 构建静态图库，并通过本地照片处理流水线自动提取 EXIF 信息、生成缩略图和照片清单，用于展示、管理和发布个人摄影作品。
 
@@ -272,6 +272,8 @@
 *   [kiki123124/x2o](https://github.com/kiki123124/x2o) - X (Twitter) Bookmarks → Obsidian Knowledge Vault. 19+ AI providers, Rust-powered, fully local. 书签导出 + AI 分类 + Obsidian 知识库
 
 *   [sjzsdu/OpencodePlugins](https://github.com/sjzsdu/OpencodePlugins) - 🤖 OpenCode 插件 - 三省六部多智能体协作系统：将中国古代治理智慧融入 AI 编程助手，自动完成复杂编程任务的规划、审核与执行
+
+*   [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.
 
 *   [sorker/ai-shotlive](https://github.com/sorker/ai-shotlive) - AI 短剧，小说、剧本、分镜、提示词、关键帧、视频、AI剪辑的一站式服务。参考shuyu-labs/BigBanana-AI-Director、shamsharoon/CutOS、Will-Water/CineGen-AI以及HBAI-Ltd/Toonflow-app项目修改的。提供前后端分离和用户服务。
 
@@ -459,7 +461,7 @@
 
 *   [yy0691/PromptMate](https://github.com/yy0691/PromptMate) - PromptMate 是一款帮助您管理和使用常用提示词（Prompts）的桌面效率工具。它旨在提高您与 AI 模型（如 ChatGPT 等）或其他需要预设文本输入的工具进行交互的效率。
 
-*   [yanstu/FilmTrack](https://github.com/yanstu/FilmTrack) - 个人影视管理桌面应用 · TMDb 检索 + 在线播放（自动匹配片源/失败回退）+ 季集进度 + 豆瓣导入 + 观看活跃度热力图 · macOS / Windows · Tauri 2 + Vue 3
+*   [yanstu/FilmTrack](https://github.com/yanstu/FilmTrack) - FilmTrackPro（影迹）是一个基于 Tauri 2 + Vue 3 的跨平台桌面应用，专为影视爱好者打造的个人观影进度管理平台。
 
 *   [lucasmen9527/claude-suite](https://github.com/lucasmen9527/claude-suite) - 🍎 专业的 Claude CLI 桌面管理工具 - macOS 优化版。可视化项目管理、API代理商切换、使用统计分析，解决DMG应用Claude CLI检测问题。
 
@@ -2720,8 +2722,6 @@
 *   [Sitoi/ClashBar](https://github.com/Sitoi/ClashBar) - 基于 SwiftUI + AppKit 构建、由 mihomo 驱动的原生 macOS 菜单栏代理客户端，专注轻量、稳定与可观测。
 
 *   [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) - 🦞 U-Claw 虾盘 - OpenClaw AI 助手离线安装 U 盘 | 提供远程维护·定制开发·企业私有化部署服务 | Remote support & custom AI development
-
-*   [HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app) - Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.
 
 *   [cornradio/AirMouse](https://github.com/cornradio/AirMouse) - 用手机当鼠标/键盘的极简解决方案
 
