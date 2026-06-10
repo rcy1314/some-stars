@@ -411,7 +411,7 @@
 
 *   [yc-w-cn/vibe-coding](https://github.com/yc-w-cn/vibe-coding) - 氛围编程（Vibe Coding）国内方案综合对比
 
-*   [peterfei/ifai](https://github.com/peterfei/ifai) - 若爱 (IfAI) - 基于 Tauri 2.0 构建的跨平台 AI 代码编辑器 | A Cross-Platform AI Code Editor Built with Tauri 2.0
+*   [peterfei/ifai](https://github.com/peterfei/ifai) - 若爱 (IfAI) — AI Agent 编排助手 & 代码编辑器 | An AI Agent Orchestrator & Code Editor built with Tauri 2.0
 
 *   [JochenYang/luma-mcp](https://github.com/JochenYang/luma-mcp) - Multi-Model Visual Understanding MCP Server, GLM-4.6V, DeepSeek-OCR (free), and Qwen3-VL-Flash. Provide visual processing capabilities for AI coding models that do not support image understanding.多模型视觉理解MCP服务器，GLM-4.6V、DeepSeek-OCR（免费）和Qwen3-VL-Flash等。为不支持图片理解的 AI 编码模型提供视觉处理能力。
 
@@ -1561,7 +1561,7 @@
 
 *   [wwzhifeng/DramaBoxStudio](https://github.com/wwzhifeng/DramaBoxStudio) - DramaBox Studio — AI Voice Studio (Community Edition) 基于 LTX-2.3 的本地 AI 配音工作室 │
 
-*   [datascale-ai/opentalking](https://github.com/datascale-ai/opentalking) - OpenTalking：支持实时对话的工业级开源 AI 数字人框架，可私有部署、可插拔模型。
+*   [datascale-ai/opentalking](https://github.com/datascale-ai/opentalking) - OpenTalking: An industrial-grade open-source AI digital human framework that supports real-time conversation, private deployment, and pluggable models.
 
 *   [lycohana/BiliSum](https://github.com/lycohana/BiliSum) - 为 Bilibili、YouTube 及本地视频提供 AI 视频摘要和知识库.AI video summarizer and knowledge base for Bilibili, YouTube and local videos.
 
