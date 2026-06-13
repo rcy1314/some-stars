@@ -1399,7 +1399,7 @@
 
 *   [dai-hongtao/InkTime](https://github.com/dai-hongtao/InkTime) - InkTime 是一个可自托管的墨水屏电子相框。它用AI分析你的照片库，按值得回忆度打分，并按“历史上的今天”自动生成每日最具回忆价值的照片，让沉睡的记忆重新被看见。
 
-*   [SurveyController/SurveyController](https://github.com/SurveyController/SurveyController) - 适用于问卷星、腾讯问卷、Credamo见数平台的纯HTTP高并发提交程序，一秒30份，附带友好的图形化界面，无浏览器依赖；可指定ip地区、修改作答时长、AI填空
+*   [SurveyController/SurveyController](https://github.com/SurveyController/SurveyController) - 适用于问卷星、腾讯问卷、Credamo见数平台的纯HTTP高并发提交程序
 
 *   [kangarooking/x-skills](https://github.com/kangarooking/x-skills) - 自动收集素材，确认选题，并创作x推文，最后并发布到草稿箱的Claude Skills
 
