@@ -619,8 +619,6 @@
 
 *   [Syngnat/GoNavi](https://github.com/Syngnat/GoNavi) - 现代化、原生体验的数据库管理工具，支持 MySQL、PostgreSQL、SQLite 等数据库，采用 Go 后端 + Wails + React 前端构建，启动快、体积小、性能强。
 
-*   [AAAAAnson/mbeditor](https://github.com/AAAAAnson/mbeditor) - 首款支持 CLI 化操作的微信公众号编辑器 — 让你的Agent直接写出精美推文
-
 *   [JarvisPMS/z-image](https://github.com/JarvisPMS/z-image) - 基于魔搭的z-image 网页版和桌面版软件，每天2000次配额，可以使用各类开源图片生成模型和对话模型
 
 *   [lee0166/nanshanai-animata](https://github.com/lee0166/nanshanai-animata) - NS AI Animata 是一款专为影视创作爱好者打造的 AI 驱动的小说转影视全流程工具，从小说文本到影视作品一站式生成，能力持续进化，既友好新手也支持深度自定义，与创作者同步成长。
@@ -1356,6 +1354,8 @@
 *   [pearjelly/cliany.site](https://github.com/pearjelly/cliany.site) - A browser automation-to-CLI framework. Leveraging browser-use, LLMs, and the CDP protocol to automate the entire workflow: exploration, code synthesis, and execution.
 
 *   [Allen-xxa/ComfyNexus](https://github.com/Allen-xxa/ComfyNexus) - 为专业创作者而生的 ComfyUI 现代化管理平台
+
+*   [AAAAAnson/mbeditor](https://github.com/AAAAAnson/mbeditor) - 首款支持 CLI 化操作的微信公众号编辑器 — 让你的Agent直接写出精美推文
 
 *   [TobyKSKGD/PodGist](https://github.com/TobyKSKGD/PodGist) - PodGist 是一个基于云端 AI 的音频内容结构化工具。它通过语音转录和大语言模型分析，将各类音频（播客、讲座、会议录音等）转化为带精确时间轴的结构化摘要。
 
