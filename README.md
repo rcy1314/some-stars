@@ -851,7 +851,7 @@
 
 *   [DjTaNg-404/Desktop-Claw](https://github.com/DjTaNg-404/Desktop-Claw) - 一个常驻桌面的 AI 小伙伴。悬浮球形态，轻量不打扰，支持对话、文件处理与轻记录，具备 Agent Loop 与按天记忆能力。Electron + TypeScript 构建，支持 macOS & Windows。
 
-*   [Perimsx/homepage](https://github.com/Perimsx/homepage) - Coet Blog是一款基于最新的 Next.js 15 和 Tailwind CSS v4 构建，集极致阅读体验、强大 MDX 内容创作与自动化 SEO 推送于一体的高性能个人博客系统方案。
+*   [cotovo/homepage](https://github.com/cotovo/homepage) - Coet Blog是一款基于最新的 Next.js 15 和 Tailwind CSS v4 构建，集极致阅读体验、强大 MDX 内容创作与自动化 SEO 推送于一体的高性能个人博客系统方案。
 
 *   [RavelloH/NeutralPress](https://github.com/RavelloH/NeutralPress) - 基于 Next.js 构建的下一代动态 CMS 博客系统，可免费部署的一站式解决方案：可视化可拖拽页面编辑、所见即所得/Markdown/MDX内容支持、媒体管理、访问分析、照片墙、自动友链管理、无限层级评论、邮箱通知、实时私信、Github 项目展示、多用户多权限账号管理、内置安全防护。
 
@@ -1285,8 +1285,6 @@
 
 *   [HerbertHe/iptv-sources](https://github.com/HerbertHe/iptv-sources) - Autoupdate iptv sources
 
-*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-
 *   [abdtriedcoding/notionverse](https://github.com/abdtriedcoding/notionverse) - A static blog build on top of Notion and NextJS 14, deployed on Vercel.
 
 *   [westinyang/F-OH](https://github.com/westinyang/F-OH) - ⭐ F-OH 是一个 OpenHarmony 平台上 FOSS（Free and Open Source Software，自由开源软件）的应用中心，并提供下载安装支持
@@ -1659,7 +1657,7 @@
 
 *   [yqxie1991/WxCleaner](https://github.com/yqxie1991/WxCleaner) - 微信重复文件清理工具。采用智能哈希算法极速识别重复文件，支持可视化预览与安全删除（移至回收站）。
 
-*   [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。  ⬇️⬇️ WebRPA技术交流群 ⬇️⬇️
+*   [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。
 
 *   [datawhalechina/vibe-blog](https://github.com/datawhalechina/vibe-blog) - Vibe-Blog是一个基于Multi-Agent 架构的万字长文技术博客生成AI助手，支持深度调研、智能配图、Mermaid 图表、代码集成、专业排版的各种专业技术博客写作中所需要的能力, 真正做到了 "输入一句话, 一键输出图文混合的万字技术长文, 轻轻松松做到日更万字长文技术博客"，将晦涩的技术知识转化为通俗易懂的科普文章，让每个人都能轻松理解复杂技术,在 AI 时代扬帆起航.
 
@@ -2002,6 +2000,8 @@
 *   [infamouskoala/koalahook](https://github.com/infamouskoala/koalahook) - A webhook multitool coded in python to seamlessly interact with Discord Webhooks! Send messages, Spam, Delete and much more!
 
 *   [hydrotho/BiliBili\_Livestream\_Reminder](https://github.com/hydrotho/BiliBili_Livestream_Reminder) - 一款监控哔哩哔哩直播间并通过 Telegram 机器人发送通知的工具。A tool for monitoring BiliBili livestreams and sending notifications via a Telegram bot.
+
+*   [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 
 *   [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 
