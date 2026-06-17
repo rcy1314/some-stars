@@ -61,7 +61,7 @@
 
 ## JavaScript
 
-*   [gosick233-cloud/doubao-free](https://github.com/gosick233-cloud/doubao-free) - 豆包自由版 - 去水印·解锁15秒。
+*   [gosick233-cloud/doubao-free](https://github.com/gosick233-cloud/doubao-free) - 豆包自由版 - 去水印·解锁15秒。豆包图片/视频无水印下载，视频时长从10秒提升至15秒
 
 *   [zhayichang/ai-photo-evaluator](https://github.com/zhayichang/ai-photo-evaluator) - 这是一款基于 AI 视觉大模型的摄影作品评价工具。上传照片后，AI 会从构图、光影、色彩、叙事等多个维度进行专业或友好的分析，并生成可保存分享的长图。
 
@@ -146,8 +146,6 @@
 *   [zeoseven/certple](https://github.com/zeoseven/certple) - Certple - 简单快速的申请免费 TLS/SSL 证书
 
 *   [MaskerPRC/everything-ai-chat](https://github.com/MaskerPRC/everything-ai-chat) - 一个现代化的 Everything 搜索客户端，将 AI 智能与极速本地搜索完美结合。
-
-*   [aydomini/pebble-drive](https://github.com/aydomini/pebble-drive) - 基于 Cloudflare Workers + R2 + D1 + KV 的现代化云存储解决方案，完全免费的私人云盘。
 
 *   [Moewerry/word-wonderland](https://github.com/Moewerry/word-wonderland) - 一个现代化的英语学习平台，包含单词管理、短语、句子、句型和主题学习功能。
 
@@ -803,7 +801,7 @@
 
 *   [jimieguang/dycast-overlay](https://github.com/jimieguang/dycast-overlay) - 一个基于抖音直播弹幕采集页扩展出来的桌面悬浮窗工具。
 
-*   [Wutpeach/Ameow](https://github.com/Wutpeach/Ameow) - 一个常驻桌面的悬浮窗，把拖拽、粘贴和浏览器发送的内容统一收进来。
+*   [Wutpeach/Ameow](https://github.com/Wutpeach/Ameow) - 一个面向后期和内容创作者的桌面素材采集工具。它把网页视频、图片和本地文件收进同一个轻量化桌面入口里，支持拖拽、粘贴链接和网页猫猫按钮下载；通过浏览器扩展复用当前浏览器的登录态和页面识别能力，无需在软件里反复登录不同平台；并支持 YouTube/Bilibili 片段下载、下载队列、画质选择、多引擎解析和转码处理，让素材获取流程更直觉、更统一。
 
 *   [qfpqhyl/qfpqhyl.top](https://github.com/qfpqhyl/qfpqhyl.top) - 一个使用 React、Vite 和 Base UI 搭建的个人主页，展示最近文章与工具。「没错，正是这个页面，Github Action每天都会抓取最新的文章和仓库。」
 
@@ -1655,7 +1653,7 @@
 
 *   [yqxie1991/WxCleaner](https://github.com/yqxie1991/WxCleaner) - 微信重复文件清理工具。采用智能哈希算法极速识别重复文件，支持可视化预览与安全删除（移至回收站）。
 
-*   [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。
+*   [pmh1314520/WebRPA](https://github.com/pmh1314520/WebRPA) - 一款功能强大的自动化工具，通过拖拽模块的方式快速构建自动化工作流，无需编写任何代码即可实现网页数据采集、表单填写、自动化测试等任务。【QQ交流群：115069513】
 
 *   [datawhalechina/vibe-blog](https://github.com/datawhalechina/vibe-blog) - Vibe-Blog是一个基于Multi-Agent 架构的万字长文技术博客生成AI助手，支持深度调研、智能配图、Mermaid 图表、代码集成、专业排版的各种专业技术博客写作中所需要的能力, 真正做到了 "输入一句话, 一键输出图文混合的万字技术长文, 轻轻松松做到日更万字长文技术博客"，将晦涩的技术知识转化为通俗易懂的科普文章，让每个人都能轻松理解复杂技术,在 AI 时代扬帆起航.
 
@@ -1905,7 +1903,7 @@
 
 *   [neavo/KeywordGacha](https://github.com/neavo/KeywordGacha) - 使用 AI 能力一键分析 小说、游戏、字幕 等文本内容并生成术语表的次世代翻译辅助工具
 
-*   [IS-Howard/VideoPyDownloader](https://github.com/IS-Howard/VideoPyDownloader) - 影片下載工具
+*   [hown8763/VideoPyDownloader](https://github.com/hown8763/VideoPyDownloader) - 影片下載工具
 
 *   [yuzhouxingzou/audio\_trimmer\_baseon\_ass](https://github.com/yuzhouxingzou/audio_trimmer_baseon_ass) - 使用ass字幕文件为基础的音频切片程序
 
@@ -2279,6 +2277,8 @@
 
 *   [jbzdarkid/RssToEmail](https://github.com/jbzdarkid/RssToEmail) - Sends new RSS entries via email
 
+*   [LogicJake/WebMonitor](https://github.com/LogicJake/WebMonitor) - 实时监控网页变化，并发送通知（Monitor web page changes in real time and send notifications）
+
 ## HTML
 
 *   [dangxiaoshi/bootcamp-podcast-map](https://github.com/dangxiaoshi/bootcamp-podcast-map) - AI视频播客剪辑营闯关地图与作业卡片页面
@@ -2420,6 +2420,8 @@
 *   [WangGuibin/weather-action](https://github.com/WangGuibin/weather-action) - Github action自动化每天早上自动推送新闻简报  配合快捷指令使用https://www.icloud.com/shortcuts/85a83cbaff524a338d129e0d262704f3
 
 *   [Isites/isites.github.io](https://github.com/Isites/isites.github.io) - 公众号对应的博客。欢迎关注微信公众号：Gopher指北
+
+*   [MycroftCooper/BlogUpdater](https://github.com/MycroftCooper/BlogUpdater) - 用于每日更新我的个人学习用博客与每日新闻和天气预报
 
 ## Rust
 
@@ -2566,8 +2568,6 @@
 *   [TikatAK/enhanced-download-manager](https://github.com/TikatAK/enhanced-download-manager) - 轻量级 WordPress 下载管理插件，支持可视化管理界面和下载统计功能
 
 *   [fishyo/xExtension-TranslateDigest](https://github.com/fishyo/xExtension-TranslateDigest) - TranslateDigest is a powerful FreshRSS extension designed to enhance your RSS reading experience through AI technology. It can automatically translate article titles and generate summaries
-
-*   [qwer-xyz/zen](https://github.com/qwer-xyz/zen) - Zen - 基于极简主义设计理念构建的 WordPress 主题。
 
 *   [01Anlan/dyzy](https://github.com/01Anlan/dyzy) - 【正在重构】一个功能强大的抖音主页内容自动监控系统，支持实时内容更新检测、邮件通知和自动化下载。
 
