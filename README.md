@@ -179,7 +179,7 @@
 
 *   [lueluelue12138/sharp-gui](https://github.com/lueluelue12138/sharp-gui) - A Beautiful 3D Spark GUI for apple ml-sharp
 
-*   [lizuju/lizuju.github.io](https://github.com/lizuju/lizuju.github.io) - 极简主义、玻璃拟态风格的个人主页系统。采用原生 JS + Markdown 驱动，支持中英双语 (i18n)、响应式布局，无需构建工具。
+*   [lizuju/lizuju.github.io](https://github.com/lizuju/lizuju.github.io) - Personal portfolio of Gavin Lizuju, featuring AI Agent, robotics, computer vision, recommender systems and full-stack projects.
 
 *   [snowtraces/note\_all](https://github.com/snowtraces/note_all) - 一款专注于“无感收集、AI 自动提取、极速检索”的个人碎片化知识管理系统
 
@@ -673,7 +673,7 @@
 
 *   [DjTaNg-404/Desktop-Claw](https://github.com/DjTaNg-404/Desktop-Claw) - 一个常驻桌面的 AI 小伙伴。悬浮球形态，轻量不打扰，支持对话、文件处理与轻记录，具备 Agent Loop 与按天记忆能力。Electron + TypeScript 构建，支持 macOS & Windows。
 
-*   [cotovo/homepage](https://github.com/cotovo/homepage) - 一个基于 Next.js 15 构建的个人技术主页与知识库
+*   [cotovo/blog](https://github.com/cotovo/blog) - 一个基于 Next.js 15 构建的个人技术主页与知识库
 
 *   [RavelloH/NeutralPress](https://github.com/RavelloH/NeutralPress) - 基于 Next.js 构建的下一代动态 CMS 博客系统，可免费部署的一站式解决方案：可视化可拖拽页面编辑、所见即所得/Markdown/MDX内容支持、媒体管理、访问分析、照片墙、自动友链管理、无限层级评论、邮箱通知、实时私信、Github 项目展示、多用户多权限账号管理、内置安全防护。
 
@@ -2923,7 +2923,7 @@
 
 ## Swift
 
-*   [nandieling/OmniPlay](https://github.com/nandieling/OmniPlay) - 觅影：支持mac、win双平台的海报墙视频播放器
+*   [nandieling/OmniPlay](https://github.com/nandieling/OmniPlay) - 觅影：支持mac、win、docker、安卓TV的海报墙视频播放器
 
 *   [SaneHe/mac-tools](https://github.com/SaneHe/mac-tools) - 原生 macOS 文本动作工具，支持全局快捷键触发选中文本处理，提供 JSON 格式化、时间转换、MD5 与结果复制替换等能力。
 
